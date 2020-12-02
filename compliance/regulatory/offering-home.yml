@@ -16,12 +16,12 @@ metadata:
   ms.author: robmazz
   ms.date: 11/30/2020
   localization_priority: Normal
-  ms.openlocfilehash: 6dabbb8599288d0291934135ef208b52b9ec0003
-  ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+  ms.openlocfilehash: 95c5b020d516d5fc7ccce6978c6f4cf0ad590b5f
+  ms.sourcegitcommit: 98b2d08699e942b4d4f3d7960df6e8e85030f5ec
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/30/2020
-  ms.locfileid: "49508465"
+  ms.lasthandoff: 12/01/2020
+  ms.locfileid: "49527125"
 conceptualContent:
   title: Microsoft 365, Azure 클라우드 서비스 및 기타 Microsoft 서비스에 대 한 준수 제공
   summary: Microsoft는 조직에서 데이터를 수집 하 고 사용 하는 데 필요한 국가, 지역별 및 업계 별 요구 사항을 준수 하는 데 도움을 주는 규정 준수 서비스를 제공 합니다.
@@ -305,6 +305,8 @@ additionalContent:
         url: offering-tisax-germany.md
     - title: 국가별
       links:
+      - text: ABS OSPAR (싱가포르)
+        url: offering-abs-ospar.md
       - text: 캐나다 개인 정보 보호법
         url: offering-canadian-privacy-laws.md
       - text: Cyber Essentials Plus (영국)
