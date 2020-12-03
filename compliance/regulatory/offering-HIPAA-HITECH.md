@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0e04239b8dcbe50d054ec02f2164a301c775aaac
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 4766d0152e2ee5b372157dd56f28690161f04045
+ms.sourcegitcommit: 5ebe2ba746bba2d5058dcc0469a67e81fa3a8dce
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509523"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49559854"
 ---
 # <a name="health-insurance-portability-and-accountability-hipaa--hitech-acts"></a>HITECH의 상태 보험 이식성 및 책임 (HIPAA) &
 
 ## <a name="hipaa-and-the-hitech-act-overview"></a>HIPAA 및 HITECH Act 개요
 
-HIPAA (건강 보험 이식성 및 책임 Act)는 개별적으로 식별 가능한 상태 정보의 사용, 공개 및 보호를 위한 요구 사항을 설정 하는 미국 의료 기관입니다. 이 정보는 남기려면 ' 사무실, hospitals, health insurers 및 기타 의료 기업 (환자의 ' protected health information)에 대 한 액세스 권한이 있으며, 클라우드 서비스 및 IT 공급자와 같이 사용 하지 않는 비즈니스 연결에도 적용 됩니다. (대부분의 항목 엔터티는 클레임 또는 데이터 처리와 같은 기능을 자체적으로 수행 하지 않으며, 비즈니스 연결을 사용 하 여 작업을 수행 합니다.)
+HIPAA (건강 보험 이식성 및 책임 Act)는 개별적으로 식별 가능한 상태 정보의 사용, 공개 및 보호를 위한 요구 사항을 설정 하는 미국 의료 기관입니다. 이는 포함 된 엔터티, 남기려면 ' 사무소, hospitals, health insurers 및 기타 의료 기업에 적용 되며, 환자의 ' protected health information (화 된 상태 정보)에 대 한 액세스 권한 및을 대신 처리 하는 비즈니스 연결 (예: 클라우드 서비스 및 IT 공급자) (대부분의 항목 엔터티는 클레임 또는 데이터 처리와 같은 기능을 자체적으로 수행 하지 않으며, 비즈니스 연결을 사용 하 여 작업을 수행 합니다.)
 
 이 법칙은 다음과 같은 네 가지 일반적인 분야에서 사용 하지 않는 것을 규정 합니다.
 
@@ -45,7 +45,7 @@ HIPAA 범위는 경제적이 고 HITECH (임상 Health) Act에 대 한 상태 �
 
 ## <a name="microsoft-and-hipaa-and-the-hitech-act"></a>Microsoft와 HIPAA 및 HITECH Act
 
-HIPAA 규정 엔터티 및 해당 비즈니스 관계자 (이 경우에는 Microsoft가 클라우드 서비스를 포함 하 여 포함 된 엔터티에 대 한 서비스를 제공 하는 경우)를 계약에 입력 하 여 해당 비즈니스 관계자가 더 이상 사용할 수 없는 상황을 보호할 수 있도록 해야 합니다. 이러한 계약서 또는 BAAs는 비즈니스 연결에서 화이을 처리 하는 방법을 명확 하 게 하 고 제한 하며, 각 당사자가 HIPAA 및 HITECH Act에 설정 된 보안 및 개인 정보 보호 규정을 준수 하도록 설정할 수 있습니다. 일단 BAA가 배치 되 면 Microsoft 고객은 해당 서비스를 사용 하 여 화이를 처리 하 고 저장할 수 있습니다.
+HIPAA 규정에서 다루는 엔터티 및 해당 비즈니스 관계자 (이 경우에는 Microsoft가 클라우드 서비스를 포함 하 여 포함 된 엔터티에 서비스를 제공 하는 경우)를 계약에 입력 하 여 해당 비즈니스 관계자가 온-화를 적절 하 게 보호 하도록 해야 합니다. 이러한 계약서 또는 BAAs는 비즈니스 연결에서 화이을 처리 하는 방법을 명확 하 게 하 고 제한 하며, 각 당사자가 HIPAA 및 HITECH Act에 설정 된 보안 및 개인 정보 보호 규정을 준수 하도록 설정할 수 있습니다. I p a r i e r 있는 경우 Microsoft 고객 (포함 된 엔터티)은 해당 서비스를 사용 하 여 화이를 처리 하 고 저장할 수 있습니다.
 
 현재 HIPAA 또는 HITECH Act 규정 준수에 대 한 공식 인증을 사용할 수 없습니다. 그러나, BAA에서 다루는 이러한 Microsoft 서비스는 Microsoft ISO/IEC 27001 인증을 위해 공인 독립 감사자에 의해 수행 된 감사를 거쳤습니다.
 
@@ -57,8 +57,9 @@ Microsoft 엔터프라이즈 클라우드 서비스에는 FedRAMP 평가도 포�
 
 - [Azure 및 Azure Government](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security
-- [Microsoft Cloud for Healthcare](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
-- Microsoft Microsoft 의료 Bot 서비스
+- [의료 관련 Microsoft 클라우드](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
+- Microsoft 의료 Bot 서비스
+- Microsoft Managed Desktop
 - Microsoft Stream
 - Microsoft 전문 서비스: Azure, Dynamics 365, Intune, 비즈니스용 Microsoft 365의 중간 규모 비즈니스 및 엔터프라이즈 고객 대상 프리미어 및 온-프레미스
 - [Dynamics 365 및 Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
@@ -71,11 +72,9 @@ Microsoft 엔터프라이즈 클라우드 서비스에는 FedRAMP 평가도 포�
 
 ## <a name="accelerate-your-deployment-of-hipaahitrust-solutions-on-azure"></a>Azure에서 HIPAA/HITRUST 솔루션 배포를 가속화 합니다.
 
-Azure 보안 및 규정 준수 청사진 (HIPAA/HITRUST Health Data and AI)을 사용 하 여 상태 데이터 솔루션에 대 한 클라우드의 이점을 활용할 수 있는 방법을 알아봅니다. 이 청사진은 지금 HIPAA/HITRUST 솔루션을 작성할 수 있는 도구와 지침을 제공 합니다.
+Azure 보안 및 규정 준수 청사진을 사용 하 여 상태 데이터 솔루션에 대 한 클라우드의 이점을 활용할 수 있는 방법을 알아봅니다 [(HIPAA/HITRUST Health data AND AI](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust-9-2)). 이 청사진은 지금 HIPAA/HITRUST 솔루션을 작성할 수 있는 도구와 지침을 제공 합니다.
 
-[Azure HIPAA/HITRUST 청사진 사용 시작](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust-9-2)
-
-## <a name="frequently-asked-questions"></a>질문과 대답
+## <a name="frequently-asked-questions"></a>자주하는 질문
 
 **조직이 Microsoft의 BAA에 입력 될 수 있나요?**
 
@@ -107,7 +106,7 @@ Microsoft 서비스가 모든 고객에 대해 일관성이 있으므로 microso
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
 
-[Microsoft 준수 관리자](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)는 사용자 조직의 준수 상태를 이해하고 위험을 줄이기 위한 활동에 도움을 주는 [Microsoft 365 규정 준수 센터](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규정에 관한 평가를 작성하기 위한 프리미엄 문서 서식을 제공합니다. 준수 관리자의 **평가 문서 서식 페이지** 에서 문서 서식을 찾을 수 있습니다. [준수 관리자에서 평가를 빌드](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)하는 방법에 대해 알아봅니다.
+[Microsoft 준수 관리자](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규제에 대한 평가를 빌드하기 위한 프리미엄 서식 파일을 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
 
 ## <a name="resources"></a>리소스
 
