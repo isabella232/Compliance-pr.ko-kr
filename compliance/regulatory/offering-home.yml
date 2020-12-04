@@ -1,10 +1,10 @@
 ### YamlMime:Hub
 title: Microsoft 규정 준수 제품
-summary: Microsoft 제품 및 서비스에서 조직이 규정 준수 표준을 충족 하도록 돕는 방법을 알아봅니다.
+summary: Microsoft 제품 및 서비스가 조직이 규정 준수 표준을 충족하는 데 어떤 도움을 줄 수 있도록 하는지 알아보고
 brand: m365
 metadata:
-  title: Microsoft 365, Azure 클라우드 서비스 및 기타 Microsoft 서비스에 대 한 준수 제공
-  description: Microsoft 제품 및 서비스에서 조직이 규정 준수 표준을 충족 하도록 돕는 방법을 알아봅니다.
+  title: Microsoft 365, Azure 및 기타 Microsoft 서비스에 대한 규정 준수 제품
+  description: Microsoft 제품 및 서비스가 조직이 규정 준수 표준을 충족하는 데 어떤 도움을 줄 수 있도록 하는지 알아보고
   services: service
   ms.service: O365-seccomp
   ms.subservice: subservice
@@ -16,15 +16,15 @@ metadata:
   ms.author: robmazz
   ms.date: 11/30/2020
   localization_priority: Normal
-  ms.openlocfilehash: 95c5b020d516d5fc7ccce6978c6f4cf0ad590b5f
-  ms.sourcegitcommit: 98b2d08699e942b4d4f3d7960df6e8e85030f5ec
+  ms.openlocfilehash: 46592794abb76821595c95cea2d66cd529d727c5
+  ms.sourcegitcommit: 7651cdc4af88278aef02114b4331d8d379f10def
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/01/2020
-  ms.locfileid: "49527125"
+  ms.lasthandoff: 12/03/2020
+  ms.locfileid: "49568654"
 conceptualContent:
-  title: Microsoft 365, Azure 클라우드 서비스 및 기타 Microsoft 서비스에 대 한 준수 제공
-  summary: Microsoft는 조직에서 데이터를 수집 하 고 사용 하는 데 필요한 국가, 지역별 및 업계 별 요구 사항을 준수 하는 데 도움을 주는 규정 준수 서비스를 제공 합니다.
+  title: Microsoft 365, Azure 및 기타 Microsoft 서비스에 대한 규정 준수 제품
+  summary: Microsoft는 조직이 데이터 수집 및 사용에 대한 국가, 지역 및 산업별 요구 사항을 준수하는 데 도움이 되는 규정 준수 제품을 제공합니다.
   items:
   - title: 전역
     links:
@@ -70,7 +70,7 @@ conceptualContent:
       text: DoE 10 CFR Part 810
     - url: offering-ear.md
       itemType: reference
-      text: 귀 (미국 수출 Adm) Reg.)
+      text: EAR(US Export Adm. Reg.)
     - url: offering-fedramp.md
       itemType: reference
       text: FedRAMP
@@ -110,7 +110,7 @@ conceptualContent:
       text: AMF 및 ACPR (프랑스)
     - url: offering-cftc-1-31-us.md
       itemType: reference
-      text: CFTC 1.31 (미국)
+      text: CFTC 1.31(미국)
     - url: offering-eba-eu.md
       itemType: reference
       text: EBA (유럽 연합)
@@ -150,7 +150,7 @@ conceptualContent:
       text: HDS (프랑스)
     - url: offering-hipaa-hitech.md
       itemType: reference
-      text: HIPAA/HITECH
+      text: HIPAA /HITECH
     - url: offering-hitrust.md
       itemType: reference
       text: HITRUST
@@ -193,13 +193,13 @@ conceptualContent:
       text: C5 (독일)
     - url: offering-ccpa.md
       itemType: reference
-      text: CCPA (미국-캘리포니아)
+      text: CCPA(미국-캘리포니아)
     - url: offering-ccsl-irap-australia.md
       itemType: reference
-      text: IRAP/CCSL (오스트레일리아)
+      text: IRAP/CCSL(오스트레일리아)
     - url: offering-cs-mark-gold-japan.md
       itemType: reference
-      text: CS 표시 금 (일본)
+      text: CS 마크 골드(일본)
     - url: https://www.trustcenter.cn/compliance/default.html#DJCP
       itemType: reference
       text: DJCP (중국)
@@ -216,7 +216,7 @@ conceptualContent:
       text: EU 모델 조항
     - url: offering-eu-us-privacy-shield.md
       itemType: reference
-      text: EU-미국 개인 정보 방패
+      text: EU-US Privacy Shield
     - url: https://www.trustcenter.cn/compliance/default.html#GB18030
       itemType: reference
       text: GB 18030 (중국)
@@ -260,8 +260,8 @@ conceptualContent:
       text: TRUCS (중국)
 additionalContent:
   sections:
-  - title: Azure 클라우드 서비스에 대 한 준수 서비스
-    summary: Azure 클라우드 서비스용 규정 준수 제공-조직에서 데이터를 수집 하 고 사용 하는 데 필요한 국가, 지역별 및 업계 별 요구 사항을 준수 하도록 지원 합니다.
+  - title: Azure를 위한 규정 준수 제품
+    summary: 조직이 데이터 수집 및 사용에 대한 국가, 지역 및 산업별 요구 사항을 준수하는 데 도움이 되는 Azure에 대한 규정 준수 제품입니다.
     items:
     - title: 전역
       links:
