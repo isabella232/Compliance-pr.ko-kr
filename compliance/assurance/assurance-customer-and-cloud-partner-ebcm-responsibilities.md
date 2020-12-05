@@ -1,13 +1,12 @@
 ---
 title: 고객 및 클라우드 파트너 엔터프라이즈 비즈니스 연속성 책임
 description: 비즈니스 연속성 계획을 준비할 수 있도록 서비스 인시던트 발생 시 Microsoft가 수행하는 작업을 이해합니다.
-author: chrfox
-ms.author: chrfox
+author: robmazz
+ms.author: robmazz
 manager: laurawi
 ms.reviewer: sosstah
 f1.keywords:
 - NOCSH
-ms.date: ''
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions
@@ -17,12 +16,12 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: efcbc57f2b22c185f023fc49c928fbab86f1f02e
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 979acd563ca73ad16d4729bfe96aa86c316714c5
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508572"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574770"
 ---
 # <a name="enterprise-business-continuity-management-customer-and-cloud-partner-responsibilities"></a>엔터프라이즈 비즈니스 연속성 관리 고객 및 클라우드 파트너 책임
 
@@ -80,6 +79,6 @@ Microsoft는 [네트워크 연결 원칙](https://docs.microsoft.com/microsoft-3
 많은 공동 작업 솔루션이 회사 광역 네트워크(WAN)와 같은 시스템에 의존합니다. 해당 시스템을 사용할 수 없는 경우 조직에서 어떻게 대처하나요?
 이 그래픽은 둘 이상의 영역에 영향을 줄 수 있는 문제를 나타냅니다. 함께 제공되는 표에서는 고려해야 할 예를 제공합니다.
 
-![벤 시스템 다이어그램](../media/venn-diagram.png)
+![시스템의 Venn 다이어그램](../media/venn-diagram.png)
 
 연속성 계획은 각 영역을 고려해야 합니다. 예를 들어, 사용자가 회사 네트워크에 연결해야 하는데 눈보라가 발생한 경우 어떻게 사용자가 키 리소스에 접속할 수 있나요? 눈 때문에 출근할 수 없거나 서비스 엔지니어들이 회사 네트워크에 연결해야 하는 경우, 집에서 회사 노트북을 사용할 수 있도록 권한을 주는 정책이 있나요?

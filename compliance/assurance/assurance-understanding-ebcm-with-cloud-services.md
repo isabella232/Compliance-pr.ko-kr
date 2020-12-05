@@ -1,11 +1,10 @@
 ---
 title: 클라우드 서비스를 사용하여 엔터프라이즈 비즈니스 연속성 관리을 이해하기
 description: 클라우드 서비스가 IT 제공의 일부일 때 비즈니스 연속성을 계획하고 구현하는 방법에 대해 알아보세요.
-author: chrfox
-ms.author: chrfox
+author: robmazz
+ms.author: robmazz
 manager: laurawi
 ms.reviewer: sosstah
-ms.date: ''
 audience: ITPro
 ms.topic: article
 f1.keywords:
@@ -17,12 +16,12 @@ ms.collection:
 - Strat_O365_Enterprise
 - remotework
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: f92a1d79c435059918113dbeacdc3536d10933d6
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 4d4b2f02eacb09f09aae4995f5ee2747fbfe59a6
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507725"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574810"
 ---
 # <a name="enterprise-business-continuity-management-ebcm-with-cloud-services"></a>클라우드 서비스를 사용한 엔터프라이즈 비즈니스 연속성 관리(EBCM)
 

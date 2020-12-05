@@ -1,13 +1,12 @@
 ---
-title: Microsoft 365의 기본 제공 서비스 복구
-description: Microsoft 365 서비스 복구에 대 한 설명
-author: chrfox
-ms.author: chrfox
+title: Microsoft 365의 기본 제공 서비스 탄력성
+description: Microsoft 365 서비스 탄력성에 대한 설명
+author: robmazz
+ms.author: robmazz
 manager: laurawi
 ms.reviewer: sosstah
 f1.keywords:
 - NOCSH
-ms.date: ''
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions
@@ -17,14 +16,14 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 3ef398ef41516d6598bdec9b6e537b37577ef864
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: ee9c7d898af13b9a1db95913a98be09eea8cd27f
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507805"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574760"
 ---
-# <a name="built-in-service-resiliency-in-microsoft-365"></a>Microsoft 365의 기본 제공 서비스 복구
+# <a name="built-in-service-resiliency-in-microsoft-365"></a>Microsoft 365의 기본 제공 서비스 탄력성
 
 Microsoft는 클라우드 공동 작업 공급자로서 일관되게 작동하고 사용자의 사랑을 받는 솔루션을 제공하여 지속적으로 신뢰를 구축해야 합니다. 주어진 서비스를 사용할 수 없는 경우 이를 가동 중지 시간이라고 합니다. 가동 중지 시간의 정의는 Microsoft 365 서비스에 따라 다르지만 일반적으로 사용자가 서비스의 필수 기능을 사용할 수 없는 기간에 초점을 맞추고 있습니다. 예를 들어 다음은 Microsoft 365 서비스 수준 계약에서 가져온 SharePoint Online의 가동 중지 시간 정의입니다.
 
@@ -36,17 +35,17 @@ Microsoft는 클라우드 공동 작업 공급자로서 일관되게 작동하�
 
 ## <a name="activeactive-design"></a>활성/활성 설계
 
-Microsoft 365에서 복원력을 강화하는 활성/활성 설계에 따라 모든 서비스를 설계하고 운영하고 있습니다. 즉, 사용자 요청에 응답하고 지리적으로 분산된 데이터 센터에서 호스트되는 여러 서비스 인스턴스가 항상 실행되고 있습니다. 모든 사용자 트래픽은 Microsoft Front Door 서비스를 통해 제공되고 자동으로 서비스에 대한 최적의 위치로 라우팅되며 서비스 오류가 발생할 경우 고객에게 미치는 영향을 방지하거나 줄일 수 있습니다.
+Microsoft 365에서는 모든 서비스를 활성/활성 디자인으로 설계 및 운영하여 탄력성 향상을 이행하고 있습니다. 즉, 사용자 요청에 응답하고 지리적으로 분산된 데이터 센터에서 호스트되는 여러 서비스 인스턴스가 항상 실행되고 있습니다. 모든 사용자 트래픽은 Microsoft Front Door 서비스를 통해 제공되고 자동으로 서비스에 대한 최적의 위치로 라우팅되며 서비스 오류가 발생할 경우 고객에게 미치는 영향을 방지하거나 줄일 수 있습니다.
 
 ## <a name="reduce-incident-scope"></a>인시던트 범위 줄이기
 
 서비스 인시던트의 범위는 심각도, 지속 기간, 영향 받는 고객 수를 기준으로 측정됩니다. Microsoft는 다음과 같은 방법으로 모든 인시던트의 범위를 제한하기 위해 노력하고 있습니다.
 
 - 각 서비스의 여러 인스턴스를 분할
-- 업데이트에서 발생하는 문제를 배포 프로세스의 조기에 감지하여 완화할 수 있도록 유효성 검사 링을 사용하여 제어되고 등급이 지정된 방식으로 업데이트 배포. 그러면 필요한 경우 업데이트 회귀를 허용하고 Microsoft(내부 링) 내의 소그룹에 먼저 적용한 다음 더 큰 그룹(예: 14만 Microsoft 전체 직원(링 2)), 얼리 어답터 링(링 3), 전 세계 모든 고객(링 4)의 순으로 차례로 적용할 수 있습니다.
-- 자동화를 통한 모니터링으로 개선 촉진 Microsoft 365는 매우 크고 SLA 대상 가동 시간이 높습니다. 서비스 인시던트 초기에 인력이 검색 및 응답에 개입해야 한다면 SLA를 충족하는 빠른 속도로 대응할 수 없습니다. 서비스 인시던트를 빠르고 효과적으로 검색하여 대응하려면 자동화가 핵심입니다. 상황을 빠르게 파악할수록 더 빠르게 해결할 수 있습니다.
+- 업데이트에서 발생하는 문제를 배포 프로세스의 조기에 감지하여 완화할 수 있도록 유효성 검사 링을 사용하여 제어되고 등급이 지정된 방식으로 업데이트 배포. 이렇게 하면 필요한 경우 업데이트 회귀가 허용되고 140,000명 Microsoft 직원(링 2)과 같은 대규모 그룹에 배포하기 전에 먼저 Microsoft(내부 링) 내 작은 그룹에서 업데이트가 발생하고 얼리 채택기 링(링 3)에 대해 배포되고, 궁극적으로 모든 전역 고객(링 4)에 대해 발생합니다.
+- 자동화를 통한 모니터링으로 개선 촉진 Microsoft 365는 대규모 서비스로, SLA 대상의 사용 시간도 높습니다. 서비스 인시던트 초기에 인력이 검색 및 응답에 개입해야 한다면 SLA를 충족하는 빠른 속도로 대응할 수 없습니다. 서비스 인시던트를 빠르고 효과적으로 검색하여 대응하려면 자동화가 핵심입니다. 상황을 빠르게 파악할수록 더 빠르게 해결할 수 있습니다.
 
-Microsoft 365 서비스 아키텍처에 기본 제공되는 활성/활성 기능과 함께 이러한 노력으로 서비스 인시던트 중에 심각도를 완화하고 기간 및 영향 받는 고객 수를 줄일 수 있습니다.  
+이러한 노력은 Microsoft 365 서비스 아키텍처에 기본 제공되는 활성/활성 기능과 함께 서비스 인시던트 중에 영향을 미치는 고객의 심각도, 기간 및 수를 완화합니다.  
 
 ## <a name="fault-isolation"></a>결함 격리
 
