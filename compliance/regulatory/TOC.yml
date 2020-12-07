@@ -1,5 +1,7 @@
 - name: Microsoft 규정 준수 제품
   items:
+    - name: Microsoft 규정 준수 제품
+      href: offering-home.yml
     - name: 전역
       items:
         - name: CIS Benchmark
@@ -226,7 +228,9 @@
       items:
         - name: 아시아
           items:
-            - name: CS Mark (Gold) (일본))
+            - name: ABS OSPAR (싱가포르)
+              href: offering-abs-ospar.md
+            - name: CS Mark (Gold) (일본)
               href: offering-cs-mark-gold-japan.md
             - name: DJCP (중국)
               href: 'https://www.trustcenter.cn/compliance/default.html#DJCP'
@@ -266,7 +270,7 @@
               href: offering-enisa.md
             - name: EU 모델 조항
               href: offering-eu-model-clauses.md
-            - name: 유럽 연합 미국 프라이버시 쉴드
+            - name: EU-US Privacy Shield
               href: offering-eu-us-privacy-shield.md
             - name: G-Cloud (영국)
               href: offering-g-cloud-uk.md
@@ -290,15 +294,15 @@
           items:
             - name: PDPA (아르헨티나)
               href: offering-pdpa-argentina.md
-- name: GDPR(일반 데이터 보호 규정)
+- name: 일반 데이터 보호 규정(GDPR)
   items:
     - name: GDPR 개요
       href: gdpr.md
     - name: GDPR에 대한 권장 실행 계획
       href: gdpr-action-plan.md
-    - name: GDPR을 위한 정보 보호
+    - name: GDPR의 정보 보호
       href: gdpr-information-protection.md
-    - name: Microsoft의 데이터 보호 관리자
+    - name: Microsoft의 데이터 보호 책임자
       href: gdpr-data-protection-officer.md
     - name: 책임 준비 상태 검사 목록
       items:
@@ -314,7 +318,7 @@
       items:
         - name: 데이터 주체 요청
           href: gdpr-data-subject-requests.md
-        - name: DSR 사례 도구를 사용 하 여 데이터 주체 요청 관리
+        - name: DSR 사례 도구로 데이터 주체 요청 관리
           href: gdpr-manage-gdpr-data-subject-requests-with-the-dsr-case-tool.md
         - name: Azure
           href: gdpr-dsr-azure.md
@@ -330,7 +334,7 @@
           href: gdpr-dsr-office365.md
         - name: Visual Studio 제품군
           href: gdpr-dsr-visual-studio-family.md
-        - name: Windows Enterprise
+        - name: Windows 엔터프라이즈
           href: gdpr-dsr-windows.md
     - name: 위반 알림
       items:
@@ -342,9 +346,9 @@
           href: gdpr-breach-microsoft-support-professional-services.md
         - name: Office 365
           href: gdpr-breach-office365.md
-        - name: Windows Enterprise
+        - name: Windows 엔터프라이즈
           href: gdpr-breach-windows.md
-    - name: 데이터 보호 영향 명령문
+    - name: 데이터 보호 영향 설명문
       items:
         - name: 데이터 보호 영향 평가
           href: gdpr-data-protection-impact-assessments.md
@@ -356,7 +360,7 @@
           href: gdpr-dpia-prof-services.md
         - name: Office 365
           href: gdpr-dpia-office365.md
-        - name: Windows Enterprise
+        - name: Windows 엔터프라이즈
           href: gdpr-dpia-windows.md
     - name: 온-프레미스 Office 서버에 대한 GDPR
       items:
@@ -364,19 +368,19 @@
           href: gdpr-for-office-servers.md
         - name: SharePoint Server의 GDPR
           href: gdpr-for-sharepoint-server.md
-        - name: Exchange Server GDPR
+        - name: Exchange Server의 GDPR
           href: gdpr-for-exchange-server.md
-        - name: 비즈니스용 Skype 서버 & Lync Server에 대 한 GDPR
+        - name: 비즈니스용 Skype 서버 및 Lync Server의 GDPR
           href: gdpr-for-skype-for-business-server.md
-        - name: Project Server GDPR
+        - name: Project Server의 GDPR
           href: gdpr-for-project-server.md
-        - name: Office Online Server & Office Web Apps Server GDPR
+        - name: Office Web Apps Server 및 Office Online Server의 GDPR
           href: gdpr-for-office-online-server.md
-        - name: 온-프레미스 Windows Server 파일 공유
+        - name: 온-프레미스 Windows Server 파일 공유의 GDPR
           href: gdpr-for-on-premises-file-shares.md
-    - name: 데이터를 내보내기 위한 추가 단계
+    - name: 데이터를 내보내는 추가 단계
       href: gdpr-system-generated-log-data.md
-    - name: Office 365 개발/테스트 환경에 대 한 GDPR
+    - name: Office 365 개발/테스트 환경의 GDPR
       href: gdpr-discovery-protection-reporting-in-Office365-dev-test-environment.md
 - name: 캘리포니아 소비자 개인 정보 보호법(CCPA)
   items:
