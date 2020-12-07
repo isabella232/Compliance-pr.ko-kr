@@ -5,7 +5,6 @@ keywords: Microsoft 365, Microsoft 365 Education, Microsoft 365 설명서, GDPR
 localization_priority: Priority
 ms.prod: microsoft-365-enterprise
 ms.topic: article
-ms.date: 04/13/2018
 f1.keywords:
 - NOCSH
 ms.author: bcarter
@@ -17,12 +16,12 @@ ms.collection:
 - M365-security-compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 28b1c76cedd2f232165ac5ad3ee8eb186af554a4
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 0f0ca41f3b69d595dcdb3f3d2049fe2a0f7a95e1
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508497"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574870"
 ---
 # <a name="information-protection-for-gdpr-with-microsoft-365-capabilities"></a>Microsoft 365 기능을 사용한 GDPR에 대한 정보 보호
 
