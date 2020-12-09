@@ -1,15 +1,15 @@
 ---
 title: GDPR 및 CCPA에 대한 Azure DevOps 데이터 주체 요청
+description: Microsoft 도구를 사용하여 인증된 Azure DevOps Services 세션 동안 수집된 개인 데이터를 내보내거나 삭제하는 방법을 알아봅니다.
 keywords: Visual Studio Team Services, VSTS, Azure DevOpsS 설명서, 개인 정보, GDPR, CCPA
 localization_priority: Priority
 audience: itpro
 ms.prod: devops
 ms.topic: article
-ms.date: 06/11/2018
 author: robmazz
+ms.author: robmazz
 f1.keywords:
 - NOCSH
-ms.author: robmazz
 manager: laurawi
 ms.collection:
 - GDPR
@@ -18,14 +18,13 @@ ms.collection:
 ms.workload:
 - multiple
 titleSuffix: Microsoft GDPR
-description: Microsoft 도구를 사용하여 인증된 Azure DevOps Services 세션 동안 수집된 개인 데이터를 내보내거나 삭제하는 방법을 알아봅니다.
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: f2c8e0f91af1b2779ac8f5af08c555976a757a24
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 9918046fc0e76bdfbccd5e199f4e576c77f4ca67
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509058"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574830"
 ---
 # <a name="azure-devops-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Azure DevOps Services 데이터 주체 요청
 
