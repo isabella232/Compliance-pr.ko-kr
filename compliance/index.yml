@@ -15,12 +15,12 @@ metadata:
   author: robmazz
   ms.author: robmazz
   ms.date: 11/30/2020
-  ms.openlocfilehash: 12de0e81e8a9d1ee908207dc4e3d2dc50a797f7e
-  ms.sourcegitcommit: 7651cdc4af88278aef02114b4331d8d379f10def
+  ms.openlocfilehash: b2ef6d975ee41def8b410a47afe824851c151e14
+  ms.sourcegitcommit: 1e6157933cd9aea32c36e0c796ee55a861da16c8
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/03/2020
-  ms.locfileid: "49568644"
+  ms.lasthandoff: 12/09/2020
+  ms.locfileid: "49612814"
 highlightedContent:
   items:
   - title: Microsoft 365 규정 준수를 시작하기 위한 빠른 작업
@@ -51,7 +51,7 @@ productDirectory:
   title: 규정 준수
   summary: 국제 및 국내 표준 및 규정 준수에 대한 Microsoft 지침입니다.
   items:
-  - title: GDPR(일반 데이터 보호 규정)
+  - title: 일반 데이터 보호 규정(GDPR)
     imageSrc: https://docs.microsoft.com/office/media/icons/compliance-blue.svg
     summary: Microsoft 제품 및 서비스를 사용할 때 GDPR에 따라 권리를 준수하고 의무를 이행하는 데 도움이 되는 지침입니다.
     url: /compliance/regulatory/gdpr
@@ -95,7 +95,7 @@ conceptualContent:
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-encryption/
       itemType: learn
-      text: 암호화 및 키 관리에 대해 자세히
+      text: 암호화 및 키 관리에 대해 자세히 알아보기
     - url: /compliance/assurance/assurance-encryption
       itemType: concept
       text: 암호화 및 키 관리 개요
@@ -202,9 +202,9 @@ additionalContent:
       url: https://docs.microsoft.com/microsoft-365/compliance/compliance-manager
     - title: 참가자 위험 관리
       summary: 조직에서 악의적 및 부수적인 활동을 감지, 조사 및 작업하여 내부 위험을 최소화합니다.
-      url: https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management
+      url: https://docs.microsoft.com/microsoft-365/compliance/insider-risk-solution-overview
     - title: 정보 보호 관리
-      summary: MIP(Microsoft Information Protection)를 사용하여 중요한 정보가 어디에 있든, 이동하는지 검색하고, 분류하고, 보호할 수 있습니다.
+      summary: MIP(Microsoft Information Protection)를 사용하여 중요한 정보가 어디에 있든 이동하는지 검색, 분류 및 보호할 수 있습니다.
       url: https://docs.microsoft.com/microsoft-365/compliance/protect-information
     - title: 정보 거버넌스 관리
       summary: MIG(Microsoft Information Governance) 기능을 사용하여 규정 준수 또는 규정 요구 사항에 대한 데이터를 관리합니다.
@@ -213,5 +213,5 @@ additionalContent:
       summary: eDiscovery를 사용하여 법률 사례에서 콘텐츠를 증거로 식별하고 분석합니다.
       url: https://docs.microsoft.com/microsoft-365/compliance/ediscovery
     - title: 데이터 개인 정보 규정을 위한 정보 보호 배포
-      summary: 데이터 개인 정보 규정이 적용된 Microsoft 365 서비스에 저장된 개인 데이터에 대한 데이터 개인 정보 보호 인시던트 식별, 찾고, 보호, 관리 및 대응합니다.
+      summary: 데이터 개인 정보 보호 규정이 적용된 Microsoft 365 서비스에 저장된 개인 데이터에 대한 데이터 개인 정보 보호 인시던트 식별, 찾기, 보호, 관리 및 대응
       url: https://docs.microsoft.com/microsoft-365/solutions/information-protection-deploy
