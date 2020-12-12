@@ -13,12 +13,12 @@ localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 ms.collection: MS-Compliance
-ms.openlocfilehash: 55c94de3fe6e1c1a827003dfdaa61b74d2d712d4
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 5a3b192e4c374dac4248300627e5659a1b5f66fd
+ms.sourcegitcommit: 18c7e403d6ffbc9afa323fadc04c673dbb7bd391
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508529"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "49620763"
 ---
 # <a name="gdpr-for-on-premises-windows-server-file-shares"></a>온-프레미스 Windows Server 파일 공유
 
@@ -56,6 +56,6 @@ ms.locfileid: "49508529"
 
     -   데이터 주체 요청을 위한 개인 데이터를 찾으려면 Azure Information Protection 스캐너를 사용합니다. SharePoint Server 검색을 구성하여 파일 공유를 크롤링할 수도 있습니다.
 
-Azure Information Protection 스캐너를 사용하여 개인 데이터를 찾고 레이블 지정하는 방법에 대한 자세한 내용은 [https://aka.ms/gdprpartners](<https://aka.ms/gdprpartners>)에서 Microsoft GDPR 데이터 검색 도구 키트를 참조하세요.
+Azure Information Protection 스캐너를 사용하여 개인 데이터를 찾고 레이블 지정하는 방법에 대한 자세한 내용은 [AIP 스캐너 배포](<https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner)를 참조하세요.
 
 조건을 위한 스캐너 구성 및 Office 365 DLP(데이터 손실 방지) 중요한 정보 유형의 사용에 대한 자세한 내용은 [Azure Information Protection의 자동 및 권장 분류를 위한 조건을 구성하는 방법](https://docs.microsoft.com/information-protection/deploy-use/configure-policy-classification)을 참조하세요. 새 Office 365 중요한 정보 유형은 스캐너에서 즉시 사용할 수 없으며 사용자 지정 중요한 정보 유형은 스캐너에서 사용할 수 없습니다.
