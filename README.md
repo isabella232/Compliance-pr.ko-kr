@@ -1,20 +1,20 @@
 ---
-ms.openlocfilehash: 2ce4a47728eb3d89101c77a6cec200d7ea2a3ac8
-ms.sourcegitcommit: 18c7e403d6ffbc9afa323fadc04c673dbb7bd391
+ms.openlocfilehash: 61aafc556b30f5de9dabe5e67a5176b02b19ab28
+ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49620773"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49669709"
 ---
 # <a name="overview"></a>개요
 
 ## <a name="learn-how-to-contribute"></a>기여하는 방법 학습
 
-관심 있는 사람은 누구나 항목에 참여할 수 있습니다. 참여하면 병합된 콘텐츠 집합으로 바로 이동됩니다. 그런 다음 다음 목록에 docs.microsoft.com 다음의 참가자로 <https://github.com/MicrosoftDocs/microsoft-365-docs/graphs/contributors> 표시됩니다.
+관심 있는 사람은 누구나 항목에 참여할 수 있습니다. 참여하면 병합된 콘텐츠 집합으로 바로 이동됩니다. 그런 다음 다음 목록에 docs.microsoft.com 다음의 참가자로 <https://github.com/MicrosoftDocs/compliance/graphs/contributors> 표시됩니다.
 
 ### <a name="quickly-update-an-article-using-githubcom"></a>문서를 사용하여 문서를 빠르게 GitHub.com
 
-소수 또는 소규모 업데이트만 하는 참가자는 추가 소프트웨어를 설치하지 않고도 GitHub.com 파일을 직접 편집할 수 있습니다. 이 문서에서는 방법을 보여줍니다. [이 2분 분의 비디오에서는](https://www.microsoft.com/videoplayer/embed/RE1XQTG) 기여하는 방법도 다루고 있습니다.
+소수 또는 소규모 업데이트만 하는 참가자는 추가 소프트웨어를 설치하지 않고도 GitHub.com 파일을 직접 편집할 수 있습니다. 이 문서에서는 방법을 보여줍니다. [이 2분 분의 비디오에서는](https://www.microsoft.com/videoplayer/embed/RE1XQTG) 기여하는 방법도 다루어 제공합니다.
 
 1. GitHub 계정으로 GitHub.com 로그인해야 합니다.
 2. Go to the page you want to edit on docs.microsoft.com.
@@ -41,12 +41,12 @@ ms.locfileid: "49620773"
 
    ![변경 내용 비교 페이지](compliance/media/comparing-changes-page.png)
 
-8. **끌어오기 요청** 열기 페이지가 나타나면 녹색 끌어오기 요청 **단추를** 클릭합니다.
+8. **끌어오기 요청** 열기 페이지가 나타나면 녹색 끌어오기 요청 만들기 **단추를** 클릭합니다.
 
    ![끌어오기 요청 페이지 열기](compliance/media/open-a-pull-request-page.png)
 
 > [!NOTE]
-> 리포지타이트의 사용 권한에 따라 마지막 몇 단계에 표시될 수 있는 권한이 결정됩니다. 특별한 권한이 없는 사용자는 설명된 파일 변경 제안 섹션 및 후속 확인 페이지를 볼 수 있습니다.  자신의 끌어오기 요청을 만들고 승인할 권한이 있는  사람은 새 분기를 만들고 더 적은 확인 페이지를 만들기 위한 추가 옵션이 있는 유사한 커밋 변경 섹션을 볼 수 있습니다.<br/><br/>지점은 더 이상 없는 경우 표시될 녹색 단추를 클릭하는 것입니다.
+> 리포지타이의 사용 권한에 따라 마지막 몇 단계에 표시될 수 있는 것이 결정됩니다. 특수 권한이 없는 사용자는 설명된 파일 변경 제안 섹션 및 후속 확인 페이지를 볼 수 있습니다.  자신의 끌어오기 요청을 만들고 승인할 권한이 있는  사람은 새 분기를 만들고 더 적은 확인 페이지를 만들기 위한 추가 옵션이 있는 유사한 커밋 변경 섹션을 볼 수 있습니다.<br/><br/>지점은 더 이상 없는 경우 표시될 녹색 단추를 클릭하는 것입니다.
 
 항목의 메타데이터에 식별된 작성자는 알림을 드리며 나중에 변경 내용을 검토하고 승인하여 변경 내용을 업데이트할 docs.microsoft.com. 업데이트에 질문이나 문제가 있는 경우 작성자는 연락을 합니다.
 
@@ -58,7 +58,7 @@ ms.locfileid: "49620773"
 
 ### <a name="contributing"></a>참가자
 
-이 프로젝트는 기여 및 제안을 환영합니다.  대부분의 기여는 귀하는 귀하의 기여를 사용할 수 있는 권한을 부여할 권리를 밝히고 실제로 참여자 사용권이 있는 CLA(참가자 사용권 계약)에 동의해야 합니다. 자세한 내용은 <https://cla.microsoft.com> 다음을 참조합니다.
+이 프로젝트는 기여 및 제안을 환영합니다.  대부분의 기여는 귀하는 귀하의 기여를 사용할 수 있는 권한을 부여할 권리가 있으며 실제로 이를 선언하는 CLA(참가자 사용권 계약)에 동의해야 합니다. 자세한 내용은 <https://cla.microsoft.com> 다음을 참조합니다.
 
 끌어오기 요청을 제출하면 CLA-bot가 자동으로 CLA를 제공하고 PR을 적절히 데코레이트해야 하는지(예: 레이블, 설명)를 결정하게 됩니다. 봇에서 제공하는 지침을 따르기만 합니다. CLA를 사용하는 모든 리포지타이저에서 이 작업을 한 번만 하면 됩니다.
 
@@ -72,4 +72,4 @@ Microsoft 및 참가자는 [Creative Commons Attribution 4.0 국제](https://cre
 
 개인 정보 보호 정보는 다음에서 찾을 수 있습니다. <https://privacy.microsoft.com/>
 
-Microsoft 및 모든 참가자는 해당 저작권, 특허권 또는 상표에 따라 암시적, 금반언 또는 기타로 에스플라이언스에 의해서든 다른 모든 권리를 보유합니다.
+Microsoft 및 모든 참가자는 해당 저작권, 특허권 또는 상표에 따라 암시적, 금반언 또는 기타에 의해서든 다른 모든 권리를 보유합니다.

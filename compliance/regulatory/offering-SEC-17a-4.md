@@ -1,6 +1,6 @@
 ---
-title: 증권 및 Exchange 위원회 (SEC) 규칙 17a-4 (미국)
-description: 독립적인 평가 기업에서는 Azure 및 Office 365에서 재무 기업이 초 규칙 17a-4 (f) 레코드 보존 및 불변의 저장소 요구 사항을 충족 하도록 도울 수 있음을 확인 했습니다.
+title: SEC(Securities and Exchange Commission) 규칙 17a-4(f) 미국
+description: 독립 평가 회사는 Azure 및 Office 365가 금융 회사가 SEC 규칙 17a-4(f) 기록 보존 및 변경 불가능한 저장소 요구 사항을 충족하는 데 도움이 될 수 있는 것으로 확인했습니다.
 keywords: Microsoft 365, 규정 준수, 제안
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,33 +16,33 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7f91fc3fdc60cf12680e48c924223d8b5213af60
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 8f47359d23aa9399f36053e1ea6b1df91e181d59
+ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509383"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49669769"
 ---
-# <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>증권 및 Exchange 위원회 (SEC) 규칙 17a-4 (미국)
+# <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>SEC(Securities and Exchange Commission) 규칙 17a-4(f) 미국
 
-## <a name="about-sec-rule-17a-4f"></a>1 초 규칙 17a-4 (f)
+## <a name="about-sec-rule-17a-4f"></a>SEC 규칙 17a-4(f)
 
-[Us 증권 및 Exchange 위원회 (초)](https://www.sec.gov/) 는 미국 연방 정부의 독립 에이전시와 미국 증권의 주요 감독 및 조절기입니다. It는 연방 유가 증권 법을 통해 집행 기관을 wields 하 고, 새 유가 증권 규칙을 제안 하며, 유가 증권 업계 시장 규정을 oversees 합니다.
+미국 [SEC(증권 거래](https://www.sec.gov/) 위원회)는 미국 연방 정부와 미국 증권 시장의 기본 감독자 및 규제 기관의 독립 기관입니다. 연방 증권법에 대한 시행 기관을 위임하고, 새로운 증권 규칙을 제안하고, 증권 산업의 시장 규제를 규제합니다.
 
-초는 전자 저장소 미디어에 있는 서적과 레코드를 보존 하도록 선택한 규정 된 엔터티에 대 한 엄격한 및 명시적 요구 사항을 정의 합니다. [CFR 240.17 a-3](https://www.govinfo.gov/app/details/CFR-2012-title17-vol3/CFR-2012-title17-vol3-sec240-17a-3) 및 [17 CFR 240.17 a-4](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt17.4.240&rgn=div5#se17.4.240_117a_64) 를 설정 하 여 보존 기간을 포함 하 여 유가 증권 대리점에 대 한 recordkeeping를 규제 합니다. 나중에, 1 초는 17 CFR 240.17 a-4 단락 (f)을 [수정](https://www.sec.gov/rules/interp/34-47806.htm) 했으며, 이러한 경우에는 특정 조건이 충족 되 면 전자 저장소 미디어에서 책 및 레코드를 보존 하기 위한 두 개의 interpretive 릴리스가 명시적으로 사용 됩니다.
+SEC는 전자 저장소 미디어에 책과 기록을 보존하기로 한 규제 대상 기관에 대한 엄격한 명시적 요구 사항을 정의합니다. 유가 증권 중개인에 대한 보존 기간을 포함한 기록 관리 규제를 위해 [17개 CFR 240.17a-3](https://www.govinfo.gov/app/details/CFR-2012-title17-vol3/CFR-2012-title17-vol3-sec240-17a-3) 및 [17 CFR 240.17a-4를](https://www.ecfr.gov/cgi-bin/text-idx?mc=true&node=pt17.4.240&rgn=div5#se17.4.240_117a_64) 수립했습니다. 나중에 [SEC는](https://www.sec.gov/rules/interp/34-47806.htm) 특정 조건이 충족되는 한 전자 저장소 미디어에 책과 레코드를 보존할 수 있도록 2개의 해석 릴리스를 17 CFR 240.17a-4 단락(f)으로 발행했습니다.
 
-필요한 보존 기간 동안 레코드를 변경 하거나 지울 수 없는 경우에는 전자 저장소 시스템이 이러한 조건을 충족 합니다. 보존 기간은 레코드 종류를 기준으로 3 ~ 6 년 동안, 처음 2 년 동안 즉각적인 접근성이 적용 됩니다. 또한 interpretive 릴리스 중 하나를 사용 하려면 저장소 시스템이 구성 된 보존 기간을 초과 하는 레코드를 유지 하 여 subpoenas, 법률 보존 또는 기타 요구 사항을 준수 해야 합니다.
+전자 저장소 시스템은 필요한 보존 기간 동안 레코드를 변경 또는 삭제하지 못하게 하는 경우 이러한 조건을 충족합니다. 보존 기간은 레코드 유형에 따라 3~6년마다 다르며, 즉시 접근성은 처음 2년 동안만 사용할 수 있습니다. 또한 해석 릴리스 중 하나를 사용하려면 저장소 시스템이 소속, 법적 보유 또는 기타 요구 사항을 준수하기 위해 SEC 설정 보존 기간 이상으로 레코드를 보존할 수 있는 능력이 필요합니다.
 
-## <a name="microsoft-and-sec-rule-17a-4f"></a>Microsoft 및 SEC 규칙 17a-4 (f)
+## <a name="microsoft-and-sec-rule-17a-4f"></a>Microsoft 및 SEC 규칙 17a-4(f)
 
-전 세계에서 가장 높은 규제 업계 중 하나를 대표 하는 금융 서비스 고객은 재무 트랜잭션과 관련 된 erasable 및 수정 불가능 한 상태와 같은 복잡 한 규정을 준수 해야 합니다. 대부분의 규정 중에는 전자 저장소 미디어에 있는 서적 및 기록을 보존 하도록 선택한 규정 된 엔터티에 대 한 엄격한 요구 사항을 충족 하는 미국 보안 및 Exchange 위원회 (stipulates)의 Rule 17a-4 (f)가 있습니다. 저장 된 레코드는 지정 된 보존 기간 후에만 변경 하거나 삭제할 수 있는 변조 가능한 증거 여야 합니다.
+전 세계에서 가장 높은 규제 대상 산업 중 하나를 나타내는 금융 서비스 고객은 금융 거래 보존과 같은 복잡한 규정과 관련 통신을 지울 수 없는 상태 및 수정할 수 없는 상태의 관련 통신이 적용될 수 있습니다. 가장 규약적인 것은 미국 SEC(보안 및 Exchange 위원회)의 규칙 17a-4(f)입니다. 이 규칙은 전자 저장소 미디어에 책과 기록을 보유하기로 한 규제 대상 기관에 대한 엄격한 요구 사항을 규정합니다. 저장된 레코드는 변조를 방지해야 하여 지정된 보존 기간이 끝날 때까지 레코드를 변경하거나 삭제할 수 없습니다.
 
-Microsoft Azure 불변 Blob Storage with Policy Lock 및 Microsoft Office 365 with 보존이 Lock을 사용 하는 경우 금융 기관은 SEC 규칙 17a-4 (f)의 불변의 저장소 요구 사항을 충족 하는 데 도움이 될 수 있습니다.
+보존 잠금이 적용된 Microsoft Azure 변경 불가능 Blob Storage 및 Microsoft Office 365는 금융 기관이 SEC 규칙 17a-4(f)의 변경 불가능한 저장소 요구 사항을 충족하는 데 도움이 됩니다.
 
-SEC 규칙 17a-4 (f)를 사용 하 여 Azure 및 Office 365 준수를 평가 하기 위해 Microsoft는 레코드 관리 및 정보 거 버 넌 스를 전문적으로 담당 하는 독립 평가 회사를 보유 하 고 있습니다. 결과 보고서에서 다음을 수행 합니다.
+SEC 규칙 17a-4(f)를 준수하는 Azure 및 Office 365 준수를 평가하기 위해 Microsoft는 레코드 관리 및 정보 거버넌스를 전문으로 하는 독립적인 평가 회사인 Cohasset Associates를 보유했습니다. 결과 보고서에서 다음에 대한
 
-- **Azure**: [초 17a-4 (f) 준수 평가: Microsoft azure Storage](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports), With Hasset는 정책 잠금 옵션으로 시간 기반 blob을 유지 하는 데 사용 되는 경우 erasable 및 비 다시 쓰기가 가능한 (웜) 형식의 [AZURE 불변 blob 저장소](https://docs.microsoft.com/azure/storage/blobs/storage-blob-immutable-storage) 에서 SEC 규칙의 변경 불가능 한 저장소 요구 사항을 충족 하는지 확인 했습니다. 필요한 보존 기간이 만료 되 고 연결 된 법적 보유가 출시 될 때까지 각 Blob (레코드)은 수정 하거나 덮어쓰거나 삭제 되지 않도록 보호 됩니다. 이제 중요 한 작업을 포함 하는 소프트웨어 공급자와 파트너가 Azure 불변의 Blob 저장소를 레코드 보존 및 불변 저장소 용 onestop 솔루션으로 사용할 수 있습니다. 이제 금융 기관은 나머지 규격에 따라 이러한 기능을 활용 하 여 자체 응용 프로그램을 작성할 수 있습니다.
-- **Microsoft 365**: [초 17a-4 (f)](https://docs.microsoft.com/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) 요구 사항에 대 한 자세한 내용은 microsoft 365가 it 대리점을 포함 하 여 규제 된 고객에 게 데이터를 저장 하는 데 사용할 수 있는 보관 기능을 포함 하 고 있습니다. Microsoft 365의 보존 기능은 전자 메일, 음성 메일, 공유 문서, 인스턴트 메시지 및 타사 데이터를 비롯 한 광범위 한 데이터를 보존 하는 데 도움이 됩니다. 특히, Microsoft 365에서 보관을 통해 고객은 정의 된 기간에 대 한 데이터를 저장 하 고, erasable이 아닌 다른 형식으로 저장할 수 있도록 전역 또는 세분화 메시징 보존 정책을 설정할 수 있습니다.
+- **Azure**: [SEC 17a-4(f) 준수 평가: Microsoft Azure Storage,](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)Cohasset은 WORM(비지우기 및 다시 작성 불가능) 형식으로 시간 기반 Blob을 보존하는 데 사용되는 경우 정책 잠금 옵션을 사용하여 [Azure Immutable Blob Storage가](https://docs.microsoft.com/azure/storage/blobs/storage-blob-immutable-storage) SEC 규칙의 변경 불가능한 저장소 요구 사항을 충족하는지 확인했습니다. 각 Blob(레코드)은 필요한 보존 기간이 만료되고 관련 법적 보존이 릴리스될 때까지 수정, 덮어매기 또는 삭제되지 않습니다. 중요한 워크로드가 있는 소프트웨어 공급자와 파트너는 이제 Azure 변경 불가능 Blob Storage를 레코드 보존 및 변경 불가능한 저장소에 대한 onestop-shop 클라우드 솔루션으로 사용할 수 있습니다. 이제 금융 기관은 규정을 준수하면서 이러한 기능을 활용하는 자체 응용 프로그램을 구축할 수 있습니다.
+- **Microsoft 365:** [SEC 17a-4(f)](https://docs.microsoft.com/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) 요구 사항의 경우 Cohasset은 Microsoft 365에 중개인을 비롯한 규제된 고객이 레코드 보존에 대한 SEC 요구 사항을 준수하는 데 도움이 되는 방식으로 데이터를 저장할 수 있도록 하는 보관 기능이 포함되어 있는 것으로 확인되었습니다. Microsoft 365의 보존 기능은 전자 메일, 음성 메일, 공유 문서, 인스턴트 메시지 및 타사 데이터를 포함하여 다양한 데이터를 보존하는 데 도움이 됩니다. 특히 Microsoft 365의 보관을 통해 고객은 전역 또는 세부적인 메시징 보존 정책을 설정하여 정의된 기간 동안 및 그 이상을 다시 덮어 사용할 수 없는 형식으로 데이터를 저장할 수 있습니다.
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
 
@@ -53,35 +53,35 @@ SEC 규칙 17a-4 (f)를 사용 하 여 Azure 및 Office 365 준수를 평가 하
 
 ### <a name="azure--sec-rule-17"></a>Azure & SEC 규칙 17
 
-[초 17a-4 (f) & CFTC 1.31 (c-d) 준수 평가 Azure Storage](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)
+[SEC 17a-4(f) & Azure Storage의 CFTC 1.31(c-d) 준수 평가](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)
 
 ### <a name="office-365--sec-rule-17"></a>Office 365 & SEC 규칙 17
 
-[SEC 17a-4 (f) 준수 평가: Exchange Online을 사용한 Microsoft 보안 & 준수 센터](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9fa8349d-a0c9-47d9-93ad-472aa0fa44ec&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
+[SEC 17a-4(f) 준수 평가: Microsoft 보안 & 준수 센터와 SharePoint, OneDrive, Teams, Exchange 및 비즈니스용 Skype](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9fa8349d-a0c9-47d9-93ad-472aa0fa44ec&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
 
 ## <a name="how-to-implement"></a>구현 방법
 
 ### <a name="financial-services-regulation"></a>금융 서비스 규정
 
-클라우드 컴퓨팅 및 Microsoft online services에 대 한 주요 US 규정 원칙의 준수 맵입니다. [자세한 정보](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+클라우드 컴퓨팅 및 Microsoft 온라인 서비스에 대한 주요 미국 규제 원칙의 규정 준수 맵입니다. [자세한 정보](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 
-### <a name="risk-assessment--compliance-guide"></a>위험 요소 분석 & 준수 가이드
+### <a name="risk-assessment--compliance-guide"></a>위험 평가 & 준수 가이드
 
-Microsoft 클라우드 서비스에 대 한 위험 평가를 위한 거 버 넌 스 모델 및 조정기 알림을 만듭니다. [자세한 정보](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
+Microsoft 클라우드 서비스의 위험 평가 및 규제 기관 알림을 위한 거버넌스 모델을 만들 수 있습니다. [자세한 정보](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
 
 ### <a name="financial-use-cases"></a>재무 사용 사례
 
-금융 서비스용 Azure 솔루션을 작성 하는 데 사용 사례 개요, 자습서 및 기타 리소스 [자세한 정보](https://docs.microsoft.com/azure/industry/financial/)
+사례 개요, 자습서 및 기타 리소스를 사용하여 금융 서비스를 위한 Azure 솔루션을 빌드합니다. [자세한 정보](https://docs.microsoft.com/azure/industry/financial/)
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험을 평가해 보세요.
 
-[Microsoft 준수 관리자](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)는 사용자 조직의 준수 상태를 이해하고 위험을 줄이기 위한 활동에 도움을 주는 [Microsoft 365 규정 준수 센터](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규정에 관한 평가를 작성하기 위한 프리미엄 문서 서식을 제공합니다. 준수 관리자의 **평가 문서 서식 페이지** 에서 문서 서식을 찾을 수 있습니다. [준수 관리자에서 평가를 빌드](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)하는 방법에 대해 알아봅니다.
+[Microsoft 준수 관리자](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규제에 대한 평가를 빌드하기 위한 프리미엄 서식 파일을 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
 
 ## <a name="resources"></a>리소스
 
 - [Microsoft Office 365, 데이터 보존 및 규칙 17a-4의 보관](https://www.microsoft.com/microsoft-365/blog/2015/11/10/office-365-exchange-online-archiving-now-meets-sec-rule-17a-4-requirements/)
-- [준수 Microsoft 금융 서비스](https://download.microsoft.com/download/6/4/7/64707E3E-6D3E-45D0-8207-A0EA3201B4A6/Microsoft%20Cloud%20-%20Financial%20Services%20Compliance%20Program%20\(Print\).pdf)
-- [준수 프로그램 Microsoft business cloud services 및 금융 서비스](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
+- [규정 준수 Microsoft 금융 서비스](https://download.microsoft.com/download/6/4/7/64707E3E-6D3E-45D0-8207-A0EA3201B4A6/Microsoft%20Cloud%20-%20Financial%20Services%20Compliance%20Program%20\(Print\).pdf)
+- [규정 준수 프로그램 Microsoft 비즈니스 클라우드 서비스 및 금융 서비스](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [Azure에서의 금융 서비스 규정 준수](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Azure 금융 서비스 클라우드 위험 평가 도구](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint?command=Download&downloadType=Document&downloadId=079a1973-711a-428f-9312-9ddd290cff7b&docTab=c726d5c0-2d1e-11e8-a485-57140ec19669_PaaS)
 - [Microsoft Office 365 보존 정책](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
