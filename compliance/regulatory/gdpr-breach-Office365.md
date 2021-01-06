@@ -16,19 +16,19 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 66441638d7e9cb881422ba4243d936152bcd9eed
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 317a5bf64a5d10099b3fcf73190bb6e20ffc2999
+ms.sourcegitcommit: 7864222909b7d8d0b1dbdbbdee66f5697dac7940
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508652"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49757843"
 ---
 # <a name="breach-notification-under-the-gdpr"></a>GDPR의 위반 알림
 
 Office 365는 데이터 처리자로서, 고객이 데이터 통제자로서 GDPR의 위반 알림 요구 사항을 충족할 수 있도록 합니다. 이를 위해 Microsoft는 다음을 수행할 것을 약속드립니다.
 
-- 위반 시 알림을 받게 되는 전담 개인 정보 보호 연락처를 지정할 수 있는 기능을 고객에게 부여합니다. 고객은 Azure Active Directory에서 이 연락처를 지정할 수 있습니다.
-- 위반이 선언되고 72시간 이내에 개인 데이터 위반 사실을 고객에게 알립니다. 알림은 고객이 지정한 담당자에게 전자 메일로 진행됩니다.
+- 고객에게 위반 시 알림을 받을 전용 개인 정보 보호 연락처를 지정할 수 있는 기능을 제공합니다.  고객은 메시지 센터의 개인 정보 판독기 역할 설정을 사용하여 이 연락처를 지정할 수 있습니다.
+- 위반이 선언된 후 72시간 이내에 고객에게 개인 데이터 위반을 알립니다. 알림은 Microsoft 365 관리 센터를 통해 액세스할 수 있는 메시지 센터에 게시됩니다. 둘째, 전자 메일 알림은 새 메시지 센터 게시물이 게시되었음을 나타내는 지정된 연락처로 전송됩니다.
 - 초기 알림에는 적어도 위반 특성에 대한 설명, 사용자에게 미치는 대략적인 영향, 완화 단계(해당되는 경우)가 포함됩니다. 초기 알림 시점에 조사가 완료되지 않을 경우, 초기 알림에 다음 단계와 후속 커뮤니케이션 일정을 포함할 것입니다.
 
 Microsoft는 데이터 통제자가 위험 평가를 수행하고 고객 DPA에 알려야 하는 위반 사항인지를 확인할 책임이 있다는 사실과, 고객에게 보내는 알림이 해당 평가를 수행하는 데 필요한 정보를 포함할 것이라는 점을 인지합니다. 따라서 Microsoft는 개인 데이터를 분명히 알 수 없는 경우(예를 들어 키의 무결성이 확인된 암호화된 데이터)를 제외하고 모든 개인 데이터 위반 사례를 고객에게 알릴 것입니다.

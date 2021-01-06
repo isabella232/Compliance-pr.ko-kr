@@ -16,26 +16,26 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f58caebee758c9e4d4d1159ebd701c09df81e018
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 94ce3e8dbbb210c645fb2f64ed29e441eb9956bf
+ms.sourcegitcommit: 58741a8e28c354bd806418b7263f0db98bf83eac
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508860"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49759693"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>ISO/IEC 27001:2013 정보 보안 관리 표준
 
 ## <a name="isoiec-27001-overview"></a>ISO/IEC 27001 개요
 
-국제표준화기구(ISO)는 독립적인 비정부기구이며 자발적인 국제표준 관련 세계 최대 규모의 개발기구이다. 국제전기기술위원회(International Electrotechnical Commission, IEC)는 전기, 전자 및 관련 기술에 대한 국제 표준을 준비하고 공표하는 세계 최고의 기구입니다.
+ISO(International Organization for Standardization: 국제 표준화 기구)는 독립적인 비정부 조직으로 세계 최대의 자발적 국제 표준 개발자입니다. IEC(International Electrotechnical Commission: 국제 전기 표준 회의)는 전기, 전자 및 관련 기술과 관련된 국제 표준을 입안 및 발표하는 세계 최고 조직입니다.
 
-ISO/IEC 공동 소위원회에 따라 발행된 ISO/IEC 27000 표준 제품군은 모든 유형 및 규모의 조직이 정보 자산을 안전하게 유지할 수 있도록 지원하는 수백 가지의 제어 및 제어 메커니즘을 개략적으로 설명합니다. 이러한 글로벌 표준은 조직의 정보 위험 관리 프로세스에 관련된 모든 법적, 물리적, 기술적 통제를 포함하는 정책 및 절차에 대한 프레임워크를 제공합니다.
+공동 ISO/IEC 분과 위원회에서 발표하는 ISO/IEC 27000 표준군은 수백 개의 통제 및 통제 메커니즘을 요약하여 업종과 규모에 상관 없이 모든 조직이 정보 자산의 보안 상태를 유지할 수 있도록 도와줍니다. 이러한 국제 표준은 조직의 정보 위험 관리 프로세스에 수반되는 모든 법적, 물리적 및 기술적 통제 수단을 포함하는 정책 및 절차의 프레임워크를 제공합니다.
 
-ISO/IEC 27001은 정보보안을 명시적 관리통제 하에 도입하기 위한 ISMS(정보 보안 관리 시스템)를 공식적으로 명시한 보안 표준입니다. 정식 사양으로서 ISMS의 구현, 감시, 유지, 지속적 개선 방법을 규정하는 요건을 의무화하고 있으며, 문서화 요건, 책임의 구분, 가용성, 접근통제, 보안, 감사, 시정 및 예방조치 등을 포함하는 규범 사례를 규정하기도 합니다. ISO/IEC 27001에 대한 인증을 통해 조직은 정보 보안과 관련된 수많은 규제 및 법적 요구사항을 준수할 수 있습니다.
+ISO/IEC 27001은 명시적 관리 통제 하에서 정보 보안을 유지하기 위한 ISMS(정보 보안 관리 시스템)을 공식적으로 규정하는 보안 표준입니다. 공식적인 규격으로, ISMS를 구현하고, 모니터링하고, 유지 관리하고 지속적으로 개선하는 방법을 정의하는 요구 사항을 준수해야 함을 의미합니다. 또한 이 규정은 문서 요구 사항, 책임 분배, 가용성, 액세스 제어, 보안, 감사 및 시정 및 예방 조치에 대한 요구 사항을 포함하는 모범 사례를 규정합니다. ISO/IEC 27001에 대한 인증은 조직이 정보 보안과 관련된 다양한 규제 및 법적 요구 사항을 준수할 수 있도록 도와줍니다.
 
 ## <a name="microsoft-and-isoiec-27001"></a>Microsoft와 ISO/IEC 27001
 
-ISO/IEC 27001의 국제적인 수용과 적용가능성은 이 표준에 대한 인증이 정보보안을 구현하고 관리하는 Microsoft 접근방식의 최전선에 있는 주요 이유이다. Microsoft는 ISO/IEC 27001 인증을 획득하여 비즈니스, 보안 규정 준수 측면에서 고객의 약속을 이행하기 위한 노력을 기울이고 있습니다. 현재 Azure Public과 Azure Germany는 모두 제3자 공인 인증 기관에 의해 ISO/IEC 27001 규정 준수에 대해 연 1회 감사를 받고 있으며, 보안 통제가 시행되고 있으며 효과적으로 운영되고 있다는 독립적 검증을 제공하고 있습니다.
+ISO/IEC 27001의 인증이 정보 보안 구현 및 관리에 대한 Microsoft 접근 방식이 최전방에 있는 중요한 이유는 바로 이 표준의 국제적 승인 및 적용성 때문입니다. Microsoft의 ISO/IEC 27001 인증은 비즈니스, 보안 준수 관점에서 고객 약속을 지키겠다는 약속을 나타냅니다. 현재 Azure Public과 Azure Germany는 일년에 한 번 타사 공인된 인증 기관을 통해 ISO/IEC 27001 규정 준수에 대한 감사를 받으며 보안 통제 수단이 있고 효과적으로 작동하는지 독립적으로 검증합니다.
 
 Microsoft 클라우드에서 ISO/IEC-27001의 혜택에 대해 알아보세요. [ISO/IEC 27001:2013 다운로드](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=47d89200-b24b-491d-b657-7c523ddfb6f9&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports)
 
@@ -107,30 +107,30 @@ Microsoft 클라우드에서 ISO/IEC-27001의 혜택에 대해 알아보세요. 
 
 **Microsoft가 ISO/IEC 27001을 준수하는 것이 중요한 이유는 무엇인가요?**
 
-공인 감사관에 의해 확인된 이러한 표준을 준수한다는 것은 Microsoft가 서비스를 지원하고 제공하는 인프라 및 조직을 관리하기 위해 국제적으로 공인된 프로세스와 모범 사례를 사용한다는 것을 보여줍니다. 인증서는 Microsoft가 정보 보안 관리를 시작, 구현, 유지 관리 및 개선하기 위한 지침과 일반 원칙을 구현했음을 확인합니다.
+공인 감사자에 의해 확인된 이러한 표준에 대한 준수 사실은 Microsoft가 서비스를 지원하고 제공하는 인프라와 조직을 관리하는 데 국제적인 인정되는 프로세스 및 모범 사례를 사용함을 입증합니다. 이 인증서는 Microsoft가 정보 보안 관리 개시, 구현, 관리 및 개선에 대한 지침 및 일반적인 원칙을 구현했음을 입증합니다.
 
 **Microsoft 서비스에 대한 ISO/IEC 27001 감사 보고서와 범위 기술서는 어디에서 구할 수 있나요?**
 
-[서비스 신뢰 포털](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-service-trust-portal)은(는) 독립적으로 감사된 규정 준수 보고서를 제공합니다. 포털을 사용하여 보고서를 요청하면 감사인이 Microsoft의 클라우드 서비스 결과를 사용자의 법률 및 규정 요구 사항과 비교할 수 있습니다.
+[Service Trust Portal](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-service-trust-portal)은 독립적으로 감사를 거친 규정 준수 보고서를 제공합니다. 귀사의 감사자는 이 포털을 통해 Microsoft의 클라우드 서비스 결과와 귀사의 법적 및 규제 요건을 비교할 수 있도록 보고서를 요청할 수 있습니다.
 
 **Microsoft는 인프라 장애에 대한 연례 테스트를 실시하나요?**
 
-예. Microsoft Cloud Infrastructure and Operations 그룹의 연간 ISO/IEC 27001 인증 프로세스에는 운영 복원력에 대한 감사가 포함되어 있습니다. 최신 인증서를 미리 보려면 아래 링크를 클릭합니다.
+예. Microsoft 클라우드 인프라 및 운영 그룹에 대한 연간 ISO/IEC 27001 인증 프로세스에는 운영 복원력에 대한 감사가 포함됩니다. 최신 인증서를 미리 보려면 아래 링크를 클릭하세요.
 
-- Microsoft Azure: [Microsoft 클라우드 인프라 및 운영에 대한 ISO/IEC 27001:2013 인증서](https://www.bsigroup.com/Our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=company%3dMicrosoft&licencenumber=IS%20533913)
+- Microsoft Azure: [Microsoft 클라우드 인프라 및 운영에 대한 ISO/IEC 27001:2013 인증서](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
 - Azure German
 
 **우리 회사의 자체 ISO/IEC 27001 규정 준수 활동은 어느 것부터 시작해야 하나요?**
 
-ISO/IEC 27001를 채택하는 것은 전략적 약속입니다. 시작하려면 [ISO/IEC 27000 디렉터리](https://www.27000.org/index.htm)를 참조하세요.
+ISO/IEC 27001 채택은 전략적인 약속입니다. [ISO/IEC 27000 디렉터리](https://www.27000.org/index.htm)를 살펴보는 것이 좋은 출발점이 될 수 있습니다.
 
-**우리 회사의 인증 업무에 Microsoft의 ISO/IEC 27001 규정 준수를 사용할 수 있나요?**
+**우리 회사의 인증 업무에 Microsoft 서비스의 ISO/IEC 27001 규정 준수를 사용할 수 있나요?**
 
-예. 귀사에서 Microsoft 서비스에 구현된 구현에 ISO/IEC 27001 인증을 필요로 하는 경우 규정 준수 평가에서 해당 인증을 사용할 수 있습니다. 그러나 귀사는 평가인을 참여시켜 자체 조직 내의 제어 및 프로세스와 ISO/IEC 27001 규정 준수를 위한 구현을 평가할 책임이 있습니다.
+예. Microsoft 서비스에 배포되는 구현에 대해 ISO/IEC 27001 인증을 받아야 하는 고객은 규정 준수 평가 시 해당 인증서를 사용할 수 있습니다. 하지만 귀하는 조직 내 통제, 프로세스, ISO/IEC 27001 준수에 대한 구현을 평가하기 위한 평가자와의 계약에 대한 책임이 있습니다.
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)는 [Microsoft 365 규정 준수 센터](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)의 기능으로 조직의 규정 준수 상태를 이해하고 위험을 줄이는 데 도움이 되는 작업을 수행할 수 있습니다. 규정 준수 관리자는 Enterprise E5 고객을 위해 이 규정에 대한 사전 평가를 실시합니다. 규정 준수 관리자의 **평가 템플릿** 페이지에서 평가를 작성하기 위한 템플릿을 찾습니다. [규정 준수 관리자에서 평가 빌드](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) 방법을 배웁니다.
+[Microsoft 준수 관리자](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 Enterprise E5 고객에게 이 규제에 대해 사전에 빌드된 평가를 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 평가 빌드를 위한 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
 
 ## <a name="resources"></a>리소스
 
