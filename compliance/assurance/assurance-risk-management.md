@@ -1,6 +1,6 @@
 ---
-title: 위험 관리
-description: Microsoft 365의 위험 관리에 대해 자세히 알아보기
+title: 리스크 관리
+description: Microsoft 365의 위험 관리에 대해 자세히
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -18,43 +18,43 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 124973726e2d1375f238795a50f2d39fc3d6a2d1
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: b67a327d8451dca212cd265aae7619924d419f5a
+ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507785"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "49787367"
 ---
-# <a name="risk-management-overview"></a>위험 관리 개요
+# <a name="risk-management-overview"></a>리스크 관리 개요
 
-## <a name="how-does-microsoft-assess-and-manage-risk-across-the-enterprise"></a>Microsoft에서 기업 전반의 위험을 평가 하 고 관리 하는 방법
+## <a name="how-does-microsoft-assess-and-manage-risk-across-the-enterprise"></a>Microsoft는 기업 전체의 위험을 어떻게 평가하고 관리하나요?
 
-위험 관리는 위험을 식별, 평가 및 대응 하는 프로세스입니다. Microsoft의 위험 관리는 새 위협을 예상 하 고 클라우드 시스템 및이를 사용 하는 고객에 게 지속적인 보안을 제공 하도록 설계 되었습니다.
+위험 관리는 위험을 식별, 평가 및 대응하는 프로세스입니다. Microsoft의 위험 관리는 새로운 위협을 예상하고 클라우드 시스템과 이를 사용하는 고객에게 지속적인 보안을 제공하도록 고안되었습니다.
 
-Microsoft의 위험 관리 활동은 ERM은 (Enterprise 위험 관리) 프로그램에 의해 제어 됩니다. ERM은에서는 전반적인 엔터프라이즈 위험 관리 프로세스를 사용 하 고 기업 전체의 관리 작업을 통해 Microsoft의 주요 위험에 대 한 책임을 식별 하 고 확인 합니다. 이 문서에서는 위험 요소 예측, 평가 및 보고를 통해 Microsoft의 비즈니스 전략을 알리고 위험 완화 및 책임을 추진 하는 방법을 중점적으로 설명 합니다.
+Microsoft의 위험 관리 활동은 엔터프라이즈 위험 관리(ERM) 프로그램에서 관리합니다. ERM을 사용하면 전체 엔터프라이즈 위험 관리 프로세스를 사용할 수 있으며 기업 전체의 관리와 함께 Microsoft의 가장 중요한 위험을 식별하고 책임질 수 있습니다. Microsoft의 비즈니스 전략을 알리고 위험을 완화하고 책임감을 주도할 수 있는 위험을 예상, 평가 및 보고하는 데 중점을 들이고 있습니다.
 
-Microsoft ERM은는 비즈니스 단위가 독립적으로 일관성 있고 비교 되는 위험 평가를 수행할 수 있도록 기업 전체의 위험 관리 활동을 조정 합니다. 이를 통해 Microsoft는 관리를 위해 통합 된 방식으로 위험 정보를 집계 하 고 보고할 수 있습니다. ERM은에서는 위험 관리 프로세스에 대 한 일반적인 방법론, 도구 및 목표를 포함 하는 Microsoft의 비즈니스 단위를 제공 합니다. Microsoft 365 및 기타 엔지니어링 그룹 및 비즈니스 단위는 이러한 도구를 활용 하 여 ERM은의 지침에 따라 자체 위험 관리 프로그램의 일부로 개별 위험 평가를 수행 합니다.
+Microsoft ERM은 기업 전체에서 위험 관리 활동을 조정하여 비즈니스 단위가 일관되고 비교적인 위험 평가를 독립적으로 지원할 수 있도록 합니다. 이를 통해 Microsoft는 관리에 대한 통합된 방식으로 위험 정보를 집계하고 보고할 수 있습니다. ERM은 Microsoft의 사업부에 위험 관리 프로세스에 대한 일반적인 방법론, 도구 및 목표를 제공합니다. Microsoft 365 및 기타 엔지니어링 그룹 및 사업부는 이러한 도구를 사용하여 ERM의 지침에 따라 자체 위험 관리 프로그램의 일부로 개별 위험 평가를 실시합니다.
 
-## <a name="how-does-microsoft-365-work-with-erm"></a>Microsoft 365이 ERM은에서 작동 하는 방식
+## <a name="how-does-microsoft-365-work-with-erm"></a>Microsoft 365는 ERM에서 어떻게 작동하나요?
 
-Microsoft 365 위험 관리 프로그램은 Microsoft 365 서비스에서 위험을 관리 하기 위해 ERM은 지침을 따릅니다. 이 프로그램에서는 기존 Microsoft 365 엔지니어링, 서비스 작업 및 규정 준수 프로세스와 함께 ERM은 framework를 정렬 하 여 위험 관리 프로그램을 보다 효율적이 고 효율적으로 수행 하는 방법을 중점적으로 설명 합니다. Microsoft 365 위험 관리 활동은 궁극적으로 ERM은 프로세스를 진행 하 고 알립니다.
+Microsoft 365 위험 관리 프로그램은 ERM 지침을 따라 Microsoft 365 서비스 전반의 위험을 관리합니다. 이 프로그램은 ERM 프레임워크를 기존 Microsoft 365 엔지니어링, 서비스 운영 및 규정 준수 프로세스와 맞추는 데 중점을 두어 위험 관리 프로그램을 더 효과적이고 효율적으로 만듭니다. Microsoft 365의 위험 관리 활동은 궁극적으로 ERM 프로세스를 롤업하고 알릴 수 있습니다.
 
-위험 평가 작업의 일환으로 Microsoft 365 위험 관리 프로그램은 Microsoft 365 컨트롤 프레임 워크 (프레임 워크)의 일부로 구현 된 컨트롤의 디자인 및 작동 효율성을 분석 합니다. 이 프레임 워크는 준수 작업을 적절히 구현 하 여 엔지니어링 팀이 핵심 규정 및 자격증을 준수할 수 있는 합리적으로 제어 되는 컨트롤 집합입니다.
+위험 평가 활동의 일부로, Microsoft 365 위험 관리 프로그램은 Microsoft 365 컨트롤 프레임워크(프레임워크)의 일부로 구현된 컨트롤의 디자인 및 운영 효율성을 분석합니다. 프레임워크는 규정 준수 활동과 함께 적절히 구현될 때 엔지니어링 팀이 주요 규정 및 인증을 준수할 수 있도록 하는 합리화된 제어 집합입니다.
 
-## <a name="how-does-microsoft-365-manage-and-assess-risk-in-its-online-services"></a>Microsoft 365이 온라인 서비스에서 위험을 관리 하 고 평가 하는 방법
+## <a name="how-does-microsoft-365-manage-and-assess-risk-in-its-online-services"></a>Microsoft 365는 온라인 서비스에서 위험을 어떻게 관리하고 평가하나요?
 
-진행 중인 위험 평가 작업의 일환으로 Microsoft 365 위험 관리 프로그램은 Microsoft 365 서비스를 디자인 하 고 구축 하 고 운영 하는 서비스 팀과 인터뷰를 수행 하 여 현재 위험과 관심 있는 영역을 파악 합니다. 이러한 활동은 지속적인 모니터링 데이터, 감사 및 기타 출처 분석과 함께 장기간의 비즈니스 목표에 대 한 현재 및 가능한 향후 위험을 식별 하는 위험 평가 보고서를 개발 하는 데 사용 됩니다. 위험 요소 분석 보고서는 Microsoft 365 서비스 팀에서 얻은 결과 및 의견에 따라 Microsoft 365의 위험 상황에 대 한 개요를 제공 합니다. 다른 사업부와 비슷한 보고서를 함께 사용 하면 Microsoft 365 위험 요소 분석 보고서가 ERM은 프로그램 위험 평가에 참여 하 고이를 알릴 수 있습니다.
+지속적인 위험 평가 활동의 일부로, Microsoft 365 위험 관리 프로그램은 Microsoft 365 서비스를 디자인, 구축 및 운영하는 서비스 팀과 인터뷰를 수행하여 현재 위험 및 관심 분야를 파악합니다. 이러한 활동은 지속적인 모니터링 데이터, 감사 및 기타 원본의 분석과 함께 장기 비즈니스 목표에 대한 현재 및 가능한 미래 위험을 식별하는 위험 평가 보고서를 개발하는 데 사용됩니다. 위험 평가 보고서는 Microsoft 365 서비스 팀의 결과 및 피드백을 기반으로 Microsoft 365의 위험에 대한 개략적인 개요를 제공합니다. Microsoft 365 위험 평가 보고서는 다른 사업부의 유사한 보고서와 함께 ERM 프로그램 위험 평가에 기여하고 이를 알릴 수 있습니다.
 
-Microsoft 365 Trust는 정책 준수, 보안 요구 사항 및 위험 관리와 관련 된 보증 작업을 지 원하는 그룹입니다. Microsoft 365 트러스트는 새로운 위험이 제기 되는 것을 식별 하 고 알려진 위험 및 위험 응답을 모니터링 하기 위해 작동 합니다. Microsoft 365 서비스 팀의 의견 및 Microsoft 365 환경에서의 지속적인 모니터링 데이터는이 프로세스를 알려 줍니다. 위험 응답의 성공과 실패는 위험 likelihoods 및 영향을 분석 하 고 알리기 위해 추적 됩니다. 위험 소유자가 포함 된 정기 위험 검토를 통해 Microsoft 365 신뢰를 사용 하 여 위험 응답을 업데이트 하 고 관리할 수 있습니다.
+Microsoft 365 트러스트는 정책 준수, 보안 요구 사항 및 위험 관리와 관련된 보증 작업을 지원하는 그룹입니다. Microsoft 365 트러스트는 새로운 위험을 식별하고 알려진 위험 및 위험 대응을 모니터링하기 위해 작동합니다. Microsoft 365 서비스 팀의 피드백과 Microsoft 365 환경의 지속적인 모니터링 데이터는 이 프로세스를 알릴 수 있습니다. 위험 응답의 성공 및 실패를 추적하여 위험 가능성 및 영향 분석을 개발하고 알리기 위해 추적됩니다. 위험 소유자와의 정기적인 위험 검토 모임을 통해 Microsoft 365 Trust는 위험 응답을 업데이트하고 관리할 수 있습니다.
 
-## <a name="related-external-regulations--certifications"></a>관련 된 외부 규정 & 인증
+## <a name="related-external-regulations--certifications"></a>인증에 & 관련 외부 규정
 
-Microsoft의 온라인 서비스는 외부 규정 및 인증을 준수 하기 위해 정기적으로 감사 됩니다. 위험 관리와 관련 된 컨트롤의 유효성 검사에 대해서는 다음 표를 참조 하십시오.
+Microsoft의 온라인 서비스는 외부 규정 및 인증을 준수하는지 정기적으로 감사됩니다. 위험 관리와 관련된 컨트롤의 유효성 검사는 다음 표를 참조합니다.
 
-| **외부 감사** | **단면** | **최신 보고서 날짜** |
+| **외부 감사** | **섹션** | **최신 보고서 날짜** |
 |:--------------------|:------------|:-----------------------|
-| [FedRAMP (Office 365)](https://compliance.microsoft.com/compliancemanager) | CA-2: 보안 평가 <br> CA-5: 작업 및 중요 시점 계획 <br> RA-3: 위험 요소 분석 | 2020 년 9 월 24 일 |
-| [ISO 27001/27002 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용 가능성의 문](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [자격](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A. 5: 정보 보안 정책 | 2020년 2월 22일 |
-| [ISO 27017 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용 가능성의 문](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [자격](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=70de0999-5451-43a3-9ef4-761e8fbfb1a3&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A. 5: 정보 보안 정책 | 2020년 2월 22일 |
-| [SOC 1(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b07c0f7b-6bd5-4544-8255-7a5f14bf914a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-03: 위험 관리 | 2019년 9월 30일 |
-| [SOC 2(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=fa062990-e758-4ddc-ace3-7fb21a301d09&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Rep-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | 캐나다-02: 거 버 넌 스, 위기 및 규정 준수 팀 책임 <br> CA-03: 위험 관리 <br> CA-17: Microsoft 보안 정책 <br> CA-24: 내부 위험 요소 분석 | 2019년 9월 30일 |
+| [FedRAMP(Office 365)](https://compliance.microsoft.com/compliancemanager) | CA-2: 보안 평가 <br> CA-5: 작업 계획 및 중요 시점 <br> RA-3: 위험 평가 | 2020년 9월 24일 |
+| [ISO 27001/27002(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용성 설명](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [인증](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.5: 정보 보안 정책 | 2020년 2월 22일 |
+| [ISO 27017(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용성 설명](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [인증](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=70de0999-5451-43a3-9ef4-761e8fbfb1a3&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.5: 정보 보안 정책 | 2020년 2월 22일 |
+| [SOC 1(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-03: 위험 관리 | 2020년 12월 24일 |
+| [SOC 2(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-02: 거버넌스, 위험 및 규정 준수 팀 책임 <br> CA-03: 위험 관리 <br> CA-17: Microsoft 보안 정책 <br> CA-24: 내부 위험 평가 | 2020년 12월 24일 |
