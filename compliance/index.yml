@@ -15,12 +15,12 @@ metadata:
   author: robmazz
   ms.author: robmazz
   ms.date: 11/30/2020
-  ms.openlocfilehash: b2ef6d975ee41def8b410a47afe824851c151e14
-  ms.sourcegitcommit: 1e6157933cd9aea32c36e0c796ee55a861da16c8
+  ms.openlocfilehash: 4a45e8244a3adba18d25f24301b921c385850a9c
+  ms.sourcegitcommit: 9ce2e6599e6cb15533cb07e8291dc3a2b8795679
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/09/2020
-  ms.locfileid: "49612814"
+  ms.lasthandoff: 01/11/2021
+  ms.locfileid: "49795518"
 highlightedContent:
   items:
   - title: Microsoft 365 규정 준수를 시작하기 위한 빠른 작업
@@ -95,7 +95,7 @@ conceptualContent:
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-encryption/
       itemType: learn
-      text: 암호화 및 키 관리에 대해 자세히 알아보기
+      text: 암호화 및 키 관리에 대해 자세히
     - url: /compliance/assurance/assurance-encryption
       itemType: concept
       text: 암호화 및 키 관리 개요
@@ -103,18 +103,18 @@ conceptualContent:
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-governance/
       itemType: learn
-      text: ID 및 액세스 관리에 대해 자세히
+      text: 거버넌스에 대해 자세히 알아보기
     - url: /compliance/assurance/assurance-governance
       itemType: concept
       text: 거버넌스 개요
-  - title: 인사부
+  - title: 인적 리소스
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-governance/personnel-security-governance
       itemType: learn
       text: 인적 자원에 대해 자세히 알아보기
     - url: /compliance/assurance/assurance-human-resources
       itemType: concept
-      text: 인사 개요
+      text: 인적 리소스 개요
   - title: ID 및 액세스 관리
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-identity-access-management/
@@ -144,22 +144,22 @@ conceptualContent:
     - url: /compliance/assurance/assurance-privacy
       itemType: concept
       text: 개인 정보 개요
-  - title: 탄력성 및 연속성
+  - title: 복원력 및 연속성
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-resiliency-continuity/
       itemType: learn
       text: 탄력성 및 연속성에 대해 자세히 알아보기
     - url: /compliance/assurance/assurance-resiliency-and-continuity
       itemType: concept
-      text: 탄력성 및 연속성 개요
-  - title: 위험 관리
+      text: 복원력 및 연속성 개요
+  - title: 리스크 관리
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-risk-management/
       itemType: learn
       text: 위험 관리에 대해 자세히
     - url: /compliance/assurance/assurance-risk-management
       itemType: concept
-      text: 위험 관리 개요
+      text: 리스크 관리 개요
   - title: 보안 개발 및 운영
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-security-development-operation/
@@ -184,14 +184,14 @@ conceptualContent:
     - url: /compliance/assurance/assurance-supplier-management
       itemType: concept
       text: 공급자 관리 개요
-  - title: 취약점 관리
+  - title: 취약성 관리
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-vulnerability-management/
       itemType: learn
       text: 취약점 관리에 대해 자세히 알아보기
     - url: /compliance/assurance/assurance-vulnerability-management
       itemType: concept
-      text: 취약점 관리 개요
+      text: 취약성 관리 개요
 additionalContent:
   sections:
   - title: Microsoft 365에서 규정 준수 시작
@@ -204,7 +204,7 @@ additionalContent:
       summary: 조직에서 악의적 및 부수적인 활동을 감지, 조사 및 작업하여 내부 위험을 최소화합니다.
       url: https://docs.microsoft.com/microsoft-365/compliance/insider-risk-solution-overview
     - title: 정보 보호 관리
-      summary: MIP(Microsoft Information Protection)를 사용하여 중요한 정보가 어디에 있든 이동하는지 검색, 분류 및 보호할 수 있습니다.
+      summary: MIP(Microsoft Information Protection)를 사용하여 중요한 정보가 어디에 있든, 이동하는지 검색하고, 분류하고, 보호할 수 있습니다.
       url: https://docs.microsoft.com/microsoft-365/compliance/protect-information
     - title: 정보 거버넌스 관리
       summary: MIG(Microsoft Information Governance) 기능을 사용하여 규정 준수 또는 규정 요구 사항에 대한 데이터를 관리합니다.
