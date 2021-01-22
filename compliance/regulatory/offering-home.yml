@@ -16,12 +16,12 @@ metadata:
   ms.author: robmazz
   ms.date: 11/30/2020
   localization_priority: Normal
-  ms.openlocfilehash: 82d7c9b4c39d4916a81d08abb34c3d8bc6d65b31
-  ms.sourcegitcommit: db4bd64256f52087d450c2f7fd4632718aa2c33d
+  ms.openlocfilehash: 55a5d3691e7b27f5823eb07662dc7b44f09e2870
+  ms.sourcegitcommit: 81bd5a6603e899ddbb7c580cf4f55a4636959bbd
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 12/08/2020
-  ms.locfileid: "49588702"
+  ms.lasthandoff: 01/22/2021
+  ms.locfileid: "49924851"
 conceptualContent:
   title: Microsoft 365, Azure 및 기타 Microsoft 서비스에 대한 규정 준수 제품
   summary: Microsoft는 조직이 데이터 수집 및 사용에 대한 국가, 지역 및 산업별 요구 사항을 준수하는 데 도움이 되는 규정 준수 제품을 제공합니다.
@@ -194,9 +194,9 @@ conceptualContent:
     - url: offering-ccpa.md
       itemType: reference
       text: CCPA(미국-캘리포니아)
-    - url: offering-ccsl-irap-australia.md
+    - url: offering-irap-australia.md
       itemType: reference
-      text: IRAP/CCSL(오스트레일리아)
+      text: IRAP(오스트레일리아)
     - url: offering-cs-mark-gold-japan.md
       itemType: reference
       text: CS 마크 골드(일본)
