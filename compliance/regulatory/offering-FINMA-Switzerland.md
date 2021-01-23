@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 054d6a9f86e1d696472ee2091bc5b98c4312f5b5
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 3dfd4993428de2884c1d7ea4d149da28f833508d
+ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507965"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49936952"
 ---
 # <a name="financial-market-supervisory-authority-finma-switzerland"></a>스위스 금융시장감독청 (FINMA, Financial Market Supervisory Authority)
 
@@ -35,7 +35,7 @@ FINMA는 은행, 증권 거래소 및 보험 회사가 회사의 비즈니스 �
 
 스위스에서 클라우드로 비즈니스 기능의 아웃소싱을 고려하는 금융 기관에 대한 안내를 지원하기 위해 Microsoft는 [스위스 금융 기관을 위한 규정 준수 점검 목록](https://aka.ms/FinServ-Guide-Switzerland)을 게시했습니다. 이 점검 목록을 검토하고 완료함으로서 금융 기관은 해당 규제 요구 사항의 준수에 대한 확신을 가지고 Microsoft 비즈니스 클라우드 서비스를 도입할 수 있습니다.
 
-스위스 금융 기관이 비즈니스 활동을 아웃소싱할 때 스위스 금융시장감독청(FINMA, Swiss Financial Market Supervisory Authority)의 요구 사항을 준수해야 하며 스위스 은행법, 스위스 은행 조례 및 스위스 보험 감독법의 내용을 포함하는 추가 요구 사항 및 지침을 인지하고 있어야 합니다.
+스위스 금융 기관이 비즈니스 활동을 아웃소싱할 때 스위스 금융시장감독청(FINMA, Swiss Financial Market Supervisory Authority)의 요구 사항을 준수해야 하며 스위스 은행법, 스위스 은행 조례 및 스위스 보험 감독법의 내용을 포함하는 기타 요구 사항 및 지침을 인지하고 있어야 합니다.
 
 Microsoft의 점검 목록은 스위스 금융 기업이 Microsoft 비즈니스 클라우드 서비스에 대한 실사 평가를 수행할 수 있도록 도움을 주며 다음의 사항을 포함합니다.
 
@@ -69,5 +69,4 @@ Microsoft의 점검 목록은 스위스 금융 기업이 Microsoft 비즈니스 
 - [Microsoft 금융 서비스 준수 프로그램](https://aka.ms/FSCP-Print)
 - [Microsoft 비즈니스 클라우드 서비스 및 금융 서비스](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [Azure에서의 금융 서비스 규정 준수](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Azure 금융 서비스 클라우드 위험 평가 도구](https://aka.ms/FFIEC-CSDT)
 - [Microsoft 보안 센터에 대한 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)
