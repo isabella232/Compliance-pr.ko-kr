@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c8b6b9a44137f024b9d4af35b62458d3e90e6db4
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: f84f4a57afd968a428cd345dd521a3bd83cea238
+ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508020"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49937033"
 ---
 # <a name="european-banking-authority-eba"></a>European Banking Authority(유럽은행관리국:EBA)
 
 ## <a name="about-the-eba"></a>EBA에 대한 정보
 
-[European Banking Authority](https://eba.europa.eu/)(유럽은행관리국:EBA)은 "유럽 뱅킹 부문 전반에서 효과적이고 일관된 세심한 규제 및 감독을 보장하기 위해 업무를 하는 독립된 기관"입니다.   2017년 12월 EBA는 유럽에서의 금융 기관의 클라우드 컴퓨팅의 아웃소싱에 대한 포괄적인 접근 방법을 개요화하는 [최종 보고서인 클라우드 서비스 공급업체로의 아웃소싱에 대한 권고 사항](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362)을 발행했습니다. 이 권고 사항은 클라우드로의 외주가 허용되는 경우를 명확히 하고 기술 중립적인 관점에서 위험을 측정하는데 원칙 기반의 접근 방법을 적용 하며 유럽 등의 지역에서의 보다 효율적인 화합을 달성하고자 노력합니다.
+[European Banking Authority](https://eba.europa.eu/)(유럽은행관리국:EBA)은 ‘유럽 뱅킹 부문 전반에서 효율적이고 일관된 세심한 규제 및 감독을 보장하기 위한 독립된 기관’입니다.   2017년 12월 EBA는 유럽에서의 금융 기관의 클라우드 컴퓨팅의 아웃소싱에 대한 포괄적인 접근 방법을 개요화하는 [최종 보고서인 클라우드 서비스 공급업체로의 아웃소싱에 대한 권고 사항](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362)을 발행했습니다. 이 권고 사항은 클라우드로의 외주가 허용되는 경우를 명확히 하고 기술 중립적인 관점에서 위험을 측정하는데 원칙 기반의 접근 방법을 적용 하며 유럽 등의 지역에서의 보다 효율적인 화합을 달성하고자 노력합니다.
 
 EBA 권장 사항은 2018년 7월 발효되었으며 2006년 유럽은행감독당국위원회에서 발행한 일반적인 아웃소싱 지침에 기반하여 명료성을 더해줍니다. 실제로 이러한 권장 사항은 Microsoft에서 상당한 피드백을 제공한 협의 기간 후에 발행됩니다. 최종 권장 사항의 대부분은 Microsoft에서 EBA에 제공한 의견에 대해 설명합니다.
 
@@ -66,9 +66,9 @@ Microsoft의 발행물인 [Microsoft 클라우드에서의 금융 기관을 위�
 ## <a name="resources"></a>리소스
 
 - [Microsoft 서비스 보안 포털](https://aka.ms/STP)
+- [유럽의 금융 기관을 위한 Microsoft 클라우드 체크리스트](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4IPF3)
 - [Microsoft 금융 서비스 준수 프로그램](https://aka.ms/FSCP-Print)
 - [Microsoft 비즈니스 클라우드 서비스 및 금융 서비스](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Azure에서의 금융 서비스 규정 준수](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Azure 금융 서비스 클라우드 위험 평가 도구](https://aka.ms/FFIEC-CSDT)
 - [Microsoft 금융 서비스 블로그](https://techcommunity.microsoft.com/t5/Financial-Services-Blog/bg-p/FinancialServicesBlog)
 - [Microsoft 보안 센터에 대한 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)
