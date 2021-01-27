@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 5d73dfe71ea0872e02e516e0c952d017ded22150
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 172b031f4193a24a36126d3aabfadb02f3f20247
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508473"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50013004"
 ---
 # <a name="cloud-computing-compliance-controls-catalog-c5"></a>클라우드 컴퓨팅 규정 준수 컨트롤 카탈로그(C5)
 
@@ -31,7 +31,7 @@ ms.locfileid: "49508473"
 
 C5 요구 사항 카탈로그의 목적은 클라우드 서비스 공급자를 인증하기 위한 일관된 보안 프레임워크를 제공하고 고객에게 데이터가 안전하게 관리된다는 확신을 제공하는 것입니다.
 
-C5는 ISO/IEC 27001:2013, 클라우드 보안 제휴 클라우드 컨트롤 매트릭스 3.0.1 및 BSI의 IT-Grundschutz 카달로그와 같은 국제적으로 인정된 보안 표준을 바탕으로 합니다. 이 카탈로그는 17개의 도메인(예: 정보 보안 및 물리적 보안 조직)에 대한 114개의 요구 사항으로 구성되어 있으며 모든 클라우드 서비스 제공자의 기본 보안 요구 사항과 기밀성이 높은 데이터 및 고가용성이 필요한 상황을 처리하기 위한 추가 요구 사항이 포함되어 있습니다.
+C5는 ISO/IEC 27001:2013, 클라우드 보안 제휴 클라우드 컨트롤 매트릭스 3.0.1 및 BSI의 IT-Grundschutz 카달로그와 같은 국제적으로 유명한 보안 표준을 바탕으로 합니다. 이 카탈로그는 17개의 도메인(예: 정보 보안 및 물리적 보안 조직)에 대한 114개의 요구 사항으로 구성되어 있으며 모든 클라우드 서비스 제공자의 기본 보안 요구 사항과 기밀성이 높은 데이터 및 고가용성이 필요한 상황을 처리하기 위한 기타 요구 사항이 포함되어 있습니다.
 
 또한 BSI는 투명성에 중점을 둡니다. 감사의 일환으로, 클라우드 제공자는 상세한 시스템 설명을 포함하고 관할권 및 데이터 처리 위치, 서비스 제공 및 클라우드 서비스에 발행된 기타 인증과 같은 환경 매개 변수와 클라우드 제공자의 공공기관에 대한 공개 의무에 대한 정보를 공개해야 합니다. 이를 통해 잠재적인 클라우드 고객은 클라우드 서비스가 데이터 보호, 회사 정책 또는 산업 스파이의 위협을 해결하는 기능과 같은 법적 요구 사항 준수와 같은 필수 요구 사항을 충족하는지 여부를 결정할 수 있습니다.
 
@@ -70,6 +70,6 @@ Microsoft Cloud Germany는 독일에 물리적으로 기반을 두고 있으며 
 
 - 클라우드 컴퓨팅 규정 준수 컨트롤 카탈로그(C5) ([영어](https://www.bsi.bund.de/EN/Topics/CloudComputing/Compliance_Criteria_Catalogue/Compliance_Criteria_Catalogue_node.html)) ([독일어](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/CloudComputing/Kriterienkatalog/Kriterienkatalog_node.html))
 - 클라우드 컴퓨팅 공급자에 대한 보안 권장 사항([영어](https://www.bsi.bund.de/EN/Topics/CloudComputing/Secure_use_of_cloud_services/Secure_use_cloud_services_node.html)) ([독일어](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/CloudComputing/Sichere_Nutzung_Cloud/Sichere_Nutzung_Cloud_node.html))
-- [준수 보고서: C5- und SOC-Testate Azure Deutschland](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=df100ae1-baf9-4785-8a6d-864c0bc5c308&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_SOC%20%2F%20SSAE%2016%20Reports)
+- [준수 보고서: C5-und SOC-Testate Azure 독일](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=df100ae1-baf9-4785-8a6d-864c0bc5c308&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_SOC%20%2F%20SSAE%2016%20Reports)
 - Microsoft Azure Germany용 [IT-Grundschutz 규정 준수 통합 문서](https://gallery.technet.microsoft.com/Azure-Germany-IT-fca4afd7)
 - [Microsoft 보안 센터에 대한 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)

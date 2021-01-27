@@ -17,12 +17,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: f41583c07ec5a8d1c711444b43daf0fd8de754ea
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 127528f40f5939b8fe0a5585cee7a212d35af82e
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508777"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012934"
 ---
 # <a name="microsofts-data-protection-officer"></a>Microsoft의 데이터 보호 관리자
 
@@ -34,11 +34,11 @@ DPO 역할에는 합격자가 7년 이상의 전문 데이터 보호 경력 또�
 
 ## <a name="nature-of-the-role"></a>역할의 특성
 
-DPO는 개인 데이터 보호와 관련된 모든 주요 문제에 적시에 적절하게 관련되어 있습니다. 이 작업은 부분적으로 Microsoft에서 생성한 모든 DPIA(데이터 보호 영향 평가)를 검토하고 조언하는 DPO의 역할에 의해 영향을 받습니다. DPIA 프로그램은 모든 개인 데이터 처리를 Microsoft에서 캡처하도록 설계되어 있으므로 DPO는 회사 간 가시성을 확보하고 Microsoft의 개인 데이터 처리와 관련하여 GDPR에 따라 Microsoft에 의무를 알리고 조언할 수 있는 기회를 갖게 됩니다. 이와 동일한 메커니즘을 통해 DPO는 GDPR을 비롯한 해당 데이터 보호 규정과 Microsof의 내부 정책 및 제어 규정을 준수하는지 모니터링할 수 있습니다. 
+DPO는 개인 데이터 보호와 관련된 모든 주요 문제에 적시에 적절하게 관련되어 있습니다. 이 작업은 부분적으로 Microsoft에서 생성한 모든 DPIA(데이터 보호 영향 평가)를 검토하고 조언하는 DPO의 역할에 의해 영향을 받습니다. DPIA 프로그램은 모든 개인 데이터 처리를 Microsoft에서 캡처하도록 설계되어 있으므로 DPO는 회사 간 가시성을 확보하고 Microsoft의 개인 데이터 처리와 관련하여 GDPR에 따라 Microsoft에 의무를 알리고 조언할 수 있는 기회를 갖게 됩니다. 이와 동일한 메커니즘을 통해 DPO는 GDPR을 포함하는 해당 데이터 보호 규정과 Microsoft의 내부 정책 및 제어 규정을 준수하는지 모니터링할 수 있습니다. 
 
 ## <a name="position-of-the-data-protection-officer"></a>데이터 보호 관리자의 직책
 
-유럽 연합 DPO는 Microsoft의 회사 및 법률 담당 부서 내 고위 간부인 개인 정보 보호 최고 관리자에게 직접 보고합니다. DPO 역할은 자치권을 통해 독립적이고 편견 없는 방식으로 기능을 수행할 수 습니다. 개인 정보 보호 최고 관리자의 조직을 통해 DPO는 DPO 기능을 수행하는 데 필요한 교육 및 고객 대응 리소스에 액세스할 수 있습니다. DPO는 비공개 계약의 사용을 통해 업무와 관련된 기밀 유지 의무를 지닙니다.  
+유럽 연합 DPO는 Microsoft의 회사 및 법률 담당 부서 내 고위 간부인 개인 정보 보호 최고 관리자에게 직접 보고합니다. DPO 역할은 자치권을 통해 독립적이고 편견 없는 방식으로 기능을 수행할 수 습니다. 개인 정보 보호 최고 관리자의 조직을 통해 DPO는 DPO 기능을 수행하는 데 필요한 교육 및 고객 대응 리소스에 액세스할 수 있습니다. DPO는 비공개 계약을 사용하여 업무와 관련된 기밀 유지 의무를 지닙니다.  
 
 ## <a name="contact"></a>담당자
 
