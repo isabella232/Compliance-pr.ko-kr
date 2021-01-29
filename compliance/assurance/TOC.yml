@@ -76,6 +76,16 @@
   items:
     - name: 인시던트 관리 개요
       href: assurance-incident-management.md
+    - name: Microsoft 365 보안 인시던트 관리
+      href: assurance-security-incident-management.md
+    - name: 보안 인시던트 관리 준비
+      href: assurance-sim-preparation.md
+    - name: '보안 인시던트 관리 방지, 근절 및 복구'
+      href: assurance-sim-containment-eradication-recovery.md
+    - name: 보안 인시던트 관리 검색 및 분석
+      href: assurance-sim-detection-analysis.md
+    - name: 보안 인시던트 관리 인시던트 후 활동
+      href: assurance-sim-post-incident-activity.md
 - name: 네트워크 보안
   items:
     - name: 네트워크 보안 개요
