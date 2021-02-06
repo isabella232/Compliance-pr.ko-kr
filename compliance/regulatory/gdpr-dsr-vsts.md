@@ -19,12 +19,12 @@ ms.workload:
 - multiple
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: 9918046fc0e76bdfbccd5e199f4e576c77f4ca67
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: ec2152d2039b7626c0562869a9a549f0361f7270
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574830"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121907"
 ---
 # <a name="azure-devops-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Azure DevOps Services 데이터 주체 요청
 
@@ -68,7 +68,7 @@ Microsoft는 예외없이, Azure DevOps Services 데이터를 안전하고 비�
 
 ## <a name="see-also"></a>참고 항목
 
-- [일반적으로 사용할 수 있는 엔터프라이즈 소프트웨어 제품의 고객에 대한 Microsoft의 GDPR 약속](https://docs.microsoft.com/legal/gdpr)
+- [일반적으로 사용할 수 있는 엔터프라이즈 소프트웨어 제품의 고객에 대한 Microsoft의 GDPR 약속](/legal/gdpr)
 - [Microsoft 보안 센터](https://www.microsoft.com/trust-center/privacy/gdpr-overview)
 - [Service Trust portal](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 - [Microsoft 개인 정보 대시보드](https://account.microsoft.com/privacy)

@@ -20,12 +20,12 @@ search.appverid:
 ms.assetid: c2112ce8-1c4b-424f-b200-59e161db2d21
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 246c39c3bfd8f59cd2dab9c3a1b942d36942370f
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 92c98d710c34f1304ddc0a2e8acfe09c4570e97c
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507740"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121637"
 ---
 # <a name="gdpr-discovery-protection-and-reporting-in-the-devtest-environment"></a>개발/테스트 환경에서 GDPR 검색, 보호 및 보고
 
@@ -35,7 +35,7 @@ ms.locfileid: "49507740"
 
 ## <a name="phase-1-create-and-configure-your-trial-microsoft-365-subscription"></a>1단계: 평가판 Microsoft 365 구독 만들기 및 구성하기
 
-먼저 [Microsoft 365 개발/테스트 환경](https://docs.microsoft.com/Office365/Enterprise/office-365-dev-test-environment#phase-2-create-an-office-365-trial-subscription) 문서의 2단계를 수행합니다.
+먼저 [Microsoft 365 개발/테스트 환경](/Office365/Enterprise/office-365-dev-test-environment#phase-2-create-an-office-365-trial-subscription) 문서의 2단계를 수행합니다.
 
 다음으로, eDiscovery 관리자를 구성하려면 다음 단계를 사용합니다.
 
@@ -99,7 +99,7 @@ ms.locfileid: "49507740"
 
 Contoso는 내부 서신, 외부 서신, 문서 및 기타 양식에서 항상 CCN을 사용하여 고객을 참조합니다. Microsoft 365 콘텐츠에서는 사용자 지정 중요한 항목 유형을 만들어 CCN의 사용을 감지할 수 있으므로 이러한 형식의 개인 식별 가능한 정보를 사용할 때 보호 기능을 적용할 수 있습니다.
 
-1. [보안 및 준수 센터 PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-scc-powershell)에 연결의 MFA(다단계 인증) 연결 지침을 사용하고 글로벌 관리자 계정의 UPN을 사용하여 보안 및 준수 센터에 연결합니다.
+1. [보안 및 준수 센터 PowerShell](/powershell/exchange/connect-to-scc-powershell)에 연결의 MFA(다단계 인증) 연결 지침을 사용하고 글로벌 관리자 계정의 UPN을 사용하여 보안 및 준수 센터에 연결합니다.
 
 2. 다음 PowerShell 명령을 실행합니다.
 

@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 2d4c319bd5c0d3d264ae67179dc4d55e0a0e4fe8
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 44df81658719397271020f38088d3287e67774a1
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508929"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121437"
 ---
 # <a name="general-data-protection-regulation-summary"></a>일반 데이터 보호 규정 요약
 
@@ -60,7 +60,7 @@ GDPR 표준을 충족하기 위해 다음과 같은 작업이 수행됩니다. �
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
 
-[Microsoft 준수 관리자](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 Enterprise E5 고객에게 이 규제에 대해 사전에 빌드된 평가를 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 평가 빌드를 위한 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
+[Microsoft 준수 관리자](/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 Enterprise E5 고객에게 이 규제에 대해 사전에 빌드된 평가를 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 평가 빌드를 위한 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
 
 ## <a name="data-subject-request-dsr"></a>DSR(데이터 주체 요청)
 
@@ -74,7 +74,7 @@ DSR에는 6가지 활동인 검색, 액세스, 수정, 제한, 내보내기 및 
 
 **데이터 원본이란 무엇인가요?**
 
-Excel 및 Outlook과 같은 [Office 응용 프로그램](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#using-the-content-search-ediscovery-tool-to-respond-to-dsrs)으로 조직 데이터의 상당 부분이 생성됩니다. Microsoft 제품 및 서비스에서 생성된 [인사이트](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365)와 [시스템 생성 로그](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs)에서도 DSR 관련 데이터를 찾을 수 있습니다.
+Excel 및 Outlook과 같은 [Office 응용 프로그램](/microsoft-365/compliance/gdpr-dsr-office365#using-the-content-search-ediscovery-tool-to-respond-to-dsrs)으로 조직 데이터의 상당 부분이 생성됩니다. Microsoft 제품 및 서비스에서 생성된 [인사이트](/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365)와 [시스템 생성 로그](/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs)에서도 DSR 관련 데이터를 찾을 수 있습니다.
 
 **어떤 종류의 데이터를 검색해야 하나요?**
 
@@ -82,7 +82,7 @@ Excel 및 Outlook과 같은 [Office 응용 프로그램](https://docs.microsoft.
 
 **개인 데이터는 어떤 방식으로 검색되나요?**
 
-개인 데이터 검색은 Microsoft 제품 및 서비스에 따라 다를 수 있습니다. 검색 도구에는 [콘텐츠 검색](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#using-the-content-search-ediscovery-tool-to-respond-to-dsrs) 또는 [앱 내 검색](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#using-in-app-functionality-to-respond-to-dsrs) 용량이 포함됩니다. 관리자는 사용자의 활동과 연결된 [시스템 생성 로그](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs)에 액세스할 수 있습니다.  
+개인 데이터 검색은 Microsoft 제품 및 서비스에 따라 다를 수 있습니다. 검색 도구에는 [콘텐츠 검색](/microsoft-365/compliance/gdpr-dsr-office365#using-the-content-search-ediscovery-tool-to-respond-to-dsrs) 또는 [앱 내 검색](/microsoft-365/compliance/gdpr-dsr-office365#using-in-app-functionality-to-respond-to-dsrs) 용량이 포함됩니다. 관리자는 사용자의 활동과 연결된 [시스템 생성 로그](/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs)에 액세스할 수 있습니다.  
 
 **개인 데이터는 어떤 형식으로 사용할 수 있어야 하나요?**
 
@@ -109,13 +109,13 @@ GDPR은 관리자에게 다음을 할 수 있도록 요구합니다.
 
 ## <a name="data-protection-impact-assessment"></a>데이터 보호 영향 평가
 
-GDPR에 따라 데이터 컨트롤러는 ‘자연인의 권리와 자유에 대한 높은 위험을 초래할 가능성이 있는’ 작업을 처리하기 위해 DPIA([데이터 보호 영향 평가](gdpr-data-protection-impact-assessments.md))를 준비해야 합니다. DPIA를 만들어야 하는 Microsoft 제품 및 서비스에는 아무것도 내제되어 있지 않습니다. 오히려 Microsoft 구성의 세부 정보에 따라 다릅니다. Office에서 고려해야 하는 세부 정보 목록은 [DPIA 콘텐츠](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dpia-office365#part-2--contents-of-a-dpia)에서 찾을 수 있습니다
+GDPR에 따라 데이터 컨트롤러는 ‘자연인의 권리와 자유에 대한 높은 위험을 초래할 가능성이 있는’ 작업을 처리하기 위해 DPIA([데이터 보호 영향 평가](gdpr-data-protection-impact-assessments.md))를 준비해야 합니다. DPIA를 만들어야 하는 Microsoft 제품 및 서비스에는 아무것도 내제되어 있지 않습니다. 오히려 Microsoft 구성의 세부 정보에 따라 다릅니다. Office에서 고려해야 하는 세부 정보 목록은 [DPIA 콘텐츠](/microsoft-365/compliance/gdpr-dpia-office365#part-2--contents-of-a-dpia)에서 찾을 수 있습니다
 
 ### <a name="dpia-faqs"></a>DPIA FAQ
 
 **DPIA는 언제 수행해야 하나요?**
 
-컨트롤러는 개인 데이터 보안 위험이나 데이터 위반이 발생할 경우 DPIA 조치를 수행해야 합니다. Office의 위험 요인에 대한 구체적인 예는 [DPIA가 필요한지 여부 파악](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dpia-office365#part-1--determining-whether-a-dpia-is-needed)에 나와 있습니다.  
+컨트롤러는 개인 데이터 보안 위험이나 데이터 위반이 발생할 경우 DPIA 조치를 수행해야 합니다. Office의 위험 요인에 대한 구체적인 예는 [DPIA가 필요한지 여부 파악](/microsoft-365/compliance/gdpr-dpia-office365#part-1--determining-whether-a-dpia-is-needed)에 나와 있습니다.  
 
 **DPIA를 완료하는 데 필요한 것은 무엇인가요?**
 
@@ -185,7 +185,7 @@ Microsoft에는 사용자에게 즉시 알리기 위한 정책 및 절차가 구
 
 ## <a name="accountability-readiness-checklists-for-the-gdpr"></a>GDPR에 대한 책임 준비 상태 검사 목록
 
-이러한 [검사 목록](gdpr-arc.md)은 Microsoft 제품 사용 시 GDPR을 지원하는 데 필요할 수 있는 정보에 편리하게 액세스할 수 있습니다. GDPR 타일의 고객 관리 컨트롤에서 컨트롤 ID 및 컨트롤 제목을 참조하여 [준수 관리자](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)를 통해 이 검사 목록의 항목을 관리할 수 있습니다.
+이러한 [검사 목록](gdpr-arc.md)은 Microsoft 제품 사용 시 GDPR을 지원하는 데 필요할 수 있는 정보에 편리하게 액세스할 수 있습니다. GDPR 타일의 고객 관리 컨트롤에서 컨트롤 ID 및 컨트롤 제목을 참조하여 [준수 관리자](/microsoft-365/compliance/compliance-manager)를 통해 이 검사 목록의 항목을 관리할 수 있습니다.
 
 ## <a name="gdpr-faqs"></a>GDPR FAQ
 

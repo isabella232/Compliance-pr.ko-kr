@@ -12,12 +12,12 @@ ms.service: O365-seccomp
 localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.collection: MS-Compliance
-ms.openlocfilehash: 7a3739afc42ba6397bb0b465b6f4a9c5806d2c16
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 15d59569102a5e39ac8641df6003b2999362e0bd
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508964"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121477"
 ---
 # <a name="gdpr-for-skype-for-business-server-and-lync-server"></a>비즈니스용 Skype 서버 및 Lync Server GDPR
 
@@ -35,8 +35,8 @@ ms.locfileid: "49508964"
 
 -   최종 사용자가 그룹 머리글을 마우스 오른쪽 단추로 클릭하고 복사를 선택하여 연락처를 직접 내보낼 수 있습니다. 그러면 해당 그룹의 모든 연락처가 클립보드에 복사되고, 그 후에는 원하는 앱에 붙여넣을 수 있습니다.
 
--   [Export-CsUserData](https://docs.microsoft.com/powershell/module/skype/export-csuserdata) cmdlet을 사용하여 이 데이터를 내보낼 수 있습니다.
+-   [Export-CsUserData](/powershell/module/skype/export-csuserdata) cmdlet을 사용하여 이 데이터를 내보낼 수 있습니다.
 
 모임에 업로드된 콘텐츠(예: PowerPoint 파일 또는 유인물) 또는 모임에서 생성된 콘텐츠(화이트보드, 설문 조사 또는 질문 및 답변)는 파일러(filer)에 저장됩니다. 이는 최종 사용자가 만료되지 않은 한 모임에 다시 로그인하고 업로드된 콘텐츠를 다운로드하거나 생성된 콘텐츠의 경우 스크린샷을 찍을 경우 내보낼 수 있습니다.
 
-Exchange 일정 및 연락처 목록 및 연락처 권한(가족, 동료 등)에 없는 MeetNow 모임은 사용자 데이터베이스에 있습니다. Lync Server 2013 이상에서는 [Export-CsUserData](https://docs.microsoft.com/powershell/module/skype/export-csuserdata) cmdlet을 사용하여 이 데이터를 내보낼 수 있습니다.
+Exchange 일정 및 연락처 목록 및 연락처 권한(가족, 동료 등)에 없는 MeetNow 모임은 사용자 데이터베이스에 있습니다. Lync Server 2013 이상에서는 [Export-CsUserData](/powershell/module/skype/export-csuserdata) cmdlet을 사용하여 이 데이터를 내보낼 수 있습니다.

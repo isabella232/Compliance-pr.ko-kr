@@ -19,12 +19,12 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: b86c855a113706731ac6037a2851ae0f1adaccb9
-ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
+ms.openlocfilehash: 527fb2d7ca1536c549990b0c7a4615e4fe3e8436
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50012964"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120497"
 ---
 # <a name="exchange-online-data-deletion-in-microsoft-365"></a>Microsoft 365에서 Exchange Online 데이터 지우기
 
@@ -48,13 +48,13 @@ Exchange Online에는 소프트 디클로저와 하드 디클로저의 두 가�
 
 ## <a name="soft-deleted-and-hard-deleted-items"></a>소프트 삭제 및 영구 삭제된 항목
 
-사용자가 사서함 항목(예: 전자 메일 메시지, 연락처, 일정 약속 또는 작업)을 삭제하면 항목이 복구 가능한 항목 폴더 및 "삭제"라는 하위 폴더로 이동됩니다. 이를 소프트 지우기라고 합니다. 삭제된 항목이 삭제 폴더에 보관되는 기간은 사서함에 대해 설정된 삭제된 항목 보존 기간에 따라 달라 습니다. Exchange Online 사서함은 기본적으로 14일 동안 삭제된 항목을 유지하지만 Exchange Online 관리자는 이 설정을 변경하여 기간을 최대 30일까지 늘일 수 있습니다. Exchange Online 사서함의 삭제된 항목 보존 기간을 늘리는 자세한 단계는 Exchange Online 사서함에 대해 영구적으로 삭제된 항목이 보관되는 기간 변경을 [참조하세요.](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/change-deleted-item-retention) 사용자는 삭제된 항목의 보존 기간이 만료되기 전에 삭제된 항목을 복구하거나 삭제할 수 있습니다. 이를 위해 Microsoft Outlook 또는 웹용 Outlook에서 지우기 항목 복구 기능을 사용하게 됩니다.
+사용자가 사서함 항목(예: 전자 메일 메시지, 연락처, 일정 약속 또는 작업)을 삭제하면 항목이 복구 가능한 항목 폴더 및 "삭제"라는 하위 폴더로 이동됩니다. 이를 소프트 지우기라고 합니다. 삭제된 항목이 삭제 폴더에 보관되는 기간은 사서함에 대해 설정된 삭제된 항목 보존 기간에 따라 달라 습니다. Exchange Online 사서함은 기본적으로 14일 동안 삭제된 항목을 유지하지만 Exchange Online 관리자는 이 설정을 변경하여 기간을 최대 30일까지 늘일 수 있습니다. Exchange Online 사서함의 삭제된 항목 보존 기간을 늘리는 자세한 단계는 Exchange Online 사서함에 대해 영구적으로 삭제된 항목이 보관되는 기간 변경을 [참조하세요.](/exchange/recipients-in-exchange-online/manage-user-mailboxes/change-deleted-item-retention) 사용자는 삭제된 항목의 보존 기간이 만료되기 전에 삭제된 항목을 복구하거나 삭제할 수 있습니다. 이를 위해 Microsoft Outlook 또는 웹용 Outlook에서 지우기 항목 복구 기능을 사용하게 됩니다.
 
-사용자가 Outlook 또는 웹용 Outlook에서 지우기 항목 복구 기능을 사용하여 삭제된 항목을 제거하면 이를 영구 삭제라고 합니다. Exchange Online에서는 새 사서함을 만들 때 단일 항목 복구가 기본적으로 [](https://docs.microsoft.com/Exchange/recipients/user-mailboxes/recover-deleted-messages) 사용하도록 설정되어 있으므로 관리자는 삭제된 항목 보존 기간이 만료되기 전에 영구 삭제된 항목을 복구할 수 있습니다. 또한 사용자 또는 프로세스에 의해 메시지가 변경된 경우 단일 항목 복구를 사용하도록 설정하면 원본 항목의 복사본도 보존됩니다.
+사용자가 Outlook 또는 웹용 Outlook에서 지우기 항목 복구 기능을 사용하여 삭제된 항목을 제거하면 이를 영구 삭제라고 합니다. Exchange Online에서는 새 사서함을 만들 때 단일 항목 복구가 기본적으로 [](/Exchange/recipients/user-mailboxes/recover-deleted-messages) 사용하도록 설정되어 있으므로 관리자는 삭제된 항목 보존 기간이 만료되기 전에 영구 삭제된 항목을 복구할 수 있습니다. 또한 사용자 또는 프로세스에 의해 메시지가 변경된 경우 단일 항목 복구를 사용하도록 설정하면 원본 항목의 복사본도 보존됩니다.
 
 ## <a name="page-zeroing"></a>페이지 비우기
 
-*비우기란* 삭제된 데이터를 복구하기가 더 어려워지기 위해 삭제된 데이터에 대해 0 또는 이진 패턴을 작성하는 보안 메커니즘입니다. Exchange Online에서 사서함 데이터베이스는 페이지를 저장소 단위로 사용하며 페이지 비우기라는 덮어 덮어 사용 *프로세스를 구현합니다.*  페이지 비우기는 기본적으로 사용하도록 설정되어 있으며 고객 또는 Microsoft에서 사용하지 않도록 설정할 수 없습니다. 페이지 비우기 작업은 트랜잭션 로그 파일에 기록됩니다. 따라서 주어진 데이터베이스의 모든 복사본이 비슷한 방식으로 페이지 비우기됩니다. 활성 데이터베이스 복사본의 페이지를 비우면 데이터베이스의 수동 복사본에서 페이지가 비게 됩니다.
+*비우기란* 삭제된 데이터 위에 0 또는 이진 패턴을 기록하여 삭제된 데이터를 복구하기가 더 어려운 보안 메커니즘입니다. Exchange Online에서 사서함 데이터베이스는 페이지를 저장소 단위로 사용하며 페이지 비우기라는 덮어 덮어 사용 *프로세스를 구현합니다.*  페이지 비우기는 기본적으로 사용하도록 설정되어 있으며 고객 또는 Microsoft에서 사용하지 않도록 설정할 수 없습니다. 페이지 비우기 작업은 트랜잭션 로그 파일에 기록됩니다. 따라서 주어진 데이터베이스의 모든 복사본이 비슷한 방식으로 페이지 비우기됩니다. 활성 데이터베이스 복사본의 페이지를 비우면 데이터베이스의 수동 복사본에서 페이지가 비게 됩니다.
 
 페이지 비우기에서는 영구 삭제된 레코드에 이진 패턴이 기록됩니다. 페이지 비우기 패턴은 ESE(Extensible Storage Engine) 작업(Exchange Online의 서버에서 사용하는 내부 데이터베이스 엔진의 이름)과 관련이 있으며 런타임 작업과 백그라운드 데이터베이스 유지 관리 작업에는 다릅니다. 백그라운드 데이터베이스 유지 관리는 각 데이터베이스를 지속적으로 체크 인하고 검사하는 프로세스입니다. 기본 기능은 데이터베이스 페이지를 체크 아웃하는 것이지만 저장소 크래시로 비우지 않은 레코드 및 페이지를 정리하고 비우는 작업도 처리합니다.
 

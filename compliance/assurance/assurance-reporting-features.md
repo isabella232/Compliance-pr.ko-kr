@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 보고 기능
-description: Azure Active Directory 및 Exchange Online을 포함 하 여 Microsoft 365 내의 다양 한 보고 기능에 대해 알아봅니다.
+description: Azure Active Directory 및 Exchange Online을 포함하여 Microsoft 365 내의 다양한 보고 기능에 대해 자세히 알아보십시오.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -18,20 +18,20 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: cbbeda134d30c25eea935d89eb49a2a68df0ad96
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: a745c470dc30703f438258985169431c1053e65d
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508115"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120787"
 ---
 # <a name="microsoft-365-reporting-features"></a>Microsoft 365 보고 기능
 
-Microsoft 365의 보고 기능은 Azure Active Directory (Azure AD), Exchange Online, 장치 관리, 관리 검토 및 DLP (데이터 손실 방지)에 대 한 다양 한 감사 보고서를 제공 합니다. 이러한 보고서는 Microsoft 365 활동 보고서와는 다릅니다.
+Microsoft 365의 보고 기능은 Azure AD(Azure Active Directory), Exchange Online, 장치 관리, 관리 검토 및 DLP(데이터 손실 방지)에 대한 다양한 감사 보고서를 제공합니다. 이러한 보고서는 Microsoft 365 활동 보고서와는 다릅니다.
 
 ## <a name="microsoft-365-reports-dashboard"></a>Microsoft 365 보고서 대시보드
 
-Microsoft 365 관리 센터 미리 보기의 보고서 대시보드에는 Microsoft 365의 사용 현황 활동이 표시 됩니다. Microsoft 365 전역 관리자 또는 Exchange Online, SharePoint Online 또는 비즈니스용 Skype 관리자는 해당 서비스의 사용에 대 한 세부 정보를 파악할 수 있습니다. 예를 들어 특정 Microsoft 365 서비스의 사용자 수, enterprise 용 Microsoft 365 앱이 정품 인증 된 사용자 수 (이전 명칭: Office 365 ProPlus), 그리고 조직을 통과 하는 메일의 양을 지정 합니다. 보고서는 최근 7, 30, 90 및 180 일 동안 사용할 수 있습니다.
+Microsoft 365 관리 센터 미리 보기의 보고서 대시보드에는 Microsoft 365의 사용 활동이 표시됩니다. Microsoft 365 전역 관리자 또는 Exchange Online, SharePoint Online 또는 비즈니스용 Skype 관리자는 해당 서비스의 사용 현황에 대한 세부 정보를 얻을 수 있습니다. 예를 들어 특정 Microsoft 365 서비스의 사용자 수, 엔터프라이즈용 Microsoft 365 앱(이전의 Office 365 ProPlus)을 정품 인증한 사용자 수, 조직을 통해 흐르는 메일의 양. 지난 7일, 30, 90 및 180일 동안 보고서를 사용할 수 있습니다.
 
 사용 가능한 보고서는 다음과 같습니다.
 
@@ -40,64 +40,64 @@ Microsoft 365 관리 센터 미리 보기의 보고서 대시보드에는 Micros
 - [SharePoint Online 사이트 사용 현황 보고서](https://support.office.com/article/Office-365-Reports-in-the-admin-center-preview--SharePoint-site-usage-4ecfb843-e5d5-464d-8bf6-7ed512a9b213)
 - [비즈니스용 OneDrive 사용 현황 보고서](https://support.office.com/article/Office-365-Reports-in-the-Admin-Center-Preview--OneDrive-for-Business-usage-0de3b312-c4e8-4e4b-a02d-32b2f726a680)
 - [Yammer 활동 보고서](https://support.office.com/article/View-the-Yammer-Activity-report-in-the-Office-365-admin-center-preview-c7c9f938-5b8e-4d52-b1a2-c7c32cb2312a)
-- [비즈니스용 Skype 활동 보고서](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/activity-report)
-- [비즈니스용 Skype 피어-투-피어 활동 보고서](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/peer-to-peer-activity-report)
-- [비즈니스용 Skype 전화 회의 구성 보고서](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/conference-organizer-activity-report)
-- [비즈니스용 Skype 전화 회의 참가자 활동 보고서](https://docs.microsoft.com/SkypeForBusiness/skype-for-business-online-reporting/conference-participant-activity-report)
+- [비즈니스용 Skype 활동 보고서](/SkypeForBusiness/skype-for-business-online-reporting/activity-report)
+- [비즈니스용 Skype 피어 투 피어 활동 보고서](/SkypeForBusiness/skype-for-business-online-reporting/peer-to-peer-activity-report)
+- [비즈니스용 Skype 회의 이끌이 보고서](/SkypeForBusiness/skype-for-business-online-reporting/conference-organizer-activity-report)
+- [비즈니스용 Skype 회의 참가자 활동 보고서](/SkypeForBusiness/skype-for-business-online-reporting/conference-participant-activity-report)
 
-자세한 내용은 [Microsoft 365 관리 센터의 활동 보고서](https://support.office.com/article/activity-reports-in-the-office-365-admin-center-0d6dfb17-8582-4172-a9a9-aed798150263)를 참조 하세요.
+자세한 내용은 [Microsoft 365](https://support.office.com/article/activity-reports-in-the-office-365-admin-center-0d6dfb17-8582-4172-a9a9-aed798150263)관리 센터의 활동 보고서를 참조하세요.
 
 ## <a name="azure-ad-reports"></a>Azure AD 보고서
 
-Microsoft 365에서는 인증 및 id 관리를 위해 Azure AD를 사용 합니다. Microsoft 365 관리자는 Azure에서 생성 된 보고서를 사용 하 여 비정상적인 활동을 식별 하 고 데이터에 대 한 무단 액세스를 확인 합니다. Azure AD에서 액세스 및 사용 현황 보고서를 사용 하 여 조직의 디렉터리 무결성 및 보안을 확인할 수 있습니다. 이 정보를 사용 하면 발생할 수 있는 보안 위험을 식별 하 고 완화할 수 있습니다.
+Microsoft 365는 인증 및 ID 관리에 Azure AD를 사용 합니다. Microsoft 365 관리자는 Azure에서 생성된 보고서를 사용하여 비정상적인 활동 및 데이터에 대한 무단 액세스를 식별합니다. Azure AD의 액세스 및 사용 현황 보고서를 사용하여 조직의 디렉터리 무결성 및 보안을 볼 수 있습니다. 이 정보를 사용하여 가능한 보안 위험을 식별하고 완화할 수 있습니다.
 
-Azure AD 보고서는 Microsoft Excel로 내보내고 Microsoft 365의 다른 데이터와 상호 연관 될 수 있습니다. 예를 들어 감사 로그 검색의 결과는 액세스, 인증 및 응용 프로그램 수준 작업에 대 한 통찰력을 제공할 수 있습니다. Azure AD Premium에서는 고급 변칙 및 리소스 사용 현황 보고서를 사용할 수 있습니다. 이러한 고급 보고서는 보안 환경을 개선 하 고 장치 액세스 및 응용 프로그램 사용에 대 한 분석을 적용 하 여 잠재적 위협에 대처 하는 데 도움이 됩니다. 자세한 내용은 [Azure Active Directory 보고](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports/)를 참조 하세요.
+Azure AD 보고서를 Microsoft Excel로 내보내고 Microsoft 365의 다른 데이터와 상호 관련될 수 있습니다. 예를 들어 감사 로그 검색 결과를 통해 액세스, 인증 및 응용 프로그램 수준 활동에 대한 정보를 얻을 수 있습니다. 고급 이상 및 리소스 사용 현황 보고서는 Azure AD Premium에서 사용할 수 있습니다. 이러한 고급 보고서는 보안 자세를 개선하고 장치 액세스 및 응용 프로그램 사용에 대한 분석을 적용하여 잠재적인 위협에 대응하는 데 도움이 됩니다. 자세한 내용은 [Azure Active Directory 보고를 참조하세요.](/azure/active-directory/reports-monitoring/overview-reports/)
 
 ## <a name="exchange-online-audit-reports"></a>Exchange Online 감사 보고서
 
-Exchange Online 감사 보고서에는 사서함 액세스에 대 한 세부 정보와 관리자가 Exchange Online 테 넌 트에 수행한 변경 내용이 포함 됩니다. 사서함 감사를 사용 하 여 다음 표의 작업을 사용 하 여 보고서를 실행 하 고 Exchange Online 감사 로그를 내보낼 수 있습니다.
+Exchange Online 감사 보고서에는 사서함 액세스 및 관리자가 Exchange Online 테넌트에 변경한 내용에 대한 세부 정보가 포함됩니다. 사서함 감사를 사용하면 다음 표의 작업을 사용하여 보고서를 실행하고 Exchange Online 감사 로그를 내보낼 수 있습니다.
 
 > [!NOTE]
-> 감사 된 이벤트가 해당 사서함에 대 한 감사 로그에 저장 되도록 각 사서함에 대해 사서함 감사 로깅을 사용 하도록 설정 해야 합니다. 사서함에 대해 사서함 감사 로깅을 사용 하도록 설정 되지 않은 경우 해당 사서함에 대 한 이벤트는 감사 로그에 저장 되지 않으며 사서함 감사 보고서에 나타나지 않습니다. 자세한 내용은 [사서함 감사 사용](https://support.office.com/article/Enable-mailbox-auditing-in-Office-365-aaca8987-5b62-458b-9882-c28476a66918)을 참조 하십시오.
+> 감사된 이벤트가 해당 사서함에 대한 감사 로그에 저장될 수 있도록 각 사서함에 대해 사서함 감사 로깅을 사용하도록 설정해야 합니다. 사서함에 대해 사서함 감사 로깅을 사용하도록 설정하지 않은 경우 해당 사서함에 대한 이벤트가 감사 로그에 저장되지 않습니다. 사서함 감사 보고서에는 나타나지 않습니다. 자세한 내용은 사서함 [감사를 사용하도록 설정하세요.](https://support.office.com/article/Enable-mailbox-auditing-in-Office-365-aaca8987-5b62-458b-9882-c28476a66918)
 
-| 작업 | 설명 |
+| 작업  | 설명 |
 |----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [비 소유자 사서함 액세스 보고서 실행](https://docs.microsoft.com/exchange/security-and-compliance/exchange-auditing-reports/non-owner-mailbox-access-report) | 사서함의 소유자가 아닌 다른 사용자가 액세스 한 사서함 목록을 표시 합니다. 이 보고서에는 사서함에 액세스 한 사람, 사서함에서 수행한 작업 및 작업이 성공 했는지 여부에 대 한 정보가 포함 됩니다. |
-| [사서함 감사 로그 내보내기](https://docs.microsoft.com/exchange/security-and-compliance/exchange-auditing-reports/export-mailbox-audit-logs) | 사서함 감사 로그에는 사서함 소유자가 아닌 다른 사용자가 수행한 사서함의 액세스 및 작업에 대 한 정보가 포함 됩니다. 관리자는 날짜 범위와 함께 사서함을 지정 하 여 보고서를 생성할 수 있습니다. 로그는 XML로 내보내고, 메시지에 첨부 되며, 관리자가 결정 하는 특정 사용자에 게 전송 됩니다. |
-| [관리자 역할 그룹 보고서 실행](https://docs.microsoft.com/Office365/SecurityCompliance/eop/run-an-administrator-role-group-report-in-eop-eop) | 관리자 역할 그룹은 사용자에 게 관리 권한을 할당 합니다. 이러한 권한을 통해 사용자는 암호 다시 설정, 사서함 만들기 또는 수정, 다른 사용자에 게 관리자 권한 할당 등의 관리 작업을 수행할 수 있습니다. 관리자 역할 그룹 보고서에는 구성원 추가 또는 제거를 비롯 하 여 역할 그룹에 대 한 변경 내용이 표시 됩니다. |
-| [관리자 감사 로그 보기](https://docs.microsoft.com/exchange/security-and-compliance/exchange-auditing-reports/view-administrator-audit-log) | 관리 감사 로그 보고서에는 Exchange Online의 관리자가 수행한 모든 create, update 및 delete 함수가 나열 됩니다. 로그 항목은 실행 된 cmdlet, 사용 된 매개 변수, cmdlet을 실행 한 사용자 및 영향을 받은 개체에 대 한 정보를 제공 합니다. |
-| [사서함 콘텐츠 검색 및 유지](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) | 사서함에 대 한 In-Place eDiscovery 또는 In-Place 보존 설정에 대 한 자세한 정보를 제공 합니다. |
-| [관리자 감사 로그 내보내기](https://docs.microsoft.com/exchange/security-and-compliance/exchange-auditing-reports/search-role-group-changes) | 관리자 감사 로그에는 Exchange Online의 만들기, 업데이트 및 삭제와 같은 특정 관리 작업이 기록 됩니다. 로그의 결과가 XML로 내보내지고 관리자가이 로그를 사용자 집합에 보내도록 선택할 수 있습니다. |
-| [사서함 단위 소송 보존 보고서 실행](https://docs.microsoft.com/exchange/security-and-compliance/exchange-auditing-reports/per-mailbox-litigation-hold-report) | 사서함에 대 한 소송 보존 설정의 변경 사항에 대해 설명 합니다. |
-| [외부 관리자 감사 로그 보기 및 내보내기](https://docs.microsoft.com/exchange/security-and-compliance/exchange-auditing-reports/view-external-admin-audit-log) | 외부 관리자가 수행한 작업에 대 한 세부 정보를 포함 합니다. 이 항목은 실행 된 cmdlet, 사용 된 매개 변수, Exchange Online에서 개체를 생성, 수정 또는 삭제 하는 모든 작업에 대 한 정보를 제공 합니다. |
+| [비 소유자 사서함 액세스 보고서 실행](/exchange/security-and-compliance/exchange-auditing-reports/non-owner-mailbox-access-report) | 사서함 소유자가 다른 사용자가 액세스한 사서함 목록을 표시됩니다. 이 보고서에는 사서함에 액세스한 사용자, 사서함에서 수행한 작업 및 작업이 성공적이지 여부에 대한 정보가 포함되어 있습니다. |
+| [사서함 감사 로그 내보내기](/exchange/security-and-compliance/exchange-auditing-reports/export-mailbox-audit-logs) | 사서함 감사 로그에는 사서함 소유자가 아는 사용자가 수행한 사서함의 액세스 및 작업에 대한 정보가 포함되어 있습니다. 관리자는 날짜 범위와 함께 사서함을 지정하여 보고서를 생성할 수 있습니다. 로그는 XML로 내보내고 메시지에 첨부되어 관리자가 결정한 특정 사용자에게 전송됩니다. |
+| [관리자 역할 그룹 보고서 실행](/Office365/SecurityCompliance/eop/run-an-administrator-role-group-report-in-eop-eop) | 관리자 역할 그룹은 사용자에게 관리 권한을 할당합니다. 이러한 권한을 통해 사용자는 암호 재설정, 사서함 만들기 또는 수정, 다른 사용자에게 관리자 권한 할당 등의 관리 작업을 수행할 수 있습니다. 관리자 역할 그룹 보고서에는 구성원 추가 또는 제거를 비롯한 역할 그룹의 변경 내용이 표시됩니다. |
+| [관리자 감사 로그 보기](/exchange/security-and-compliance/exchange-auditing-reports/view-administrator-audit-log) | 관리자 감사 로그 보고서에는 Exchange Online에서 관리자가 수행한 모든 만들기, 업데이트 및 삭제 기능이 나열됩니다. 로그 항목은 실행된 cmdlet, 사용된 매개 변수, cmdlet을 실행한 사용자 및 영향을 받은 개체에 대한 정보를 제공합니다. |
+| [사서함 콘텐츠 검색 및 보류](/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) | 사서함의 eDiscovery 또는 In-Place 보류 설정에 대한 In-Place 세부 정보를 제공합니다. |
+| [관리자 감사 로그 내보내기](/exchange/security-and-compliance/exchange-auditing-reports/search-role-group-changes) | 관리자 감사 로그는 Exchange Online에서 만들기, 업데이트 및 삭제와 같은 특정 관리 작업을 기록합니다. 로그의 결과는 XML로 내보내지며 관리자는 이 로그를 사용자 집합에게 보내기 위해 선택할 수 있습니다. |
+| [사서함 단위 소송 보존 보고서 실행](/exchange/security-and-compliance/exchange-auditing-reports/per-mailbox-litigation-hold-report) | 사서함의 소송 보류 설정에 대한 변경 내용에 대한 세부 정보를 제공합니다. |
+| [외부 관리자 감사 로그 보기 및 내보내기](/exchange/security-and-compliance/exchange-auditing-reports/view-external-admin-audit-log) | 외부 관리자가 수행한 작업에 대한 세부 정보가 들어 있습니다. 이 항목은 실행된 cmdlet, 사용된 매개 변수 및 Exchange Online에서 개체를 만들거나 수정하거나 삭제하는 작업에 대한 정보를 제공합니다. |
 
 ## <a name="device-compliance-reports"></a>장치 준수 보고서
 
-Microsoft 365에 대 한 기본 모바일 및 보안을 사용 하 여 구독에 연결 된 모바일 장치를 관리 하 고 보호 합니다. 회사 전자 메일, 일정, 연락처 및 문서에 액세스 하는 데 사용 되는 모바일 장치는 직원이 언제 어디서 나 작업할 수 있도록 하기 위해 중요 한 부분을 재생 합니다. 조직의 정보를 보호 하는 것이 중요 합니다. Microsoft 365에 대 한 기본 모바일 및 보안을 사용 하 여 장치 보안 정책 및 액세스 규칙을 설정 합니다. 분실 하거나 도난당 한 경우 Microsoft 365에 대 한 기본 모바일 및 보안을 사용 하 여 모바일 장치를 초기화 하기도 합니다.
+Microsoft 365용 Basic Mobility and Security를 사용하여 구독에 연결된 모바일 장치를 관리하고 보호합니다. 회사 전자 메일, 일정, 연락처 및 문서에 액세스하는 데 사용되는 모바일 장치는 직원들이 언제 어디서나 작업할 수 있도록 하는 데 중요한 역할을 합니다. 조직의 정보를 보호하는 것이 중요합니다. Microsoft 365용 기본 이동성 및 보안을 사용하여 장치 보안 정책 및 액세스 규칙을 설정할 수 있습니다. 분실하거나 도난당한 경우 Microsoft 365용 Basic Mobility and Security를 사용하여 모바일 장치를 지울 수도 있습니다.
 
-기본 이동성 및 보안 준수 보고서는 조직에서 Microsoft 365 데이터에 액세스 하는 모바일 장치를 보호 하기 위해 설정한 정책에 대 한 개요를 제공 합니다. 이 보고서를 사용 하면 준수 상태, 보고 된 위반, 차단 된 장치 및 보안 정책의 결과로 초기화 되는 장치의 수를 기준으로 디바이스를 필터링 할 수 있습니다. 자세한 내용은 [기본 이동성 및 Microsoft 365의 보안 개요](https://support.microsoft.com/office/overview-of-basic-mobility-and-security-for-microsoft-365-faa7d8e5-645d-4d59-839c-c8d4c1869e4a)를 참조 하세요.
+기본 모바일 및 보안 준수 보고서는 Microsoft 365 데이터에 액세스하는 모바일 장치를 보호하기 위해 조직에서 설정한 정책의 개요를 제공합니다. 이 보고서를 통해 준수 상태, 보고된 위반, 차단된 장치 및 보안 정책의 결과로 지워진 장치 수를 필터링할 수 있습니다. 자세한 내용은 [Microsoft 365의 기본 이동성 및 보안 개요를 참조하세요.](https://support.microsoft.com/office/overview-of-basic-mobility-and-security-for-microsoft-365-faa7d8e5-645d-4d59-839c-c8d4c1869e4a)
 
 ## <a name="data-loss-prevention"></a>데이터 손실 방지
 
-DLP 정책은 조직의 정보 보안 및 흐름을 관리 하는 데 도움이 됩니다. 응용 프로그램 DLP 정책 팁을 사용 하 여 콘텐츠에 대 한 액세스를 차단 하거나, 데이터를 암호화 하거나, 정책 및 정책 위반을 사용자에 게 알리기 위해 정책을 설정할 수 있습니다. DLP 보고서는 정책 및 규칙 일치, 재정의 및 가양성의 수에 대 한 통찰력을 제공 합니다.
+DLP 정책은 조직에서 정보의 보안 및 흐름을 관리하는 데 도움이 됩니다. 콘텐츠에 대한 액세스를 차단하거나, 데이터를 암호화하거나, 응용 프로그램 내 DLP 정책 팁을 사용하여 정책 및 정책 위반을 알리는 정책을 설정할 수 있습니다. DLP 보고서는 정책 및 규칙 일치, 다시 적용 및 가짓 긍정 수에 대한 정보를 제공합니다.
 
-Microsoft 365 관리 센터를 사용 하 여 DLP 정책에서 검색 된 메시지 수에 대 한 정보를 볼 수 있습니다. DLP 보고서는 보내고 받은 메일에 대 한 정책 및 규칙 일치 항목에 대 한 정보를 제공 합니다. 또한 Exchange 관리 센터를 사용 하 여 지난 24 시간 내 각 정책에 대 한 일치, 재정의 및 가양성의 수를 확인할 수 있습니다. Excel 보고서를 다운로드 하는 경우 메시지를 보낸 사람, 요일 및 트리거된 정책 일치 항목 등 보다 자세한 정보를 볼 수 있습니다. 자세한 내용은 [DLP 정책 검색에 대 한 보고서 보기](https://docs.microsoft.com/previous-versions/exchange-server/exchange-150/jj889415(v=exchg.150))를 참조 하세요.
+Microsoft 365 관리 센터를 사용하여 DLP 정책에서 검색된 메시지 수에 대한 정보를 볼 수 있습니다. DLP 보고서는 보내고 받은 메일에 대한 정책 및 규칙 일치에 대한 정보를 제공합니다. Exchange 관리 센터를 사용하여 지난 24시간 이내에 각 정책에 대한 일치 횟수, 다시 설정 및 가짓 긍정을 볼 수도 있습니다. Excel 보고서를 다운로드하는 경우 메시지를 보낸 사람, 특정 일, 트리거된 정책 일치 등의 세부 정보를 볼 수 있습니다. 자세한 내용은 DLP 정책 검색에 대한 보고서 [보기를 참조하세요.](/previous-versions/exchange-server/exchange-150/jj889415(v=exchg.150))
 
-## <a name="auditing-in-yammer-enterprise"></a>Yammer Enterprise에서의 감사
+## <a name="auditing-in-yammer-enterprise"></a>Yammer Enterprise의 감사
 
-Yammer Enterprise는 관리자에 게 yammer [데이터 내보내기 API](https://support.office.com/article/export-data-from-yammer-enterprise-b303d8f3-007d-4ad4-81f8-54fb1ecfb3f2)를 통해 yammer 네트워크에서 사용자 활동 데이터를 내보내거나 yammer 네트워크 관리 페이지를 통해 수동으로 이동할 수 있는 기능을 제공 합니다. 로그를 내보내는 기능은 Yammer의 네트워크 관리자만 사용할 수 있습니다. 모든 Microsoft 365 전역 관리자는 Yammer 네트워크 관리자입니다.
+Yammer Enterprise는 Yammer 데이터 내보내기 [API를](https://support.office.com/article/export-data-from-yammer-enterprise-b303d8f3-007d-4ad4-81f8-54fb1ecfb3f2)통해 또는 Yammer 네트워크 관리 페이지를 통해 수동으로 Yammer 네트워크에서 사용자 활동 데이터를 내보낼 수 있는 기능을 관리자에게 제공합니다. 로그를 내보낼 수 있는 권한은 해당 로그의 네트워크 관리자로 Yammer. (모든 Microsoft 365 전역 관리자는 네트워크 Yammer 관리자입니다.)
 
 다음 데이터를 내보낼 수 있습니다.
 
 | 파일 이름 | 설명 |
 |----------------------------|-------------------------------------------------------------------------|
-| Users.csv | 네트워크의 모든 신규, 보류 중 및 일시 중단 된 사용자 |
+| Users.csv | 네트워크의 모든 새 사용자, 보류 중인 사용자 및 일시 중단된 사용자 |
 | Messages.csv | 네트워크의 모든 메시지 |
-| Files.csv (메타 데이터) | 파일 이름, 파일 API URL, 업 로더 ID, 업로드 위치 등의 메타 데이터 |
-| Files.csv (원본 파일) | 사용자가 Yammer에 업로드 한 원본 파일의 Zip 파일 |
-| Topics.csv | 네트워크에 만들어지는 항목 |
-| Pages.csv | 네트워크에서 사용자가 만든 페이지 (메모) |
-| Admins.csv | 네트워크의 모든 확인 된 관리자 |
+| Files.csv(메타데이터) | 파일 이름, 파일 API URL, 업로더 ID, 업로드한 항목 등의 메타데이터 |
+| Files.csv(원본 파일) | 사용자가 파일로 업로드한 원본 파일의 zip Yammer |
+| Topics.csv | 네트워크에서 만든 항목 |
+| Pages.csv | 네트워크의 사용자가 만든 페이지(메모) |
+| Admins.csv | 네트워크에서 확인된 모든 관리자 |
 | Networks.csv | 모든 Yammer 외부 네트워크 |
 
-Yammer Enterprise 데이터는 Microsoft 365 활동 보고서를 통해 제공 되기도 합니다. 또한 Yammer는 Microsoft 365 관리 활동 API를 통해 추가 로깅을 제공 하 고 Power BI를 사용 하 여 데이터에 대 한 이유를 제공 합니다. 이러한 기능에 대 한 자세한 내용은 [Office 로드맵](https://fasttrack.microsoft.com/roadmap?filters=yammer) 를 참조 하세요.
+Yammer 엔터프라이즈 데이터는 Microsoft 365 활동 보고서를 통해서도 사용할 수 있습니다. 또한 Yammer Microsoft 365 관리 활동 API를 통해 추가 로깅을 노출하고 Power BI를 사용하여 데이터를 추론하는 기능을 적극적으로 사용하고 있습니다. 이러한 기능에 대한 자세한 내용은 [Office](https://fasttrack.microsoft.com/roadmap?filters=yammer) 로드맵을 참조하세요.

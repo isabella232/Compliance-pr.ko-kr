@@ -1,6 +1,6 @@
 ---
-title: US 수출 관리 규정 (귀)
-description: Microsoft 클라우드 서비스 지원 고객이 미국 수출 관리 규정 (귀)이 준수 요구 사항을 충족 하 고 수출 통제 위험을 관리 하는 데 도움이 됩니다.
+title: EAR(미국 수출 관리 규정)
+description: Microsoft 클라우드 서비스는 EAR(미국 수출 관리 규정)를 준수하는 고객이 규정 준수 요구 사항을 충족하고 수출 제어 위험을 관리하는 데 도움이 됩니다.
 keywords: Microsoft 365, 규정 준수, 제안
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,81 +16,81 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ec70c3cd09302445d3e7b4e2ac394837cdabe557
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: fbc8166770a3ad2539264bbf76319116a2c306a9
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508275"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120007"
 ---
-# <a name="us-export-administration-regulations-ear"></a>US 수출 관리 규정 (귀)
+# <a name="us-export-administration-regulations-ear"></a>EAR(미국 수출 관리 규정)
 
-## <a name="about-the-ear"></a>귀 정보
+## <a name="about-the-ear"></a>About the EAR
 
-Commerce의 미국 부서에서는 [업계 및 보안 기관 (BIS)](https://www.bis.doc.gov/)을 통해 귀를 들을 때 관리 규정을 적용 합니다. 귀는 상업용 및 군사 목적 및 특정 방어 아이템에 모두 사용할 수 있는 "이중 사용" 항목을 포함 하 여 대부분의 상업용 상품, 소프트웨어 및 기술에 대 한 내보내기 및 다시 내보내기에 대 한 제어를 제어 하 고 적용 합니다.
+미국 상무부는 [BIS(Bureau of Industry and Security)를 통해 EAR(수출](https://www.bis.doc.gov/)관리 규정)를 적용합니다. EAR는 상업용 및 군용 목적과 특정 방어 항목에 모두 사용할 수 있는 "이중 사용" 항목을 포함하여 대부분의 상업용 제품, 소프트웨어 및 기술의 수출 및 재수출에 대한 제어를 광범위하게 제어하고 부과합니다.
 
-BIS 지침은 데이터 나 소프트웨어가 클라우드에 업로드 되거나 사용자 노드 간에 전송 되는 경우, 즉 클라우드 공급자가 아닌 고객은 해당 데이터 또는 소프트웨어에 대 한 전송, 저장 및 액세스를 보장 하는 "내보내기"를 담당 합니다.
+BIS 지침은 데이터 또는 소프트웨어가 클라우드에 업로드되거나 사용자 노드 간에 전송될 때 클라우드 공급자가 아닌 고객은 해당 데이터 또는 소프트웨어의 전송, 저장 및 액세스가 EAR를 준수하는지 보장할 책임이 있는 "수출자"입니다.
 
-[BIS에 따르면](https://www.bis.doc.gov/index.php/documents/regulation-docs/412-part-734-scope-of-the-export-administration-regulations/file) *export* 는 보호 된 기술 또는 기술 데이터를 외부 대상에 전송 하거나 미국 내에 있는 외부 사용자에 게 배포 하는 것을 의미 합니다 (이 *내보내기가* 라고도 함). 대체로 다음과 같은 사항을 제어 합니다.
+[BIS에](https://www.bis.doc.gov/index.php/documents/regulation-docs/412-part-734-scope-of-the-export-administration-regulations/file)따라 *수출은* 보호된 기술 또는 기술 데이터를 미국의 외계인에게 전송하는 것을 지칭합니다(수출로도 지칭).  EAR는 광범위하게 다음을 관리합니다.
 
-- 미국에서 내보냅니다.
-- 미국-원본 항목 및 특정 외부 원본 항목을 US-원본 콘텐츠의 *de-de minimis* 부분으로 다시 가져오거나 전송 합니다.
-- 다른 국가에서 사용자에 게 전송 또는 공개
+- 미국에서 내보낼 수 있습니다.
+- 미국 원산지 콘텐츠의 일부를 최소화하는 부분 이상으로 미국 원점  항목 및 특정 외래 원산지 항목을 다시 내보내거나 다시 전달합니다.
+- 다른 국가에서 개인에게 전송 또는 공개.
 
-귀를 들을 수 있는 항목은 각 항목이 고유한 [수출 통제 분류 번호 (ECCN)](https://www.bis.doc.gov/index.php/licensing/commerce-control-list-classification/export-control-classification-number-eccn)를 할당 하는 CCL (Commerce Control 목록)에서 찾을 수도 있습니다. CCL에 나열 되지 않은 항목은 EAR99으로 지정 되며 대부분의 EAR99 상업용 제품에는 라이선스가 필요 하지 않습니다. 그러나 대상, 최종 사용자 또는 최종 사용에 따라 항목을 EAR99 항목에도 BIS 내보내기 라이선스가 필요할 수 있습니다.
+EAR가 적용된 항목은 각 항목에 고유한 [ECCN(내보내기](https://www.bis.doc.gov/index.php/licensing/commerce-control-list-classification/export-control-classification-number-eccn)제어 분류 번호)이 할당된 CCL(상거래 제어 목록)에서 찾을 수 있습니다. CCL에 나열되지 않은 항목은 EAR99로 지정되고 대부분의 EAR99 상업용 제품에는 라이선스를 내보낼 필요가 없습니다. 그러나 항목의 대상, 최종 사용자 또는 최종 사용에 따라 EAR99 항목에도 BIS 내보내기 라이선스가 필요할 수 있습니다.
 
-7 월 2016에 게시 된 [최종 규칙](https://www.federalregister.gov/documents/2016/06/03/2016-12734/revisions-to-definitions-in-the-export-administration-regulations)은 FIPS 140-2 유효성이 검사 된 암호화 모듈을 사용 하 여 암호화 되지 않은 종단간 기술 데이터 및 소프트웨어의 전송 및 저장에도 일반 라이선스 요구 사항이 적용 되지 않는다는 것을 명확 하 게 설명 했으며, 사용자가 군사-수출 금지 국가 또는 러시아어 연합에 고의적으로 저장 되지 않았습니다.
+2016년 6월에 게시된 최종 규칙은 FIPS 140-2의 유효성을 검사한 암호화 모듈을 사용하여 종단간 암호화되고 의도적으로 군 수출이 금지된 국가 또는 러시아 페더링에 저장되지 않은 경우, EAR 라이선스 요구 사항이 미분 분석된 기술 데이터 및 소프트웨어의 전송 및 저장에도 적용되지 않는다는 사실이 명확히 설명되었습니다. [](https://www.federalregister.gov/documents/2016/06/03/2016-12734/revisions-to-definitions-in-the-export-administration-regulations)
 
-## <a name="microsoft-and-the-ear"></a>Microsoft 및 귀
+## <a name="microsoft-and-the-ear"></a>Microsoft와 EAR
 
-Microsoft 기술, 제품 및 서비스는 귀를 들을 수 있습니다. 귀, Microsoft Azure, Microsoft Azure 정부 및 Microsoft Office 365 정부 (GCCHigh 및 DoD 환경)에 대 한 준수 인증을 제공 하는 경우에는 적절 한 고객이 귀 관리 및 해당 준수 요구 사항을 충족 하는 데 도움이 되는 중요 한 기능과 도구를 소개 합니다.
+Microsoft 기술, 제품 및 서비스는 미국 EAR(수출 관리 규정)의 적용을 습니다. EAR에 대한 준수 인증은 없는 반면, Microsoft Azure, Microsoft Azure Government 및 Microsoft Office 365 Government(GCCHigh 및 DoD 환경)는 EAR의 수출 제어 위험을 관리하고 규정 준수 요구 사항을 충족하는 데 도움이 되는 중요한 기능 및 도구를 제공합니다.
 
-귀를 적용 하는 미국 Commerce 부서는 고객 들이 Microsoft와 같은 클라우드 서비스 공급자가 아닌 고객에 게 해당 사용자의 내보내기 도구으로 간주 되는 위치를 결정 했습니다. 대부분의 고객 데이터는 귀 수출 통제의 "기술" 또는 "기술 데이터"로 간주 되지 않지만 Microsoft의 범위 내 클라우드 서비스는 고객이 직면 하는 잠재적 수출 통제 위험을 관리 하 고 크게 완화 하는 데 도움이 되도록 구성 됩니다. Microsoft는 단독으로 사용 하는 경우에만 정부 클라우드 서비스를 사용할 것을 권장 합니다. 적절 한 계획을 통해 고객은 다음 도구와 자체 내부 절차를 사용 하 여 US 수출 통제를 완벽 하 게 준수 하도록 할 수 있습니다.
+EAR를 적용하는 미국 상무부는 Microsoft와 같은 클라우드 서비스 공급자가 아닌 고객이 자체 고객 데이터의 내보내기 업체로 간주되는 입장을 가지고 있습니다. 대부분의 고객 데이터는 EAR 내보내기 제어의 대상이 되는 "기술" 또는 "기술 데이터"로 간주되지는 않는 반면, Microsoft 범위 내 클라우드 서비스는 고객이 직면할 수 있는 수출 제어 위험을 관리하고 크게 완화하는 데 도움이 있도록 구성됩니다. Microsoft는 일반적으로 적격 고객을 위해 정부 클라우드 서비스를 사용하는 것이 좋습니다. 적절한 계획을 통해 고객은 다음 도구와 자체 내부 절차를 사용하여 미국 수출 제어를 완전하게 준수할 수 있습니다.
 
-- **데이터 위치에 대 한 컨트롤** 고객은 데이터를 저장 하 고 강력한 도구에 액세스 하 여 저장소를 제한 하는 것을 볼 수 있습니다. 따라서 데이터를 미국에 저장 하 고, 제어 되는 기술 또는 미국 이외의 기술 데이터의 전송을 최소화할 수 있습니다. 또한 고객 데이터는 순응 하지 않는 위치에 저장 되지 않으며, 데이터를 "의도적으로 저장" 하는 위치에 대 한 귀 prohibitions와 일치 합니다.
-- **종단 간 암호화** 귀에 지정 된 실제 저장소 위치에 대 한 종단 간 암호화 안전한 harbor를 활용 하 여 Microsoft의 범위 내 클라우드 서비스는 내보내기 제어 위험 으로부터 보호 하는 데 도움이 되는 암호화 기능을 제공 합니다. 또한 전송 및 휴지에서 [데이터를 암호화 하는 다양 한 옵션과](https://aka.ms/Azure-Encryption-Overview) 암호화 옵션 중에서 선택할 수 있는 유연성을 제공 합니다.
-- **인증 되지 않은 것으로 간주 되는 내보내기를 방지 하기 위한 도구 및 프로토콜** 또한 암호화를 사용 하면 비 US 사용자에 게 암호화 된 데이터에 대 한 액세스 권한이 있더라도 암호화 된 데이터를 읽거나 이해할 수 없는 경우에도 확인 되지 않는 잠재적으로 간주 되는 내보내기 (또는 다시 내보내기)를 방지할 수 있습니다. 따라서 제어 되는 데이터는 "릴리스" 되지 않습니다.
+- **데이터 위치에 대한 컨트롤입니다.** 고객은 데이터가 저장되는 위치에 대한 가시성을 확보하고 강력한 도구에 액세스하여 저장소를 제한할 수 있습니다. 따라서 데이터가 미국에 저장되도록 보장하고 제어된 기술 또는 기술 데이터의 미국 외부 전송을 최소화할 수 있습니다. 또한 고객 데이터는 준수되지 않는 위치에 저장되지 않습니다. 즉, 데이터가 "의도적으로 저장"된 위치에 대한 EAR 금지 사항과 일치합니다. Azure 데이터 센터는 25개 그룹 D:5 국가 또는 러시아 페더링에 없습니다.
+- **종단 내 암호화.** EAR에 지정된 물리적 저장소 위치에 대한 종단별 암호화 안전한 보호 기능을 활용하는 Microsoft 범위 내 클라우드 서비스는 내보내기 제어 위험을 방지하는 데 도움이 될 수 있는 암호화 기능을 제공합니다. 또한 고객에게 전송 [](https://aka.ms/Azure-Encryption-Overview) 중 및 미사용 데이터를 암호화하는 다양한 옵션과 암호화 옵션 중에서 선택할 수 있는 유연성을 제공합니다.
+- **무단으로 사용되는 내보내기 작업을 방지하는 도구 및 프로토콜입니다.** 암호화를 사용하면 EAR에서 잠재적으로 것으로 생각되는 내보내기(또는 다시 내보내기로 보임)로부터 보호하는 데도 도움이 됩니다. 미국이 아닌 사용자가 암호화된 데이터에 액세스할 수 있는 경우에도 암호화된 동안 데이터를 읽거나 이해할 수 없는 경우에도 아무 것도 노출되지 않습니다. 따라서 제어된 데이터의 "릴리스"가 없습니다.
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
 
 - [Azure 및 Azure Government](https://aka.ms/AzureCompliance)
-- [Office 365 정부 (GCC-High 및 DoD)](https://aka.ms/Office-365-Export-Controls)
+- [Office 365 Government(GCC-High 및 DoD)](https://aka.ms/Office-365-Export-Controls)
 - Intune
 
 ## <a name="how-to-implement"></a>구현 방법
 
-사용자의 귀에 대 한 의무를 평가 하는 고객을 위한 US 수출 통제 및 지침 개요
+EAR에 따라 의무를 평가하는 고객에 대한 미국 수출 제어 및 지침 개요
 
 - [Azure](https://aka.ms/Azure-Export-Controls)
 - [Office 365](https://aka.ms/Office-365-Export-Controls)
 
 ## <a name="frequently-asked-questions"></a>자주하는 질문
 
-**Microsoft 클라우드 서비스를 사용할 때 내보내기 컨트롤을 준수 하려면 어떻게 해야 하나요?**
+**Microsoft 클라우드 서비스를 사용할 때 내보내기 컨트롤을 준수하기 위해 무엇을 해야 하나요?**
 
-귀에서 Microsoft 클라우드와 같은 클라우드 서버로 데이터를 업로드 하는 경우 클라우드 서비스 공급자가 아닌 데이터를 소유 하는 고객은 내보내기로 간주 됩니다. 이러한 이유 때문에 데이터 소유자 (즉, Microsoft 고객)는 Microsoft 클라우드의 사용에 따라 제어를 implicate 수 있는 방법을 신중히 평가 해야 하며, 사용 하거나 저장 하려는 데이터 중에 귀 컨트롤이 있을 수 있으며, 그렇다면 어떤 컨트롤이 적용 되는지를 결정할 수도 있습니다. [Azure](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=c24c11f2-2cd4-444a-9160-19762855ad3a&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers) 및 [Office 365](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE1s5kI) 클라우드 서비스를 통해 고객이 US 수출 통제를 완벽 하 게 준수 하는 데 도움이 되는 방법에 대해 자세히 알아보세요.
+EAR에서 데이터가 Microsoft 클라우드와 같은 클라우드 서버에 업로드될 때 클라우드 서비스 공급자가 아닌 데이터를 소유한 고객은 내보내기 업체로 간주됩니다. 따라서 데이터 소유자( 즉, Microsoft 고객)는 Microsoft 클라우드의 사용이 미국 수출 통제를 의미하는지 신중하게 평가하고 사용 또는 저장하려는 데이터가 EAR 제어의 적용을 을 수 있는지 여부를 결정하고, 그 경우 어떤 컨트롤이 적용되는지 결정해야 합니다. Azure 및 [](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=c24c11f2-2cd4-444a-9160-19762855ad3a&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers) Office [365](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE1s5kI) 클라우드 서비스가 고객이 미국 수출 컨트롤을 완전하게 준수하는 데 어떻게 도움이 되도록 하는지 자세히 알아보는 방법을 설명합니다.
 
-**Microsoft 기술, 제품 및 서비스가 귀를 들을 수 있나요?**
+**Microsoft 기술, 제품 및 서비스는 EAR의 적용을 하나요?**
 
-대부분의 Microsoft 기술, 제품 및 서비스는 다음과 같습니다.
+대부분의 Microsoft 기술, 제품 및 서비스는 다음 중 하나에 있습니다.
 
-- 은 귀를 받지 않으므로 Commerce 컨트롤 목록에 없으며 ECCN을 포함 하지 않습니다.
-- 또는 Microsoft의 자체 분류에 적합 한 EAR99 또는 5D992 대규모 시장 이며 라이선스 없이 라이선스가 필요 하지 않은 (NLR) 인 비 수출 금지 국가로 내보낼 수 있습니다.
+- EAR의 적용을 을(를) 하여 상거래 제어 목록에 없는 ECCN이 없습니다.
+- 또는 MICROSOFT의 자체 분류를 받을 수 있는 EAR99 또는 5D992 대량 시장으로, 라이선스가 없는 비허용 국가로 NLR(라이선스 필요 없음)으로 내보낼 수 있습니다.
 
-즉, 라이선스가 필요 하지 않을 수 있는 ECCN이 할당 된 Microsoft 제품이 몇 개 있습니다. 적절 한 라이선스 유형 및 내보내기 목적으로 적합 한 국가를 확인 하려면 귀 또는 legal 자문 위원를 참조 하세요.
+즉, 일부 Microsoft 제품에는 라이선스가 필요할 수도, 필요하지 않을 수도 있는 ECCN이 할당되어 있습니다. EAR 또는 법률 자문에게 문의하여 수출 목적에 적합한 라이선스 유형 및 적합한 국가를 결정하십시오.
 
-**ITAR (무장 규정)의 귀와 국제 트래픽 간의 차이점은 무엇 인가요?**
+**EAR와 ITAR(International Traffic in Arms Regulations)의 차이점은 무엇입니까?**
 
-가장 넓은 응용 프로그램을 사용 하는 기본 US 수출 통제는 미국 상업 부서에서 관리 하는 귀입니다. 귀는 상업용 및 군사 응용 프로그램을 모두 포함 하는 이중 사용 항목 및 모든 상업용 응용 프로그램을 포함 하는 항목에 적용 됩니다.
+가장 광범위한 응용 프로그램을 사용하여 미국 수출 컨트롤은 미국 상무부에서 관리하는 EAR입니다. EAR는 상업용 응용 프로그램과 군용 응용 프로그램이 모두 있는 이중 용도 항목과 상업용 응용 프로그램만 있는 항목에 적용할 수 있습니다.
 
-또한 미국의 가장 중요 한 항목 및 기술을 제어 하는 ITAR 같은 별도의 특수 수출 통제 규정이 있습니다. 미국 부서에서 관리 하 고, 관련 기술 데이터를 포함 하 여 다양 한 군사, 방어 및 인텔리전스 항목 ("방어 기사" 라고도 함)의 내보내기, 임시 가져오기, 다시 내보내기 및 전송에 대 한 제어를 부여 합니다.
+미국에는 가장 중요한 항목과 기술을 제어하는 ITAR과 같은 별도의 특수한 수출 제어 규정도 있습니다. 미 국무부는 관련 기술 데이터를 포함하여 많은 군, 국방 및 인텔리전스 항목("방위 문서"라고도 알려진)의 수출, 임시 가져오기, 다시 내보내기 및 전송에 대한 제어를 부과합니다.
 
 ## <a name="resources"></a>리소스
 
-- [Microsoft Products 내보내기: 개요](https://www.microsoft.com/exporting/overview.aspx)
+- [Microsoft 제품 내보내기: 개요](https://www.microsoft.com/exporting/overview.aspx)
 - [Microsoft 제품 내보내기: FAQ](https://www.microsoft.com/exporting/faq.aspx)
-- [Microsoft 제품 내보내기: 제품 조회](https://www.microsoft.com/exporting/exporting-information.aspx)
-- [암호화에 대 한 수출 제한 사항](https://docs.microsoft.com/windows/uwp/security/export-restrictions-on-cryptography)
+- [Microsoft 제품 내보내기: 제품 업데이트](https://www.microsoft.com/exporting/exporting-information.aspx)
+- [암호화에 대한 내보내기 제한](/windows/uwp/security/export-restrictions-on-cryptography)
 - [Microsoft 및 FIPS 140-2](offering-fips-140-2.md)
 - [Microsoft 및 ITAR](offering-itar.md)
 - [Microsoft 보안 센터에 대한 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)

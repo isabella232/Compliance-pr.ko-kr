@@ -16,12 +16,12 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: b31ee58d4e9a60232d7d5df4ff1bf4f16b6266cf
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: b77af73db3a6b9d9fbaf3ae776a6c5077c6972d1
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574750"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120477"
 ---
 # <a name="service-incident-mitigation-strategies"></a>서비스 인시던트 완화 전략
 
@@ -37,7 +37,7 @@ ms.locfileid: "49574750"
 |VoIP 전화는 보조 통신 방법으로 사용됩니다.|특히, 인시던트 중 네트워크 및 서비스 작업을 위해 PSTN 통화를 지원하는 비 VoIP 전화를 구현합니다. 셀룰러 네트워크를 통해 주요 담당자에게 연락할 수 있도록 직원 휴대폰 번호를 회사 디렉터리에 추가합니다.|
 |파일 저장 및 사용자 생산성을 위해 비즈니스용 OneDrive를 사용합니다. [요청 시 파일](https://techcommunity.microsoft.com/t5/Microsoft-OneDrive-Blog/OneDrive-Files-On-Demand-For-The-Enterprise/ba-p/117234)은 로컬 사용자 드라이브의 공간을 확보하도록 구성되어 있습니다.|OneDrive 동기화는 관리자가 특정 콘텐츠를 로컬로 동기화하거나 원하는 경우 공간을 확보할 수 있는 그룹 정책을 제공합니다. 문서에 액세스할 수 없는 위험을 완화하려면 중요 문서를 로컬로 동기화하도록 이 정책을 구성합니다. 주요 문서에 대해 "이 장치에 항상 유지" 설정을 수동으로 적용하도록 사용자를 교육합니다.|
 |고객 및 공급업체에 대한 비즈니스 중단 통신에는 Exchange Online을 사용합니다.|공개 타사 소셜 네트워크를 대중 통신의 대체 방법으로 사용할 수 있습니다.
-|ADFS 또는 Pass Through Authentication과 같은 하이브리드 사내 아키텍처가 실패하여 클라우드 서비스에 대한 사용자 인증 기능이 중단됩니다.|운영 중단 중에 로그인 중단이 발생하지 않도록 하이브리드 인증 서비스와 함께 [Password Hash Sync](https://docs.microsoft.com/azure/active-directory/authentication/concept-resilient-controls#deploy-password-hash-sync-even-if-you-are-federated-or-use-pass-through-authentication)를 보조 클라우드 기반 인증 메커니즘으로 구성합니다. 복원력 있는 인증 및 액세스 제어 아키텍처 구축에 대한 자세한 내용은 [Azure Active Directory를 사용하여 복원력 있는 액세스 제어 관리 전략 만들기](https://docs.microsoft.com/azure/active-directory/authentication/concept-resilient-controls)를 참조합니다.|  
+|ADFS 또는 Pass Through Authentication과 같은 하이브리드 사내 아키텍처가 실패하여 클라우드 서비스에 대한 사용자 인증 기능이 중단됩니다.|운영 중단 중에 로그인 중단이 발생하지 않도록 하이브리드 인증 서비스와 함께 [Password Hash Sync](/azure/active-directory/authentication/concept-resilient-controls#deploy-password-hash-sync-even-if-you-are-federated-or-use-pass-through-authentication)를 보조 클라우드 기반 인증 메커니즘으로 구성합니다. 복원력 있는 인증 및 액세스 제어 아키텍처 구축에 대한 자세한 내용은 [Azure Active Directory를 사용하여 복원력 있는 액세스 제어 관리 전략 만들기](/azure/active-directory/authentication/concept-resilient-controls)를 참조합니다.|  
 
 ## <a name="leveraging-mobile-app-access"></a>모바일 앱 액세스 활용
 

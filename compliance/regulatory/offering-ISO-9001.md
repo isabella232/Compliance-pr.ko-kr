@@ -16,22 +16,22 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3bfbddcf9518e86c747315b4eac472ac42365ede
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 2ecf4d029b1c69e4ce7da1244d71d47433eb3873
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509493"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120147"
 ---
 # <a name="iso-90012015-quality-management-systems-standards"></a>ISO 9001:2015 품질 관리 시스템 표준
 
 ## <a name="iso-9001-overview"></a>ISO 9001 개요
 
-ISO 9001:2015는 품질 관리 시스템의 기준을 정하는 국제 표준입니다. ISO 9000 제품군에서 유일하게 정식 인증을 획득하는 표준입니다. 이 표준은 고객 요구사항 충족에 대한 명확한 초점, 강력한 기업 거버넌스 및 품질 목표에 대한 리더십 약속, 프로세스 중심 목표 달성 접근법, 지속적인 개선에 중점을 두는 등 몇 가지 품질 관리 원칙을 기반으로 합니다. ISO 9001:2015는 고객에게 제공되는 제품 및 서비스의 일관성과 품질에 초점을 맞춰 조직이 고객 만족도를 높일 수 있도록 지원합니다.
+ISO 9001:2015는 품질 관리 시스템에 대한 기준을 설정하는 국제 표준입니다. ISO 9000 제품군 중 공식 인증이 되는 유일한 표준입니다. 이 표준은 고객 요구 사항 충족에 대한 명확한 초점, 품질모이 표준은 고객 요구 사항 충족에 대한 명확한 초점, 품질 목표에 대한 강력한 기업 거버넌스 및 리더십의 헌신, 프로세스 중심의 목표 충족 접근 그리고 지속적인 개선에 초점을 맞추는 등 몇 가지 품질 관리 원칙을 기반으로 합니다. ISO 9001:2015는 기관이 고객에게 제공되는 제품 및 서비스에 대한 일관성과 품질에 초점을 맞추어 고객 만족도를 개선하는 데 도움을 줄 수 있습니다.
 
 ## <a name="microsoft-and-iso-90012015"></a>Microsoft 및 ISO 9001:2015
 
-독립적인 타사 감사 회사가 Microsoft Azure 및 여러 Microsoft 온라인 서비스를 엄격하게 검사하여 ISO 9001:2015에 의해 확립된 품질 관리 원칙을 준수하는지 확인했습니다. 이용 가능한 타사 인증은 Azure 및 Microsoft 온라인 서비스가 ISO 9001:2015 요구사항을 충족하는지 독립적으로 확인합니다.
+독립적인 타사 감사 기업이 ISO 9001:2015에 설정된 품질 관리 원칙을 준수하기 위해 Microsoft Azure 및 몇 가지 Microsoft 온라인 서비스에 대한 엄격한 검사를 수행하였습니다. 사용 가능한 타사 인증은 ISO 9001:2015 요구 사항을 충족하는 Azure 및 검사된 Microsoft 온라인 서비스의 독립적인 인증을 제공합니다.
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
 
@@ -57,17 +57,17 @@ ISO 9001:2015는 품질 관리 시스템의 기준을 정하는 국제 표준입
 
 ## <a name="frequently-asked-questions"></a>질문과 대답
 
-이 표준은 누구에게 적용됩니까?
+이 표준은 누구에게 적용되나요?
 
-이 표준 실행 방식은 클라우드 서비스 공급자와 클라우드 서비스 고객이 클라우드 제품 및 서비스가 고객의 요구사항을 일관되게 충족하도록 하기 위한 지침과 툴을 제공합니다. ISO 27001:2013과 유사한 형식으로 구성되어 있습니다.
+이 실무 표준은 클라우드 서비스 공급 업체 및 클라우드 서비스 고객이 클라우드 제품과 서비스가 고객의 요구 사항을 지속적으로 충족하기 위한 지침 및 도구를 제공합니다. ISO 27001:2013과 유사한 형식으로 구성되어 있습니다.
 
 **Microsoft 서비스의 ISO 9001:2015 감사 보고서와 범위 기술서는 어디에서 받을 수 있나요?**
 
-[서비스 신뢰 포털](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-service-trust-portal)은(는) 독립적으로 감사된 규정 준수 보고서를 제공합니다. 포털을 사용하여 보고서를 요청하면 감사인이 Microsoft의 클라우드 서비스 결과를 사용자의 법률 및 규정 요구 사항과 비교할 수 있습니다. [FY17 Microsoft Azure ISO 9001 평가 보고서](https://www.microsoft.com/?ref=aka) 및 [FY17 Microsoft Azure ISO 9001 인증서](https://www.microsoft.com/?ref=aka)를 모두 사용할 수 있습니다.
+[서비스 보안 포털](/microsoft-365/compliance/get-started-with-service-trust-portal)은 독립적으로 감사를 거친 규정 준수 보고서를 제공합니다. 사용자의 감사자는 이 포털을 통해 Microsoft의 클라우드 서비스 결과와 사용자의 법적 및 규제 요구 사항을 비교할 수 있도록 보고서를 요청할 수 있습니다. [FY17 Microsoft Azure ISO 9001 평가 보고서](https://www.microsoft.com/?ref=aka) 및 [FY17 Microsoft Azure ISO 9001 인증서](https://www.microsoft.com/?ref=aka) 모두 요청 가능합니다.
 
-**Microsoft는 인프라 장애에 대한 연례 테스트를 실시하나요?**
+**Microsoft는 인프라 장애에 대해 매년 테스트를 실시하고 있나요?**
 
-예. ISO 9001:2015 연간 평가에는 기본 물리적 인프라 데이터 센터가 포함됩니다. [인증서](https://www.microsoft.com/?ref=aka)를 검토하여 적용 범위 세부 정보를 확인합니다.
+예. ISO 9001:2015 연간 평가는 기본 물리적 인프라 데이터 센터를 포함합니다. 적용 범위 세부 정보는 [인증서를 검토](https://www.microsoft.com/?ref=aka)하세요.
 
 **ISO 9001:2015에 대한 Microsoft의 규정 준수 정보는 어디에서 확인할 수 있나요?**
 

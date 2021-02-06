@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f84f4a57afd968a428cd345dd521a3bd83cea238
-ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
+ms.openlocfilehash: c753092f26df4a0d8ebcb5fc2a7921cee9e79f93
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937033"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120927"
 ---
 # <a name="european-banking-authority-eba"></a>European Banking Authority(유럽은행관리국:EBA)
 
@@ -54,7 +54,7 @@ Microsoft 지침은 다음과 같이 각각의 EBA 권장 사항을 하나씩 �
 ## <a name="how-to-implement"></a>구현 방법
 
 - [EBA 지침에 대한 응대](https://aka.ms/FinServ-Guide-EuBankAuth): Microsoft 지침은 유럽의 금융 기관이 클라우드 도입에 대한 EBA의 권장 사항을 따르도록 도움을 줍니다.
-- [금융 유스케이스](https://docs.microsoft.com/azure/industry/financial/): 금융 서비스용 Azure 솔루션을 구축하기 위한 유스케이스 개요, 자습서 및 기타 리소스..
+- [금융 유스케이스](/azure/industry/financial/): 금융 서비스용 Azure 솔루션을 구축하기 위한 유스케이스 개요, 자습서 및 기타 리소스..
 - [금융 준수 프로그램](https://aka.ms/FSCP-Print): 금융 기관은 Microsoft 클라우드 서비스 사용의 위험을 평가하는 데 도움을 받을 수 있습니다.
 
 ## <a name="frequently-asked-questions"></a>자주하는 질문

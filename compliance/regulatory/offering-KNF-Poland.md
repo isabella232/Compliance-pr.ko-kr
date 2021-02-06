@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6a9bf00ea9fe791f72f73df1d1ccb16d6bd256ed
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 7cb696db772f0bffda701c7ecadbb768c2575343
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509443"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120157"
 ---
 # <a name="financial-supervision-authority-knf-poland"></a>KNF (금융 감독 기관) 폴란드
 
@@ -60,7 +60,7 @@ KNF는 “유럽 뱅킹 부문 전반에서 효과적이고 일관된 세심한 
 
 - [준수 점검 목록: 폴란드](https://aka.ms/FinServ-Guide-Poland): 금융 기관은 Microsoft 비즈니스 클라우드 서비스의 위험 평가를 시행하는데 도움을 받을 수 있습니다. 
 - [위험 평가 & 규제 준수 가이드](https://aka.ms/RiskGovernanceGuide): Microsoft 클라우드 서비스의 위험 평가 및 규제 기관의 알림에 대한 거버넌스 모델을 만듭니다.
-- [재무 사용 사례](https://docs.microsoft.com/azure/industry/financial/): 금융 서비스용 Azure 솔루션을 구축하기 위한 사용 사례 개요, 자습서 및 기타 리소스.
+- [재무 사용 사례](/azure/industry/financial/): 금융 서비스용 Azure 솔루션을 구축하기 위한 사용 사례 개요, 자습서 및 기타 리소스.
 - [Microsoft 클라우드에서의 개인 정보 보호](https://aka.ms/MCSPrivacy): Microsoft 개인 정보 보호 원칙 및 표준 그리고 폴란드 관련 개인 정보 보호법에 대한 세부 정보를 확인할 수 있습니다.
 
 ## <a name="frequently-asked-questions"></a>자주하는 질문

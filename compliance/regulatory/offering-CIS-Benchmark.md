@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8bde27222806ea5909c67bac8556ff682453809b
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: f35e72bc81a93bcba3ecea5ca8a416553e6116a8
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509693"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121377"
 ---
 # <a name="center-for-internet-security-cis-benchmarks"></a>인터넷 보안 센터 (CIS) 벤치마크
 
@@ -70,8 +70,8 @@ Microsoft 제품 및 서비스에 대한 [CIS 벤치마크 전체 목록](https:
 ## <a name="how-to-implement"></a>구현 방법
 
 - [Azure 용 CIS 벤치마크](https://azure.microsoft.com/mediahandler/files/resourcefiles/cis-microsoft-azure-foundations-security-benchmark/CIS_Microsoft_Azure_Foundations_Benchmark_v1.0.0.pdf): Azure의 보안 기준 구성을 설정하기 위한 규정 지침을 받으세요.  
-- [Microsoft 365 보안 로드맵](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap): 이 로드맵을 따르면 데이터 침해 또는 계정 손상 가능성을 최소화합니다.
-- [Windows 보안 기준](https://docs.microsoft.com/windows/security/threat-protection/windows-security-baselines): 조직에서 보안 기준을 효과적으로 사용하려면 다음 지침을 따르세요.
+- [Microsoft 365 보안 로드맵](/microsoft-365/security/office-365-security/security-roadmap): 이 로드맵을 따르면 데이터 침해 또는 계정 손상 가능성을 최소화합니다.
+- [Windows 보안 기준](/windows/security/threat-protection/windows-security-baselines): 조직에서 보안 기준을 효과적으로 사용하려면 다음 지침을 따르세요.
 - [CIS 컨트롤 클라우드 도우미 가이드](https://www.cisecurity.org/white-papers/cis-controls-cloud-companion-guide/): CIS Controls 버전 7의 보안 모범 사례를 클라우드 환경에 적용하는 방법에 대한 지침을 받으세요.
 
 ## <a name="frequently-asked-questions"></a>자주하는 질문
@@ -90,11 +90,11 @@ CIS는 '벤치마크는 주제 전문가, 기술 공급업체, 공공 및 민간
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
 
-[Microsoft 준수 관리자](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)는 사용자 조직의 준수 상태를 이해하고 위험을 줄이기 위한 활동에 도움을 주는 [Microsoft 365 규정 준수 센터](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규정에 관한 평가를 작성하기 위한 프리미엄 문서 서식을 제공합니다. 준수 관리자의 **평가 문서 서식 페이지** 에서 문서 서식을 찾을 수 있습니다. [준수 관리자에서 평가를 빌드](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)하는 방법에 대해 알아봅니다.
+[Microsoft 준수 관리자](/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규제에 대한 평가를 빌드하기 위한 프리미엄 서식 파일을 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
 
 ## <a name="resources"></a>리소스
 
 - [Microsoft 365를 안전하게 사용하기 위한 CIS 모범 사례](https://www.microsoft.com/security/blog/2019/01/10/best-practices-for-securely-using-microsoft-365-the-cis-microsoft-365-foundations-benchmark-now-available/)
-- [Windows 10 보안 정책 설정](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/security-policy-settings)
-- [Windows 10 Enterprise 보안](https://docs.microsoft.com/windows/security/index)
+- [Windows 10 보안 정책 설정](/windows/security/threat-protection/security-policy-settings/security-policy-settings)
+- [Windows 10 Enterprise 보안](/windows/security/index)
 - [Microsoft 보안 센터에 대한 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)

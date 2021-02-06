@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 51a09772498da0ffc4c7d135e8b9ae103364a984
-ms.sourcegitcommit: 9d00734702fec0e76f6b001e31ff0a6eb60cae6f
+ms.openlocfilehash: da5e2621969ff9cd4ce2778fa7f075522454aef7
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49712086"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121117"
 ---
 # <a name="nist-sp-800-171"></a>NIST SP 800-171
 
@@ -58,17 +58,17 @@ NIST SP 800-171 요구 사항은 FedRAMP에서 사용하는 표준인 NIST SP 80
 
 ## <a name="how-to-implement"></a>구현 방법
 
-- [Azure Blueprint 샘플:](https://docs.microsoft.com/azure/governance/blueprints/samples/)NIST 기반 컨트롤을 준수하는 워크로드 구현에 대한 지원을 얻습니다.
+- [Azure Blueprint 샘플:](/azure/governance/blueprints/samples/)NIST 기반 컨트롤을 준수하는 워크로드 구현에 대한 지원을 얻습니다.
 
-## <a name="frequently-asked-questions"></a>질문과 대답
+## <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **조직에서 NIST SP 800-171과 함께 Microsoft 규정 준수를 사용할 수 있나요?**
 
 예. Microsoft 고객은 자체 FedRAMP 및 NIST 위험 분석 및 자격 취득 노력의 일부로 FedRAMP 표준에 대해 독립적인 타사 평가 조직(3PAO)의 보고서에 설명된 감사 컨트롤을 사용할 수 있습니다. 이러한 보고서는 Microsoft가 범위 내 클라우드 서비스에서 구현한 컨트롤의 효율성을 시사합니다. 고객은 CUI 워크로드가 NIST SP 800-171 지침을 준수하는지 확인합니다.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험을 평가해 보세요.
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
 
-[Microsoft 준수 관리자](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규제에 대한 평가를 빌드하기 위한 프리미엄 서식 파일을 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
+[Microsoft 준수 관리자](/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규제에 대한 평가를 빌드하기 위한 프리미엄 서식 파일을 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
 
 ## <a name="resources"></a>리소스
 

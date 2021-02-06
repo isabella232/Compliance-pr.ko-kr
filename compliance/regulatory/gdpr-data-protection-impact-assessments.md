@@ -16,12 +16,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 40946c3ea8d7c11a5cfddd8da737e037edd0526b
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: ce69444233c28683bf0e7d4056e98336445fc8b4
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508801"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121047"
 ---
 # <a name="data-protection-impact-assessment-for-the-gdpr"></a>GDPR에 대한 데이터 보호 영향 평가
 
@@ -73,10 +73,10 @@ DPIA는 의도된 프로세스에 대한 특정 정보를 제공해야 합니다
 
 Microsoft 구현에 관련된 구체적인 세부 정보는 아래에 있습니다.
 
-- [Office 365](gdpr-dpia-office365.md):이 문서는 Exchange Online, SharePoint online, Yammer, 비즈니스용 Skype, Power BI를 비롯하여 Office 365 응용 프로그램 및 서비스에 적용됩니다. 자세한 내용은 표 [1](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dpia-office365#part-1--determining-whether-a-dpia-is-needed) 및 [2](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dpia-office365#part-2--contents-of-a-dpia) 를 참조하세요.  
+- [Office 365](gdpr-dpia-office365.md):이 문서는 Exchange Online, SharePoint online, Yammer, 비즈니스용 Skype, Power BI를 비롯하여 Office 365 응용 프로그램 및 서비스에 적용됩니다. 자세한 내용은 표 [1](/microsoft-365/compliance/gdpr-dpia-office365#part-1--determining-whether-a-dpia-is-needed) 및 [2](/microsoft-365/compliance/gdpr-dpia-office365#part-2--contents-of-a-dpia) 를 참조하세요.  
 - [Azure](gdpr-dpia-azure.md): 고객은 개인 정보 책임자와 관리 담당자 및 법적 자문과 함께 Microsoft Azure 사용과 관련된 DPIA의 필요 여부 및 내용을 결정하는 것이 좋습니다.  
-- [Dynamics 365](gdpr-dpia-dynamics.md): DPIA의 내용은 사용하고 있는 Dynamics 365 도구에 따라 다를 수 있습니다. 자세한 내용은 [2부 DPIA의 내용](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dpia-dynamics#part-2--contents-of-a-dpia)를 참조하세요.
-- [Microsoft 지원 및 전문 서비스](gdpr-dpia-prof-services.md): 전문 서비스는 특정 루틴이나 자동화된 데이터 처리를 수행하지 않으며 특수 범주를 처리하거나 공개적으로 액세스할 수 있는 데이터를 모니터링하거나 필요로 하는 작업을 수행하지 않습니다. 자세한 내용은 [1부 — DPIA 필요 여부 결정](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dpia-prof-services#part-1--determining-whether-a-dpia-is-needed)을 참조하세요. 컨트롤러는 컨트롤러의 특정 구현 및 프로페셔널 서비스 사용과 관련하여 위에서 설명한 DPIA 요소를 기타 관련 요소와 함께 고려해야 합니다. 전문 서비스에 대한 자세한 내용은 [2부 — DPIA의 내용](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dpia-prof-services#part-2--contents-of-a-dpia)을 참조하세요.
+- [Dynamics 365](gdpr-dpia-dynamics.md): DPIA의 내용은 사용하고 있는 Dynamics 365 도구에 따라 다를 수 있습니다. 자세한 내용은 [2부 DPIA의 내용](/microsoft-365/compliance/gdpr-dpia-dynamics#part-2--contents-of-a-dpia)를 참조하세요.
+- [Microsoft 지원 및 전문 서비스](gdpr-dpia-prof-services.md): 전문 서비스는 특정 루틴이나 자동화된 데이터 처리를 수행하지 않으며 특수 범주를 처리하거나 공개적으로 액세스할 수 있는 데이터를 모니터링하거나 필요로 하는 작업을 수행하지 않습니다. 자세한 내용은 [1부 — DPIA 필요 여부 결정](/microsoft-365/compliance/gdpr-dpia-prof-services#part-1--determining-whether-a-dpia-is-needed)을 참조하세요. 컨트롤러는 컨트롤러의 특정 구현 및 프로페셔널 서비스 사용과 관련하여 위에서 설명한 DPIA 요소를 기타 관련 요소와 함께 고려해야 합니다. 전문 서비스에 대한 자세한 내용은 [2부 — DPIA의 내용](/microsoft-365/compliance/gdpr-dpia-prof-services#part-2--contents-of-a-dpia)을 참조하세요.
 
 ## <a name="learn-more"></a>자세한 정보
 

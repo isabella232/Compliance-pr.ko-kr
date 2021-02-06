@@ -1,6 +1,6 @@
 ---
 title: GLBA(Gramm-Leach-Bliley Act)
-description: Microsoft는 금융 서비스 클라이언트가 금융-Gramm-leach-bliley-Gramm-leach-bliley Act (GLBA)의 개인 정보 및 보안 요구 사항을 준수 하도록 지원 합니다.
+description: Microsoft는 금융 서비스 클라이언트가 GLBA(Gramm-Leach-Bliley Act)의 개인 정보 및 보안 요구 사항을 준수할 수 있습니다.
 keywords: Microsoft 365, 규정 준수, 제안
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,29 +16,29 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d7f7b63f95bf430d1656e3bf84f1acc66d33539c
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 548cafdd7e7dfd68f06e28ba14d182505cd60d95
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509528"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120307"
 ---
 # <a name="gramm-leach-bliley-act-glba"></a>GLBA(Gramm-Leach-Bliley Act)
 
 ## <a name="glba-overview"></a>GLBA 개요
 
-GLBA (금융 Act)는 재무 서비스 업계를 차단 하 고, 상업용 및 투자 뱅크, 증권 기업 및 보험 회사를 통합 하 고, 소비자 개인 정보 보호와 관련 된 문제를 해결 하는 미국 법입니다. 이러한 개인 정보 규정을 금융 개인 정보 보호 규칙 및 보호책 규칙으로 처리 하기 위한 규정을 구현 하려면 연방 무역 위원회 (FTC) 및 기타 금융 서비스 조절기가 필요 했습니다. 중요 한 소비자 데이터를 보호 하기 위한 GLBA 요구 사항은 대출, 투자 조언 및 보험과 같은 재무 제품 및 서비스를 소비자에 게 제공 하는 금융 기관에 적용 됩니다. FTC는 규정 준수를 적용 하 여 청구 됩니다.
+GLBA(Gramm-Leach-Bliley Act)는 금융 서비스 산업을 개편하여 상업 및 투자 은행, 증권 회사 및 보험 회사가 통합할 수 있도록 하여 소비자 개인 정보 보호에 대한 우려를 해결한 미국 법률입니다. 금융 개인 정보 보호 규칙 및 세이프가드 규칙과 같은 개인 정보 보호 규정을 처리하기 위한 규정을 구현하기 위해 연방 거래 위원회(FTC) 및 기타 금융 서비스 규제 기관이 요구했습니다. 중요한 소비자 데이터를 보호하기 위한 GLBA 요구 사항은 금융 제품 및 서비스를 소비자에게 제공하는 금융 기관(예: 대출, 투자 자문 및 보험)에 적용됩니다. FTC는 규정 준수를 요구합니다.
 
 ## <a name="microsoft-and-glba"></a>Microsoft 및 GLBA
 
-Microsoft Azure, Microsoft Office 365, Dynamics 365 및 Microsoft Power BI는 금융 서비스 기관에 클라우드 서비스를 제공 하기 위한 엄격한 요구 사항을 충족 하는 데 도움이 될 수 있습니다. 지원의 일부로, 보안을 유지 관리 하 고 권한 없는 사용을 방지 하는 데 도움이 되는 기술 및 조직의 보호책을 제공 하 여 GLBA 요구 사항을 준수 하는 데 도움이 되는 지침을 제공 합니다.
+Microsoft Azure, Microsoft Office 365, Dynamics 365 및 Microsoft Power BI는 금융 서비스 기관을 위한 클라우드 서비스를 제공하기 위한 엄격한 요구 사항을 충족하는 데 도움이 될 수 있습니다. 지원의 일환으로 당사는 보안 유지 및 무단 사용을 방지하는 데 도움이 되는 기술 및 조직적 보호책을 제공하여 GLBA의 요구 사항을 준수하는 데 도움이 되는 지침을 제공합니다.
 
-Microsoft는 azure 및 office 365 서비스에 대 한 위험 평가를 보다 효율적으로 수행 하는 데 도움이 되도록 [azure](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=6b218946-c235-4234-9beb-d557e39a3f44&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides) 및 [office 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=55702ffd-c35a-4619-8722-ab71c0c02002&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides) 에 대 한 위험 평가 도구를 개발 했습니다. 이 도구 (Excel 스프레드시트)는 재무 서비스 규정의 요구 사항을 추적 하는 보안 정책 및 위험 관리와 같은 기타 관련 표준 (Azure 스프레드시트의 GLBA 및 Office 365 스프레드시트의 열 Q)에 포함 된 정보 보안 도메인 19를 특징으로 합니다. 이 도구는 Azure 및 Office 365이 클라우드 서비스 공급자에 적용 되는 각 요구 사항을 준수 하는 방법과 GLBA 보안 요구 사항을 충족 하는 데 도움을 주는 방법을 설명 합니다.
+Microsoft는 Azure 및 Office 365 서비스에 대한 위험 평가를 보다 효율적으로 수행하도록 지원하기 위해 [Azure](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=6b218946-c235-4234-9beb-d557e39a3f44&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides) 및 [Office 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=55702ffd-c35a-4619-8722-ab71c0c02002&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides) 둘 다에 대한 위험 평가 도구를 개발했습니다. Excel 스프레드시트(Excel 스프레드시트)는 금융 서비스 규정 및 기타 관련 표준(예: Office 365 스프레드시트의 열 R 및 열 Q)을 포함하여 금융 서비스 규정의 요구 사항을 추적하는 19개 정보 보안 도메인(예: 보안 정책 및 위험 관리)을 제공합니다. 도구는 Azure 및 Office 365가 클라우드 서비스 공급자에 적용되는 각 요구 사항을 준수하는 방법을 설명하고 GLBA 보안 요구 사항을 충족하는 데 도움이 될 수 있습니다.
 
-## <a name="promote-your-glba-compliance"></a>GLBA 준수 승격
+## <a name="promote-your-glba-compliance"></a>GLBA 규정 준수 홍보
 
-- [Azure 금융 서비스 클라우드 위험 요소 분석 도구 다운로드](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=6b218946-c235-4234-9beb-d557e39a3f44&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
-- [Office 365 클라우드 위험 요소 분석 도구 다운로드](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=55702ffd-c35a-4619-8722-ab71c0c02002&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- [Azure 금융 서비스 클라우드 위험 평가 도구 다운로드](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=6b218946-c235-4234-9beb-d557e39a3f44&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- [Office 365 클라우드 위험 평가 도구 다운로드](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=55702ffd-c35a-4619-8722-ab71c0c02002&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
 
@@ -50,17 +50,17 @@ Microsoft는 azure 및 office 365 서비스에 대 한 위험 평가를 보다 �
 
 ## <a name="frequently-asked-questions"></a>자주 묻는 질문
 
-**재무 기관에서 고 지 사항 b를 준수 해야 하는지 여부를 어떻게 알 수 있나요?**
+**금융 기관이 GLB 법을 준수해야 하는지 어떻게 알 수 있나요?**
 
-FTC은 [개인 정보 취급 방침에 포함 된](https://www.ftc.gov/tips-advice/business-center/guidance/how-comply-privacy-consumer-financial-information-rule-gramm#whois)해당 글과 Act 페이지에서이에 대 한 세부 정보를 제공 하나요?
+FTC는 해당 GLB 법 페이지에서 이 내용에 대해 자세히 답변합니다. 개인 정보 보호 규칙의 적용 대상은 [누구인가요?](https://www.ftc.gov/tips-advice/business-center/guidance/how-comply-privacy-consumer-financial-information-rule-gramm#whois)
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
 
-[Microsoft 준수 관리자](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)는 사용자 조직의 준수 상태를 이해하고 위험을 줄이기 위한 활동에 도움을 주는 [Microsoft 365 규정 준수 센터](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규정에 관한 평가를 작성하기 위한 프리미엄 문서 서식을 제공합니다. 준수 관리자의 **평가 문서 서식 페이지** 에서 문서 서식을 찾을 수 있습니다. [준수 관리자에서 평가를 빌드](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)하는 방법에 대해 알아봅니다.
+[Microsoft 준수 관리자](/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규제에 대한 평가를 빌드하기 위한 프리미엄 서식 파일을 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
 
 ## <a name="resources"></a>리소스
 
-- [금융-Gramm-leach-bliley-Gramm-leach-bliley Act](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/gramm-leach-bliley-act)
+- [Gramm-Leach-Bliley Act](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/gramm-leach-bliley-act)
 - [Azure 금융 서비스 클라우드 위험 평가 도구](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=6b218946-c235-4234-9beb-d557e39a3f44&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 - [Office 365 클라우드 위험 평가 도구](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=55702ffd-c35a-4619-8722-ab71c0c02002&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 - [Microsoft 보안 센터의 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)

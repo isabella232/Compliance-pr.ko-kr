@@ -16,20 +16,20 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b51d7879b0b20773f76ed194a0080b2ae88c1fb8
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: ef439ccb7c95698a8d7d4f5bc8b6d96bc42694a2
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509508"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120127"
 ---
 # <a name="isoiec-270172015-code-of-practice-for-information-security-controls"></a>ISO/IEC 27017:2015 정보 보안 통제를 위한 규약
 
 ## <a name="iso-iec-27017-overview"></a>ISO-IEC 27017 개요
 
-ISO/IEC 27017:2015 행동 강령은 조직이 ISO/IEC 27002:2013 기반 클라우드 컴퓨팅 정보 보안 관리 시스템을 구현할 때 클라우드 서비스 정보 보안 제어를 선택하기 위한 참조 자료로 사용할 수 있도록 설계되었습니다. 또한 클라우드 서비스 공급자는 일반적으로 허용되는 보호 제어를 구현하기 위한 지침 문서로도 사용할 수 있습니다.
+ISO/IEC 27017:2015 규약은 조직에서 ISO/IEC 27002:2013에 기초한 클라우드 컴퓨팅 정보 보안 관리 시스템을 구축할 때 클라우드 서비스 정보 보안 통제를 선택하기 위해 참조로 사용하도록 고안된 것입니다. 또한 클라우드 서비스 공급자의 경우, 일반적으로 승인되는 보호 통제 장치를 구축하기 위한 지침 문서로 사용할 수도 있습니다.
 
-이 국제 표준은 ISO/IEC 27002에 기반한 클라우드별 구현 지침을 추가로 제공하며, 제어, 구현 지침 및 기타 정보에 대한 ISO/IEC 27002: 2013의 5-18 조항과 관련하여 클라우드별 정보 보안 위협 및 리스크를 해결하기 위한 추가적인 제어 기능을 제공합니다. 구체적으로, 이 표준은 ISO/IEC 27002에서 37개의 컨트롤에 대한 지침을 제공하며, ISO/IEC 27002에서 중복되지 않는 7개의 새로운 컨트롤을 특징으로 합니다. 이러한 새로운 컨트롤은 다음과 같은 중요한 영역을 다룹니다.
+이 국제 표준은 ISO/IEC 27002에 기초한 클라우드 구현 지침을 추가로 제공하고, 규제, 구현 지침 및 기타 정보에 대한 ISO/IEC 27002: 2013 의 5항부터 18항과 관련하여 클라우드 정보 보안 위협과 위험을 해결하기 위한 추가 규제를 제공합니다. 특히 이 표준은 ISO/IEC 27002의 37개 규제에 대한 지침을 제공하며, ISO/IEC 27002에 중복되지 않은 7가지의 새로운 규제를 특별히 포함합니다. 이러한 새 규제는 다음과 같은 중요 영역에 대한 것입니다.
 
 - 클라우드 컴퓨팅 환경에서의 공유 역할과 책임
 - 계약 종료 시 클라우드 서비스 고객 자산의 제거와 반환
@@ -41,7 +41,7 @@ ISO/IEC 27017:2015 행동 강령은 조직이 ISO/IEC 27002:2013 기반 클라�
 
 ## <a name="microsoft-and-isoiec-27017"></a>Microsoft와 ISO/IEC 27017
 
-ISO/IEC 27017은 클라우드 서비스 제공자와 클라우드 서비스 고객 모두에게 지침을 제공하는 데 있어 독보적입니다. 또한 클라우드 서비스 고객에게 클라우드 서비스 제공자에게 무엇을 기대해야 하는지에 대한 실질적인 정보도 제공합니다. 고객은 클라우드의 공유 책임을 확실히 이해함으로써 ISO/IEC 27017의 직접적인 혜택을 누릴 수 있습니다.
+ISO/IEC 27017은 클라우드 서비스 공급자 및 클라우드 서비스 고객을 위한 지침을 제공하는 고유한 표준입니다. 또한 클라우드 서비스 고객이 클라우드 서비스 공급자에게 어떤 것을 바랄 수 있는지에 대한 실용적인 정보를 제공합니다. 고객은 클라우드를 이용한 공유의 책임을 이해함으로써 ISO/IEC 27017로부터 직접적인 혜택을 얻을 수 있습니다.
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
 
@@ -73,23 +73,23 @@ Microsoft 클라우드 서비스는 ISO/IEC 27001:2013에 대한 인증 프로�
 
 이 표준은 누구에게 적용됩니까?
 
-이 행동 강령은 클라우드 서비스 제공자와 클라우드 서비스 고객 모두에게 제어 및 구현 지침을 제공합니다. ISO/IEC 27002:2013과 유사한 형식으로 구성되어 있습니다.
+이 규약은 클라우드 서비스 공급자 및 클라우드 서비스 고객 모두에게 규제 및 구현 지침을 제공합니다. ISO/IEC 27002:2013과 유사한 형식으로 작성되어 있습니다.
 
 **ISO/IEC 27017:2015에 대한 Microsoft의 규정 준수 정보는 어디에서 확인할 수 있습니까?**
 
 Azure, Intune, Power BI에 대한 [ISO/IEC 27017:2015 인증서](https://aka.ms/azureiso27017)를 다운로드할 수 있습니다.
 
-**우리 회사의 인증 프로세스에 Microsoft 서비스의 ISO/IEC 27017 규정 준수를 사용할 수 있나요?**
+**우리 회사의 인증 프로세스에 Microsoft의 ISO/IEC 27017 규정 준수를 사용할 수 있나요?**
 
-예. 귀사가 범위 내 모든 Microsoft 엔터프라이즈 클라우드 서비스에 구현된 구현에 대한 인증을 받으려는 경우 규정 준수 평가에서 Microsoft의 관련 인증을 사용할 수 있습니다. 그러나 사용자는 평가인을 참여시켜 규정 준수를 위한 구현 평가와 조직 내 통제 및 프로세스에 대한 평가를 수행할 책임이 있습니다.
+예. Microsoft 범위 내 엔터프라이즈 클라우드 서비스에 배포되는 구현에 대해 인증을 받아야 하는 고객은 규정 준수 평가 시 Microsoft의 관련 인증을 사용할 수 있습니다. 하지만 구현에 대한 규정 준수를 평가하기 위한 평가자와의 계약과 고유 조직 내 통제 수단 및 프로세스에 대해서는 파트너가 책임을 져야 합니다.
 
 **적용되는 감사 보고서 사본을 구하려면 어떻게 해야 합니까?**
 
-[서비스 신뢰 포털](https://aka.ms/stphelp)은(는) 독립적인 타사 감사 보고서 및 기타 관련 설명서를 제공합니다. 포털을 사용하여 이 문서를 다운로드하고 검토하여 자체 규정 요구 사항에 대한 지원을 받을 수 있습니다.
+[Service Trust Portal](https://aka.ms/stphelp)에서는 제3의 독립 기관 감사 보고서와 기타 관련 문서를 제공합니다. 이 포털을 이용하여 자체 규제 요건에 도움이 되는 문서를 다운로드하고 검토할 수 있습니다.
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
 
-[Microsoft 준수 관리자](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)는 사용자 조직의 준수 상태를 이해하고 위험을 줄이기 위한 활동에 도움을 주는 [Microsoft 365 규정 준수 센터](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규정에 관한 평가를 작성하기 위한 프리미엄 문서 서식을 제공합니다. 준수 관리자의 **평가 문서 서식 페이지** 에서 문서 서식을 찾을 수 있습니다. [준수 관리자에서 평가를 빌드](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)하는 방법에 대해 알아봅니다.
+[Microsoft 준수 관리자](/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규제에 대한 평가를 빌드하기 위한 프리미엄 서식 파일을 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
 
 ## <a name="resources"></a>리소스
 

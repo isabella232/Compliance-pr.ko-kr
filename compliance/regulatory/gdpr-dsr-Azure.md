@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: cc71af74f88592e13f5dacf78d92193cea8ea356
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 638096e88e5931a7468fee9b33200d8fc17702ec
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508713"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121007"
 ---
 # <a name="azure-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Azure 데이터 주체 요청
 
@@ -155,7 +155,7 @@ Microsoft에서는 특정 서비스의 기존 API(응용 프로그래밍 인터�
 
     ![사용자 프로필 선택](../media/gdpr-azure-dsr-azure-user-profile.png)
 
-5. 명령 모음에서 **편집** 을 선택하여 작업 정보를 포함한 사용자 프로필 정보를 수정하거나 업데이트하고, 변경 후  **저장** 을 선택합니다.
+5. 명령 모음에서 **편집** 을 선택하여 작업 정보를 포함한 사용자 프로질 정보를 수정하거나 업데이트하고, 변경 후  **저장** 을 선택합니다.
 
     ![편집을 선택합니다](../media/gdpr-azure-dsr-azure-edit-user-profile.png)
 
@@ -301,7 +301,7 @@ Microsoft에서는 특정 서비스의 기존 API(응용 프로그래밍 인터�
 
 - **사용자.** 내보내기를 요청한 Azure Active Directory 사용자의 전자 메일 주소를 입력합니다.
 - **구독.** 리소스 사용량을 보고하고 서비스 요청을 청구하는 데 사용하는 계정을 선택합니다. Azure Storage 계정의 위치이기도 합니다.
-- **저장소 계정.** Azure 저장소(Blob)의 위치를 선택합니다. 자세한 내용은 [Microsoft Azure 저장소 소개 — Blob 저장소](https://docs.microsoft.com/azure/storage/common/storage-introduction#blob-storage) 문서를 참조하세요.
+- **저장소 계정.** Azure 저장소(Blob)의 위치를 선택합니다. 자세한 내용은 [Microsoft Azure 저장소 소개 — Blob 저장소](/azure/storage/common/storage-introduction#blob-storage) 문서를 참조하세요.
 - **컨테이너.** 사용자가 내보내기 작업을 수행한 개인 정보 데이터의 저장소 위치로서 새 컨테이너를 만들거나 기존 컨테이너를 선택합니다.
 
 4. **만들기** 를 선택합니다.

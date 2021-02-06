@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6a952d33a440681acc3dd5057c8a7e175e57bfa9
-ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
+ms.openlocfilehash: a7f6f07a2dd58d4a99559488c3f9d3b92d4fe195
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937023"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121807"
 ---
 # <a name="dutch-authority-for-the-financial-markets-and-the-central-bank-of-the-netherlands"></a>네덜란드의 금융 서비스 기관 및 네덜란드 중앙은행
 
@@ -64,7 +64,7 @@ Microsoft의 점검 목록은 Microsoft 비즈니스 클라우드 서비스에 �
 
 - [준수 점검 목록: 네덜란드](https://aka.ms/FinServ-Guide-Netherlands): 금융 회사는 Microsoft 비즈니스 클라우드 서비스의 위험 평가를 수행할 때 도움을 받을 수 있습니다.
 - [위험 평가 및 준수 가이드](https://aka.ms/RiskGovernanceGuide): Microsoft 클라우드 서비스의 위험 평가와 규제 기관 공지에 대한 거버넌스 모델을 만들 수 있습니다.
-- [금융 사용 사례](https://docs.microsoft.com/azure/industry/financial/): 금융 서비스용 Azure 솔루션을 구축하기 위한 사용 사례 개요, 자습서 및 기타 리소스.
+- [금융 사용 사례](/azure/industry/financial/): 금융 서비스용 Azure 솔루션을 구축하기 위한 사용 사례 개요, 자습서 및 기타 리소스.
 
 ## <a name="frequently-asked-questions"></a>자주하는 질문
 

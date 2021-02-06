@@ -17,12 +17,12 @@ ms.collection:
 - GDPR
 - M365-security-compliance
 - MS-Compliance
-ms.openlocfilehash: 895dbe3b4fb0c272da22302a8e455da681b0ea88
-ms.sourcegitcommit: b366fb7c148b4da40f8c5d8ff41adbff0bcb850e
+ms.openlocfilehash: f0faaefd7ff3feae482ad62b506163796d80eec5
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "49585373"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121517"
 ---
 # <a name="data-processor-service-for-windows-enterprise-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Windows 엔터프라이즈 데이터 주체 요청용 데이터 프로세서 서비스 
 
@@ -33,7 +33,7 @@ ms.locfileid: "49585373"
 
 EU GDPR(일반 데이터 보호 규정)은 사람들(규정에서 _데이터 주체_)에게 고용주 또는 다른 유형의 기관이나 조직(_데이터 컨트롤러_ 또는 간단하게 _컨트롤러_)에 의해 수집된 개인 데이터를 관리할 권한을 제공합니다. GDPR에서 개인 데이터는 식별되거나 식별 가능한 자연인에 관련된 모든 데이터로 광범위하게 정의됩니다. GDPR은 데이터 주체에게 개인 데이터에 대한 특정 권한을 제공합니다. 이러한 권한에는 개인 데이터의 복사본을 얻거나, 수정을 요청하거나, 처리를 제한하거나, 삭제하거나, 다른 관리자에게 전달할 수 있도록 전자 형식으로 개인 데이터를 수신할 권한이 포함됩니다. 데이터 주체가 개인 데이터에 대한 작업을 수행하도록 관리자에게 공식적으로 요청하는 것을 DSR(_Data Subject Request_)이라고 합니다. 
 
-마찬가지로 캘리포니아 소비자 개인 정보 보호법(CCPA)은 캘리포니아 소비자에게 GDPR의 데이터 주체 권리와 유사한 권리를 포함하여, 소비자의 개인 정보 삭제, 액세스 및 수신(이식성)과 같은 개인 정보 보호 권리 및 의무를 제공합니다. 또한 CCPA는 특정 공개, 실행 권리 행사 시 차별 대우로부터 보호, “판매"로 분류되는 특정 데이터 전송에 대한 "옵트아웃(opt-out)/옵트인(opt-in)" 요구도 허용합니다. 판매는 가치 있는 대가관계를 위하여 데이터 공유를 포함하도록 광범위하게 정의됩니다. CCPA에 대한 자세한 내용은 [캘리포니아 소비자 개인 정보 보호법](https://docs.microsoft.com/microsoft-365/compliance/offering-ccpa) 및 [캘리포니아 소비자 개인 정보 보호법 FAQ](https://docs.microsoft.com/microsoft-365/compliance/ccpa-faq)를 참조하세요.
+마찬가지로 캘리포니아 소비자 개인 정보 보호법(CCPA)은 캘리포니아 소비자에게 GDPR의 데이터 주체 권리와 유사한 권리를 포함하여, 소비자의 개인 정보 삭제, 액세스 및 수신(이식성)과 같은 개인 정보 보호 권리 및 의무를 제공합니다. 또한 CCPA는 특정 공개, 실행 권리 행사 시 차별 대우로부터 보호, “판매"로 분류되는 특정 데이터 전송에 대한 "옵트아웃(opt-out)/옵트인(opt-in)" 요구도 허용합니다. 판매는 가치 있는 대가관계를 위하여 데이터 공유를 포함하도록 광범위하게 정의됩니다. CCPA에 대한 자세한 내용은 [캘리포니아 소비자 개인 정보 보호법](/microsoft-365/compliance/offering-ccpa) 및 [캘리포니아 소비자 개인 정보 보호법 FAQ](/microsoft-365/compliance/ccpa-faq)를 참조하세요.
 
 이 가이드에서는 Microsoft 제품, 서비스 및 관리 도구를 사용하여 통제자 고객이 DSR에 응답하기 위해 개인 데이터를 찾고 조치를 취하는 데 도움을 주는 방식을 설명합니다. 특히, Microsoft 클라우드에 있는 개인 데이터를 찾고, 액세스하고, 조치를 취하는 방법도 포함되어 있습니다. 이 가이드에 설명된 프로세스에 대한 간략한 개요는 다음과 같습니다. 
 
@@ -41,7 +41,7 @@ EU GDPR(일반 데이터 보호 규정)은 사람들(규정에서 _데이터 주
 2. **삭제** Microsoft 클라우드에 있는 개인 데이터를 영구적으로 제거합니다. 
 3. **내보내기**—개인 데이터의 전자 사본(컴퓨터가 읽을 수 있는 형식)을 데이터 주체에게 제공합니다. CCPA 하에서 개인 정보는 식별된 또는 식별 가능한 개인과 관련 있는 모든 정보입니다.
 
-CCPA 하에서 개인 정보는 식별된 또는 식별 가능한 개인과 관련 있는 모든 정보입니다. 이때 개인의 비공개, 공개 또는 업무 역할이 구분되지 않습니다. 정의된 "개인 정보"라는 용어는 GDPR에 따른 "개인 데이터"와 대략 일치합니다. 그러나 CCPA에는 가족 및 가정 데이터가 포함되어 있습니다. CCPA에 대한 자세한 내용은 [캘리포니아 소비자 개인 정보 보호법](https://docs.microsoft.com/microsoft-365/compliance/offering-ccpa) 및 [캘리포니아 소비자 개인 정보 보호법 FAQ](https://docs.microsoft.com/microsoft-365/compliance/ccpa-faq)를 참조하세요.
+CCPA 하에서 개인 정보는 식별된 또는 식별 가능한 개인과 관련 있는 모든 정보입니다. 이때 개인의 비공개, 공개 또는 업무 역할이 구분되지 않습니다. 정의된 "개인 정보"라는 용어는 GDPR에 따른 "개인 데이터"와 대략 일치합니다. 그러나 CCPA에는 가족 및 가정 데이터가 포함되어 있습니다. CCPA에 대한 자세한 내용은 [캘리포니아 소비자 개인 정보 보호법](/microsoft-365/compliance/offering-ccpa) 및 [캘리포니아 소비자 개인 정보 보호법 FAQ](/microsoft-365/compliance/ccpa-faq)를 참조하세요.
 
 이 가이드의 각 섹션에서는 데이터 통제자가 Microsoft 클라우드의 개인 데이터에 대한 DSR에 응답하기 위해 수행할 수 있는 기술적 절차를 간략하게 설명합니다. 
 
@@ -78,26 +78,26 @@ Microsoft는 Azure Portal을 통해 그리고 또한 기존 API(응용 프로그
 
 테넌트 관리자는 조직 내에서 특정 사용자의 Windows 엔터프라이즈 등록 장치용 데이터 프로세서 서비스 사용과 관련된 Windows 진단 데이터에 액세스할 수 있는 유일한 사용자입니다. 액세스 요청에 대해 검색된 데이터는 내보내기를 통해 시스템에서 읽을 수 있는 형식으로 제공되며, 사용자가 데이터와 연결된 장치 및 서비스를 알 수 있는 파일로 제공됩니다. 이전에 설명한 것처럼 검색된 데이터에는 Windows 장치의 보안이나 안정성을 해칠 수 있는 데이터가 포함되지 않습니다. 
 
-Microsoft는 기업 고객의 테넌트 관리자에게 DSR 액세스 요청을 관리할 수 있는 기능을 제공하는 포털 환경을 제공합니다. [Azure DSR, 2부, 3단계: 내보내기](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-azure#step-3-export)에서는 Azure Portal을 통해 내보내기를 통해 DSR 액세스 요청을 실행하는 방법을 설명합니다.
+Microsoft는 기업 고객의 테넌트 관리자에게 DSR 액세스 요청을 관리할 수 있는 기능을 제공하는 포털 환경을 제공합니다. [Azure DSR, 2부, 3단계: 내보내기](/microsoft-365/compliance/gdpr-dsr-azure#step-3-export)에서는 Azure Portal을 통해 내보내기를 통해 DSR 액세스 요청을 실행하는 방법을 설명합니다.
 
 ### <a name="step-2-delete"></a>2단계: 삭제 
 
 Microsoft는 특정 사용자의 Azure Active Directory 개체를 기반으로 사용자 기반 DSR 삭제 요청을 실행하는 방법을 제공합니다.
 
-사용자 기반 삭제 요청의 경우 Microsoft는 기업 고객의 테넌트 관리자에게 DSR 삭제 요청을 관리할 수 있는 기능을 제공하는 포털 환경을 제공합니다. [Azure DSR, 1부, 5단계: 삭제](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-azure#step-5-delete)는 Azure Portal을 통해 DSR 삭제 요청을 실행하는 방법을 설명합니다. 
+사용자 기반 삭제 요청의 경우 Microsoft는 기업 고객의 테넌트 관리자에게 DSR 삭제 요청을 관리할 수 있는 기능을 제공하는 포털 환경을 제공합니다. [Azure DSR, 1부, 5단계: 삭제](/microsoft-365/compliance/gdpr-dsr-azure#step-5-delete)는 Azure Portal을 통해 DSR 삭제 요청을 실행하는 방법을 설명합니다. 
 
-Microsoft는 사용자를 삭제할 수 있는 기능을 제공하며, 이 기능을 사용하면 기존 API(응용 프로그램 프로그래밍 인터페이스)를 통해 고객 데이터를 직접 삭제할 수 있습니다. 자세한 내용은 [API 참조 설명서](https://docs.microsoft.com/graph/api/directory-deleteditems-delete)에 설명되어 있습니다. 
+Microsoft는 사용자를 삭제할 수 있는 기능을 제공하며, 이 기능을 사용하면 기존 API(응용 프로그램 프로그래밍 인터페이스)를 통해 고객 데이터를 직접 삭제할 수 있습니다. 자세한 내용은 [API 참조 설명서](/graph/api/directory-deleteditems-delete)에 설명되어 있습니다. 
 
 >[!IMPORTANT]  
->수집된 데이터를 삭제해도 추가 수집이 중지되지 않습니다. 데이터 수집을 해제하려면 [관련 서비스의 참조 문서](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization#enterprise-management)에 설명된 절차를 따릅니다.
+>수집된 데이터를 삭제해도 추가 수집이 중지되지 않습니다. 데이터 수집을 해제하려면 [관련 서비스의 참조 문서](/windows/privacy/configure-windows-diagnostic-data-in-your-organization#enterprise-management)에 설명된 절차를 따릅니다.
  
  또한 사용자 기반 삭제 요청의 경우 사용자 계정 자체를 삭제해야 합니다. 
 
 ### <a name="step-3-export"></a>3단계: 내보내기 
 
-테넌트 관리자는 조직 내에서 특정 사용자의 Windows 엔터프라이즈 등록 장치용 데이터 프로세서 서비스 사용과 관련된 Windows 진단 데이터에 액세스할 수 있는 유일한 사용자입니다. 내보내기 요청에 대해 검색된 데이터는 시스템에서 읽을 수 있는 형식으로 제공되며 사용자가 해당 데이터와 연결된 장치 및 서비스를 알 수 있는 파일로 제공됩니다. 이전에 설명한 것처럼 검색된 데이터에는 Windows 장치의 보안이나 안정성을 해칠 수 있는 데이터가 포함되지 않습니다. [Azure DSR, 2부, 3단계: 내보내기](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-azure#step-3-export)는 Azure Portal을 통해 DSR 내보내기 요청을 실행하는 방법을 설명합니다. 
+테넌트 관리자는 조직 내에서 특정 사용자의 Windows 엔터프라이즈 등록 장치용 데이터 프로세서 서비스 사용과 관련된 Windows 진단 데이터에 액세스할 수 있는 유일한 사용자입니다. 내보내기 요청에 대해 검색된 데이터는 시스템에서 읽을 수 있는 형식으로 제공되며 사용자가 해당 데이터와 연결된 장치 및 서비스를 알 수 있는 파일로 제공됩니다. 이전에 설명한 것처럼 검색된 데이터에는 Windows 장치의 보안이나 안정성을 해칠 수 있는 데이터가 포함되지 않습니다. [Azure DSR, 2부, 3단계: 내보내기](/microsoft-365/compliance/gdpr-dsr-azure#step-3-export)는 Azure Portal을 통해 DSR 내보내기 요청을 실행하는 방법을 설명합니다. 
 
-Microsoft는 기존 API(응용 프로그램 프로그래밍 인터페이스)를 통해 고객 데이터를 직접 내보낼 수 있는 기능을 제공합니다. 자세한 내용은 [API 참조 설명서](https://docs.microsoft.com/graph/api/user-exportpersonaldata)에 설명되어 있습니다.
+Microsoft는 기존 API(응용 프로그램 프로그래밍 인터페이스)를 통해 고객 데이터를 직접 내보낼 수 있는 기능을 제공합니다. 자세한 내용은 [API 참조 설명서](/graph/api/user-exportpersonaldata)에 설명되어 있습니다.
 
 ## <a name="notify-about-exporting-or-deleting-issues"></a>내보내기 또는 삭제 중 발생하는 문제에 대한 알림 
 

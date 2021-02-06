@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1229dba8c5106c48e431c0bdf09e86e65bb402cc
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: cd26a6a8256d2efa85451e84f1caffc7e68c043b
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508916"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121407"
 ---
 # <a name="financial-authority-amf-and-prudential-authority-acpr-france"></a>프랑스 재무 기관(AMF) 및 건전성 감독청(ACPR)
 
@@ -59,7 +59,7 @@ AMF 및 ACPR은 “유럽 뱅킹 부문 전반에서 효과적이고 일관된 �
 
 - [규정 준수 점검 목록: 프랑스](https://aka.ms/FinServ-Guide-France): 금융 기관은 Microsoft 비즈니스 클라우드 서비스의 위험 평가를 시행하는 데 도움을 받을 수 있습니다.
 - [위험 평가 및 규정 준수 가이드](https://aka.ms/RiskGovernanceGuide): Microsoft 클라우드 서비스의 위험 평가 및 규제 기관의 알림에 대한 거버넌스 모델을 만들 수 있습니다.
-- [재무 사용 사례](https://docs.microsoft.com/azure/industry/financial/): 금융 서비스용 Azure 솔루션을 구축하기 위한 사용 사례 개요, 자습서 및 기타 리소스.
+- [재무 사용 사례](/azure/industry/financial/): 금융 서비스용 Azure 솔루션을 구축하기 위한 사용 사례 개요, 자습서 및 기타 리소스.
 
 ## <a name="frequently-asked-questions"></a>자주 묻는 질문
 

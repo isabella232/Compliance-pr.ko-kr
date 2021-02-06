@@ -17,12 +17,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 description: Microsoft 제품 및 서비스를 사용하여 유럽연합 일반 개인정보보호법(GDPR) 및 캘리포니아 소비자 개인 정보 보호법(CCPA)에 따라 DSR을 완료하는 방법에 대해 알아봅니다.
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: ce2be94fec6b2e48a9e7052a1b01302966eb42a3
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 83ba52015eeb7aed73cd231ff01f824f75337360
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508772"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121037"
 ---
 # <a name="data-subject-requests-and-the-gdpr-and-ccpa"></a>데이터 주체 요청과 GDPR 및 CCPA
 
@@ -68,7 +68,7 @@ GDPR(일반 데이터 보호 규정)은 사람들(규정에서 데이터 주체)
 
 ### <a name="insights-generated-by-microsoft-products-or-services"></a>Microsoft 제품 또는 서비스에서 생성된 인사이트
 
-[인사이트](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365)는 서비스(MyAnalytics 등)를 통해 생성될 수 있습니다. Office 365에는 사용자와 조직이 사용하는 인사이트를 제공하는 온라인 서비스가 포함되어 있습니다. 이러한 서비스에서 생성된 데이터를 통해 DSR과 관련된 개인 데이터가 생성될 수 있습니다. 서비스 관련 DSR 프로세스에 대한 자세한 내용은 아래 목록에 있는 링크를 참조하세요.  
+[인사이트](/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365)는 서비스(MyAnalytics 등)를 통해 생성될 수 있습니다. Office 365에는 사용자와 조직이 사용하는 인사이트를 제공하는 온라인 서비스가 포함되어 있습니다. 이러한 서비스에서 생성된 데이터를 통해 DSR과 관련된 개인 데이터가 생성될 수 있습니다. 서비스 관련 DSR 프로세스에 대한 자세한 내용은 아래 목록에 있는 링크를 참조하세요.  
 
 ### <a name="dsrs-for-system-generated-logs"></a>시스템 생성 로그용 DSRs
 
@@ -82,8 +82,8 @@ Microsoft에서 생성한 로그 및 관련 데이터는 GDPR의 "개인 데이�
 
 사용자 계정을 삭제해도 Yammer 및 Kaizala에 대한 시스템 생성 로그는 제거되지 않습니다. 이러한 응용 프로그램에서 생성된 데이터를 제거하려면 다음 리소스 중 하나를 참조하세요.
 
-- [Yammer Enterprise에서 GDPR 데이터 주체 요청 관리](https://docs.microsoft.com/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)
-- [Kaizala에서 사용자의 조직 데이터 내보내기 또는 삭제](https://docs.microsoft.com/office365/kaizala/export-or-delete-a-user-s-data)
+- [Yammer Enterprise에서 GDPR 데이터 주체 요청 관리](/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)
+- [Kaizala에서 사용자의 조직 데이터 내보내기 또는 삭제](/office365/kaizala/export-or-delete-a-user-s-data)
 
 ### <a name="national-clouds"></a>국가별 클라우드
 

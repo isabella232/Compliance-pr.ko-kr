@@ -13,12 +13,12 @@ localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 ms.collection: MS-Compliance
-ms.openlocfilehash: 89d708c0f934a95b0145bc1ff24709c531967bac
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: c2b8c28db6383cf35384103117ae3e5b18f4c280
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508513"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121867"
 ---
 # <a name="gdpr-for-sharepoint-server"></a>SharePoint Server의 GDPR
 
@@ -31,9 +31,9 @@ ms.locfileid: "49508513"
 
 -   Azure Information Protection을 사용하여 데이터를 분류합니다.
 
--   최소 권한 구성에서 SharePoint Server를 실행합니다. 자세한 내용은 [SharePoint Server에서 최소 권한 관리 계획](https://docs.microsoft.com/SharePoint/security-for-sharepoint-server/plan-for-least-privileged-administration) 및 [SahrePoint Server의 보안](https://docs.microsoft.com/sharepoint/security-for-sharepoint-server/security-for-sharepoint-server)을 참조하세요.
+-   최소 권한 구성에서 SharePoint Server를 실행합니다. 자세한 내용은 [SharePoint Server에서 최소 권한 관리 계획](/SharePoint/security-for-sharepoint-server/plan-for-least-privileged-administration) 및 [SahrePoint Server의 보안](/sharepoint/security-for-sharepoint-server/security-for-sharepoint-server)을 참조하세요.
 
--   [서버에서 BitLocker 암호화를 사용하도록 설정합니다](https://docs.microsoft.com/windows/security/information-protection/bitlocker/bitlocker-how-to-deploy-on-windows-server).
+-   [서버에서 BitLocker 암호화를 사용하도록 설정합니다](/windows/security/information-protection/bitlocker/bitlocker-how-to-deploy-on-windows-server).
 
 ## <a name="user-generated-content"></a>사용자 생성 콘텐츠
 
@@ -41,11 +41,11 @@ SharePoint Server 사이트 및 라이브러리에 포함된 사용자 생성 �
 
 -   Azure Information Protection을 사용하여 중요한 데이터를 레이블 지정합니다.
 
--   [SharePoint Server 검색](https://docs.microsoft.com/SharePoint/search/search) 및 [eDiscovery](https://docs.microsoft.com/SharePoint/governance/ediscovery-and-in-place-holds-in-sharepoint-server)를 사용하여 중요한 데이터를 검색합니다.
+-   [SharePoint Server 검색](/SharePoint/search/search) 및 [eDiscovery](/SharePoint/governance/ediscovery-and-in-place-holds-in-sharepoint-server)를 사용하여 중요한 데이터를 검색합니다.
 
 파일 공유와 SharePoint 사이트 및 라이브러리에 대한 권장 접근법에는 다음 단계가 포함됩니다.
 
-1.  **[Azure Information Protection 스캐너를 설치하고 구성합니다.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-install#options-to-install-the-azure-information-protection-client-for-users)**
+1.  **[Azure Information Protection 스캐너를 설치하고 구성합니다.](/azure/information-protection/rms-client/client-admin-guide-install#options-to-install-the-azure-information-protection-client-for-users)**
 
     -   사용할 중요한 데이터 형식을 결정합니다.
 
@@ -77,7 +77,7 @@ SharePoint Server 사이트 및 라이브러리에 포함된 사용자 생성 �
 
 Azure Information Protection 스캐너를 사용하여 개인 데이터를 찾고 레이블 지정하는 방법에 대한 자세한 내용은 https://aka.ms/gdprpartners)에서 [Microsoft GDPR 데이터 검색 도구 키트](https://aka.ms/gdprpartners)를 참조하세요.
 
-조건을 위한 스캐너 구성 및 Office 365 DLP(데이터 손실 방지) 중요한 정보 유형의 사용에 대한 자세한 내용은 [Azure Information Protection의 자동 및 권장 분류를 위한 조건을 구성하는 방법](https://docs.microsoft.com/information-protection/deploy-use/configure-policy-classification)을 참조하세요. 새 Office 365 중요한 정보 유형은 스캐너에서 즉시 사용할 수 없으며 사용자 지정 중요한 정보 유형은 스캐너에서 사용할 수 없습니다.
+조건을 위한 스캐너 구성 및 Office 365 DLP(데이터 손실 방지) 중요한 정보 유형의 사용에 대한 자세한 내용은 [Azure Information Protection의 자동 및 권장 분류를 위한 조건을 구성하는 방법](/information-protection/deploy-use/configure-policy-classification)을 참조하세요. 새 Office 365 중요한 정보 유형은 스캐너에서 즉시 사용할 수 없으며 사용자 지정 중요한 정보 유형은 스캐너에서 사용할 수 없습니다.
 
 ## <a name="removing-personal-information-from-office-files"></a>Office 파일에서 개인 정보 제거
 
@@ -95,15 +95,15 @@ SharePoint 문서 라이브러리에 저장된 Office 파일의 개인 정보(�
 
 ### <a name="uls-logs"></a>ULS 로그
 
-SharePoint Server 트랙의 ULS(통합 로깅 서비스) 및 사용 현황 로깅은 다양한 시스템 기능을 추적하며 사용자 정보를 포함할 수 있습니다. ULS 로그 및 사용 현황 로그는 텍스트 파일이며 다양한 검색 도구를 사용하여 검색할 수 있습니다. [Merge-SPLogFile PowerShell cmdlet](https://docs.microsoft.com/powershell/module/sharepoint-server/merge-splogfile)은 팜의 여러 서버에 있는 ULS 로그의 레코드를 반환하는 방법을 제공합니다.
+SharePoint Server 트랙의 ULS(통합 로깅 서비스) 및 사용 현황 로깅은 다양한 시스템 기능을 추적하며 사용자 정보를 포함할 수 있습니다. ULS 로그 및 사용 현황 로그는 텍스트 파일이며 다양한 검색 도구를 사용하여 검색할 수 있습니다. [Merge-SPLogFile PowerShell cmdlet](/powershell/module/sharepoint-server/merge-splogfile)은 팜의 여러 서버에 있는 ULS 로그의 레코드를 반환하는 방법을 제공합니다.
 
-로그 보존 정책을 비즈니스 목적에 필요한 최소값으로 설정하는 것이 좋습니다. SharePoint Server에서 로깅을 구성하는 방법에 대한 자세한 내용은[ SharePoint Server에서 진단 로깅 구성](https://docs.microsoft.com/SharePoint/administration/configure-diagnostic-logging)을 참조하세요.
+로그 보존 정책을 비즈니스 목적에 필요한 최소값으로 설정하는 것이 좋습니다. SharePoint Server에서 로깅을 구성하는 방법에 대한 자세한 내용은[ SharePoint Server에서 진단 로깅 구성](/SharePoint/administration/configure-diagnostic-logging)을 참조하세요.
 
 일부 시스템 이벤트는 Windows 이벤트 로그에도 로깅됩니다.
 
 ### <a name="usage-database"></a>사용 현황 데이터베이스
 
-SharePoint Server 사용 현황 데이터베이스(기본 이름 WSS_Logging)에는 ULS 로그에서 발견되는 정보의 하위 집합이 포함되어 있습니다. 데이터베이스에 있는 데이터의 최대 보존 기간은 30일입니다. 비즈니스 요구 사항에 따라 허용되는 최단 기간 동안 구성하는 것이 좋습니다. 자세한 내용은 [SharePoint Server에서 진단 로깅 구성](https://docs.microsoft.com/SharePoint/administration/configure-diagnostic-logging)을 참조하세요.
+SharePoint Server 사용 현황 데이터베이스(기본 이름 WSS_Logging)에는 ULS 로그에서 발견되는 정보의 하위 집합이 포함되어 있습니다. 데이터베이스에 있는 데이터의 최대 보존 기간은 30일입니다. 비즈니스 요구 사항에 따라 허용되는 최단 기간 동안 구성하는 것이 좋습니다. 자세한 내용은 [SharePoint Server에서 진단 로깅 구성](/SharePoint/administration/configure-diagnostic-logging)을 참조하세요.
 
 ## <a name="personal-information-and-search"></a>개인 정보 및 검색
 
@@ -290,9 +290,9 @@ SharePoint Server는 3년 후 자동으로 사용 현황 레코드를 삭제합�
 
 하이브리드 검색 솔루션에 대한 권장 사항은 SharePoint Server 또는 SharePoint Online의 검색에 대한 권장 사항과 같습니다. 다음은 2가지 하이브리드 검색 솔루션입니다.
 
-**클라우드 하이브리드 검색 솔루션** - SharePoint용 클라우드 하이브리드 검색 솔루션을 통해 Office 365의 검색 인덱스에서 온-프레미스 콘텐츠를 포함한 크롤링된 모든 콘텐츠를 인덱싱합니다. 사용자가 Office 365에서 검색 인덱스를 쿼리하면 온-프레미스 및 Office 365의 검색 결과를 모두 얻습니다. SharePoint Server 환경에서 문서가 삭제되면 Office 365의 검색 인덱스에서도 삭제됩니다. [클라우드 하이브리드 검색 솔루션](https://docs.microsoft.com/sharepoint/hybrid/learn-about-cloud-hybrid-search-for-sharepoint) 및 [클라우드 하이브리드 검색에서 구성 요소 및 데이터베이스 상호 작용을 검색하는 방법](https://docs.microsoft.com/sharepoint/hybrid/plan-cloud-hybrid-search-for-sharepoint)을 자세히 읽어보면 GDPR이 하이브리드 환경에 미치는 영향을 더 잘 이해할 수 있습니다.
+**클라우드 하이브리드 검색 솔루션** - SharePoint용 클라우드 하이브리드 검색 솔루션을 통해 Office 365의 검색 인덱스에서 온-프레미스 콘텐츠를 포함한 크롤링된 모든 콘텐츠를 인덱싱합니다. 사용자가 Office 365에서 검색 인덱스를 쿼리하면 온-프레미스 및 Office 365의 검색 결과를 모두 얻습니다. SharePoint Server 환경에서 문서가 삭제되면 Office 365의 검색 인덱스에서도 삭제됩니다. [클라우드 하이브리드 검색 솔루션](/sharepoint/hybrid/learn-about-cloud-hybrid-search-for-sharepoint) 및 [클라우드 하이브리드 검색에서 구성 요소 및 데이터베이스 상호 작용을 검색하는 방법](/sharepoint/hybrid/plan-cloud-hybrid-search-for-sharepoint)을 자세히 읽어보면 GDPR이 하이브리드 환경에 미치는 영향을 더 잘 이해할 수 있습니다.
 
-**하이브리드 페더레이션된 검색 솔루션** - 하이브리드 연결된 검색 솔루션을 사용하면 SharePoint Server의 인덱스와 Office 365의 인덱스를 둘 다 사용하게 됩니다. SharePoint Server 및 SharePoint Online Search 서비스는 둘 다 다른 환경의 검색 인덱스를 쿼리하고, 연결된 결과를 반환할 수 있습니다. 사용자가 검색센터에서 검색하면 검색 결과가 SharePoint Server의 검색 인덱스와 Office 365의 검색 인덱스에서 제공됩니다. [하이브리드 페더레이션된 검색 솔루션을 자세히 읽어보면](https://docs.microsoft.com/sharepoint/hybrid/learn-about-hybrid-federated-search-for-sharepoint) GDPR이 하이브리드 환경에 미치는 영향을 더 잘 이해할 수 있습니다.
+**하이브리드 페더레이션된 검색 솔루션** - 하이브리드 연결된 검색 솔루션을 사용하면 SharePoint Server의 인덱스와 Office 365의 인덱스를 둘 다 사용하게 됩니다. SharePoint Server 및 SharePoint Online Search 서비스는 둘 다 다른 환경의 검색 인덱스를 쿼리하고, 연결된 결과를 반환할 수 있습니다. 사용자가 검색센터에서 검색하면 검색 결과가 SharePoint Server의 검색 인덱스와 Office 365의 검색 인덱스에서 제공됩니다. [하이브리드 페더레이션된 검색 솔루션을 자세히 읽어보면](/sharepoint/hybrid/learn-about-hybrid-federated-search-for-sharepoint) GDPR이 하이브리드 환경에 미치는 영향을 더 잘 이해할 수 있습니다.
 
 ## <a name="on-prem-to-cloud-migrations"></a>온-프레미스에서 클라우드 마이그레이션으로
 
@@ -306,7 +306,7 @@ SharePoint Server는 3년 후 자동으로 사용 현황 레코드를 삭제합�
 
 1.  SharePoint Server 사용자 프로필에 제공되는 외부 시스템에서 사용자 정보를 제거합니다. 디렉터리 동기화를 사용하는 경우 사용자는 온-프레미스 활성 디렉터리 환경에서 제거해야 합니다.
 
-2.  SharePoint Server에서 [프로필 동기화](https://docs.microsoft.com/sharepoint/administration/start-profile-synchronization-manually)를 실행합니다.
+2.  SharePoint Server에서 [프로필 동기화](/sharepoint/administration/start-profile-synchronization-manually)를 실행합니다.
 
 3.  SharePoint Server에서 프로필을 삭제합니다. 삭제를 완료하면 SharePoint Server는 30일 이내에 사용자 프로필 데이터베이스에서 프로필을 완전히 제거합니다. 사용자의 프로필 페이지 및 개인 사이트가 삭제됩니다.
 

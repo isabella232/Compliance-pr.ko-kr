@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 94ce3e8dbbb210c645fb2f64ed29e441eb9956bf
-ms.sourcegitcommit: 58741a8e28c354bd806418b7263f0db98bf83eac
+ms.openlocfilehash: 16c388f3618fe7b62b596dd158dee05a55608234
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49759693"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120227"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>ISO/IEC 27001:2013 정보 보안 관리 표준
 
@@ -111,7 +111,7 @@ Microsoft 클라우드에서 ISO/IEC-27001의 혜택에 대해 알아보세요. 
 
 **Microsoft 서비스에 대한 ISO/IEC 27001 감사 보고서와 범위 기술서는 어디에서 구할 수 있나요?**
 
-[Service Trust Portal](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-service-trust-portal)은 독립적으로 감사를 거친 규정 준수 보고서를 제공합니다. 귀사의 감사자는 이 포털을 통해 Microsoft의 클라우드 서비스 결과와 귀사의 법적 및 규제 요건을 비교할 수 있도록 보고서를 요청할 수 있습니다.
+[Service Trust Portal](/microsoft-365/compliance/get-started-with-service-trust-portal)은 독립적으로 감사를 거친 규정 준수 보고서를 제공합니다. 귀사의 감사자는 이 포털을 통해 Microsoft의 클라우드 서비스 결과와 귀사의 법적 및 규제 요건을 비교할 수 있도록 보고서를 요청할 수 있습니다.
 
 **Microsoft는 인프라 장애에 대한 연례 테스트를 실시하나요?**
 
@@ -130,7 +130,7 @@ ISO/IEC 27001 채택은 전략적인 약속입니다. [ISO/IEC 27000 디렉터�
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
 
-[Microsoft 준수 관리자](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 Enterprise E5 고객에게 이 규제에 대해 사전에 빌드된 평가를 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 평가 빌드를 위한 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
+[Microsoft 준수 관리자](/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 Enterprise E5 고객에게 이 규제에 대해 사전에 빌드된 평가를 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 평가 빌드를 위한 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
 
 ## <a name="resources"></a>리소스
 

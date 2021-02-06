@@ -19,12 +19,12 @@ ms.custom:
 - seo-marvel-mar2020
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: d6b0a96cfa82f9e0d841703d2124c0e9dda7fe1f
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: fabaa7487da2dae72cc2aa8aa050b43713154fbe
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508697"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120937"
 ---
 # <a name="intune-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Intune 데이터 주체 요청
 
@@ -39,7 +39,7 @@ ms.locfileid: "49508697"
 - **수정:** 해당되는 경우 개인 데이터를 변경하거나 요청된 다른 작업을 구현합니다.
 - **제한** 다양한 Azure 서비스에 대한 라이선스를 제거하거나 가능한 경우 원하는 서비스를 꺼서 개인 데이터의 처리를 제한합니다. Microsoft 클라우드에서 데이터를 제거하고 온-프레미스 또는 다른 위치에 보존할 수도 있습니다.
 - **삭제:** Microsoft 클라우드에 있는 개인 데이터를 영구적으로 제거합니다.
-- **내보내기/수신(이식성):** 개인 데이터 또는 개인 정보의 전자 사본(컴퓨터가 읽을 수 있는 형식)을 데이터 주체에게 제공합니다. CCPA 하에서 개인 정보는 식별된 또는 식별 가능한 개인과 관련 있는 모든 정보입니다. 이때 개인의 비공개, 공개 또는 업무 역할이 구분되지 않습니다. 정의된 용어 "개인 정보"는 GDPR의 "개인 데이터"와 대략 일치합니다. 그러나 CCPA에는 가족 및 가정 데이터가 포함되어 있습니다. CCPA에 대한 자세한 내용은 [캘리포니아 소비자 개인 정보 보호법](offering-ccpa.md) 및 [캘리포니아 소비자 개인 정보 보호법 FAQ](ccpa-faq.md)를 참조하세요.
+- **내보내기/수신(이식성):** 개인 데이터 또는 개인 정보의 전자 사본(컴퓨터가 읽을 수 있는 형식)을 데이터 주체에게 제공합니다. CCPA 하에서 개인 정보는 식별된 또는 식별 가능한 개인과 관련 있는 모든 정보입니다. 이때 개인의 비공개, 공개 또는 업무 역할이 구분되지 않습니다. 정의된 "개인 정보"라는 용어는 GDPR에 따른 "개인 데이터"와 대략 일치합니다. 그러나 CCPA에는 가족 및 가정 데이터가 포함되어 있습니다. CCPA에 대한 자세한 내용은 [캘리포니아 소비자 개인 정보 보호법](offering-ccpa.md) 및 [캘리포니아 소비자 개인 정보 보호법 FAQ](ccpa-faq.md)를 참조하세요.
 
 이 가이드의 각 섹션에서는 데이터 통제자가 Microsoft 클라우드의 개인 데이터에 대한 DSR에 응답하기 위해 수행할 수 있는 기술적 절차를 간략하게 설명합니다.
 
@@ -86,9 +86,9 @@ DSR에 응답하는 첫 번째 단계는 요청의 대상인 개인 데이터를
 
 데이터를 찾은 후에 데이터 주체의 요청을 충족하기 위한 특정 작업을 수행할 수 있습니다. 자세한 내용은 다음 리소스를 참조하세요.
 
-- [데이터 수집](https://docs.microsoft.com/intune/privacy-data-collect)
-- [데이터 저장 및 처리](https://docs.microsoft.com/intune/privacy-data-store-process)
-- [개인 데이터 보기](https://docs.microsoft.com/intune/privacy-data-view-correct#view-personal-data)
+- [데이터 수집](/intune/privacy-data-collect)
+- [데이터 저장 및 처리](/intune/privacy-data-store-process)
+- [개인 데이터 보기](/intune/privacy-data-view-correct#view-personal-data)
 
 ### <a name="step-2-access"></a>2단계: 액세스
 
@@ -114,15 +114,15 @@ Microsoft Intune은 사용자 인터페이스(UI) 또는 기존 응용 프로그
 
 ### <a name="step-4-restrict"></a>4단계: 제한
 
-데이터 주체가 개인 데이터 처리를 제한하도록 요청할 수 있습니다. 당사는 Azure 포털과 기존 API(응용 프로그래밍 인터페이스) 또는 UI(사용자 인터페이스)를 모두 제공합니다. 이러한 환경은 엔터프라이즈 고객의 테넌트 관리자에게 데이터 내보내기 및 데이터 삭제의 조합을 통해 그와 같은 DSR을 관리할 수 있는 기능을 제공합니다. 자세한 내용은 [개인 데이터 처리](https://docs.microsoft.com/intune/privacy-data-store-process#processing-personal-data)를 참조하세요.
+데이터 주체가 개인 데이터 처리를 제한하도록 요청할 수 있습니다. 당사는 Azure 포털과 기존 API(응용 프로그래밍 인터페이스) 또는 UI(사용자 인터페이스)를 모두 제공합니다. 이러한 환경은 엔터프라이즈 고객의 테넌트 관리자에게 데이터 내보내기 및 데이터 삭제의 조합을 통해 그와 같은 DSR을 관리할 수 있는 기능을 제공합니다. 자세한 내용은 [개인 데이터 처리](/intune/privacy-data-store-process#processing-personal-data)를 참조하세요.
 
 ### <a name="step-5-delete"></a>5단계: 삭제
 
-조직의 고객 데이터에서 개인 데이터를 제거할 수 있는 “삭제할 권리”는 GDPR의 주요 보호 수단입니다. 감사 로그 정보를 제외한 모든 개인 데이터 및 시스템 생성 로그 제거를 포함하여 개인 데이터를 제거합니다. 자세한 내용은 [최종 사용자 개인 데이터 삭제](https://docs.microsoft.com/intune/privacy-data-audit-export-delete#delete-end-user-personal-data)를 참조하세요.
+조직의 고객 데이터에서 개인 데이터를 제거할 수 있는 “삭제할 권리”는 GDPR의 주요 보호 수단입니다. 감사 로그 정보를 제외한 모든 개인 데이터 및 시스템 생성 로그 제거를 포함하여 개인 데이터를 제거합니다. 자세한 내용은 [최종 사용자 개인 데이터 삭제](/intune/privacy-data-audit-export-delete#delete-end-user-personal-data)를 참조하세요.
 
 ## <a name="part-2-system-generated-logs"></a>2부: 시스템 생성 로그
 
-감사 로그는 테넌트 관리자에게 Microsoft Intune에서 변경 사항을 생성하는 활동 기록을 제공합니다. 감사 로그는 많은 활동을 관리하고 일반적으로 작업을 만들고, 업데이트(편집)하고 삭제하고 할당할 수 있습니다. 감사 이벤트를 만드는 원격 태스크도 검토할 수 있습니다. 이러한 감사 로그에는 장치가 UIntune에 등록된 사용자의 개인 데이터가 포함될 수 있습니다. 자세한 내용은 [개인 데이터 감사](https://docs.microsoft.com/intune/privacy-data-audit-export-delete#audit-personal-data)를 참조하세요.
+감사 로그는 테넌트 관리자에게 Microsoft Intune에서 변경 사항을 생성하는 활동 기록을 제공합니다. 감사 로그는 많은 활동을 관리하고 일반적으로 작업을 만들고, 업데이트(편집)하고 삭제하고 할당할 수 있습니다. 감사 이벤트를 만드는 원격 태스크도 검토할 수 있습니다. 이러한 감사 로그에는 장치가 UIntune에 등록된 사용자의 개인 데이터가 포함될 수 있습니다. 자세한 내용은 [개인 데이터 감사](/intune/privacy-data-audit-export-delete#audit-personal-data)를 참조하세요.
 
 ## <a name="notify-about-exporting-or-deleting-issues"></a>내보내기 또는 삭제 문제에 대한 알림
 

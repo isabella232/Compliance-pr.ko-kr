@@ -18,12 +18,12 @@ ms.collection:
 ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 9be40afbe9df0a3744022366119aaa7d35da992c
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: e8426e0e988c2f29a5223abb7e10a205f3941cfd
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508545"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121507"
 ---
 # <a name="support-your-gdpr-program-with-accountability-readiness-checklists"></a>책임 준비 상태 검사 목록으로 GDPR 프로그램 지원
 
@@ -40,7 +40,7 @@ Microsoft 제품 및 서비스를 사용할 때 GDPR을 지원하는 데 필요�
 - [Azure](gdpr-arc-azure-dynamics.md)
 - [Microsoft 지원 및 전문 서비스](gdpr-arc-prof-services.md)
 
-GDPR 타일의 고객 관리 컨트롤에서 컨트롤 ID 및 컨트롤 제목을 참조하여 [준수 관리자](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)를 통해 이 검사 목록의 항목을 관리할 수 있습니다.
+GDPR 타일의 고객 관리 컨트롤에서 컨트롤 ID 및 컨트롤 제목을 참조하여 [준수 관리자](/microsoft-365/compliance/compliance-manager)를 통해 이 검사 목록의 항목을 관리할 수 있습니다.
 
 검사 목록에는 아래 나열된 GDPR을 지원하는 개인 정보 보호 프로그램에 대한 4가지 기본 고려 사항 범주와 예제 요구 사항이 포함됩니다.
 
@@ -75,7 +75,7 @@ GDPR 타일의 고객 관리 컨트롤에서 컨트롤 ID 및 컨트롤 제목�
 
 ## <a name="gdpr-compliance-controls"></a>GDPR 규정 준수 제어
 
-- **준수 관리자 사용**: Microsoft에서 [준수 관리자](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)를 사용하여 GDPR 의무 지원하기 위한 검토 및 통합 제어입니다.
+- **준수 관리자 사용**: Microsoft에서 [준수 관리자](/microsoft-365/compliance/compliance-manager)를 사용하여 GDPR 의무 지원하기 위한 검토 및 통합 제어입니다.
 - **GDPR 제어 맵핑**: Microsoft의 GDPR 규정 준수 제어의 [포괄적인 맵핑](https://go.microsoft.com/fwlink/p/?linkid=2052220)에 액세스합니다.
 
 ## <a name="records-of-processing-for-processors"></a>프로세서에 대한 처리 기록
@@ -86,31 +86,31 @@ GDPR 타일의 고객 관리 컨트롤에서 컨트롤 ID 및 컨트롤 제목�
 
 일반적으로 고객은 활동 로그 및 잠재적으로는 진단 로그에 관심을 가질 수 있습니다.
 
-- **활동 로그**: [활동 로그](https://docs.microsoft.com/azure/azure-monitor/platform/platform-logs-overview)는 구독의 리소스에서 수행되는 작업에 대한 통찰력을 제공합니다. 활동 로그는 작업의 개시자, 발생 시간 및 상태를 결정하는 데 도움이 될 수 있습니다.
-- **진단 로그**: [진단 로그](https://docs.microsoft.com/azure/azure-monitor/platform/platform-logs-overview)는 모든 리소스에서 내보낸 모든 로그입니다. 이러한 로그에는 Windows 이벤트 시스템 로그, Azure 저장소 로그, Key Vault 감사 로그, 응용 프로그램 게이트웨이 액세스 및 방화벽 로그가 포함됩니다.
+- **활동 로그**: [활동 로그](/azure/azure-monitor/platform/platform-logs-overview)는 구독의 리소스에서 수행되는 작업에 대한 통찰력을 제공합니다. 활동 로그는 작업의 개시자, 발생 시간 및 상태를 결정하는 데 도움이 될 수 있습니다.
+- **진단 로그**: [진단 로그](/azure/azure-monitor/platform/platform-logs-overview)는 모든 리소스에서 내보낸 모든 로그입니다. 이러한 로그에는 Windows 이벤트 시스템 로그, Azure 저장소 로그, Key Vault 감사 로그, 응용 프로그램 게이트웨이 액세스 및 방화벽 로그가 포함됩니다.
 - **로그 보관**: 모든 진단 로그는 아카이브를 위해 중앙 집중식 및 암호화된 Azure 저장 계정에 기록합니다. 보존 기간은 최대 730일로 사용자 구성이 가능하여 조직별 보존 요건을 충족합니다. 이러한 로그는 Azure 모니터링 로그에 연결되어 대시보드 보고를 처리, 저장 및 관리합니다.
 
 ### <a name="other-logs"></a>기타 로그
 
 또한 다음 모니터링 솔루션이 이 아키텍처의 일부로 설치됩니다. 고객의 책임은 FedRAMP 보안 제어에 맞게 이러한 솔루션을 구성하는 것입니다.
 
-- [AD 평가](https://docs.microsoft.com/azure/azure-monitor/insights/ad-assessment): Active Directory 상태 검사 솔루션은 정기적으로 서버 환경의 위험과 상태를 평가하고 배포된 서버 인프라에 특화된 권장 사항의 우선 순위를 제공합니다.
-- [맬웨어 방지 평가](https://docs.microsoft.com/azure/security-center/security-center-services?tabs=features-windows#supported-endpoint-protection-solutions-): 맬웨어 방지 솔루션은 악성코드, 위협 및 보호 상태에 대해 보고합니다.
-- [Azure 자동화](https://docs.microsoft.com/azure/automation/automation-hybrid-runbook-worker): Azure 자동화 솔루션은 runbook을 저장 및 실행하고 관리합니다.
-- [보안 및 감사](https://docs.microsoft.com/azure/security-center/security-center-introduction): 보안 및 감사 대시보드는 보안 도메인, 주요 문제, 탐지, 위협 인텔리전스 및 일반적인 보안 쿼리에 대한 메트릭을 제공하여 리소스의 보안 상태에 대한 높은 수준의 통찰력을 제공합니다.
-- [SQL 평가](https://docs.microsoft.com/azure/azure-monitor/insights/sql-assessment): SQL 상태 검사 솔루션은 정기적으로 서버 환경의 위험과 상태를 평가하고 고객에게 배포된 서버 인프라에 특화된 권장 사항의 우선 순위를 제공합니다.
-- [업데이트 관리](https://docs.microsoft.com/azure/automation/update-management/update-mgmt-overview): 업데이트 관리 솔루션을 사용하면 사용 가능한 업데이트의 상태 및 필요한 업데이트를 설치하는 과정을 포함한 운영 체제 보안 업데이트의 고객 관리가 가능합니다.
-- [에이전트 상태](https://docs.microsoft.com/azure/azure-monitor/insights/solution-agenthealth): 에이전트 상태 솔루션은 얼마나 많은 에이전트가 배치되고 그들의 지리적 분포와 응답하지 않는 에이전트의 수와 운영 데이터를 제출하는 에이전트의 수를 보고합니다.
-- [Azure 활동 로그](https://docs.microsoft.com/azure/azure-monitor/platform/activity-log): 활동 로그 분석 솔루션은 고객에 대한 모든 Azure 구독에 걸친 Azure 활동 로그를 분석하는 데 도움을 줍니다.
-- [변경 내용 추적](https://docs.microsoft.com/azure/azure-monitor/platform/activity-log): 변경 내용 추적 솔루션을 사용하면 고객이 환경의 변화를 쉽게 파악할 수 있습니다.
+- [AD 평가](/azure/azure-monitor/insights/ad-assessment): Active Directory 상태 검사 솔루션은 정기적으로 서버 환경의 위험과 상태를 평가하고 배포된 서버 인프라에 특화된 권장 사항의 우선 순위를 제공합니다.
+- [맬웨어 방지 평가](/azure/security-center/security-center-services?tabs=features-windows#supported-endpoint-protection-solutions-): 맬웨어 방지 솔루션은 악성코드, 위협 및 보호 상태에 대해 보고합니다.
+- [Azure 자동화](/azure/automation/automation-hybrid-runbook-worker): Azure 자동화 솔루션은 runbook을 저장 및 실행하고 관리합니다.
+- [보안 및 감사](/azure/security-center/security-center-introduction): 보안 및 감사 대시보드는 보안 도메인, 주요 문제, 탐지, 위협 인텔리전스 및 일반적인 보안 쿼리에 대한 메트릭을 제공하여 리소스의 보안 상태에 대한 높은 수준의 통찰력을 제공합니다.
+- [SQL 평가](/azure/azure-monitor/insights/sql-assessment): SQL 상태 검사 솔루션은 정기적으로 서버 환경의 위험과 상태를 평가하고 고객에게 배포된 서버 인프라에 특화된 권장 사항의 우선 순위를 제공합니다.
+- [업데이트 관리](/azure/automation/update-management/update-mgmt-overview): 업데이트 관리 솔루션을 사용하면 사용 가능한 업데이트의 상태 및 필요한 업데이트를 설치하는 과정을 포함한 운영 체제 보안 업데이트의 고객 관리가 가능합니다.
+- [에이전트 상태](/azure/azure-monitor/insights/solution-agenthealth): 에이전트 상태 솔루션은 얼마나 많은 에이전트가 배치되고 그들의 지리적 분포와 응답하지 않는 에이전트의 수와 운영 데이터를 제출하는 에이전트의 수를 보고합니다.
+- [Azure 활동 로그](/azure/azure-monitor/platform/activity-log): 활동 로그 분석 솔루션은 고객에 대한 모든 Azure 구독에 걸친 Azure 활동 로그를 분석하는 데 도움을 줍니다.
+- [변경 내용 추적](/azure/azure-monitor/platform/activity-log): 변경 내용 추적 솔루션을 사용하면 고객이 환경의 변화를 쉽게 파악할 수 있습니다.
 
-Azure의 기술 및 보안 조치에 대한 자세한 내용은 컨트롤러 고객이 [Azure 보안 문서](https://docs.microsoft.com/azure/security/)를 방문해야 합니다. Microsoft는 고객 데이터가 개인 데이터인지 여부를 알 수 없기 때문에 Azure는 모든 고객 데이터를 개인 데이터로 처리하므로 고객은 모든 관련 자료가 관련 대상인 것으로 생각할 수 있습니다.
+Azure의 기술 및 보안 조치에 대한 자세한 내용은 컨트롤러 고객이 [Azure 보안 문서](/azure/security/)를 방문해야 합니다. Microsoft는 고객 데이터가 개인 데이터인지 여부를 알 수 없기 때문에 Azure는 모든 고객 데이터를 개인 데이터로 처리하므로 고객은 모든 관련 자료가 관련 대상인 것으로 생각할 수 있습니다.
 
 ### <a name="processor-information"></a>프로세서 정보
 
-고객이 프로세서에 대한 정보 처리 기록이 필요할 수 있는 또 다른 제품은 Office 365입니다. Office 365와 관련된 정보를 보려면 [보안 및 준수 센터에서 감사 로그 검색](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) 문서를 참조하세요.
+고객이 프로세서에 대한 정보 처리 기록이 필요할 수 있는 또 다른 제품은 Office 365입니다. Office 365와 관련된 정보를 보려면 [보안 및 준수 센터에서 감사 로그 검색](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) 문서를 참조하세요.
 
-보안 및 준수 센터를 사용하여 Dynamics 365에 대한 정보를 볼 수도 있습니다.  보안 및 준수 센터 페이지를 보려면 올바른 라이선스가 있는지 확인합니다. [보안 및 준수 센터 서비스 설명](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 문서를 사용하여 라이선스에 대해 자세히 알아보세요. Dynamics 365 이벤트를 검색하려면 [보안 및 준수 센터](https://protection.office.com/unifiedauditlog)에서 통합 감사 로그를 참조하세요.
+보안 및 준수 센터를 사용하여 Dynamics 365에 대한 정보를 볼 수도 있습니다.  보안 및 준수 센터 페이지를 보려면 올바른 라이선스가 있는지 확인합니다. [보안 및 준수 센터 서비스 설명](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) 문서를 사용하여 라이선스에 대해 자세히 알아보세요. Dynamics 365 이벤트를 검색하려면 [보안 및 준수 센터](https://protection.office.com/unifiedauditlog)에서 통합 감사 로그를 참조하세요.
 
 ### <a name="professional-services-information"></a>전문 서비스 정보
 

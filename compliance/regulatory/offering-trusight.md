@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f6c03f1c9cddbdf1cd62be075f471a3a52e19a19
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 4fe0196ae019dbf35902c2fd0589db96ed1f1086
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509138"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50119887"
 ---
 # <a name="trusight"></a>TruSight
 
@@ -54,7 +54,7 @@ Microsoft의 경우 TruSight는 Microsoft Azure, Microsoft Dynamics 365, Microso
 ## <a name="how-to-implement"></a>구현 방법
 
 - [위험 평가 & 규제 준수 가이드](https://aka.ms/RiskGovernanceGuide): Microsoft 클라우드 서비스의 위험 평가 및 규제 기관의 알림에 대한 거버넌스 모델을 만듭니다.
-- [재무 사용 사례](https://docs.microsoft.com/azure/industry/financial/): 금융 서비스용 Azure 솔루션을 구축하기 위한 사용 사례 개요, 자습서 및 기타 리소스.
+- [재무 사용 사례](/azure/industry/financial/): 금융 서비스용 Azure 솔루션을 구축하기 위한 사용 사례 개요, 자습서 및 기타 리소스.
 - [미국 금융 서비스 규정](https://aka.ms/FinServ-Guide-US): Microsoft 온라인 서비스가 미국 금융 기관에 대한 주요 규제 기대에 부합하는 방법
 
 ## <a name="frequently-asked-questions"></a>자주하는 질문

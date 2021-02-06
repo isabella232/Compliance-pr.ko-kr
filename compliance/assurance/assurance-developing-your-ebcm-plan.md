@@ -16,12 +16,12 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: b43b3d272196007f4fa5015ade36055187a2db33
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: 74bbca3ff8b179208288651e5a8b4f4a9eac09e8
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574800"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120567"
 ---
 # <a name="developing-your-business-continuity-plan"></a>비즈니스 연속성 계획 개발
 
@@ -64,7 +64,7 @@ ms.locfileid: "49574800"
 
 그런 다음 비즈니스 프로세스를 확인하여 연속되는 종속성 관계가 존재하는 위치를 확인합니다. 결과를 바탕으로 복원 전략 및 전략을 지원하는 표준 운영 절차의 우선 순위를 정하고 구성합니다.
 
-[Microsoft 서비스 맵](https://docs.microsoft.com/azure/azure-monitor/insights/service-map)을 사용하여 이 매핑에 대해 도움을 받을 수 있습니다. Microsoft 서비스 맵은 Windows 및 Linux 시스템에서 응용 프로그램 구성 요소를 자동으로 검색하고, 모든 TCP 종속성을 매핑하여 연결을 식별하고, 앱이 종속된 원격 타사 시스템을 확인합니다. Active Directory와 같이 일반적으로 어두운 네트워크 영역에도 종속성을 매핑합니다.
+[Microsoft 서비스 맵](/azure/azure-monitor/insights/service-map)을 사용하여 이 매핑에 대해 도움을 받을 수 있습니다. Microsoft 서비스 맵은 Windows 및 Linux 시스템에서 응용 프로그램 구성 요소를 자동으로 검색하고, 모든 TCP 종속성을 매핑하여 연결을 식별하고, 앱이 종속된 원격 타사 시스템을 확인합니다. Active Directory와 같이 일반적으로 어두운 네트워크 영역에도 종속성을 매핑합니다.
 
 다음 샘플 종속성 분석 (DA)에서 시작하세요. 종속성 분석 (DA)에서 프로세스 종속성을 식별하고 검사합니다. 사용자, 공급자, 고객, 파트너 관계 및 시설을 포함해야 합니다. 이 분석의 데이터는 프로세스의 복구 요구 사항과 종속성을 지원하는 복구 기능 간의 차이를 식별하는 데 사용됩니다.
 
@@ -99,7 +99,7 @@ Microsoft에서 각 서비스 팀은 일반적인 통신 채널을 사용할 수
 
 ## <a name="know-your-external-points-of-integration"></a>외부 통합 지점을 파악하세요.
 
-비즈니스 모델에 관계없이 모든 회사에는 고객, 파트너 및 공급업체와 통합 지점이 있습니다. 비즈니스 가치 공급망은 외부 엔터티와의 통합을 기반으로 합니다. 서비스 중단 시 비즈니스 연속성을 개선하려면 각 통합 지점에 대한 고려 사항 및 보호가 필요합니다.  
+비즈니스 모델에 관계없이 모든 회사에는 고객, 파트너 및 공급업체와의 통합 지점이 있습니다. 비즈니스 가치 공급망은 외부 엔터티와의 통합을 기반으로 합니다. 서비스 중단 시 비즈니스 연속성을 개선하려면 각 통합 지점에 대한 고려 사항 및 보호가 필요합니다.  
 공급망을 분석할 때 내부 통신을 분석하는 것과 동일한 방식으로 외부 통신을 고려해야 합니다. 고객이 연락하는 방법으로 유일하게 Exchange Online 서버에만 의존하고 있나요? 가동 시간이 영향을 받는 경우에 사용할 수 있는 대체 통신 방법을 공급 업체에 알리셨나요? 다음은 생각을 정리하는 방법을 제안하는 샘플 표입니다.
 
 |외부 엔터티 이름|영향을 주는 인시던트 시나리오|Microsoft 365 서비스 통합|대안|

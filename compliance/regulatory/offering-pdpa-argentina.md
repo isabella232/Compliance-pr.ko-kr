@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4c14d32a172dc5d6ea934abb20c7df956d43d3bb
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 75ab80c2b017e7fe4576f145db50465ea71e2d41
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509268"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50119917"
 ---
 # <a name="personal-data-protection-act-pdpa-argentina"></a>PDPA(개인 데이터 보호법) 아르헨티나
 
@@ -50,7 +50,7 @@ Microsoft 데이터 전송 계약은 온라인 서비스 약관의 데이터 처
 ## <a name="how-to-implement"></a>구현 방법
 
 - [Microsoft 클라우드 서비스에서의 개인 정보 보호](https://www.microsoft.com/download/details.aspx?id=55710): Microsoft 개인 정보 보호 원칙 및 표준 그리고 아르헨티나 관련 개인 정보 보호법에 대한 세부 정보를 확인할 수 있습니다.  
-- [Azure 데이터 보호](https://docs.microsoft.com/azure/security/azure-protection-of-customer-data): Azure는 기본적으로 그리고 고객 옵션으로 고객에게 강력한 데이터 보안을 제공합니다.
+- [Azure 데이터 보호](/azure/security/azure-protection-of-customer-data): Azure는 기본적으로 그리고 고객 옵션으로 고객에게 강력한 데이터 보안을 제공합니다.
 
 ## <a name="frequently-asked-questions"></a>자주하는 질문
 
@@ -60,7 +60,7 @@ Microsoft 데이터 전송 계약은 온라인 서비스 약관의 데이터 처
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
 
-[Microsoft 준수 관리자](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)는 사용자 조직의 준수 상태를 이해하고 위험을 줄이기 위한 활동에 도움을 주는 [Microsoft 365 규정 준수 센터](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규정에 관한 평가를 작성하기 위한 프리미엄 문서 서식을 제공합니다. 준수 관리자의 **평가 문서 서식 페이지** 에서 문서 서식을 찾을 수 있습니다. [준수 관리자에서 평가를 빌드](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)하는 방법에 대해 알아봅니다.
+[Microsoft 준수 관리자](/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규제에 대한 평가를 빌드하기 위한 프리미엄 서식 파일을 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
 
 ## <a name="resources"></a>리소스
 

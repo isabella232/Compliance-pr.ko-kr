@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 6c1e6c0a3aa8362d2bdba68f9919e6edb9919277
-ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
+ms.openlocfilehash: d7acc085c3e84772dfecd2c34ee9f4496c06de4d
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50012983"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121937"
 ---
 # <a name="microsoft-support-and-professional-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Microsoft 고객 지원 및 전문 서비스 데이터 주체 요청
 
@@ -232,7 +232,7 @@ Microsoft는 FastTrack 팀과 협력해서 작업하는 고객 담당자를 위�
 
 FastTrack 마이그레이션 서비스의 경우, Microsoft는 데이터 프로세서입니다. Fast Track 추가 개인 정보 공개 정책에 따라 마이그레이션의 모든 데이터는 "마이그레이션 데이터"로 간주됩니다. 조직이 FastTrack 마이그레이션 프로젝트에 연결하는 동안 DSR을 실행해야 하는 경우 특별한 조치가 필요합니다.
   
-사용자의 데이터가 FastTrack 마이그레이션 시스템을 통해 처리되는 동안 DSR 요청에 대한 액세스, 수정 또는 내보내기를 처리해야 하는 경우, 사용자 데이터가 저장된 기존 원본 시스템을 통해 이러한 DSR을 수행하는 것은 고객의 책임입니다. 사용자의 마이그레이션이 완료되고 데이터가 대상 Microsoft 클라우드 서비스로 마이그레이션되면, 고객이 Microsoft 제품, 서비스 및 관리 도구를 사용하여 개인 데이터를 찾고 작업을 하여 데이터 주체 요청에 응답하는 방법에 대한 Microsoft의 지침이 적용됩니다. 이 참고 자료를 보려면 [GDPR에 대한 데이터 주체 요청](https://docs.microsoft.com/microsoft-365/compliance/gdpr-data-subject-requests)을 참조하세요. 
+사용자의 데이터가 FastTrack 마이그레이션 시스템을 통해 처리되는 동안 DSR 요청에 대한 액세스, 수정 또는 내보내기를 처리해야 하는 경우, 사용자 데이터가 저장된 기존 원본 시스템을 통해 이러한 DSR을 수행하는 것은 고객의 책임입니다. 사용자의 마이그레이션이 완료되고 데이터가 대상 Microsoft 클라우드 서비스로 마이그레이션되면, 고객이 Microsoft 제품, 서비스 및 관리 도구를 사용하여 개인 데이터를 찾고 작업을 하여 데이터 주체 요청에 응답하는 방법에 대한 Microsoft의 지침이 적용됩니다. 이 참고 자료를 보려면 [GDPR에 대한 데이터 주체 요청](/microsoft-365/compliance/gdpr-data-subject-requests)을 참조하세요. 
 
 조직에서 진행 중인 FastTrack 마이그레이션 프로젝트에 연결되는 동안 DSR 삭제 요청에 대한 응답으로 사용자 계정을 삭제해야 하는 경우, 마이그레이션 시스템은 사용자 마이그레이션 완료 후 일정 기간 사용자 마이그레이션 데이터 복사본을 보유할 수 있으며 사용자 계정을 삭제해도 FastTrack 마이그레이션 시스템에 저장된 사용자 마이그레이션 데이터가 자동으로 삭제되지는 않습니다. Microsoft FastTrack 팀에서 사용자 마이그레이션 데이터를 삭제하려면 [요청을 제출](https://go.microsoft.com/fwlink/?linkid=874544)할 수 있습니다. 일반적인 업무 과정에서 Microsoft FastTrack은 조직의 마이그레이션이 완료되면 모든 데이터 복사본을 삭제합니다.
 

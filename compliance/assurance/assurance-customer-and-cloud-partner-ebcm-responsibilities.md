@@ -16,12 +16,12 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 979acd563ca73ad16d4729bfe96aa86c316714c5
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: 70cf9514306bc119c1f09a159222dbea6765e61f
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574770"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120687"
 ---
 # <a name="enterprise-business-continuity-management-customer-and-cloud-partner-responsibilities"></a>엔터프라이즈 비즈니스 연속성 관리 고객 및 클라우드 파트너 책임
 
@@ -45,8 +45,8 @@ Microsoft는 고객이 사용할 수 있는 서비스 커뮤니케이션 상태 
 
 - 관리 센터에서 관리 센터 또는 서비스 상태 대시보드를 사용할 수 없는 경우에는 [백업 사이트](https://status.office365.com/)를 사용하여 서비스 상태를 모니터링할 수 있습니다.
 - Twitter 계정[@MSFT365Status](https://twitter.com/msft365status?lang=en)에는 영향 보고서에 응답하고 SHD 영향 이벤트에 대한 업데이트를 게시합니다.
-- Microsoft 365 테넌트 관리자용 관리 앱을 사용하면 이동 중에도 조직의 Microsoft 365 서비스 상태에 연결할 수 있습니다. 테넌트 관리자는 모바일 디바이스에서 서비스 상태 정보 및 유지 관리 상태 업데이트를 볼 수 있습니다. 자세한 내용은 [관리자 앱 FAQ](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app)를 참조하세요.
-- [Microsoft 365 Service Communications API](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity#office-365-service-communications-api)를 사용하면 서비스 커뮤니케이션에 쉽게 액세스하여 환경을 더욱 쉽게 모니터할 수 있습니다. API에 연결하고 실시간으로 서비스 상태 데이터를 수신할 수 있으며 내부 대시보드에 정보를 게시하여 엔터프라이즈 사용자에게 인시던트 내용을 알릴 수 있습니다. 내부적으로 정보를 배포하면 사고로 인한 중단 동안 고객 지원 트래픽을 줄일 수 있습니다.
+- Microsoft 365 테넌트 관리자용 관리 앱을 사용하면 이동 중에도 조직의 Microsoft 365 서비스 상태에 연결할 수 있습니다. 테넌트 관리자는 모바일 디바이스에서 서비스 상태 정보 및 유지 관리 상태 업데이트를 볼 수 있습니다. 자세한 내용은 [관리자 앱 FAQ](/office365/admin/admin-overview/admin-mobile-app)를 참조하세요.
+- [Microsoft 365 Service Communications API](/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity#office-365-service-communications-api)를 사용하면 서비스 커뮤니케이션에 쉽게 액세스하여 환경을 더욱 쉽게 모니터할 수 있습니다. API에 연결하고 실시간으로 서비스 상태 데이터를 수신할 수 있으며 내부 대시보드에 정보를 게시하여 엔터프라이즈 사용자에게 인시던트 내용을 알릴 수 있습니다. 내부적으로 정보를 배포하면 사고로 인한 중단 동안 고객 지원 트래픽을 줄일 수 있습니다.
 - 주요 사고의 경우 Microsoft는 관리 센터 내에서 SHD에 사후 인시던트 검토(PIR)를 게시합니다. PIRs는 중단의 성격을 이해하는 데 도움이 되는 주요 인시던트 정보를 포함합니다. 일반적으로 다음의 섹션이 포함되어 있습니다.
     - 사용자 영향
     - 영향 범위
@@ -55,7 +55,7 @@ Microsoft는 고객이 사용할 수 있는 서비스 커뮤니케이션 상태 
     - 수행한 작업
     - 다음 단계
 - Microsoft 365 메시지 센터에서 예정된 변경 내용, 새로운 기능, 계획된 유지 관리 확인과 같은 보조 커뮤니케이션을 사용할 수 있습니다.
-- 자세한 내용은 [서비스 상태 및 연속성 가이드](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity)를 참조하여 다양한 통신 채널 및 서비스 상태를 모니터링하는 방법에 대해 자세히 알아보세요.
+- 자세한 내용은 [서비스 상태 및 연속성 가이드](/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity)를 참조하여 다양한 통신 채널 및 서비스 상태를 모니터링하는 방법에 대해 자세히 알아보세요.
 
 Microsoft 365 온라인 서비스에 대한 액세스를 제공하는 것이 조직과 Microsoft 사이의 파트너 관계입니다. 다음 차트는 서비스 인시던트 및 정기 운영 중 책임의 균형이 Microsoft와 고객 사이에서 어떻게 유지되는지를 요약해서 보여줍니다.
 
@@ -72,7 +72,7 @@ Microsoft 365 온라인 서비스에 대한 액세스를 제공하는 것이 조
 ### <a name="location"></a>위치
 
 많은 조직에서 엔터프라이즈 시스템 및 클라우드 서비스 연결을 위해 직원들에게 특정한 물리적 장소나 네트워크에 위치하도록 요구합니다.  
-Microsoft는 [네트워크 연결 원칙](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-network-connectivity-principles)을 게시하여 기업이 클라우드 리소스에 대한 네트워크 연결 설정 모범 사례를 따르도록 합니다. 최적화 예시는 VPN 터널을 통하지 않고 사용자 네트워크에 직접적으로 연결하기 위한 분할 터널 VPN 실행을 포함합니다.  이러한 연결 원칙은 짧은 연결 시간을 유지하는 데 중요하지만, 서비스 복원에는 일반적인 공동 작업을 위해 기업 리소스에 연결하는 다른 방법이 필요합니다.
+Microsoft는 [네트워크 연결 원칙](/microsoft-365/enterprise/microsoft-365-network-connectivity-principles)을 게시하여 기업이 클라우드 리소스에 대한 네트워크 연결 설정 모범 사례를 따르도록 합니다. 최적화 예시는 VPN 터널을 통하지 않고 사용자 네트워크에 직접적으로 연결하기 위한 분할 터널 VPN 실행을 포함합니다.  이러한 연결 원칙은 짧은 연결 시간을 유지하는 데 중요하지만, 서비스 복원에는 일반적인 공동 작업을 위해 기업 리소스에 연결하는 다른 방법이 필요합니다.
 
 ### <a name="systems"></a>시스템
 

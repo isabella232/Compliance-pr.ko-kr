@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: da6f212ca993a9e5887f32fe2c0fcc77e425f2e8
-ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
+ms.openlocfilehash: 804d785cc8dfd3d693e34f17b48e2f8b0a94de17
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937013"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120017"
 ---
 # <a name="office-of-the-superintendent-of-financial-institutions-osfi-canada"></a>Office of the Superintendent of Financial Institution(금융감독원:OSFI) 캐나다
 
@@ -55,7 +55,7 @@ ms.locfileid: "49937013"
 - [준수 점검 목록: 캐나다](https://aka.ms/Azure-Canada-Compliance): 금융 기관은 Microsoft 비즈니스 클라우드 서비스의 위험 평가를 시행하는데 도움을 받을 수 있습니다. 
 - [Microsoft 클라우드에서의 개인 정보 보호](https://aka.ms/MCSPrivacy): Microsoft 개인 정보 보호 원칙 및 표준 그리고 캐나다 관련 개인 정보 보호법에 대한 세부 정보를 확인할 수 있습니다.
 - [위험 평가 & 준수 가이드](https://aka.ms/RiskGovernanceGuide): Microsoft 클라우드 서비스의 위험 평가 및 규제 기관의 알림에 대한 거버넌스 모델을 만들 수 있습니다.
-- [Azure에 대한 업계 유스케이스](https://docs.microsoft.com/azure/industry/financial/): 유스케이스 개요, 자습서 및 금융 서비스용 Azure 솔루션을 구축하기 위한 기타 리소스.
+- [Azure에 대한 업계 유스케이스](/azure/industry/financial/): 유스케이스 개요, 자습서 및 금융 서비스용 Azure 솔루션을 구축하기 위한 기타 리소스.
 
 ## <a name="frequently-asked-questions"></a>자주하는 질문
 
@@ -71,7 +71,7 @@ ms.locfileid: "49937013"
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
 
-[Microsoft 준수 관리자](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규제에 대한 평가를 빌드하기 위한 프리미엄 서식 파일을 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
+[Microsoft 준수 관리자](/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규제에 대한 평가를 빌드하기 위한 프리미엄 서식 파일을 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
 
 ## <a name="resources"></a>리소스
 

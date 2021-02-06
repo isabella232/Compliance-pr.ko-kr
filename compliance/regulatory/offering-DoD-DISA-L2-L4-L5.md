@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3bd95648e9ae36f5ccaab25bd504524e7d1e4afa
-ms.sourcegitcommit: 7864222909b7d8d0b1dbdbbdee66f5697dac7940
+ms.openlocfilehash: bd3434bc2cdb421ce7ab5b9d29e42e1c20aba577
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49757823"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121267"
 ---
 # <a name="us-department-of-defense-dod-provisional-authorization-at-impact-levels-2-4-and-5"></a>영향 수준 2, 4 및 5의 DoD(미국 국방부) 임시 권한 부여
 
@@ -35,21 +35,21 @@ DoD 클라우드 서비스 지원은 SRG에서 게시 및 유지 관리하는 �
 
 ## <a name="microsoft-and-us-dod-provisional-authorization"></a>Microsoft 및 미국 DoD 임시 권한 부여
 
-Microsoft의 정부 클라우드 서비스는 영향 수준 2부터 5까지 미 국방부의 요구 사항을 충족하여 미국 국방 기관이 Microsoft 클라우드의 비용 절감 및 엄격한 보안을 활용하는 데 도움이 됩니다. Azure Government, Office 365 미국 정부 및 Dynamics 365 Government를 비롯한 보호된 서비스를 배포하여 국방 기관은 다양한 규정 준수 서비스를 사용할 수 있습니다.
+Microsoft의 정부 클라우드 서비스는 영향 수준 2부터 5까지 미 국방부의 요구 사항을 충족하여 미국 국방부가 Microsoft 클라우드의 비용 절감 및 엄격한 보안을 활용하는 데 도움이 됩니다. Azure Government, Office 365 미국 정부 및 Dynamics 365 Government를 비롯한 보호된 서비스를 배포하여 국방 기관은 다양한 규정 준수 서비스를 사용할 수 있습니다.
 
-- [Azure DoD Blueprint를](https://docs.microsoft.com/azure/governance/blueprints/samples/dod-impact-level-4/) 사용하여 DoD DISA L2, L4 배포를 가속화하는 방법을 설명합니다.
+- [Azure DoD Blueprint를](/azure/governance/blueprints/samples/dod-impact-level-4/) 사용하여 DoD DISA L2, L4 배포를 가속화하는 방법을 설명합니다.
 
 ## <a name="dod-impact-level-5-provisional-authorization"></a>DoD 영향 수준 5 임시 권한 부여
 
-DISA 클라우드 서비스 지원은 DoD용 Microsoft Azure Government에 대한 DoD 영향 수준 5 PA을 부여했습니다. DISA는 또한 Office 365 U.S. Government Defense에 DoD 영향 수준 5 PA을 부여했습니다. 영향 수준 5는 법률, 기타 정부 규정 또는 정보를 소유하고 수준 4에서 제공하는 것보다 높은 수준의 보호가 필요한 기관으로 규정된 CUI(제어된 미분분 정보)에 해당합니다. 또한 미분개 국가 보안 시스템을 다루고 있습니다.
+DISA 클라우드 서비스 지원은 DoD용 Microsoft Azure Government에 대한 DoD 영향 수준 5 PA을 부여했습니다. DISA는 또한 Office 365 U.S. Government Defense에 DoD 영향 수준 5 PA을 부여했습니다. 영향 수준 5는 법률, 기타 정부 규정 또는 정보를 소유하고 수준 4에서 제공하는 것보다 높은 수준의 보호가 필요한 기관으로 규정된 제어된 CUI(미분분 정보)에 해당합니다. 미분야 국가 보안 시스템도 다루고 있습니다.
 
 ## <a name="dod-impact-level-4-provisional-authorization"></a>DoD 영향 수준 4 임시 권한 부여
 
-DISA 클라우드 서비스 지원은 Microsoft Azure Government에 대한 DoD 영향 수준 4 PA을 부여했습니다. 이는 FedRAMP 권한 부여 및 클라우드 컴퓨팅 SRG에 필요한 추가 보안 제어를 검토한 결과를 기반으로 합니다. FedRAMP는 정부에 대해 보안 클라우드 컴퓨팅을 사용할 수 있도록 하는 미국 프로그램입니다.
+DISA 클라우드 서비스 지원은 Microsoft Azure Government에 대한 DoD 영향 수준 4 PA을 부여했습니다. 이는 FedRAMP 권한 부여 및 클라우드 컴퓨팅 SRG에 필요한 추가 보안 제어를 검토한 결과를 기반으로 합니다. (FedRAMP는 정부에 대한 보안 클라우드 컴퓨팅을 가능하게 하는 미국 프로그램입니다.)
 
 영향 수준 4에서는 제어된 미분석 정보, 즉 행정 명령 13556(2010년 11월)에 따라 무단 공개로부터 보호해야 하는 데이터 및 기타 중요 임무 데이터를 다루고 있습니다. 여기에는 공식적인 사용 전용, 법 집행 기관 중요 또는 중요한 보안 정보로 지정된 데이터가 포함됩니다. 이 권한 부여를 통해 미국 연방 정부 고객은 범위 내 Microsoft 정부 클라우드 서비스에 이러한 유형의 매우 중요한 데이터를 배포할 수 있습니다.
 
-## <a name="covered-services-for-dod-impact-level-2-authorization"></a>DoD 영향 수준 2 권한 부여에 대한 적용된 서비스
+## <a name="covered-services-for-dod-impact-level-2-authorization"></a>DoD 영향 수준 2 권한 부여에 대해 적용된 서비스
 
 FedRAMP 권한 부여에 따라 DISA 클라우드 서비스 지원은 다음을 위해 DoD 영향 수준 2 PA을 부여했습니다.
 
@@ -85,19 +85,19 @@ DoD PA이 부여된 후 Microsoft 클라우드 서비스는 매년 모니터링 
 
 ## <a name="fast-track-your-deployment-of-dod-solutions-on-azure"></a>Azure에서 DoD 솔루션 배포를 빠르게 추적
 
-Azure Security and Compliance Department of Defense Blueprint를 사용하여 정부에서 클라우드의 이점을 활용하기 시작하세요. 이 Blueprint는 현재 DoD 규격 솔루션을 구축하는 데 사용할 수 있는 도구와 지침을 제공합니다. [Azure DoD Blueprint 사용을 시작하세요.](https://docs.microsoft.com/azure/governance/blueprints/samples/dod-impact-level-4/)
+Azure Security and Compliance Department of Defense Blueprint를 사용하여 정부에서 클라우드의 이점을 활용하기 시작하세요. 이 Blueprint는 현재 DoD 규격 솔루션을 구축하는 데 사용할 수 있는 도구와 지침을 제공합니다. [Azure DoD Blueprint 사용을 시작하세요.](/azure/governance/blueprints/samples/dod-impact-level-4/)
 
 ## <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **우리 회사의 인증 프로세스에 Microsoft의 규정 준수를 사용할 수 있나요?**
 
-예. 모든 DoD 기관은 DoD 인증이 필요한 프로그램이나 이니셔티브의 기초로 Microsoft 클라우드 서비스의 인증을 사용할 수 있습니다. 이는 DoD를 지원하고 클라우드 서비스가 필요한 다른 조직에도 적용됩니다. 그러나 이러한 서비스 외부의 구성 요소에 대한 자체 권한 부여를 달성해야 합니다.
+예. 모든 DoD 기관은 DoD 인증이 필요한 프로그램 또는 이니셔티브의 기초로 Microsoft 클라우드 서비스의 인증을 사용할 수 있습니다. 이는 DoD를 지원하고 클라우드 서비스가 필요한 다른 조직에도 적용됩니다. 그러나 이러한 서비스 외부의 구성 요소에 대한 자체 권한 부여를 달성해야 합니다.
 
 **Microsoft의 DoD 인증이 NIST 800~171 요구 사항을 충족하나요?**
 
 2016년 10월, 국방부(DoD)는 정보 시스템을 통해 '적용된 방어 정보'를 처리, 저장 또는 전송하는 모든 DoD 계약자에 적용되는 DFARS(Defense Federal Acquisition Regulation Supplement) 조항을 구현하는 최종 규칙을 발표했습니다. 이 규칙은 이러한 시스템이 NIST SP 800-171에 규정된 [](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)보안 요구 사항, 비연속 정보 시스템 및 조직에서 제어된 미분식 정보 보호 또는 DoD 계약 책임자에 의해 승인된 '대안이지만 똑같이 효과적이지 않은 보안 조치'를 충족해야 하다는 것을 규정합니다. 또한 DoD 계약자가 외부 클라우드 서비스 공급자를 사용하여 적용된 방어 정보를 처리, 저장 또는 전송하는 경우 해당 공급자는 FedRAMP 보통 기준에 해당하는 보안 요구 사항을 충족해야 합니다.
 
-다음 Microsoft 클라우드 서비스는 Azure, Azure Government, Dynamics 365 U.S. Government, Office 365 MT, Office 365 U.S. Government 및 Office 365 U.S. Government Defense와 같은 FedRAMP 보통 승인을 받은 것입니다.
+Azure, Azure Government, Dynamics 365 U.S. Government, Office 365 MT, Office 365 U.S. Government 및 Office 365 U.S. Government Defense와 같은 Microsoft 클라우드 서비스는 FedRAMP 보통 승인을 받은 것입니다.
 
 또한 DoD 계약업체가 '적용된 방어 정보'를 처리, 저장 또는 전송하는 데 사용할 수 있는 FedRAMP 인증 경계 외부의 Microsoft 제품은 2017년 12월 31일 준수 기한을 충족하기 위한 검토를 진행하고 있습니다. Microsoft는 이러한 내부 및 고객 관련 서비스가 NIST SP 800-171 또는 허용 가능한 보안 규정을 준수하여 DFARS 관련 조항을 충족하는 방법을 문서화하기 위해 작업 중입니다.
 

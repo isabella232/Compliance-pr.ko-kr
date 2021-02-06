@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3c167ac9a0b98157c51abaf284c2d6277c8150ef
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: ae241dcff38ac764c2b57f559e95c079d6e59cd7
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507995"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121237"
 ---
 # <a name="eu-us-and-swiss-us-privacy-shield-frameworks"></a>EU-US 및 Swiss-US Privacy Shield 프레임워크
 
@@ -61,7 +61,7 @@ Microsoft 클라우드의 개인 정보 보호 - Microsoft의 개인 정보 정�
     - [자세한 정보](https://www.microsoft.com/download/details.aspx?id=55710)
 
 Azure의 데이터 보호 - Azure는 기본적으로 또는 고객 옵션으로 고객에게 강력한 데이터 보안을 제공합니다.  
-    - [자세한 정보](https://docs.microsoft.com/azure/security/azure-protection-of-customer-data)
+    - [자세한 정보](/azure/security/azure-protection-of-customer-data)
 
 ## <a name="frequently-asked-questions"></a>자주 묻는 질문
 

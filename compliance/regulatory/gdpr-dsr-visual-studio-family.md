@@ -19,12 +19,12 @@ ms.workload:
 - multiple
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 1b5df025c8c55790181e1f737388b1c15f475d72
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: 29d845c1b9e1c60169db56ba76d731892302bff0
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574790"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121927"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Visual Studio 제품군 데이터 주체 요청
 
@@ -40,7 +40,7 @@ GDPR 대한 일반적인 내용은 [Service Trust portal의 GDPR 섹션](https:/
 
 ## <a name="additional-privacy-information"></a>추가 개인 정보 보호 정보
 
-제품과 함께 제공되는 Microsoft 소프트웨어 사용 조건, [Microsoft 개인정보취급방침](https://go.microsoft.com/fwlink/?LinkId=660726) 및 [Microsoft GDPR 약속](https://docs.microsoft.com/legal/gdpr)은 데이터 처리 규정을 설명합니다.
+제품과 함께 제공되는 Microsoft 소프트웨어 사용 조건, [Microsoft 개인정보취급방침](https://go.microsoft.com/fwlink/?LinkId=660726) 및 [Microsoft GDPR 약속](/legal/gdpr)은 데이터 처리 규정을 설명합니다.
 
 ## <a name="visual-studio-visual-studio-for-mac-and-visual-studio-code"></a>Visual Studio, Mac용 Visual Studio, Visual Studio Code
 
@@ -62,7 +62,7 @@ GDPR에 따른 데이터 프로세서로, Microsoft는 사용자가 Mac 및 Micr
 "SearchTerm":null,"SearchResult":null}
 ```
 
-자세한 내용은 [Visual Studio에서 수집된 시스템 생성 로그](https://docs.microsoft.com/visualstudio/ide/diagnostic-data-collection)를 참조하세요.
+자세한 내용은 [Visual Studio에서 수집된 시스템 생성 로그](/visualstudio/ide/diagnostic-data-collection)를 참조하세요.
 
 인증된 ID에 첨부된 개인 데이터만 DSR에서 처리할 수 있습니다. 예를 들어, Visual Studio Code는 로그인을 지원하지 않으므로 Visual Studio Code의 시스템 생성 로그를 인증된 ID에 첨부하지 않으면 처리할 수 없습니다. 하지만 Visual Studio Code에 대한 일부 Microsoft 확장은 인증된 데이터를 제공할 수 있으며 이 데이터는 DSR로 처리될 수 있습니다. 자세한 내용은 [GDPR 및 Visual Studio Code](https://code.visualstudio.com/docs/supporting/faq#_gdpr-and-vs-code)를 참조하세요. 일반적으로 Visual Studio 2013 이전 버전의 데이터는 저장하지 않습니다. 하지만 특정 확장 및 구성 요소는 인증된 ID에 첨부된 데이터를 제공할 수 있으며 아래에 설명된 대로 DSR에서 처리될 수 있습니다.
 
@@ -74,8 +74,8 @@ Visual Studio 2015 이상, Mac용 Visual Studio, Visual Studio Code는 사용자
 
 사용자는 이러한 제품의 개인 정보 설정을 제어할 수 있습니다. 자세한 내용은 다음을 참조하세요.
 
-- [Visual Studio에서 개인 정보 설정을 관리하는 방법입니다](https://docs.microsoft.com/visualstudio/ide/visual-studio-experience-improvement-program).
-- [Mac용 Visual Studio에서 개인 정보 설정을 관리하는 방법입니다](https://docs.microsoft.com/visualstudio/mac/visual-studio-experience-improvement-program).
+- [Visual Studio에서 개인 정보 설정을 관리하는 방법입니다](/visualstudio/ide/visual-studio-experience-improvement-program).
+- [Mac용 Visual Studio에서 개인 정보 설정을 관리하는 방법입니다](/visualstudio/mac/visual-studio-experience-improvement-program).
 - [Visual Studio Code에서 원격 분석 보고를 비활성화하는 방법입니다](https://code.visualstudio.com/docs/supporting/faq#_how-to-disable-telemetry-reporting).
 
 #### <a name="exporting-or-deleting-data"></a>데이터 내보내기 또는 삭제
@@ -100,7 +100,7 @@ Microsoft는 사용자가 Visual Studio 제품군 제품에 대해 보고한 문
 
 - [개발자 커뮤니티](https://developercommunity.visualstudio.com) 프로필 정보
 - 기본 설정 및 알림
-- [Visual Studio에 문제를 보고](https://docs.microsoft.com/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017)하거나 [개발자 커뮤니티](https://developercommunity.visualstudio.com)를 통해 제공한 첨부 파일 및 시스템 생성 로그
+- [Visual Studio에 문제를 보고](/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017)하거나 [개발자 커뮤니티](https://developercommunity.visualstudio.com)를 통해 제공한 첨부 파일 및 시스템 생성 로그
 - 투표
 
 공개 피드백에는 문제, 메모, 솔루션이 포함됩니다.
@@ -124,7 +124,7 @@ Microsoft는 사용자가 Visual Studio 제품군 제품에 대해 보고한 문
 
 - [개발자 커뮤니티](https://developercommunity.visualstudio.com) 프로필 정보
 - 기본 설정 및 알림 설정
-- [Visual Studio에 문제를 보고](https://docs.microsoft.com/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017)하거나 [개발자 커뮤니티](https://developercommunity.visualstudio.com)를 통해 제공한 첨부 파일
+- [Visual Studio에 문제를 보고](/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017)하거나 [개발자 커뮤니티](https://developercommunity.visualstudio.com)를 통해 제공한 첨부 파일
 
 > [!NOTE]
 > 보관함에서 제공한 설명, 솔루션, 보고된 문제 등 공개 피드백은 제외됩니다.
@@ -147,7 +147,7 @@ Microsoft는 사용자가 Visual Studio 제품군 제품에 대해 보고한 문
 
 - 프로필 정보
 - 기본 설정 및 알림 설정
-- [Visual Studio에 문제를 보고](https://docs.microsoft.com/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017)하거나 [개발자 커뮤니티](https://developercommunity.visualstudio.com)를 통해 제공한 첨부 파일
+- [Visual Studio에 문제를 보고](/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017)하거나 [개발자 커뮤니티](https://developercommunity.visualstudio.com)를 통해 제공한 첨부 파일
 - 투표
 
 > [!NOTE]
@@ -199,7 +199,7 @@ Xamarin 포럼은 타사, Vanilla 포럼에 의해 호스트됩니다. 개인 �
 
 ## <a name="nuget"></a>NuGet
 
-NuGet에 대한 DSR의 자세한 내용은 [NuGet 사용자 데이터 요청](https://docs.microsoft.com/nuget/policies/data-requests)을 참조하세요.
+NuGet에 대한 DSR의 자세한 내용은 [NuGet 사용자 데이터 요청](/nuget/policies/data-requests)을 참조하세요.
 
 ## <a name="aspnet"></a>ASP.NET
 
@@ -217,7 +217,7 @@ IIS.NET 웹사이트에 대한 DSR의 자세한 내용은 [IIS.NET 웹사이트 
 
 ## <a name="learn-more"></a>자세한 정보
 
-- [일반적으로 사용할 수 있는 엔터프라이즈 소프트웨어 제품의 고객에 대한 Microsoft의 GDPR 약속](https://docs.microsoft.com/legal/gdpr)
+- [일반적으로 사용할 수 있는 엔터프라이즈 소프트웨어 제품의 고객에 대한 Microsoft의 GDPR 약속](/legal/gdpr)
 - [Microsoft 보안 센터](https://www.microsoft.com/trust-center/privacy/gdpr-overview)
 - [서비스 보안 포털](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 - [Microsoft 개인 정보 대시보드](https://account.microsoft.com/privacy)
