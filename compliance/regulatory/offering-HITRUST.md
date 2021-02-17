@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: be76b2cfc3408f50c239fb9c1fc140e36e7697f7
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: ffe05b9857d7b04004838c17d19073eb208a99f5
+ms.sourcegitcommit: efe49fd31eb8166e3e72ad1cc65b332c6f3b1327
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120287"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "50260370"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>HITRUST(Health Information Trust Alliance) CSF(Common Security Framework)
 
@@ -35,9 +35,9 @@ CSF는 끝점 보호, 모바일 장치 보안 및 액세스 제어를 포함하�
 
 HITRUST(Health Information Trust Alliance) CSF(Common Security Framework)
 
-HITRUST는 자체 평가, CSF 유효성 검사 및 CSF 인증의 세 가지 보증 또는 평가 수준을 제공합니다. 각 수준은 아래 수준보다 엄격한 수준으로 빌드됩니다. 최고 수준의 CSF 인증을 받은 조직은 CSF의 모든 인증 요구 사항을 충족합니다. Microsoft Azure 및 Office 365는 HITRUST CSF에 대한 인증을 받는 첫 번째 하이퍼스케일 클라우드 서비스입니다. HITRUST 평가 업체인 Coalfire는 Azure 및 Office 365가 중요한 정보를 보호하기 위해 보안, 개인 정보 및 규정 요구 사항을 구현하는 방법에 따라 평가를 수행했습니다. Microsoft는 HITRUST 공유 책임 프로그램을 지원합니다.
+HITRUST는 자체 평가, CSF 유효성 검사 및 CSF 인증의 세 가지 보증 또는 평가 수준을 제공합니다. 각 수준은 아래 수준보다 엄격한 수준으로 빌드됩니다. 최고 수준의 CSF 인증을 받은 조직은 CSF의 모든 인증 요구 사항을 충족합니다. Microsoft Azure 및 Office 365는 HITRUST CSF에 대한 인증을 받는 첫 번째 하이퍼스케일 클라우드 서비스입니다. HITRUST 평가 업체인 Coalfire는 Azure 및 Office 365에서 중요한 정보를 보호하기 위해 보안, 개인 정보 및 규정 요구 사항을 구현하는 방법에 따라 평가를 수행했습니다. Microsoft는 HITRUST 공유 책임 프로그램을 지원합니다.
 
-Azure 보안 및 규정 준수 청사진을 사용하여 HITRUST 배포를 가속화하는 방법을 설명합니다.
+Azure Security and Compliance Blueprint를 사용하여 HITRUST 배포를 가속화하는 방법을 설명합니다.
 
 [Microsoft Azure HITRUST CRM(고객 책임 매트릭스) Blueprint v9.0d 다운로드](https://servicetrust.microsoft.com/ViewPage/Blueprint?command=Download&downloadType=Document&downloadId=3ccde498-4761-4be0-be8b-cd8d379a3a4f&docTab=fc060920-cdb8-11e7-bacf-0bf52b09d912_Healthcare_Blueprint)
 
@@ -45,6 +45,7 @@ Azure 보안 및 규정 준수 청사진을 사용하여 HITRUST 배포를 가�
 
 - [Azure 및 Azure Government](https://aka.ms/AzureCompliance)
 - Intune
+- Microsoft Managed Desktop
 - [Office 365 및 Office 365 U.S. Government](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
@@ -76,7 +77,7 @@ HITRUST MyCSF 도구에서 Azure에 대한 완전히 상속되거나 공유된 �
 
 **Azure HITRUST 규정 준수를 사용하여 조직의 인증 프로세스를 구축할 수 있나요?**
 
-예. Microsoft 서비스에 배포된 구현에 대한 HITRUST 인증이 비즈니스에 필요한 경우 준수 평가를 수행하면 Azure HITRUST 규정 준수를 구축할 수 있습니다. 그러나 사용자 조직 내에서 HITRUST 요구 사항 및 컨트롤을 평가해야 합니다.
+예. Microsoft 서비스에 배포된 구현에 대한 HITRUST 인증이 비즈니스에 필요한 경우 준수 평가를 수행하면 Azure HITRUST 규정 준수를 구축할 수 있습니다. 그러나 조직 내에서 HITRUST 요구 사항 및 컨트롤을 평가해야 합니다.
 
 **HITRUST 인증의 복사본을 얻을 수 있는 방법**
 
@@ -87,11 +88,11 @@ HITRUST MyCSF 도구에서 Azure에 대한 완전히 상속되거나 공유된 �
 HITRUST CSF 인증의 범위 내 서비스는 Exchange Online Archiving, Exchange Online Protection, Exchange Online, 비즈니스용 Skype, 관리 센터, SharePoint Online, Project Online, 비즈니스용 OneDrive, Office Online, MyAnalytics, Microsoft Teams, Office 365 다중 테넌트 클라우드 및 Office 365 GCC의 엔터프라이즈용 Microsoft 365 앱입니다.
 
 > [!NOTE]
-> 엔터프라이즈용 Microsoft 365 앱을 사용하면 로밍 설정, 라이선싱 및 OneDrive 소비자 클라우드 저장소와 같은 다양한 클라우드 서비스에 액세스할 수 있으며 향후 추가 클라우드 서비스에 액세스할 수 있습니다. 로밍 설정 및 라이선스는 HITRUST에 대한 표준을 지원합니다. OneDrive 소비자 클라우드 저장소는 지원하지 않습니다. 엔터프라이즈용 Microsoft 365 앱을 통해 액세스할 수 있으며 Microsoft가 향후에 제공할 수 있는 기타 클라우드 서비스도 이러한 표준을 지원하지 않을 수 있습니다.*
+> 엔터프라이즈용 Microsoft 365 앱을 사용하면 로밍 설정, 라이선싱 및 OneDrive 소비자 클라우드 저장소와 같은 다양한 클라우드 서비스에 액세스할 수 있으며 향후 추가 클라우드 서비스에 액세스할 수 있습니다. 로밍 설정 및 라이선스는 HITRUST 표준을 지원합니다. OneDrive 소비자 클라우드 저장소는 지원하지 않습니다. 엔터프라이즈용 Microsoft 365 앱을 통해 액세스할 수 있으며 Microsoft가 향후에 제공할 수 있는 기타 클라우드 서비스도 이러한 표준을 지원하지 않을 수 있습니다.*
 
 **일부 Office 365 서비스가 이 인증 범위에 없는 이유는 무엇입니까?**
 
-Microsoft는 다른 클라우드 서비스 공급자에 비해 가장 포괄적인 서비스를 제공합니다. 지역 및 산업 전반에 걸쳐 광범위한 규정 준수 서비스를 유지하기 위해 시장 수요, 고객 피드백 및 제품 수명 주기에 따라 보장 노력 범위에 서비스를 포함합니다. 서비스가 특정 규정 준수 서비스의 현재 범위에 포함되지 않은 경우 조직은 준수 의무에 따라 위험을 평가하고 해당 서비스에서 데이터를 처리하는 방법을 결정할 책임이 있습니다. 당사는 고객의 피드백을 지속적으로 수집하고 규제 기관 및 감사자들과 협의하여 보안 및 규정 준수 요구 사항을 충족하기 위해 규정 준수 범위를 확장합니다.
+Microsoft는 다른 클라우드 서비스 공급자에 비해 가장 포괄적인 서비스를 제공합니다. 지역 및 산업 전반에 걸쳐 광범위한 규정 준수 서비스를 유지하기 위해 시장 수요, 고객 피드백 및 제품 수명 주기에 따라 보장 노력의 범위에 서비스를 포함합니다. 서비스가 특정 규정 준수 서비스의 현재 범위에 포함되지 않은 경우 조직은 준수 의무에 따라 위험을 평가하고 해당 서비스에서 데이터를 처리하는 방법을 결정할 책임이 있습니다. 당사는 고객의 피드백을 지속적으로 수집하고 규제 기관 및 감사자들과 협의하여 보안 및 규정 준수 요구 사항을 충족하기 위해 규정 준수 범위를 확장합니다.
 
 **Microsoft 인증은 조직에서 Azure 또는 Office 365를 사용하는 경우 HITRUST CSF를 준수하는지 여부**
 
@@ -99,7 +100,7 @@ Office 365와 같은 SaaS에 데이터를 저장하는 경우 규정 준수를 �
 
 **Microsoft는 Office 365를 사용할 때 조직에서 적절한 제어를 구현할 수 있는 지침을 제공합니까?**
 
-예, 조직이 클라우드 서비스를 사용할 때 복잡한 준수 의무를 충족하는 데 도움이 되는 준수 점수의 교차 Microsoft 클라우드 솔루션에서 권장되는 고객 작업을 찾을 수 있습니다. 특히 HITRUST CSF의 경우 준수 점수에서 NIST 800-53 및 NIST CSF 평가를 사용하여 위험 평가를 수행하는 것이 좋습니다. 평가에서는 데이터 보호 컨트롤을 구현하는 데 사용할 수 있는 단계별 지침과 Microsoft 솔루션을 제공합니다. 준수 점수에 대한 자세한 내용은 [Microsoft 준수 점수에서 자세히 볼 수 있습니다.](/microsoft-365/compliance/compliance-manager)
+예, 조직이 클라우드 서비스를 사용할 때 복잡한 준수 의무를 충족하는 데 도움이 되는 준수 점수의 교차 Microsoft 클라우드 솔루션에서 권장되는 고객 작업을 찾을 수 있습니다. 특히 HITRUST CSF의 경우 준수 점수의 NIST 800-53 및 NIST CSF 평가를 사용하여 위험 평가를 수행하는 것이 좋습니다. 평가에서는 데이터 보호 컨트롤을 구현하는 데 사용할 수 있는 단계별 지침과 Microsoft 솔루션을 제공합니다. 준수 점수에 대한 자세한 내용은 [Microsoft 준수 점수에서 자세히 볼 수 있습니다.](/microsoft-365/compliance/compliance-manager)
 
 **Microsoft와 함께 참여하는 방법**
 
