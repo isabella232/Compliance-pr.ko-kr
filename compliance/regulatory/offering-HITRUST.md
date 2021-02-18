@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ffe05b9857d7b04004838c17d19073eb208a99f5
-ms.sourcegitcommit: efe49fd31eb8166e3e72ad1cc65b332c6f3b1327
+ms.openlocfilehash: 8a92f4e29656293b4732d64840cd3e082be89cf2
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50260370"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276066"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>HITRUST(Health Information Trust Alliance) CSF(Common Security Framework)
 
@@ -35,7 +35,7 @@ CSF는 끝점 보호, 모바일 장치 보안 및 액세스 제어를 포함하�
 
 HITRUST(Health Information Trust Alliance) CSF(Common Security Framework)
 
-HITRUST는 자체 평가, CSF 유효성 검사 및 CSF 인증의 세 가지 보증 또는 평가 수준을 제공합니다. 각 수준은 아래 수준보다 엄격한 수준으로 빌드됩니다. 최고 수준의 CSF 인증을 받은 조직은 CSF의 모든 인증 요구 사항을 충족합니다. Microsoft Azure 및 Office 365는 HITRUST CSF에 대한 인증을 받는 첫 번째 하이퍼스케일 클라우드 서비스입니다. HITRUST 평가 업체인 Coalfire는 Azure 및 Office 365에서 중요한 정보를 보호하기 위해 보안, 개인 정보 및 규정 요구 사항을 구현하는 방법에 따라 평가를 수행했습니다. Microsoft는 HITRUST 공유 책임 프로그램을 지원합니다.
+HITRUST는 자체 평가, CSF 유효성 검사 및 CSF 인증의 세 가지 보증 또는 평가 수준을 제공합니다. 각 수준은 아래 수준에 대해 엄격한 수준을 높이면서 빌드됩니다. 최고 수준의 CSF 인증을 받은 조직은 CSF의 모든 인증 요구 사항을 충족합니다. Microsoft Azure 및 Office 365는 HITRUST CSF에 대한 인증을 받는 첫 번째 하이퍼스케일 클라우드 서비스입니다. HITRUST 평가 업체인 Coalfire는 Azure 및 Office 365에서 중요한 정보를 보호하기 위해 보안, 개인 정보 및 규정 요구 사항을 구현하는 방법에 따라 평가를 수행했습니다. Microsoft는 HITRUST 공유 책임 프로그램을 지원하고 있습니다.
 
 Azure Security and Compliance Blueprint를 사용하여 HITRUST 배포를 가속화하는 방법을 설명합니다.
 
@@ -45,7 +45,7 @@ Azure Security and Compliance Blueprint를 사용하여 HITRUST 배포를 가속
 
 - [Azure 및 Azure Government](https://aka.ms/AzureCompliance)
 - Intune
-- Microsoft Managed Desktop
+- [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
 - [Office 365 및 Office 365 U.S. Government](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
@@ -77,7 +77,7 @@ HITRUST MyCSF 도구에서 Azure에 대한 완전히 상속되거나 공유된 �
 
 **Azure HITRUST 규정 준수를 사용하여 조직의 인증 프로세스를 구축할 수 있나요?**
 
-예. Microsoft 서비스에 배포된 구현에 대한 HITRUST 인증이 비즈니스에 필요한 경우 준수 평가를 수행하면 Azure HITRUST 규정 준수를 구축할 수 있습니다. 그러나 조직 내에서 HITRUST 요구 사항 및 컨트롤을 평가해야 합니다.
+예. Microsoft 서비스에 배포된 구현에 대한 HITRUST 인증이 비즈니스에 필요한 경우 규정 준수 평가를 수행하면 Azure HITRUST 규정 준수를 구축할 수 있습니다. 그러나 조직 내에서 HITRUST 요구 사항 및 컨트롤을 평가해야 합니다.
 
 **HITRUST 인증의 복사본을 얻을 수 있는 방법**
 

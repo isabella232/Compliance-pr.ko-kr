@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4de465bbb17f5609af376920052d6abd366e5429
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 0a8cc37a24d3a51d79fb1ac34c92d96fc7e76fdd
+ms.sourcegitcommit: 66a26facea6ec9a95e5e61f1b5b69402f03db481
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121727"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50279845"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>CJIS(범죄 범죄 정보 서비스) 보안 정책
 
@@ -29,7 +29,7 @@ ms.locfileid: "50121727"
 
 미국 FBI(연방 조사국)의 CJIS(범죄 정보 서비스) 부서는 주, 지역 및 연방 사법 기관 및 범죄 사법 기관이 지문 기록 및 범죄 기록과 같은 CJI(범죄 범죄 정보)에 액세스할 수 있도록 합니다. 미국의 사법 기관 및 기타 정부 기관은 CJI 전송, 저장 또는 처리에 클라우드 서비스를 사용하는 것이 CJI 보호를 위한 최소 보안 요구 사항 및 제어를 수립하는 [CJIS](https://aka.ms/cjis-security-policy)보안 정책을 준수하는지 확인합니다.
 
-CJIS 보안 정책은 NIST(National Institute of Standards and Technology)의 지침과 함께, 대선 및 FBI 지시문, 연방법, 범죄자 보호 커뮤니티의 자문 정책 위원회 결정을 통합합니다. 진화하는 보안 요구 사항을 반영하기 위해 정책이 주기적으로 업데이트됩니다.
+CJIS 보안 정책은 NIST(National Institute of Standards and Technology)의 지침과 함께, 대선 및 FBI 지시문, 연방법, 형사 사법 커뮤니티의 자문 정책 위원회 결정을 통합합니다. 발전하는 보안 요구 사항을 반영하기 위해 정책이 주기적으로 업데이트됩니다.
 
 CJIS 보안 정책은 클라우드 서비스 공급자와 같은 개인 계약자가 클라우드 서비스의 사용이 CJIS 요구 사항과 일치할 수 있는지 여부를 결정하기 위해 평가해야 하는 13개 영역을 정의합니다. 이러한 영역은 NIST 800-53에 해당하며, 이는 Microsoft가 정부 클라우드 제품 인증을 받은 프로그램인 [FedRAMP(Federal Risk and Authorization Management](offering-FedRAMP.md)Program)의 기반이 됩니다.
 
@@ -43,8 +43,6 @@ Microsoft는 Microsoft Azure Government, Microsoft Office 365 미국 정부 및 
 
 Microsoft 클라우드에서 CJIS 보안 정책의 이점에 대해 자세히 알아보고 Genetec이 범죄 조사를 어떻게 [지웠는가를 읽어요.](https://customers.microsoft.com/story/genetec)
 
-Azure 보안 및 규정 준수 청사진을 사용하여 CJIS 보안 정책을 가속화하는 방법: Microsoft 정부 클라우드 서비스에 대한 [CJIS](https://gallery.technet.microsoft.com/CJIS-Implementation-62af7c27) 구현 지침 다운로드
-
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
 
 - [Azure Government](/azure/azure-government/documentation-government-welcome)
@@ -54,7 +52,7 @@ Azure 보안 및 규정 준수 청사진을 사용하여 CJIS 보안 정책을 �
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 
-FBI는 CJIS 요구 사항을 준수하는 Microsoft에 대한 인증을 제공하지 않습니다. 대신 Microsoft와 주 CJIS 기관 간의 계약과 Microsoft와 해당 고객 간의 계약에 Microsoft 규약이 포함됩니다.
+FBI는 CJIS 요구 사항을 준수하는 Microsoft에 대한 인증을 제공하지 않습니다. 대신 Microsoft와 주 CJIS 기관 간의 계약과 Microsoft와 고객 간의 계약에 Microsoft 의 의거가 포함됩니다.
 
 [Microsoft CJIS 클라우드 요구 사항](https://aka.ms/MicrosoftCJISCloudRequirements)
 
