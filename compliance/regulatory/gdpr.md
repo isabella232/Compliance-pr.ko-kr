@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 44df81658719397271020f38088d3287e67774a1
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 16135ae18d0b0a2a91a61652fed3d1b34d5db124
+ms.sourcegitcommit: 38741d8dc272bc2199d9f27db0335973e6be9735
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121437"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "50290937"
 ---
 # <a name="general-data-protection-regulation-summary"></a>일반 데이터 보호 규정 요약
 
@@ -141,7 +141,6 @@ Microsoft는 해당 엔지니어링 및 비즈니스 업무에서 기본적으�
 
 이러한 개인 정보 보호 검토는 세부적으로 진행되며 특정 서비스는 수십 번 또는 수백 번의 검토를 받을 수 있습니다. Microsoft는 Microsoft EU DPO(데이터 보호 책임자)가 검토하게 되는 주요 처리 작업을 포괄하는 DPIA(데이터 보호 영향 평가)에 이러한 세부적인 개인 정보 보호 검토 작업을 포함합니다. DPO는 데이터 처리와 관련된 위험을 평가하여 충분한 완화 조치가 이행될 수 있도록 합니다. DPO가 완화할 수 없는 위험을 찾으면 다시 엔지니어링 그룹에 변경 조치가 권장됩니다. 데이터 보호 위험이 변경되면 DPIA가 검토된 후 업데이트됩니다.
 
-
 Microsoft는 프로세서로서 GDPR에 규정된 DPIA 요구 조항을 준수하도록 하기 위해 관리자를 지원할 책임이 있습니다. 당사의 고객을 지원하기 위해 Microsoft의 DPIA 관련 섹션이 발췌되고, 향후 업데이트 시 이 섹션에 제공됩니다. 이러한 작업은 Microsoft 서비스를 활용하는 관리자가 이러한 발췌 데이터를 활용하여 자체 DPIA를 만들 수 있도록 하기 위한 목적을 가지고 있습니다.
 
 ## <a name="breach-notification"></a>위반 알림
@@ -169,7 +168,7 @@ GDPR은 개인 데이터의 위반에 대해 데이터 관리자 및 프로세�
  Microsoft는 확인된 모든 개인 데이터 침해가 위험 임계 수준에 있지 않은지 여부를 판단합니다. 
  Microsoft는 데이터 침해 문제가 Microsoft에서 직접 발생했는지 또는 하위 프로세서에게 발생했는지와 관계 없이 이를 고객에게 알립니다. 당사는 조직에서 확인된 보안 사고를 빠르게 식별하고 보안 사고 담당자에게 연락하기 위한 프로세스를 보유하고 있습니다. 또한 모든 하위 프로세서는 계약에 따라 자체 위반 사항을 Microsoft에 신고하고, 결과에 대한 보증을 제공할 의무가 있습니다.
 
-**MIcrosoft는 어떻게 데이터 위반을 감지하나요?**
+**Microsoft는 어떻게 데이터 위반을 감지하나요?**
 
 모든 서비스 및 직원은 적절한 예방 조치를 통해 최전선에서 데이터 위반을 방지하기 위해 내부 사고 관리 절차를 따릅니다. 그러나 온라인 서비스는 드물게 발생하는 데이터 위반을 감지하기 위한 구체적인 보안 제어 기능을 플랫폼에 구축하고 있습니다.
 
@@ -213,7 +212,7 @@ Microsoft의 GDPR 조항은 제28조에 프로세서에게 필요한 약정을 �
 
 **Microsoft는 어떤 기준에 따라 EU 외부부에서의 개인 데이터의 전송을 촉진하나요?**
 
-Microsoft는 오랫동안 표준 계약 조항(모델 조항이라고도 함)을 엔터프라이즈 온라인 서비스를 위한 데이터 전송의 기초로 사용해 왔습니다. 표준 계약 조항은 유럽위원회(European Commission)에서 제공하는 표준 조건으로 데이터를 유럽 경제 지역(European Economic Area) 외부로 전송하는 데 사용될 수 있습니다. Microsoft는 [온라인 서비스 약관](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=46)을 통해 표준 계약 조항을 모든 볼륨 라이선싱 계약에 통합했습니다. 제29조 실무 그룹(Working Party)은 Microsoft가 규정을 준수하여 표준 계약 조항을 이행함을 확인했습니다. EU-US Privacy Shield를 사용할 수있게 되었을 때 Microsoft는 최초로 인증을 받은 회사였습니다. [개인 정보 보호에 대한 Microsoft 인증](https://www.privacyshield.gov/participant?id=a2zt0000000KzNaAAK&status=Active)을 참조하고 [온라인 서비스 약관](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=46)을 검토하세요. EU-US Privacy Shield는 데이터를 미국으로 전송하려는 고객이 데이터 보호 의무를 준수하는 방식으로 데이터를 전송하도록 도와줍니다.
+Microsoft는 오랫동안 표준 계약 조항(모델 조항이라고도 함)을 엔터프라이즈 온라인 서비스를 위한 데이터 전송의 기초로 사용해 왔습니다. 표준 계약 조항은 유럽위원회(European Commission)에서 제공하는 표준 조건으로 데이터를 유럽 경제 지역(European Economic Area) 외부로 전송하는 데 사용될 수 있습니다. Microsoft는 [온라인 서비스 약관](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=46)을 통해 표준 계약 조항을 모든 볼륨 라이선싱 계약에 통합했습니다. 유럽 경제 지역과 스위스 및 영국의 개인 데이터의 경우 Microsoft는 개인 정보의 제3자 혹은 국제 기관 이전 시 적절한 보호 조치를 받도록 GDPR 46조에 의거하여 이를 준수합니다. Microsoft는 프로세서 및 기타 모델 계약에 대한 표준 계약 조항에 따른 Microsoft의 약속과 더불어 [Privacy Shield 프레임워크](https://www.privacyshield.gov/) 조건을 계속 준수하지만 이를 더 이상 EU/EEA에서 미국으로 개인 데이터를 전송하는 기준으로 사용하지 않습니다.
 
 **다른 Microsoft 규정 준수 제품에는 무엇이 있나요?**
 
@@ -272,7 +271,7 @@ GDPR 준수를 충족시키는 데는 시간과 비용이 많이 들지만, 잘 
 
 GDPR은 '개인 데이터'의 수집, 저장, 사용 및 공유를 규제합니다. GDPR에서 개인 데이터는 식별되거나 식별 가능한 자연인에 관련된 모든 데이터로 광범위하게 정의됩니다.
 
-개인 데이터에는 온라인 식별자(예: IP 주소), 직원 정보, 영업 데이터베이스, 고객 서비스 데이터, 고객 피드백 양식, 위치 데이터, 생체 데이터, CCTV 영상, 로열티 체계 기록, 건강, 재무 정보 등이 있습니다. 또한 개인 정보로 보이지 않는 정보(예: 사람이 없는 풍경 사진)를 포함할 수도 있습니다. 이 정보는 계정 번호 또는 식별 가능한 개인에 대한 고유 코드로 연결됩니다. 가명을 사용한 개인 데이터라도 가명이 특정 개인과 연결될 수 있다면 개인 데이터가 될 수 있습니다. 
+개인 데이터에는 온라인 식별자(예: IP 주소), 직원 정보, 영업 데이터베이스, 고객 서비스 데이터, 고객 피드백 양식, 위치 데이터, 생체 데이터, CCTV 영상, 로열티 체계 기록, 건강, 재무 정보 등이 있습니다. 또한 개인 정보로 보이지 않는 정보(예: 사람이 없는 풍경 사진)를 포함할 수도 있습니다. 이 정보는 계정 번호 또는 식별 가능한 개인에 대한 고유 코드로 연결됩니다. 가명을 사용한 개인 데이터라도 가명이 특정 개인과 연결될 수 있다면 개인 데이터가 될 수 있습니다.
 
 특정 "특별한" 범주의 개인 데이터(예: 개인의 인종 또는 민족 출신을 드러내거나 건강 또는 성적 취향에 관한 개인 데이터)에는 "일반적인" 개인 데이터 처리보다 더 엄격한 규칙이 적용됩니다. 이러한 개인 데이터 평가는 사실에 따라 달라지므로 특정 상황을 평가하기 위해 전문가를 참여시키는 것이 좋습니다.
 
@@ -328,6 +327,5 @@ Azure, Dynamics 365, Enterprise Mobility + Security, Microsoft Office 365 및 Wi
 
 - [Microsoft 기반 솔루션을 제공하는 Microsoft 글로벌 파트너 중 하나를 사용 하여 GDPR에 대한 요구 사항 해결](https://aka.ms/findgdprpartner)
 - [Microsoft가 데이터를 관리하는 방법, 데이터의 위치, 액세스 권한을 지닌 사용자 및 조건 등에 대해 알아보십시오.](https://www.microsoft.com/trust-center/privacy)
-- [Microsoft가 EU-U. SPrivacy Shield 프레임워크의 원칙을 준수하는 방법에 대해 알아보십시오.](https://blogs.microsoft.com/eupolicy/2016/07/11/eu-u-s-privacy-shield-progress-for-privacy-rights/)
 - [Microsoft가 GDPR에서 개인 데이터 위반을 감지 및 대처하고 사용자에게 알리는 방법](https://www.microsoft.com/trust-center/privacy/gdpr-data-breach)
 - [현재 GDPR 준비 상태 평가](https://discover.microsoft.com/gdpr-readiness-assessment/)

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: eb73d95d25327220b9c2dc2769703101ba2c60e9
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: a2ca0cf98216e2caf6e8d7057f6dea5241f2842a
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121317"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276206"
 ---
 # <a name="cloud-security-alliance-csa-star-attestation"></a>CSA(Cloud Security Alliance) STAR 증명
 
@@ -46,7 +46,7 @@ Microsoft Azure 및 Microsoft Intune은 CSA STAR 증명을 획득했습니다. S
 - Microsoft Cloud App Security
 - Microsoft Graph
 - Intune
-- Microsoft Managed Desktop
+- [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
 - 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power Automate(이전 Microsoft Flow) 클라우드 서비스
 - 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 PowerApps 클라우드 서비스 
 - Power BI
