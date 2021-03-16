@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f6024f19c0557531d8d933bd1266f04219c2c2d9
-ms.sourcegitcommit: 38741d8dc272bc2199d9f27db0335973e6be9735
+ms.openlocfilehash: 31b5b6ee2b08ab9f45e3ea85c4548ceeaec04681
+ms.sourcegitcommit: 7eee3a4dfda4c09be9afd2e4ea2830a28e46b2c1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50290897"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "50826062"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>ISO/IEC 27001:2013 정보 보안 관리 표준
 
@@ -99,7 +99,7 @@ Microsoft 클라우드에서 ISO/IEC-27001의 혜택에 대해 알아보세요. 
 
 ### <a name="azure-devops-services"></a>Azure DevOps Services
 
-- [Azure DevOps Services ISO 27001 인증서 IS 619017](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d619017%26company%3dAzure%2bDevOps%2bServices&licencenumber=IS%20619017)
+- [Azure DevOps Services ISO 27001 인증서 IS 619017](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dAzure&licencenumber=IS%20619017)
 
 [추가 감사 보고서 보기](https://aka.ms/auditreports)
 

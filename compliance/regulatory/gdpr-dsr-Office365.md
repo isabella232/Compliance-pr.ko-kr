@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: fb982899fb5159abecc07b90700134b6247b6fee
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 3ffda250e017bd97cbfd9d1cf60c8251699e9740
+ms.sourcegitcommit: 3761eaf22bb2c7ed09ed24b9a526404ac7283ab8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121947"
+ms.lasthandoff: 03/15/2021
+ms.locfileid: "50822521"
 ---
 # <a name="office-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Office 365 데이터 주체 요청
 
@@ -727,7 +727,7 @@ Bookings에서는 다음과 같은 유형의 데이터를 수집하고 저장합
 
 ##### <a name="export"></a>내보내기
 
-비즈니스 소유자, 직원 및 고객에 해당하는 데이터를 내보내려면 비즈니스 센터 개인 정보 포털을 사용할 수 있습니다. [비즈니스 센터 개인 정보 포털을 사용하여 사용자 데이터 내보내기 또는 삭제](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8)를 참조하세요.
+비즈니스 소유자, 직원 및 고객에 해당하는 데이터를 내보내려면 [비즈니스 센터 개인 정보 포털](https://businessaccount.microsoft.com/)을 사용할 수 있습니다.
 
 ##### <a name="delete"></a>삭제
 
@@ -738,7 +738,7 @@ DSR 삭제 요청에 대한 응답으로 다음과 같은 유형의 Bookings 데
 - **Bookings 이벤트:** Bookings 일정에서 예약 이벤트를 삭제할 수 있으며 이벤트를 삭제하면 고객의 정보가 제거됩니다.
 - **모임 요청, 전자 메일 확인/취소/업데이트 및 전자 메일 미리 알림:** Bookings 일정에서 이러한 항목을 삭제하여 고객 정보를 제거할 수 있습니다.
 
-비즈니스 소유자 및 관리자도 비즈니스 센터 개인 정보 포털을 사용하여 고객 데이터를 삭제할 수 있습니다. [비즈니스 센터 개인 정보 포털을 사용하여 사용자 데이터 내보내기 또는 삭제](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8)를 참조하세요.
+비즈니스 소유자, 직원 및 고객에 해당하는 데이터를 내보내려면 [비즈니스 센터 개인 정보 포털](https://businessaccount.microsoft.com/)을 사용할 수 있습니다.
 
 또한 비즈니스 소유자 및 직원 데이터를 삭제하고, 해당 사용자 계정을 삭제할 수 있습니다. 자세한 내용은 [사용자 삭제](#deleting-a-user) 섹션을 참조하세요.
 
@@ -760,7 +760,7 @@ Listings 소유자는 Listings 대시보드에 로그인하여 해당 리뷰와 
 
 ##### <a name="export"></a>내보내기
 
-비즈니스 소유자, 직원 및 고객 데이터를 내보내려면 비즈니스 센터 개인 정보 포털을 사용합니다. [비즈니스 센터 개인 정보 포털을 사용하여 사용자 데이터 내보내기 또는 삭제](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8)를 참조하세요.
+비즈니스 소유자, 직원 및 고객에 해당하는 데이터를 내보내려면 [비즈니스 센터 개인 정보 포털](https://businessaccount.microsoft.com/)을 사용할 수 있습니다.
 
 ##### <a name="delete"></a>삭제
 
@@ -784,7 +784,7 @@ Connections 소유자는 Connections 대시보드에 로그인하고 전송한 �
 
 ##### <a name="export"></a>내보내기
 
-비즈니스 소유자, 직원 및 고객 데이터를 내보내려면 비즈니스 센터 개인 정보 포털을 사용합니다. [비즈니스 센터 개인 정보 포털을 사용하여 사용자 데이터 내보내기 또는 삭제](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8)를 참조하세요.
+비즈니스 소유자, 직원 및 고객에 해당하는 데이터를 내보내려면 [비즈니스 센터 개인 정보 포털](https://businessaccount.microsoft.com/)을 사용할 수 있습니다.
 
 ##### <a name="delete"></a>삭제
 
