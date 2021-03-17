@@ -16,12 +16,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 39e5d666519bac120169f79824173cd0ee63f437
-ms.sourcegitcommit: f37d6ac660910f1cc2204f5ceebd390f7abbdfbf
+ms.openlocfilehash: 1ed40e2a6cd960c4538439f5f34897037e0881cd
+ms.sourcegitcommit: 55a156a6b74ed8c438ae51cdae0654db2806e008
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50175439"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "50831073"
 ---
 # <a name="azure-and-dynamics-365-breach-notification-under-the-gdpr"></a>Azure 및 Dynamics 365 GDPR의 위반 알림
 
@@ -47,7 +47,7 @@ Azure는 Microsoft Azure 인시던트 관리 플랜의 하위 집합인 보안 �
 | ***4: 안정화 및 복구*** | 인시던트 대응 팀이 문제를 완화하기 위한 복구 계획을 세웁니다. 영향을 받은 시스템을 격리하는 것과 같은 위기 방지 단계가 즉시 진행되거나 진단과 동시에 수행될 수 있습니다. 즉각적인 위험이 지나간 후에 좀 더 장기적인 완화를 계획할 수 있습니다. |
 | ***5: 종료 및 사후 분석*** | 인시던트 대응 팀은 정책, 절차 및 프로세스를 수정하여 이벤트 재발을 방지하기 위해 인시던트의 세부 정보를 대략적으로 설명하는 사후 평가를 만듭니다. |
 
-[클라우드의 Microsoft Azure 보안 응답](https://gallery.technet.microsoft.com/Azure-Security-Response-in-dd18c678) 백서에서는 Microsoft가 Azure 내의 보안 인시던트를 조사, 관리 및 대응하는 방법을 설명합니다.
+[안전한 전 세계 공공 부문 클라우드 채택을 위한 Azure](/azure/azure-government/documentation-government-overview-wwps#breach-notification-process) 항목에서는 Microsoft가 Azure 내에서 보안 사고를 조사, 관리 및 대응하는 방법을 자세히 설명합니다.
 
 Microsoft Azure에서 사용하는 감지 프로세스는 Azure 서비스의 기밀성, 무결성 및 가용성을 침해하는 이벤트를 검색하도록 고안되었습니다. 다음과 같은 일부 이벤트가 조사를 트리거할 수 있습니다.
 
