@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f2686156a1cc51aefd28865642f5bc637a463062
-ms.sourcegitcommit: 68d927bc03a6e03aecdeac25aba9ae0265d7baf4
+ms.openlocfilehash: b13af6be98f0a5c25e6a2c38e5f6dff9c923e665
+ms.sourcegitcommit: 2b347c9b778ac9b6450daf20fdf8eb74ed14cbbd
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50715050"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51002178"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>HITRUST(Health Information Trust Alliance) CSF(Common Security Framework)
 
@@ -45,7 +45,7 @@ Azure 보안 및 규정 준수 Blueprint를 사용하여 HITRUST 배포를 가�
 
 - [Azure 및 Azure Government](https://aka.ms/AzureCompliance)
 - Intune
-- [Microsoft Managed Desktop](https://docs.microsoft.com/microsoft-365/managed-desktop/intro/compliance)
+- [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
 - [Office 365 및 Office 365 U.S. Government](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
@@ -59,13 +59,13 @@ Azure 및 Office 365의 HITRUST CSF 인증은 2년 동안 유효합니다.
 
 Azure Security and Compliance Blueprint ( HIPAA/HITRUST Health Data and AI)를 사용하여 건강 데이터 솔루션에 대한 클라우드의 이점을 활용하기 시작하세요. 이 Blueprint는 오늘날 HIPAA/HITRUST 솔루션을 구축하기 시작할 수 있는 도구와 지침을 제공합니다.
 
-[HIPAA HITRUST 9.2 Blueprint 샘플](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust-9-2)
+[HIPAA HITRUST 9.2 Blueprint 샘플](/azure/governance/blueprints/samples/hipaa-hitrust-9-2)
 
 ## <a name="accelerate-your-hipaahitrust-compliance-when-using-office-365"></a>Office 365를 사용할 때 HIPAA/HITRUST 규정 준수 가속화
 
 Office 365를 사용하여 준수 점수를 사용하여 안전하고 규격인 건강 정보를 관리하면 HIPAA와 같은 건강 규정에 대한 위험 평가 및 NIST CSF 및 NIST 800-53과 같은 보안 제어 프레임워크에 대한 위험 평가를 수행할 수 있습니다. 단계별 지침을 따라 의료 규정 준수 의무를 충족하는 데 도움이 되는 데이터 보호 컨트롤을 구현하고 유지 관리하는 방법을 알 수 있습니다.
 
-[Microsoft 준수 관리자](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)
+[Microsoft 규정 준수 관리자](/microsoft-365/compliance/compliance-manager)
 
 ## <a name="collaborate-with-microsoft-in-the-hitrust-shared-responsibility-program"></a>HITRUST 공유 책임 프로그램에서 Microsoft와 공동 작업
 
@@ -73,7 +73,7 @@ HITRUST MyCSF 도구에서 Azure에 대한 완전히 상속되거나 공유된 �
 
 [자세한 정보](https://go.microsoft.com/fwlink/p/?linkid=2100268)
 
-## <a name="frequently-asked-questions"></a>자주하는 질문
+## <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **Azure HITRUST 규정 준수를 사용하여 조직의 인증 프로세스를 구축할 수 있나요?**
 
@@ -100,7 +100,7 @@ Office 365와 같은 SaaS에 데이터를 저장하는 경우 규정 준수를 �
 
 **Microsoft가 Office 365를 사용할 때 적절한 제어를 구현하기 위한 지침을 조직에 제공합니까?**
 
-예, 조직이 클라우드 서비스를 사용할 때 복잡한 규정 준수 의무를 충족하는 데 도움이 되는 Microsoft 클라우드 간 솔루션 준수 점수에서 권장되는 고객 작업을 찾을 수 있습니다. 특히 HITRUST CSF의 경우 준수 점수의 NIST 800-53 및 NIST CSF 평가를 사용하여 위험 평가를 수행하는 것이 좋습니다. 평가에서는 데이터 보호 컨트롤을 구현하는 데 사용할 수 있는 단계별 지침과 Microsoft 솔루션을 제공합니다. Microsoft 준수 관리자에서 준수 점수에 대한 [자세한 내용을 볼 수 있습니다.](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)
+예, 조직이 클라우드 서비스를 사용할 때 복잡한 규정 준수 의무를 충족하는 데 도움이 되는 Microsoft 클라우드 간 솔루션 준수 점수에서 권장되는 고객 작업을 찾을 수 있습니다. 특히 HITRUST CSF의 경우 준수 점수의 NIST 800-53 및 NIST CSF 평가를 사용하여 위험 평가를 수행하는 것이 좋습니다. 평가에서는 데이터 보호 컨트롤을 구현하는 데 사용할 수 있는 단계별 지침과 Microsoft 솔루션을 제공합니다. Microsoft 준수 관리자에서 준수 점수에 대한 [자세한 내용을 볼 수 있습니다.](/microsoft-365/compliance/compliance-manager)
 
 **Microsoft와 함께 참여하는 방법**
 
@@ -108,7 +108,7 @@ HITRUST MyCSF® 도구에 로그인하고 Azure에 대한 완전히 상속되거
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
 
-[Microsoft 준수 관리자](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규제에 대한 평가를 빌드하기 위한 프리미엄 서식 파일을 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 서식 파일을 찾습니다. 준수 관리자에서 평가를 작성 및 [관리하는 방법을 알아보습니다.](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)
+[Microsoft 준수 관리자](/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규제에 대한 평가를 빌드하기 위한 프리미엄 서식 파일을 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 서식 파일을 찾습니다. 준수 관리자에서 평가를 작성 및 [관리하는 방법을 알아보습니다.](/microsoft-365/compliance/compliance-manager-assessments)
 
 ## <a name="resources"></a>리소스
 
