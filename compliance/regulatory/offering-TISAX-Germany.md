@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9f751777f527a13d4dc572ef58e82ffcbd6ce1b3
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 420f95b0a7f7625ff10d76baf5f1c9d9efb69c6a
+ms.sourcegitcommit: 2b347c9b778ac9b6450daf20fdf8eb74ed14cbbd
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121177"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51002198"
 ---
 # <a name="trusted-information-security-assessment-exchange-tisax-germany"></a>신뢰할 수 있는 정보 보안 평가 교환(TISAX) 독일
 
@@ -35,27 +35,18 @@ VDA의 회원 업체들은 이를 내부 보안 평가 및 공급업체, 서비�
 
 ## <a name="microsoft-and-tisax"></a>Microsoft 및 TISAX
 
-유럽의 자동차 업계는 새 자동차를 개발, 빌드 및 운영하는 데 신뢰를 기반으로 합니다. 그들은 신뢰할 수 있는 정보 보안 평가 교환(TISAX)를 사용하여 내부 분석, 공급업체의 평가 에 일반적인 정보 보안 평가를 제공하고 이를 정보 교환 메커니즘으로서 활용합니다. 독립적인 ENX-공인 감사자, PwC는 Microsoft 데이터 센터 및 운영 센터에 대한 TISAX 사양과 IT 보안 요구 사항을 기반으로 한 평가를 완료했습니다.
+유럽의 자동차 업계는 새 자동차를 개발, 빌드 및 운영하는 데 신뢰를 기반으로 합니다. 그들은 신뢰할 수 있는 정보 보안 평가 교환(TISAX)를 사용하여 내부 분석, 공급업체의 평가 에 일반적인 정보 보안 평가를 제공하고 이를 정보 교환 메커니즘으로서 활용합니다. 독립적인 ENX-공인 감사자, PwC는 Microsoft 데이터 센터 및 운영 센터에 대한 TISAX 사양과 IT 보안 요구 사항을 기반으로 한 평가를 완료했습니다. 이러한 TISAX 인증 데이터 센터는 평가 보고서에 설명된 Microsoft 온라인 서비스에 대한 물리적 인프라를 제공합니다. 이러한 서비스로는 Azure, Dynamics 365 및 Microsoft 365가 있습니다.
 
-전세계의 자동차 업체들은 이제 Microsoft 클라우드 서비스에 대한 TISAX 평가를 평가하여 강력한 정보 보안 및 데이터 보호를 통합하는 클라우드 솔루션을 만들 수 있습니다. 업체들은 Microsoft 클라우드 서비스의 TISAX 평가를 사용하여 확신을 가지고 Microsoft 365 클라우드 서비스 기반의 워크스테이션을 사용하는 공급업체와 데이터를 교환할 수 있습니다.
+전세계의 자동차 업체들은 이제 Microsoft TISAX 평가를 진행하여 강력한 정보 보안 및 데이터 보호를 통합하는 클라우드 솔루션을 만들 수 있습니다. 업체들은 Microsoft TISAX 평가를 사용하여 확신을 가지고 Microsoft 365 클라우드 서비스 기반의 워크스테이션을 사용하는 공급업체와 데이터를 교환할 수 있습니다.
 
 Microsoft는 클라우드 서비스에 대한 자체 평가를 제공했으며 감사자는 이를 기반으로 두 가지 레벨의 평가를 수행했습니다. (평가 레벨에 따라 감사의 정도와 감사자가 사용 하는 방법이 결정됩니다.)
 
-- 북유럽(더블린 지역, 아일랜드) 및 서유럽(암스테르담 지역, 네덜란드)의 Microsoft 데이터 센터는 레벨 3(AL3)으로 평가되었습니다. 감사에는 보안 프로세스의 철저한 검증, 종합적인 현장 검사 그리고 대면식 인터뷰가 포함되었습니다. AL3 평가는 극비 또는 비밀과 같이 높은 수준의 보호를 필요로 하는 데이터(예: 손상 테스트 및 유동 시뮬레이션 및 AI(인공 지능) 시스템 데이터)에 적용됩니다.
+- 북유럽(더블린 지역, 아일랜드), 서유럽(암스테르담 지역, 네덜란드), 독일(베를린, 프랑크푸르트) 및 대한민국(부산, 서울)의 Microsoft 데이터 센터는 수준 3(AL3)에서 평가되었습니다. 감사에는 보안 프로세스의 철저한 검증, 종합적인 현장 검사 그리고 대면식 인터뷰가 포함되었습니다. AL3 평가는 극비 또는 비밀과 같이 높은 수준의 보호가 필요한 데이터(예: 손상 테스트 및 유동 시뮬레이션 및 AI(인공 지능) 시스템 데이터)에 적용됩니다.
 - 선정된 Microsoft 전역 데이터 센터는 원거리 인터뷰에 기반하여 레벨 2(AL2)로 평가되었습니다. AL2 평가는 기밀로 분류되는 데이터와 같이 높은 수준의 보호를 필요로 하는 데이터에 적용됩니다.
-
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내의 클라우드 서비스
-
-TISAX 평가는 다음의 Microsoft 서비스에 중점을 두었습니다.
-
-- [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
-- [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
-- Intune
-- [Microsoft Power BI, 독립 실행형으로 등록되어 있거나 Office 365 또는 Microsoft Dynamics 365 브랜드 플랜 또는 제품군에 포함되어 있음](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9f756cce-b15d-45a9-94d7-6a583dee4401&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 
-ENX에 등록한 업계 대표자는 [ENX 포털](https://portal.enx.com/ko-KR/)에서 범위 내 Microsoft 클라우드 서비스에 대한 자세한 정보를 확인할 수 있습니다. Microsoft 평가 결과를 검색하려면 기존의 TISAX 계정에 로그인하고 Microsoft를 검색합니다. 또는 아래 정보를 사용하여 검색 범위를 좁힐 수 있습니다.
+ENX에 등록한 업계 대표자는 [ENX 포털](https://portal.enx.com/ko-KR/)에서 Microsoft TISAX 평가에 대한 자세한 정보를 확인할 수 있습니다. Microsoft 평가 결과를 검색하려면 기존의 TISAX 계정에 로그인하고 Microsoft를 검색합니다. 또는 아래 정보를 사용하여 검색 범위를 좁힐 수 있습니다.
 
 - Microsoft 참가자 ID: PGKYK0
 - Microsoft Corp. EU 평가 레벨(AL) 3 범위 ID: SY869K
