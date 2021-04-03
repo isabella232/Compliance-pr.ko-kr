@@ -18,16 +18,17 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 632a0b78c5c5ba02a59f8863c2e751f009cc968e
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: 54ea001e542cdd1ab078546cf96bd011e27ab1dc
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120757"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497506"
 ---
 # <a name="service-resource-limits"></a>서비스 리소스 제한 사항
 
-리소스 제한은 할당량(제한) 및 제한을 사용하여 적용됩니다. Azure AD(Azure Active Directory) 및 개별 Microsoft 365 서비스는 둘 다를 사용 합니다. 제한은 서비스별 제한으로, 시간이 지날 때 새로운 기능이 추가될 때 변경됩니다. 다양한 서비스에 대한 현재 제한에 대한 자세한 내용은 다음 항목을 참조하십시오.
+리소스 제한은 할당량(제한) 및 제한을 사용하여 적용됩니다. Azure AD(Azure Active Directory) 및 개별 Microsoft 365 서비스는 둘 다를 사용 합니다. 제한은 서비스별 제한으로, 시간이 지날 때 새로운 기능이 추가될 때 변경됩니다. 다양한 서비스의 현재 제한에 대한 자세한 내용은 다음 항목을 참조하십시오.
 
 - [Azure AD 서비스 제한 사항](/azure/azure-resource-manager/management/azure-subscription-service-limits)
 - [Exchange Online 제한](/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)
@@ -38,6 +39,6 @@ ms.locfileid: "50120757"
 
 이러한 제한 외에도 Azure AD 및 Microsoft 365 전체에서 여러 제한 메커니즘이 사용됩니다. Microsoft 데이터 센터의 네트워크 리소스가 서비스를 사용하는 광범위한 고객 집합에 최적화되어 있는 경우 서비스 내의 스로틀은 특히 중요합니다. 다음과 같은 스로틀 메커니즘이 있습니다.
 
-- Azure AD 및 Microsoft 365 기능 사용자 수준 제한은 단일 사용자가 수행할 수 있는 트랜잭션 또는 동시 통화 수(스크립트 또는 코드로)를 제한합니다.
-- 기본 PowerShell 스로틀 정책은 테넌트 만들기 시 각 테넌트에 할당됩니다. 이러한 설정은 단일 관리자가 열 수 있는 동시 PowerShell 세션의 최대 수와 같은 다른 항목에 영향을 미치게 됩니다.
+- Azure AD 및 Microsoft 365는 단일 사용자가 수행할 수 있는 트랜잭션 또는 동시 통화(스크립트 또는 코드로)의 수를 제한하는 사용자 수준 제한 기능을 제공합니다.
+- 기본 PowerShell 스로틀 정책은 테넌트 만들기 시 각 테넌트에 할당됩니다. 이러한 설정은 단일 관리자가 열 수 있는 최대 동시 PowerShell 세션 수와 같은 다른 항목에 영향을 미치게 됩니다.
 - 각 Exchange Online 고객에게는 EWS 클라이언트 작업에 맞게 조정된 기본 EWS(Exchange 웹 서비스) 정책과 모든 Outlook 클라이언트에 적용되는 제한이 있습니다.

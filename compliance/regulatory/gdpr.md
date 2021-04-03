@@ -17,12 +17,13 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 16135ae18d0b0a2a91a61652fed3d1b34d5db124
-ms.sourcegitcommit: 38741d8dc272bc2199d9f27db0335973e6be9735
+hideEdit: true
+ms.openlocfilehash: 69c81b78e5107055c7760a99842468210eec70da
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50290937"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51495798"
 ---
 # <a name="general-data-protection-regulation-summary"></a>일반 데이터 보호 규정 요약
 

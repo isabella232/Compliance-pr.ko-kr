@@ -17,12 +17,13 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 7bb7ca2b3a3d02be91930f4309ffed6ac1c79fca
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: e9b80265542ee580ba729e53906db4e726bdd4d1
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121617"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496496"
 ---
 # <a name="microsoft-365-gdpr-action-plan--top-priorities-for-your-first-30-days-90-days-and-beyond"></a>Microsoft 365 GDPR 작업 계획 - 처음 30일, 90일 및 그 이상 기간에 대한 최고 우선 순위 지정
 
@@ -56,7 +57,7 @@ GDPR은 EU(유럽 연합) 회원국 국민에게 제품과 서비스를 제공�
 |**영역**|**작업**|
 |:-----|:-----|
 | **Microsoft 365 데이터 거버넌스 및 준수 기능을 사용하여 준수 요구 사항을 구현합니다.** |* [Microsoft 365 규정 준수 센터](/microsoft-365/compliance/microsoft-365-compliance-center) 내에서 [Microsoft 준수 관리자](/microsoft-365/compliance/compliance-manager)를 사용하여 GDPR 준수를 관리합니다.<br>* Exchange 전자 메일, SharePoint 사이트, 비즈니스용 OneDrive 사이트 및 Microsoft 365 그룹에 대한 분류 스키마 및 연관된 Office 365 레이블을 사용하여 GDPR로 정의된 개인 데이터를 사용자가 식별하고 분류하는 데 도움을 줍니다. [GDPR에 대한 Office 365 정보 보호](/microsoft-365/compliance/office-365-information-protection-for-gdpr)를 참조하세요.|
-| **Microsoft 365 보안 기능을 사용하여 데이터 위반을 방지하고 개인 데이터를 보호합니다.** |* 모든 사용자 계정에 대해 [다단계 요소 인증](/azure/active-directory/authentication/concept-mfa-howitworks)을, 모든 앱에 대해 [최신 인증](/microsoft-365/enterprise/modern-auth-for-office-2013-and-2016)을 사용하도록 설정하여 Microsoft 클라우드에서 관리자 및 최종 사용자에 대한 인증을 향상시킵니다. 권장되는 정책 구성은 [ID 및 장치 액세스 구성](/microsoft-365/security/office-365-security/microsoft-365-policies-configurations)을 참조하세요.<br>* 악성 코드로부터의 보호, 데이터 위반 방지 및 응답을 위해 모든 데스크톱에 [Windows Defender ATP(Advanced Threat Protection)](/windows/security/threat-protection/windows-defender-atp/windows-defender-advanced-threat-protection)를 배포합니다.<br>* 모든 Exchange 사서함에 대해 [감사 로깅](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) 및 [사서함 감사](/microsoft-365/compliance/enable-mailbox-auditing)를 사용하도록 설정하여 잠재적으로 악의적인 활동이 있는지 모니터링하고 데이터 위반에 대한 법과학 분석을 설정합니다.<br>* [Office 365 DLP(데이터 손실 방지) 정책](/microsoft-365/compliance/data-loss-prevention-policies)을 구성, 테스트 및 배포하여 재무, 의료 및 개인 식별 가능 정보를 포함하여 문서 및 전자 메일 내에 포함된 80가지가 넘는 중요한 데이터 유형을 식별, 모니터링 및 [자동으로 보호](/microsoft-365/compliance/apply-protection-to-personal-data-in-office-365)합니다.<br>* [Office 365 ATP(Advanced Threat Protection)](/microsoft-365/security/office-365-security/office-365-atp)를 구현하여 악성 링크 및 첨부 파일이 들어 있는 피싱 전자 메일 및 Office 문서를 포함하는 가장 일반적인 공격 벡터를 방지합니다.|
+| **Microsoft 365 보안 기능을 사용하여 데이터 위반을 방지하고 개인 데이터를 보호합니다.** |* 모든 사용자 계정에 대해 [다단계 요소 인증](/azure/active-directory/authentication/concept-mfa-howitworks)을, 모든 앱에 대해 [최신 인증](/microsoft-365/enterprise/modern-auth-for-office-2013-and-2016)을 사용하도록 설정하여 Microsoft 클라우드에서 관리자 및 최종 사용자에 대한 인증을 향상시킵니다. 권장되는 정책 구성은 [ID 및 장치 액세스 구성](/microsoft-365/security/office-365-security/microsoft-365-policies-configurations)을 참조하세요.<br>* 악성 코드로부터의 보호, 데이터 위반 방지 및 대응을 위해 모든 데스크톱에 [엔드포인트용 Microsoft Defender](/windows/security/threat-protection/windows-defender-atp/windows-defender-advanced-threat-protection)를 배포합니다.<br>* 모든 Exchange 사서함에 대해 [감사 로깅](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) 및 [사서함 감사](/microsoft-365/compliance/enable-mailbox-auditing)를 사용하도록 설정하여 잠재적으로 악의적인 활동이 있는지 모니터링하고 데이터 위반에 대한 법과학 분석을 설정합니다.<br>* [Office 365 DLP(데이터 손실 방지) 정책](/microsoft-365/compliance/data-loss-prevention-policies)을 구성, 테스트 및 배포하여 재무, 의료 및 개인 식별 가능 정보를 포함하여 문서 및 전자 메일 내에 포함된 80가지가 넘는 중요한 데이터 유형을 식별, 모니터링 및 [자동으로 보호](/microsoft-365/compliance/apply-protection-to-personal-data-in-office-365)합니다.<br>* [Office 365 Advanced Threat Protection](/microsoft-365/security/office-365-security/office-365-atp)을 구현하여 악의적인 링크 및 첨부 파일이 들어 있는 피싱 전자 메일 및 Office 문서를 포함하는 가장 일반적인 공격 벡터를 방지하도록 돕습니다.|
 
 ## <a name="beyond-90-days--ongoing-security-data-governance-and-reporting"></a>90일 이상 — 지속적인 보안, 데이터 관리 및 보고
 

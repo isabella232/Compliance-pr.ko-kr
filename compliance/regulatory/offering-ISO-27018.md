@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 951b35d755091555450b7bcd4361d56c5159591e
-ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
+ms.openlocfilehash: 319f51416b0bcafb17d8ac343093789146d13742
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50276096"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497729"
 ---
 # <a name="isoiec-27018-code-of-practice-for-protecting-personal-data-in-the-cloud"></a>클라우드 내 개인 데이터 보호를 위한 ISO/IEC 27018 규약
 
@@ -63,7 +63,7 @@ ISO/IEC 27001 표준과 ISO/IEC 27018에 포함된 규약을 준수하는(이 �
 - 파워 가상 에이전트
 - Microsoft 위협 전문가
 - Microsoft Stream
-- Windows Defender ATP — 끝점 감지 및 대응, 자동 조사 및 조치, 보안 점수
+- 엔드포인트용 Microsoft Defender: 엔드포인트 감지 및 대응, 자동 조사 및 조치, 보안 점수
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 

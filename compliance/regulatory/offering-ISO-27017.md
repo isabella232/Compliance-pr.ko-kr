@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e947350388126c74dfce10babcb232a395b1a7f6
-ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
+ms.openlocfilehash: 09473dc7b27b34bd4b0394739cd303fa613780bf
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50276046"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497738"
 ---
 # <a name="isoiec-270172015-code-of-practice-for-information-security-controls"></a>ISO/IEC 27017:2015 정보 보안 통제를 위한 규약
 
@@ -48,7 +48,7 @@ ISO/IEC 27017은 클라우드 서비스 공급자 및 클라우드 서비스 고
 - [Azure, Azure Government, Azure Germany](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security
 - [Dynamics 365, Dynamics 365 및 Dynamics 365 Germany](https://aka.ms/d365-compliance-list)
-- Microsoft Defender Advanced Threat Protection
+- 엔드포인트용 Microsoft Defender
 - Microsoft Graph
 - Microsoft Healthcare Bot
 - Intune

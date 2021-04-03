@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9c808a80aa2d2ab358378cfb0e50ef28f023bbf7
-ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
+ms.openlocfilehash: a33f9e6d19caa5a3b26f011b985481224123ea38
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50276186"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496560"
 ---
 # <a name="cloud-security-alliance-csa-star-certification"></a>CSA(Cloud Security Alliance) STAR 인증
 
@@ -49,7 +49,7 @@ Azure 보안 및 규정 준수 청사진을 사용하여 CSA STAR 인증 배포�
 - Microsoft Healthcare Bot
 - Intune
 - [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
-- Microsoft Defender Advanced Threat Protection
+- 엔드포인트용 Microsoft Defender
 - OMS 서비스 지도
 - Power Automate(이전 Microsoft Flow): 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 클라우드 서비스
 - PowerApps 클라우드 서비스: 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태

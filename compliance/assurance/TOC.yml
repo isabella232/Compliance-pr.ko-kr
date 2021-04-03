@@ -92,12 +92,8 @@
   items:
     - name: 네트워크 보안 개요
       href: assurance-network-security.md
-    - name: 서비스 거부 방어
-      href: assurance-defending-cloud-services-against-dos-attacks.md
     - name: 서비스 거부 방어 전략
       href: assurance-microsoft-dos-defense-strategy.md
-    - name: 핵심 서비스 거부 방어 원칙
-      href: assurance-core-principles-of-defense-against-dos-attacks.md
     - name: Microsoft 365 서비스에서 바이러스 감지
       href: /microsoft-365/security/office-365-security/virus-detection-in-spo?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: 개인 정보
@@ -116,6 +112,10 @@
       href: assurance-sharepoint-online-data-deletion.md
     - name: Microsoft 365 데이터 불변성
       href: assurance-data-immutability.md
+    - name: 데이터 분류 및 민감도 레이블
+      href: assurance-data-classification-and-labels.md
+    - name: 데이터 분류 프레임워크 만들기
+      href: assurance-create-data-classification-framework.md
 - name: 복원력 및 연속성
   items:
     - name: 복원력 및 연속성 개요

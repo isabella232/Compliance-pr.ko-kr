@@ -17,12 +17,13 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 description: Microsoft 제품 및 서비스를 사용하여 유럽연합 일반 개인정보보호법(GDPR) 및 캘리포니아 소비자 개인 정보 보호법(CCPA)에 따라 DSR을 완료하는 방법에 대해 알아봅니다.
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: 83ba52015eeb7aed73cd231ff01f824f75337360
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: 8e6b862de3e52b171d886613af8529c082bad56d
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121037"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496259"
 ---
 # <a name="data-subject-requests-and-the-gdpr-and-ccpa"></a>데이터 주체 요청과 GDPR 및 CCPA
 

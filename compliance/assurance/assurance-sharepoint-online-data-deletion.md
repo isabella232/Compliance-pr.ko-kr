@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 SharePoint Online 데이터 지우기
-description: 삭제된 콘텐츠가 저장되는 위치 및 기간과 같이 SharePoint Online에서 데이터 삭제가 작동하는 방식에 대해 자세히 알아보겠습니다.
+description: 삭제된 콘텐츠가 저장되는 위치와 기간 등 SharePoint Online에서 데이터 삭제가 작동하는 방식에 대해 자세히 알아보겠습니다.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -19,21 +19,22 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 89281b32dbc577f935224396fd358ed753348ea1
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: e89a261e44ef4eb4a1399027b70be88fffb82036
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120747"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497409"
 ---
-# <a name="sharepoint-online-data-deletion-in-microsoft-365"></a>Microsoft 365에서 SharePoint Online 데이터 지우기
+# <a name="sharepoint-online-data-deletion-in-microsoft-365"></a>Microsoft 365에서 SharePoint Online 데이터 Deletion
 
-SharePoint Online에서는 개체를 응용 프로그램 데이터베이스에 추상화 코드로 저장합니다. 사용자가 SharePoint Online에 파일을 업로드하면 해당 파일이 분해되어 응용 프로그램 코드로 변환되어 여러 데이터베이스의 여러 테이블에 저장됩니다. SharePoint Online에서 고객이 업로드하는 모든 콘텐츠는 청크로 나누고, 암호화되고(잠재적으로 여러 AES 256비트 키를 사용하여) 데이터 센터에 분산됩니다. 청크 및 암호화 프로세스에 대한 자세한 내용은 Microsoft 클라우드의 암호화를 [참조하세요.](/microsoft-365/compliance/office-365-encryption-in-the-microsoft-cloud-overview) 
+SharePoint Online에서는 개체를 응용 프로그램 데이터베이스 내에 추상화 코드로 저장합니다. 사용자가 SharePoint Online에 파일을 업로드하면 해당 파일이 분해되어 응용 프로그램 코드로 변환되어 여러 데이터베이스의 여러 테이블에 저장됩니다. SharePoint Online에서 고객이 업로드하는 모든 콘텐츠는 청크로 나누고, 암호화되고(잠재적으로 여러 AES 256비트 키를 사용하여) 데이터 센터에 분산됩니다. 청크 및 암호화 프로세스에 대한 자세한 내용은 Microsoft 클라우드의 암호화를 [참조하세요.](/microsoft-365/compliance/office-365-encryption-in-the-microsoft-cloud-overview) 
 
-SharePoint Online에서는 항목을 원래 위치에서 삭제한 날부터 93일 동안 보존됩니다. 누군가가 해당 사이트에서 해당 사이트를 삭제하거나 해당 재활용 Bin을 비우지 않는 한 사이트 전체를 사이트 재활용 Bin에 유지하게 됩니다. 이 경우 항목은 사이트 모음 재활용 Bin으로 이동하여 나머지 93일 동안 유지됩니다. 삭제된 항목 복원에 대한 자세한 내용은 [SharePoint](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online
-) 사이트의 휴지란에 있는 항목 복원 및 사이트 모음 휴지 상태의 삭제된 항목 [복원을 참조하세요.](https://support.office.com/article/5fa924ee-16d7-487b-9a0a-021b9062d14b) SharePoint Online에서는 재활용 보관 기간을 구성할 수 없습니다.
+SharePoint Online에서 항목은 원래 위치에서 삭제한 시간부터 93일 동안 보존됩니다. 다른 사용자가 해당 사이트에서 삭제하거나 해당 삭제를 비우지 않는 한 전체 시간 동안 사이트 Recycle Bin에 유지됩니다. 이 경우 항목은 사이트 모음 Recycle Bin으로 이동하여 나머지 93일 동안 유지됩니다. 삭제된 항목 복원에 대한 자세한 내용은 [SharePoint](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online
+) 사이트의 휴지란에 항목 복원 및 사이트 모음 휴지란에서 삭제된 항목 [복원을 참조하세요.](https://support.office.com/article/5fa924ee-16d7-487b-9a0a-021b9062d14b) SharePoint Online에서는 재활용 보관 기간을 구성할 수 없습니다.
 
-사이트 모음을 삭제하면 모음의 사이트 계층 구조와 사이트 내의 모든 콘텐츠도 삭제됩니다.
+사이트 모음을 삭제하면 모음에 있는 사이트 계층 구조와 사이트 내의 모든 콘텐츠도 삭제됩니다.
 
 - 문서 및 문서 라이브러리
 - 목록 및 목록 데이터
@@ -45,4 +46,4 @@ SharePoint Online에서는 항목을 원래 위치에서 삭제한 날부터 93�
 
 삭제된 사이트 모음은 93일 동안 보존됩니다. 93 일이 지나면 목록, 라이브러리, 페이지, 모든 하위 사이트를 포함 한 사이트와 해당 콘텐츠 및 설정이 영구적으로 삭제 됩니다.
 
-영구 삭제는 사용자가 사이트 모음의 삭제된 항목을 삭제하거나, 보존 및 백업 기간이 만료될 때 또는 [관리자가 Remove-SPODeletedSite cmdlet을](/powershell/module/sharepoint-online/remove-spodeletedsite)사용하여 사이트 모음을 영구적으로 삭제하는 경우 발생합니다. 사용자가 SharePoint Online에서 콘텐츠를 영구적으로 삭제하거나 삭제하면 삭제된 청크의 모든 암호화 키도 삭제됩니다. 이전에 삭제된 청크를 저장한 디스크의 블록은 사용되지 않은 것으로 표시되고 다시 사용할 수 있습니다.
+영구 삭제는 사용자가 사이트 모음의 삭제된 항목을 제거하거나, 보존 및 백업 기간이 만료되거나, [관리자가 Remove-SPODeletedSite cmdlet을](/powershell/module/sharepoint-online/remove-spodeletedsite)사용하여 사이트 모음을 영구적으로 삭제할 때 발생합니다. 사용자가 SharePoint Online에서 콘텐츠를 영구적으로 삭제하거나 삭제하면 삭제된 청크의 모든 암호화 키도 삭제됩니다. 이전에 삭제된 청크를 저장한 디스크의 블록은 사용되지 않은 것으로 표시되어 다시 사용할 수 있습니다.

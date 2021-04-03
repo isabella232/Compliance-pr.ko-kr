@@ -17,12 +17,13 @@ ms.collection:
 - GDPR
 - M365-security-compliance
 - MS-Compliance
-ms.openlocfilehash: f0faaefd7ff3feae482ad62b506163796d80eec5
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: 702a51589a3ce7118b8d3a8dafb6c96db247232f
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121517"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496188"
 ---
 # <a name="data-processor-service-for-windows-enterprise-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Windows 엔터프라이즈 데이터 주체 요청용 데이터 프로세서 서비스 
 

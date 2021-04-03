@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f0ad19fdeb794d281342367ad9313ac159b9acf0
-ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
+ms.openlocfilehash: 37a561845b4eaa4568ed71a4873bb5927a42f761
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50276036"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497271"
 ---
 # <a name="iso-90012015-quality-management-systems-standards"></a>ISO 9001:2015 품질 관리 시스템 표준
 
@@ -40,7 +40,7 @@ ISO 9001:2015는 품질 관리 시스템에 대한 기준을 설정하는 국제
 - Dynamics 365, Dynamics 365 Government, Dynamics 365 Germany
 - Microsoft Graph
 - Intune
-- Microsoft Defender Advanced Threat Protection
+- 엔드포인트용 Microsoft Defender
 - Microsoft Healthcare Bot
 - [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
 - 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power Automate(이전 Microsoft Flow) 클라우드 서비스

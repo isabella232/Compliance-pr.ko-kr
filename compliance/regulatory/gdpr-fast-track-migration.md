@@ -17,12 +17,13 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: b4c46e63ecbde1d160b0e0224a77ead751c37557
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+hideEdit: true
+ms.openlocfilehash: 134bf099671830856f97bf4dd770123d7efaf41a
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509053"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496108"
 ---
 # <a name="fasttrack-migration-toolset-for-submitting-delete-request"></a>삭제 요청 제출용 FastTrack 마이그레이션 도구 집합
 
@@ -34,14 +35,14 @@ ms.locfileid: "49509053"
 
 Microsoft는 Windows 플랫폼 및 PowerShell 콘솔에서 이 도구 집합의 최초 릴리스를 지원합니다. 이 도구 집합은 다음의 알려진 플랫폼을 지원합니다.
 
-***테이블 1 — 이 도구 집합에서 지원되는 플랫폼** _
+***테이블 1 — 이 도구 집합에서 지원되는 플랫폼***
 
-_***
+****
 
 |PowerShell 버전|Windows 7|Windows 8|Windows 10|Windows Server 2012|Windows Server 2016|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|5.0|지원되지 않음|않음|지원됨|지원됨|않음|
-|5.1|지원되지 않음|않음|지원됨|지원됨|지원됨|
+|5.0|지원되지 않음|않음|지원|지원|않음|
+|5.1|지원되지 않음|않음|지원|지원|지원됨|
 |
 
 ### <a name="obtaining-the-toolset"></a>도구 집합 획득
@@ -60,7 +61,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 
 관리자 판단에 따라 범위를 변경할 수 있으므로 이 작업을 확인하라는 메시지가 표시됩니다.
 
-**_실행 정책 설정_* _
+***실행 정책 설정***
 
 ![PowerShell에서 실행 정책 변경 설정](../media/powershell-set-execution-policy_image.png)
 
@@ -82,7 +83,7 @@ Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
 
 성공적으로 로그인하면 현재 PowerShell 세션의 나머지에 대해 FastTrack 모듈과 함께 사용하기 위해 자격 증명 및 키가 저장됩니다.
 
-상업 환경 이외의 클라우드 환경에 연결해야 하는 경우 다음 유효한 환경 중 하나를 사용하여 *로그인* 명령에 _-Environment*를 추가해야 합니다.
+상업 환경 이외의 클라우드 환경에 연결해야 하는 경우 다음 유효한 환경 중 하나를 사용하여 *로그인* 명령에 *-Environment* 를 추가해야 합니다.
 
 - AzureCloud
 - AzureChinaCloud

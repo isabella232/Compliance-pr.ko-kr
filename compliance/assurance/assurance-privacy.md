@@ -18,18 +18,19 @@ search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: c55d1202faee1a2640715ec1aef82d4956d92c38
-ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
+hideEdit: true
+ms.openlocfilehash: b94a8e610a782559a322eb9db812202f7f8698ed
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "49787435"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496909"
 ---
 # <a name="privacy-overview"></a>개인 정보 개요
 
 ## <a name="how-does-microsoft-approach-privacy-for-customers"></a>Microsoft는 고객의 개인 정보 보호에 어떻게 접근하나요?
 
-[Microsoft의](https://privacy.microsoft.com/#whatinformationwecollectmodule) 개인 정보 보호 접근 방식의 기초는 고객 제어, 투명성, 보안, 개인 정보 보호를 위한 강력한 법적 보호, 콘텐츠 기반 타기팅 없음 및 수집한 데이터로부터 고객에게 제공되는 혜택의 6개 원칙을 기반으로 합니다. [SDL(보안](https://www.microsoft.com/securityengineering/sdl/) 개발 수명 주기) [](https://privacy.microsoft.com/privacystatement) 및 개인 정보 취급 방침은 고객을 보호하기 위한 투명한 개인 정보 보호 방침의 일부로 개발 프로세스에 대한 세부 정보를 제공합니다. 또한 Microsoft는 [OST(온라인](https://www.microsoft.com/licensing/product-licensing/products) 서비스 약관)에 광범위한 계약 약정을 맺고 온라인 서비스 [DPA(데이터](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=67)보호 부록)의 데이터 처리와 관련한 각 의무를 자세히 설명하고 있습니다.
+[Microsoft의](https://privacy.microsoft.com/#whatinformationwecollectmodule) 개인 정보 보호 접근 방식의 기초는 고객 제어, 투명성, 보안, 개인 정보 보호를 위한 강력한 법적 보호, 콘텐츠 기반 타기팅 없음 및 수집한 데이터로부터 고객에게 제공되는 혜택의 6개 원칙을 기반으로 합니다. [SDL(보안](https://www.microsoft.com/securityengineering/sdl/) 개발 수명 주기) [](https://privacy.microsoft.com/privacystatement) 및 개인 정보 취급 방침은 고객을 보호하기 위한 투명한 개인 정보 보호 관행의 일부로 개발 프로세스에 대한 세부 정보를 제공합니다. 또한 Microsoft는 [OST(온라인](https://www.microsoft.com/licensing/product-licensing/products) 서비스 약관)의 광범위한 계약 약정을 체결하고 온라인 서비스 [DPA(데이터](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=67)보호 부록)에서 데이터 처리에 대한 각 의무를 자세히 설명합니다.
 
 ## <a name="how-does-microsoft-implement-its-privacy-commitments"></a>Microsoft는 개인 정보 보호 약정을 어떻게 구현하나요?
 
@@ -37,28 +38,28 @@ Microsoft는 기업 전체의 개인 정보 보호 약정을 충족하기 위해
 
 ## <a name="how-does-microsoft-collect-and-process-customer-data"></a>Microsoft는 고객 데이터를 수집하고 처리하는 방법
 
-데이터 수명 주기는 Microsoft가 고객 지침에 따라 데이터를 처리하고 적용 가능한 보안 및 개인 정보 보호법을 준수하는 방법을 설명합니다. 데이터 수명 주기의 단계에는 수집, 처리, 타사 공유(해당되는 경우), 보존 및 파기가 포함됩니다. Microsoft의 개인 정보 보호 접근 방식은 고객의 개인 정보를 보호하기 위해 데이터 수명 주기의 각 단계에 대해 알릴 수 있습니다.
+데이터 수명 주기에서는 Microsoft가 고객 지침에 따라 데이터를 처리하고 해당 보안 및 개인 정보 보호법을 준수하는 방법을 설명합니다. 데이터 수명 주기의 단계에는 수집, 처리, 타사 공유(해당하는 경우), 보존 및 폐기가 포함됩니다. Microsoft의 개인 정보 보호 접근 방식은 고객의 개인 정보를 보호하기 위해 데이터 수명 주기의 각 단계에 대해 알 수 있습니다.
 
-Microsoft는 고객 데이터 수집을 [](https://www.microsoft.com/trust-center/privacy/customer-data-definitions?rtc=1)고객 데이터, 서비스 생성 데이터, 진단 데이터 및 전문 서비스 데이터 등 네 가지 특정 데이터 범주로 제한합니다. Microsoft는 이러한 범주의 데이터를 사용하여 고객에게 서비스를 제공하는 데 필요한 제한된 LBOS(합법적인 비즈니스 작업) 집합을 수행합니다. LBOS를 수행하기 위해 데이터를 수집 및 처리하면 Microsoft는 진단 데이터를 가명 처리하고 사용하기 전에 데이터를 집계하여 개인 고객과 사용자를 보호합니다. 개인 데이터로 간주될 수 있는 특정 데이터를 결정하기 위해 고객 데이터의 콘텐츠에 액세스하지 않습니다. 대신 모든 고객 데이터와 모든 전문 서비스 데이터가 개인 데이터를 포함하며 그에 따라 데이터를 보호하는 것으로 가정합니다.
+Microsoft는 고객 데이터 수집을 [](https://www.microsoft.com/trust-center/privacy/customer-data-definitions?rtc=1)고객 데이터, 서비스 생성 데이터, 진단 데이터 및 전문 서비스 데이터 등 네 가지 특정 데이터 범주로 제한합니다. Microsoft는 이러한 범주의 데이터를 사용하여 고객에게 서비스를 제공하는 데 필요한 제한된 LBOS(합법적인 비즈니스 작업) 집합을 수행합니다. LBOS를 수행하기 위해 데이터를 수집하고 처리하면 Microsoft는 진단 데이터를 가명 처리하고 사용하기 전에 데이터를 집계하여 개인 고객과 사용자를 보호합니다. 개인 데이터로 간주될 수 있는 특정 데이터를 결정하기 위해 고객 데이터의 콘텐츠에 액세스하지 않습니다. 대신 모든 고객 데이터와 모든 전문 서비스 데이터에 개인 데이터가 포함되어 있으며 그에 따라 데이터를 보호하는 것으로 가정합니다.
 
 ## <a name="how-does-microsoft-handle-third-party-sharing"></a>Microsoft는 타사 공유를 어떻게 처리하나요?
 
-타사 공유는 제3자에 대한 데이터 공유 또는 이후 공개입니다. Microsoft는 고객이 승인하거나 관련 법률에 따라 필요한 경우만 데이터를 공유합니다. Microsoft는 모든 정부(사법 기관 또는 기타 정부 기관 포함)에게 고객 데이터에 대한 직접 또는 지체되지 않은 액세스 권한을 부여하지 않습니다. [Microsoft는](https://www.microsoft.com/trust-center/privacy/data-location) 테두리를 넘어 고객 데이터 전송과 관련하여 국제 데이터 보호법을 준수합니다.
+타사 공유는 제3자에 대한 데이터 공유 또는 이후 공개입니다. Microsoft는 고객이 승인하거나 관련 법률에 따라 필요한 경우 데이터를 공유합니다. Microsoft는 정부(사법 기관 또는 기타 정부 기관 포함)에게 고객 데이터에 대한 직접 또는 지체되지 않은 액세스 권한을 부여하지 않습니다. Microsoft는 국경을 넘어 고객 [데이터를](https://www.microsoft.com/trust-center/privacy/data-location) 전송하는 데 관한 국제 데이터 보호법을 준수합니다.
 
-## <a name="how-does-microsoft-delete-customer-data-when-a-customer-leaves-the-service"></a>고객이 서비스를 떠날 때 Microsoft는 고객 데이터를 어떻게 삭제하나요?
+## <a name="how-does-microsoft-delete-customer-data-when-a-customer-leaves-the-service"></a>고객이 서비스를 떠날 때 Microsoft에서 고객 데이터를 삭제하는 방법
 
-Microsoft 데이터 처리 표준은 고객 데이터를 지우고 나서 보존되는 기간을 지정합니다. 고객이 구독을 종료하면 Microsoft는 고객이 데이터를 추출할 수 있도록 90일 동안 제한된 기능 계정으로 고객 데이터를 보존합니다. 90일의 보존 기간이 끝나면 Microsoft는 고객 데이터를 보존할 권한이 부여되거나 법률에 따라 보존해야 하는 경우가 아니면 고객 데이터를 삭제합니다. Microsoft 365 구독이 만료되거나 종료된 후 180일이 지난 후 Microsoft는 계정을 사용하지 않도록 설정하고 계정에서 모든 고객 데이터를 삭제합니다. 모든 데이터의 최대 보존 기간이 경과하면 데이터는 상업적으로 읽을 수 없는 렌더링됩니다.
+Microsoft 데이터 처리 표준은 고객 데이터를 지우고 보존하는 기간을 지정합니다. 고객이 구독을 종료하면 Microsoft는 고객이 데이터를 추출할 수 있도록 90일 동안 제한된 기능 계정으로 고객 데이터를 보존합니다. 90일의 보존 기간이 끝나면 Microsoft는 고객 데이터를 보존할 권한이 부여되거나 법률에 따라 보존해야 하는 경우를 아니면 고객 데이터를 삭제합니다. Microsoft 365 구독이 만료되거나 종료된 후 180일이 지난 후 Microsoft는 계정을 사용하지 않도록 설정하고 계정에서 모든 고객 데이터를 삭제합니다. 데이터에 대한 최대 보존 기간이 경과하면 데이터는 상업적으로 읽을 수 없는 렌더링됩니다.
 
-또한 Microsoft는 서비스의 보안 및 안정성을 유지하기 위해 데이터가 필요하지 않는 한 표준 Microsoft 데이터 수명 주기의 일부로 모든 서비스 생성 및 진단 데이터를 삭제합니다. 구독의 경우 구독자는 Microsoft 지원에 문의하여 프로비전을 취소하는 지원을 요청할 수 있습니다. 고객이 이 프로세스를 활용하면 관리자가 Microsoft에서 제공하는 잠금 코드를 입력하고 3일 후에 모든 사용자 데이터가 삭제됩니다. 이 제거에는 SharePoint Online 및 Exchange Online의 데이터가 보류되거나 비활성 사서함에 저장되어 있습니다.
+또한 Microsoft는 서비스의 보안과 안정성을 유지하기 위해 데이터가 필요한 경우를 아니라면 표준 Microsoft 데이터 수명 주기의 일부로 모든 서비스 생성 및 진단 데이터를 삭제합니다. 구독에 대해 구독자는 Microsoft 지원에 문의하여 프로비전을 위한 지원을 요청합니다. 고객이 이 프로세스를 활용하면 관리자가 Microsoft에서 제공하는 잠금 코드를 입력하고 3일 후에 모든 사용자 데이터가 삭제됩니다. 이 지우기에는 비활성 사서함에 저장되거나 유지되거나 저장되는 SharePoint Online 및 Exchange Online의 데이터가 포함됩니다.
 
-## <a name="related-external-regulations--certifications"></a>인증에 & 관련 외부 규정
+## <a name="related-external-regulations--certifications"></a>인증을 위한 & 규정
 
-Microsoft의 온라인 서비스는 외부 규정 및 인증을 준수하는지 정기적으로 감사됩니다. 개인 정보 보호와 관련된 컨트롤의 유효성 검사는 다음 표를 참조합니다.
+Microsoft의 온라인 서비스는 외부 규정 및 인증을 준수하도록 정기적으로 감사됩니다. 개인 정보 보호와 관련된 컨트롤의 유효성 검사는 다음 표를 참조합니다.
 
 | **외부 감사** | **섹션** | **최신 보고서 날짜** |
 |:--------------------|:------------|:-----------------------|  
 | [ISO 27018(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용성 설명](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [인증](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: 공용 클라우드 PII 프로세서의 목적 | 2020년 2월 22일 |
-| [SOC 2(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12: SLA(서비스 수준 계약) <br> CA-17: Microsoft 보안 정책 <br> CA-25: 컨트롤 프레임워크 업데이트 | 2020년 12월 24일 |
+| [SOC 2(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12: SLA(서비스 수준 계약) <br> CA-17: Microsoft 보안 정책 <br> CA-25: 프레임워크 업데이트 제어 | 2020년 12월 24일 |
 
 ## <a name="resources"></a>리소스
 

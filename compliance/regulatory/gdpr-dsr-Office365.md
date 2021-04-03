@@ -17,12 +17,13 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 3ffda250e017bd97cbfd9d1cf60c8251699e9740
-ms.sourcegitcommit: 3761eaf22bb2c7ed09ed24b9a526404ac7283ab8
+hideEdit: true
+ms.openlocfilehash: 9b8c329909a301abee9b10d8b202c81b3b148037
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "50822521"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496240"
 ---
 # <a name="office-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Office 365 데이터 주체 요청
 
