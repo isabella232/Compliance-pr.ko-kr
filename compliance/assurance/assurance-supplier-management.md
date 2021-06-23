@@ -1,6 +1,6 @@
 ---
 title: 공급자 관리 개요
-description: Microsoft 365의 공급자 관리에 대해 자세히 알아보십시오.
+description: 공급자 관리에 대해 Microsoft 365
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -19,18 +19,18 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 73ec8ca99f880a3c6277bd917dab99b9aff49999
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: c22b996ab7abac17a5aa93d0d5b03911a0b521de
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496706"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089501"
 ---
 # <a name="supplier-management-overview"></a>공급자 관리 개요
 
 ## <a name="how-does-microsoft-manage-risk-related-to-suppliers"></a>Microsoft는 공급자와 관련된 위험을 어떻게 관리하나요?
 
-고객의 요구를 충족하는 데 도움을 줄 수 있도록 타사와 Microsoft 파트너가 협력합니다. 이러한 타사를 공급업체 또는 하위프로세서라고 합니다. Microsoft의 공급자 보안 및 개인 정보 보호는 Microsoft와 파트너가 온라인 서비스를 제공하기 위해 Microsoft와 파트너가 있는 모든 공급자에 대한 엔터프라이즈 전체 요구 사항인 [SSPA(공급자](https://www.microsoft.com/procurement/sspa?activetab=pivot1%3aprimaryr6)보안 및 개인 정보 보호 보장) 프로그램에 의해 관리됩니다. SSPA 프로그램은 공급자 기반에 대한 포괄적인 거버넌스 및 관리를 제공 하지만 Microsoft 365와 같은 개별 사업부는 공급업체에 대한 추가 요구 사항을 유지할 수 있습니다.
+고객의 요구를 충족하는 데 도움을 줄 수 있도록 타사와 Microsoft 파트너가 협력합니다. 이러한 타사를 공급업체 또는 하위프로세서라고 합니다. Microsoft의 공급자 보안 및 개인 정보 보호는 Microsoft와 파트너가 온라인 서비스를 제공하기 위해 Microsoft와 파트너가 있는 모든 공급자에 대한 엔터프라이즈 전체 요구 사항인 [SSPA(공급자](https://www.microsoft.com/procurement/sspa?activetab=pivot1%3aprimaryr6)보안 및 개인 정보 보호 보장) 프로그램에 의해 관리됩니다. SSPA 프로그램은 공급자 기반에 대한 포괄적인 거버넌스 및 관리를 제공하나, Microsoft 365 같은 개별 사업부는 공급업체에 대한 추가 요구 사항을 유지할 수 있습니다.
 
 ## <a name="how-does-microsofts-supplier-security-and-privacy-assurance-sspa-program-protect-customer-data"></a>Microsoft의 SSPA(공급자 보안 및 개인 정보 보호 보장) 프로그램에서 고객 데이터를 어떻게 보호하나요?
 
@@ -66,9 +66,9 @@ Microsoft의 온라인 서비스는 외부 규정 및 인증을 준수하도록 
 | **외부 감사** | **섹션** | **최신 보고서 날짜** |
 |:--------------------|:------------|:-----------------------|  
 | [FedRAMP(Office 365)](https://compliance.microsoft.com/compliancemanager) | CA-3: 시스템 상호 연결 <br> IA-4: 식별자 관리 <br> PS-6: 액세스 계약 <br> PS-7: 타사 직원 보안 <br> SA-4: 인수 프로세스 <br> SA-9: 외부 정보 시스템 서비스 <br> SA-12: 공급망 보호 | 2020년 9월 24일 |
-| [ISO 27001/27002(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용성 설명](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [인증](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.15.1: 공급자 관계의 정보 보안 | 2020년 2월 22일 |
-| [ISO 27017(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용성 설명](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [인증](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=70de0999-5451-43a3-9ef4-761e8fbfb1a3&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.15.1: 공급자 관계의 정보 보안 | 2020년 2월 22일 |
-| [ISO 27018(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용성 설명](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [인증](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) |  A.8.1: 하도급업체 PII 처리 공개 | 2020년 12월 24일 |
+| [ISO 27001/27002(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용성 설명](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [인증](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.15.1: 공급자 관계의 정보 보안 | 2021년 4월 20일 |
+| [ISO 27017(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용성 설명](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [인증](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=70de0999-5451-43a3-9ef4-761e8fbfb1a3&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.15.1: 공급자 관계의 정보 보안 | 2021년 4월 20일 |
+| [ISO 27018(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용성 설명](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [인증](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) |  A.8.1: 하도급업체 PII 처리 공개 | 2020년 12월 24일 |
 | [SOC 2(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-53: 타사 모니터링 | 2020년 12월 24일 |
 
 ## <a name="resources"></a>리소스

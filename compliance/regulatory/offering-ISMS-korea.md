@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d542698eff82fa8f24a32d9f831553a9807609ce
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 43d95a4bedeca768dd6e9bf8bb4e38655382bd05
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507930"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089702"
 ---
 # <a name="korea-information-security-management-system-k-isms"></a>대한민국-정보보호관리체계(K-ISMS, Korea-Information Security Management System)
 
 ## <a name="about-k-isms"></a>K-ISMS 관련 정보
 
-“정보통신망 이용촉진 및 정보보호 등에 관한 법률” ([국문](https://law.go.kr/lsSc.do?tabMenuId=tab18&query=%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%A7%9D%20%EC%9D%B4%EC%9A%A9%EC%B4%89%EC%A7%84%20%EB%B0%8F%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8) 및 [영문](https://law.go.kr/engLsSc.do?tabMenuId=tab45)) 제47조에 따라 대한민국 정부는 [대한민국-정보보호관리체계](https://isms.kisa.or.kr/main/isms/intro/)(K-ISMS, Korea-Information Security Management System)를 도입했습니다. 국가별 ISMS 프레임워크는 대한민국의 기관이 정보 자산을 지속적으로 안전하게 보호할 수 있도록 설계된 엄격한 제어 요구 사항을 규정하고 있습니다.
+‘정보통신망 이용촉진 및 정보보호 등에 관한 법률”([국문](https://law.go.kr/lsSc.do?tabMenuId=tab18&query=%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%A7%9D%20%EC%9D%B4%EC%9A%A9%EC%B4%89%EC%A7%84%20%EB%B0%8F%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8) 및 [영문](https://law.go.kr/engLsSc.do?tabMenuId=tab45)) 제47조에 따라 대한민국 정부는 [대한민국-정보보호관리체계](https://isms.kisa.or.kr/main/isms/intro/)(K-ISMS, Korea-Information Security Management System)를 도입했습니다. 국가별 ISMS 프레임워크는 대한민국의 기관이 정보 자산을 지속적으로 안전하게 보호할 수 있도록 설계된 엄격한 제어 요구 사항을 규정하고 있습니다.
 
 인증을 획득하기 위해서 회사는 정보보안 관리 및 보안 대책을 모두 다루는 독립적인 감사자의 평가를 받아야 합니다. 정보보안 관리 5개 부문의 12개의 제어 항목 및 정보보안 대책 13개 부문의 92개 제어 항목을 포함하여 총 104개의 기준을 다루고 있습니다. 이 중 일부는 기관의 보안 관리 책임, 보안 정책, 보안 교육, 사고 대응, 위험 관리 등의 검사를 포함하고 있습니다. 특별 위원회는 감사의 결과를 검사하고 인증을 부여합니다.
 
@@ -66,11 +66,11 @@ Azure 인증은 인증 기관인 KISA의 매년 재평가와 함께 인증 일�
 
 - 전기통신사업법 제1절 제6조에 의해 인증을 받고 서울 및 모든 광역시에 정보 네트워크 서비스를 제공하는 인터넷 서비스 제공업체.
 
-- 정보통신망 이용촉진 및 정보보호 등에 관한 법률 제46조에 의해 “집적정보통신시설”로 지정된 인터넷 데이터 센터.
+- 정보통신망 이용촉진 및 정보보호 등에 관한 법률 제46조에 의해 ‘집적정보통신시설”로 지정된 인터넷 데이터 센터.
 
 - 다음의 조건을 충족하는 모든 기관.
 
-    - 연간 수입 또는 세수가 최소 1억 5천만 달러인 의료법 제4절 제3조에 지정한 “상위 종합병원”으로 분류된 병원.
+    - 연간 수입 또는 세수가 최소 1억 5천만 달러인 의료법 제4절 제3조에 지정한 ‘상위 종합병원”으로 분류된 병원.
     - 재적학생 수가 직전년도 12월 31일을 기준으로 최소 1만 명 이상인 고등교육법 제2조에 따른 학교.
     - 정보통신 서비스 매출이 최소 1천만 달러 또는 이전 3개월 동안 사용자가 하루 평균 1백만 명인 정보 네트워크 서비스 제공업체, 전자금융거래법 제2조 제3항에 따른 금융회사는 제외.
 

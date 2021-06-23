@@ -1,7 +1,7 @@
 ---
 title: FERPA(가족 교육권 및 개인 정보 보호법)
 description: Microsoft는 미국 가족 교육권 및 개인 정보 보호법의 요구 사항을 준수합니다.
-keywords: Microsoft 365, 규정 준수, 제안
+keywords: Microsoft 365, 규정 준수, 제품
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f027f0ef83272c1102433f4c7534035f27f8a483
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 3f87b4d376c43db9d8524c200cd1fd86d2791b49
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496516"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089742"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>FERPA(가족 교육권 및 개인 정보 보호법)
 
@@ -37,7 +37,7 @@ FERPA(가족 교육권 및 개인 정보 보호법)는 개인 식별 및 디렉�
 
 FERPA는 감사 또는 기타 인증을 요구하거나 인식하지 않습니다. 따라서 FERPA가 적용된 교육 기관은 클라우드 서비스 사용이 FERPA 요구 사항을 준수하는 능력에 어떤 영향을 주는지 자체적으로 평가해야 합니다. 그러나 Microsoft는 규정 준수를 보장하는 다음과 같은 계약 약정을 체결했습니다.
 
-- 온라인 서비스 [약관에서](https://aka.ms/Online-Services-Terms)Microsoft는 FERPA에 정의된 고객 데이터에서 "적법한 교육적 관심사"를 사용하여 "학교 공식"으로 지정되는 데 동의합니다. 고객 데이터에는 학교에서 Microsoft 클라우드 서비스를 사용하여 제공된 학생 레코드가 포함됩니다. 학생 교육 기록을 처리할 때 Microsoft는 학교 공무원과 34 CFR 99.33(a)에 의해 부과되는 제한 사항 및 요구 사항을 준수하는 데 동의합니다.
+- 온라인 서비스 [약관에서](https://aka.ms/Online-Services-Terms)Microsoft는 FERPA에 정의된 고객 데이터에서 '적법한 교육적 관심사'를 사용하여 '학교 공무원'으로 지정되는 데 동의합니다. 고객 데이터에는 학교에서 Microsoft 클라우드 서비스를 사용하여 제공된 학생 레코드가 포함됩니다. 학생 교육 기록을 처리할 때 Microsoft는 학교 공무원과 34 CFR 99.33(a)에 의해 부과되는 제한 사항 및 요구 사항을 준수하는 데 동의합니다.
 - 또한 Microsoft는 클라우드 서비스와 호환되는 목적(예: 맬웨어 검색 개선)을 조직에 제공하기 위해 고객 데이터를 사용하며 광고에 대한 고객 데이터를 마이킹하지 않습니다.
 - 또한 Microsoft는 계약에 설명된 바와 같이 또는 법률에 따라 교육 기관이 지시하는 경우를 제외하고 고객 데이터를 공개하지 않을 계약을 체결합니다. Microsoft 클라우드 서비스를 사용하여 교육 기록을 Microsoft에 제공하는 학교는 해당 기록에 사용 및 공개와 관련하여 엄격한 계약 제한이 적용될 수 있습니다.
 
@@ -51,15 +51,15 @@ Microsoft가 고객 데이터에서 '적법한 교육적 관심사'를 사용하
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - [Office 365, Office 365 U.S. Government, Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- 독립 실행형 서비스로 또는 Office 365 브랜드 플랜 또는 제품군에 포함된 Power BI, PowerApps 및 Power Automate(이전의 Microsoft Flow)
+- Power BI, PowerApps 및 Power Automate(이전의 Microsoft Flow)를 독립 실행형 서비스로 또는 Office 365 플랜 또는 제품군에 포함
 - Azure DevOps Services
-- 끝점용 Microsoft Defender
+- 엔드포인트용 Microsoft Defender
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 
 FERPA는 감사 또는 인증을 요구하거나 인식하지 않습니다.
 
-## <a name="frequently-asked-questions"></a>자주 묻는 질문
+## <a name="frequently-asked-questions"></a>질문과 대답
 
 **FERPA가 중요한 이유는 무엇입니까?**
 
@@ -79,7 +79,7 @@ FERPA는 감사 또는 인증을 요구하거나 인식하지 않습니다.
 - [가족 교육권 및 개인 정보 보호법](https://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html)
 - [연방 규정 전자 규약: FERPA](https://aka.ms/FERPA-GPO)
 - [연방 등록: FERPA 최종 규칙](https://aka.ms/ferpa-reg)
-- [Microsoft Azure용 FERPA 구현 가이드](https://aka.ms/azureferpa)
+- [FERPA 구현 Microsoft Azure](https://aka.ms/azureferpa)
 - [Azure FERPA 준수 프레임워크 매핑](https://aka.ms/AzureFERPAMapping)
 - [Microsoft 온라인 서비스 사용 약관](https://aka.ms/Online-Services-Terms)
 - [Microsoft 보안 센터에 대한 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)

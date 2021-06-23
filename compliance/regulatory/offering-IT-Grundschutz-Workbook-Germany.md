@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c079230e1fca6ea19248218a6ecd01eeb896fd87
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 36347cd4df74a87db2dba5977b5ed1270c29086e
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509483"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089812"
 ---
 # <a name="it-grundschutz-compliance-workbook"></a>IT-Grundschutz 규정 준수 통합 문서
 
@@ -53,7 +53,7 @@ ms.locfileid: "49509483"
 
 **조직이 IT-Grundschutz의 준수에 도움이 되도록 Microsoft IT-Grundschutz 규정 준수 통합 문서를 사용할 수 있나요?**
 
-예. 통합 문서의 목적은 Microsoft Cloud Germany 고객이 Microsoft Cloud Germany 서비스를 사용하여 IT-Grundschutz를 기반으로 기존 또는 계획된 ISO 27001 인증 범위 내에서 IT-Grundschutz 방법론을 구현할 수 있도록 돕는 것입니다.
+네. 통합 문서의 목적은 Microsoft Cloud Germany 고객이 Microsoft Cloud Germany 서비스를 사용하여 IT-Grundschutz를 기반으로 기존 또는 계획된 ISO 27001 인증 범위 내에서 IT-Grundschutz 방법론을 구현할 수 있도록 돕는 것입니다.
 
 **IT-Grundschutz 카탈로그와 C5의 차이점은 무엇인가요?**
 
@@ -61,7 +61,7 @@ C5 (Cloud Computing Compliance Controls Catalog)는 BSI의 감사 표준으로, 
 
 **Microsoft Cloud Germany 란 무엇인가요?**
 
-Microsoft Cloud Germany는 독일에 물리적으로 기반을 두고 있으며 독일 개인 정보 보호법의 요구 사항을 준수하며, 국내 법률을 위반할 수 있는 다른 관할 구역의 당국에 의한 액세스로부터의 보호를 포함하여 다른 국가로의 개인 데이터 전송을 엄격히 제한합니다. 퍼블릭 클라우드 컴퓨팅 플랫폼인 Azure Germany 및 이의 모든 서비스를 제공합니다.
+Microsoft Cloud Germany는 독일에 물리적으로 기반을 두고 있으며 독일 개인 정보 보호법의 요구 사항을 준수하며, 국내 법률을 위반할 수 있는 다른 관할 구역의 당국에 의한 액세스로부터의 보호를 포함하여 다른 국가로의 개인 데이터 전송을 엄격히 제한합니다. Microsoft Cloud Germany는 Azure 독일, 퍼블릭 클라우드 컴퓨팅 플랫폼 및 모든 서비스를 제공합니다.
 
 ## <a name="resources"></a>리소스
 

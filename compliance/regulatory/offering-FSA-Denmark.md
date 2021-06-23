@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a0e643e768d8570f1c65f19e2eec1b84bce5701a
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 55f600c7b1fa5f4573c389ca2c5fc5f3b827bb10
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120377"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089531"
 ---
 # <a name="financial-supervisory-authority-fsa-denmark"></a>덴마크 금융감독청(FSA)
 
@@ -29,7 +29,7 @@ ms.locfileid: "50120377"
 
 산업부, 사업부 및 재무부 산하의 [금융감독청](https://www.dfsa.dk/)([Finanstilsynet](https://www.finanstilsynet.dk/))은 덴마크 정부의 금융 규제 기관입니다. 이 기관의 주요 역할은 덴마크 재무 기관을 위한 규정 지침을 준비하고 규정 준수를 모니터링할 뿐만 아니라 지역적, 국제적 당국 및 규제 기관과 협업하는 것입니다.
 
-FSA는 “유럽 뱅킹 부문 전반에서 효과적이고 일관된 세심한 규제 및 감독을 보장하기 위해 업무를 하는 독립된 EU 기관”인 유럽은행관리국(EBA)과 협조하여 운영됩니다. 그 목적을 달성하기 위해 EBA는 유럽에서의 금융 기관의 클라우드 컴퓨팅을 사용하는 방법에 대한 포괄적인 접근 방법인 [클라우드 서비스 공급자에게의 외주에 대한 권장](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362)을 개요화하였습니다.
+FSA는 ‘유럽 뱅킹 부문 전반에서 효과적이고 일관된 세심한 규제 및 감독을 보장하기 위해 업무를 하는 독립된 EU 기관”인 유럽은행관리국(EBA)과 협조하여 운영됩니다. 그 목적을 달성하기 위해 EBA는 유럽에서의 금융 기관의 클라우드 컴퓨팅을 사용하는 방법에 대한 포괄적인 접근 방법인 [클라우드 서비스 공급자에게의 외주에 대한 권장](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362)을 개요화하였습니다.
 
 비즈니스 기능을 클라우드로 이동할 때 덴마크의 금융 기관에서 알아야 하는 몇 가지 지침이 있습니다. 일반적으로 금융 조직이 아웃소싱한 기능을 모니터링하고 감사할 수 있게 지원하는 금융 기관 및 서비스 제공업체 모두에 대한 계약상 요구 사항을 규정합니다. 여기에는 산업부, 사업부 및 재무부에서 발행한 다음과 같은 지침이 포함되어 있습니다.
 

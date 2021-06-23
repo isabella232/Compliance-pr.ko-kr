@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 74bdf63fcf704aa285a2803e5b7af7455a0291c6
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 1133c5467553eb5d158230c2d6e599187e507822
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497651"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088667"
 ---
 # <a name="enterprise-business-continuity-management-customer-and-cloud-partner-responsibilities"></a>엔터프라이즈 비즈니스 연속성 관리 고객 및 클라우드 파트너 책임
 
@@ -73,7 +73,7 @@ Microsoft 365 온라인 서비스에 대한 액세스를 제공하는 것이 조
 ### <a name="location"></a>위치
 
 많은 조직에서 엔터프라이즈 시스템 및 클라우드 서비스 연결을 위해 직원들에게 특정한 물리적 장소나 네트워크에 위치하도록 요구합니다.  
-Microsoft는 [네트워크 연결 원칙](/microsoft-365/enterprise/microsoft-365-network-connectivity-principles)을 게시하여 기업이 클라우드 리소스에 대한 네트워크 연결 설정 모범 사례를 따르도록 합니다. 최적화 예시는 VPN 터널을 통하지 않고 사용자 네트워크에 직접적으로 연결하기 위한 분할 터널 VPN 실행을 포함합니다.  이러한 연결 원칙은 짧은 연결 시간을 유지하는 데 중요하지만, 서비스 복원에는 일반적인 공동 작업을 위해 기업 리소스에 연결하는 다른 방법이 필요합니다.
+Microsoft는 [네트워크 연결 원칙](/microsoft-365/enterprise/microsoft-365-network-connectivity-principles)을 게시하여 기업이 클라우드 리소스에 대한 네트워크 연결 설정 모범 사례를 따르도록 합니다. 최적화의 예로는 VPN 터널이 아닌 사용자 네트워크에서 직접 연결을 허용하는 분할 터널 VPN 구현이 있습니다.  이러한 연결 원칙은 짧은 연결 시간을 유지하는 데 중요하지만, 서비스 복원에는 일반적인 공동 작업을 위해 기업 리소스에 연결하는 다른 방법이 필요합니다.
 
 ### <a name="systems"></a>시스템
 

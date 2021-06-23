@@ -20,12 +20,12 @@ ms.workload:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
 hideEdit: true
-ms.openlocfilehash: c27890900be85d951fb3a9dbfd11e4140ef955ff
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 5511888b34cd9e3eb7f4e76d86c91cea4f4924c6
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496209"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088527"
 ---
 # <a name="azure-devops-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Azure DevOps Services 데이터 주체 요청
 
@@ -43,11 +43,11 @@ GDPR 대한 일반적인 내용은 [Service Trust Portal의 GDPR 섹션](https:/
 
 ## <a name="personal-data-we-collect"></a>수집한 개인 데이터
 
-Microsoft는 Azure DevOps Services를 운영하고 개선하기 위해 사용자로부터 데이터를 수집합니다. Azure DevOps Services는 고객 데이터와 시스템 생성 로그라는 두 가지 범주의 데이터를 수집합니다. 고객 데이터에는 Azure DevOps Services에서 서비스를 운영하는 데 필요한 사용자 식별 가능 트랜잭션 및 상호 작용 데이터가 포함됩니다. 시스템 생성 로그에는 각 제품 영역 및 기능에 대해 집계하는 서비스 사용 데이터가 포함됩니다.
+Microsoft는 Azure DevOps Services를 작동하고 개선하기 위해 사용자의 데이터를 수집합니다. Azure DevOps Services는 두 가지 범주의 데이터, 즉, 고객 데이터 및 시스템 생성 로그를 수집합니다. 고객 데이터에는 Azure DevOps Services가 서비스를 운영하는 데 필요한 사용자를 식별할 수 있는 트랜잭션의 및 상호 작용 데이터가 포함되어 있습니다. 시스템 생성 로그에는 각 제품 영역 및 기능에 대해 집계된 서비스 사용 현황 데이터가 포함됩니다.
 
 ## <a name="delete-azure-devops-data"></a>Azure DevOps 데이터 삭제
 
-시스템 생성 로그에서 관련 Azure DevOps Services 고객 데이터를 삭제하고 개인 식별 가능 데이터를 익명 처리하는 첫 번째 단계는 AAD(Azure Active Directory) ID 계정 또는 Microsoft 계정(MSA)을 종료하는 것입니다. Azure DevOps Services는 엄격한 무결성, 추적성 및 감사 규칙을 갖춘 레코드 시스템으로 사용됩니다. 이러한 기존 의무는 GDPR의 삭제 및 보유 의무에 영향을 줍니다. ID 계정을 종료해도 Azure DevOps 조직의 개별 ID와 관련된 아티팩트 및 레코드는 변경 또는 제거되지 않습니다. 전체 Azure DevOps 조직이 삭제되면 해당 조직에서 찾은 모든 관련 개인 식별 데이터와 시스템 생성 로그가 시스템에서 제거됩니다(필수 Azure DevOps 조직 30일 일시 삭제 기간 이후).
+연결된 Azure DevOps Services 고객 데이터를 삭제하고 시스템 생성 로그에서 찾은 개인 식별이 가능한 데이터를 익명화하는 첫 번째 단계는 AAD(Azure Active Directory) ID 계정 또는 MSA(Microsoft 계정)을 닫는 것입니다. VSTS는 엄격한 무결성, 추적 가능성 및 감사 규칙을 제공하는 레코드 시스템으로서 활용됩니다. 이러한 기존 의무는 GDPR에 대한 삭제 및 보존 의무에 영향을 미칩니다. ID 계정을 닫아도 Azure DevOps Services 조직의 개별 ID와 연결된 아티팩트 및 레코드는 수정되거나, 제거되거나, 변경되지 않습니다. 전체 Azure DevOps Services 조직이 삭제되면 해당 조직에서 발견된 개인 식별이 가능한 모든 관련된 데이터 및 시스템 생성 로그가 시스템에서 제거됩니다(필수 Azure DevOps Services 조직의 30일 일시 삭제 기간 후).
 
 ## <a name="export-azure-devops-data"></a>Azure DevOps 데이터 내보내기
 
@@ -59,7 +59,7 @@ Microsoft는 Azure DevOps Services를 운영하고 개선하기 위해 사용자
 
 ## <a name="export-or-delete-issues"></a>내보내기 또는 삭제 문제
 
-AAD ID의 경우 Azure Portal에서 데이터를 내보내거나 삭제하는 동안 문제가 발생하면 Azure Portal **도움말 + 지원** 블레이드로 이동하여 **등록 관리** > **기타 보안 및 준수 요청** > **개인 정보 보호 블레이드 및 GDPR 요청** 에서 새 티켓을 제출합니다.
+AAD ID의 경우, Azure Portal에서 데이터를 내보내거나 삭제하는 동안 문제가 발생하면 Azure Portal **도움말 + 지원** 블레이드로 이동하여 **등록 관리** > **개인 정보 보호 및 구독에 대한 준수 요청** > **개인 정보 보호 블레이드 및 GDPR 요청** 에서 새 티켓을 제출합니다.
 
 MSA ID의 경우 개인 정보 요청 사이트에서 데이터를 내보낼 때 문제가 발생할 경우 [개인 정보 요청 사이트](https://www.microsoft.com/concern/privacyrequest-msa)에 로그인한 후 요청 웹 양식을 통해 Microsoft 개인 정보 보호 지원 팀에 대한 지원 요청을 제출합니다.
 

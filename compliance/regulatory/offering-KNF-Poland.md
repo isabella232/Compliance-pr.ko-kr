@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7cb696db772f0bffda701c7ecadbb768c2575343
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 68d5fc100ac504eaed07f45dabbfe37c82e1c66a
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120157"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089591"
 ---
 # <a name="financial-supervision-authority-knf-poland"></a>KNF (금융 감독 기관) 폴란드
 
@@ -29,7 +29,7 @@ ms.locfileid: "50120157"
 
 [폴란드 금융 감독 기관](https://www.knf.gov.pl/en/)([Komisja Nadzoru Finansowego](https://www.knf.gov.pl/), KNF)는 폴란드의 금융 규제 기관으로 금융 시장의 감동을 담당하며 여기에는 은행, 자본 시장, 보험, 연금 제도 및 전자 화폐 기관에 대한 감독을 포함합니다.
 
-KNF는 “유럽 뱅킹 부문 전반에서 효과적이고 일관된 세심한 규제 및 감독을 보장하기 위해 업무를 하는 독립된 EU 기관”인[ 유럽은행관리국](https://eba.europa.eu/about-us)(EBA)과 협조하여 운영됩니다. 그 목적을 달성하기 위해 EBA는 유럽에서의 금융 기관의 클라우드 컴퓨팅을 사용하는 방법에 대한 포괄적인 접근 방법인 [클라우드 서비스 공급자에게의 외주에 대한 권장](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362)을 개요화하였습니다.
+KNF는 “유럽 뱅킹 부문 전반에서 효과적이고 일관된 세심한 규제 및 감독을 보장하기 위해 업무를 하는 독립된 EU 기관”인 [유럽은행관리국](https://eba.europa.eu/about-us)(EBA)과 협조하여 운영됩니다. 그 목적을 달성하기 위해 EBA는 유럽에서의 금융 기관의 클라우드 컴퓨팅을 사용하는 방법에 대한 포괄적인 접근 방법인 [클라우드 서비스 공급자에게의 외주에 대한 권장](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362)을 개요화하였습니다.
 
 비즈니스 기능과 데이터를 클라우드로 이동할 때 폴란드의 금융 기관에서 알아야 하는 몇 가지 요구 사항 및 지침이 있습니다.
 
@@ -67,9 +67,9 @@ KNF는 “유럽 뱅킹 부문 전반에서 효과적이고 일관된 세심한 
 
 **규제적 승인이 필요한가요?**
 
-아니요. 그러나 1997년 은행법에 따라 서비스 제공자가 EEA(유럽 경제 지역) 외부에 있거나 아웃소싱된 작업이 EEA 외부에서 시행되는 경우 은행은 계약을 체결하기 전에 KNF 승인을 받아야 합니다.
+아니오. 그러나 1997년 은행법에 따라 서비스 제공자가 EEA(유럽 경제 지역) 외부에 있거나 아웃소싱된 작업이 EEA 외부에서 시행되는 경우 은행은 계약을 체결하기 전에 KNF 승인을 받아야 합니다.
 
-**클라우드 서비스 공급 업체와의 계약에 포함 해야 하는 필수 약관이 있나요?**
+**클라우드 서비스 공급 업체와의 계약에 포함해야 하는 필수 약관이 있나요?**
 
 예. [Microsoft 점검 목록](https://aka.ms/FinServ-Guide-Poland) 2부(77쪽)에는 클라우드 서비스 공급자와의 계약에 포함해야 하는 요구 사항에 대한 포괄적인 목록이 포함되어 있습니다.
 

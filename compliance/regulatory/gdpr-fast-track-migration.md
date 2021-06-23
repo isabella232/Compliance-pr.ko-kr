@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: 134bf099671830856f97bf4dd770123d7efaf41a
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: d3429d3fb35317146e32fddc71bae2f12c40269d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496108"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089511"
 ---
 # <a name="fasttrack-migration-toolset-for-submitting-delete-request"></a>삭제 요청 제출용 FastTrack 마이그레이션 도구 집합
 
@@ -35,9 +35,9 @@ ms.locfileid: "51496108"
 
 Microsoft는 Windows 플랫폼 및 PowerShell 콘솔에서 이 도구 집합의 최초 릴리스를 지원합니다. 이 도구 집합은 다음의 알려진 플랫폼을 지원합니다.
 
-***테이블 1 — 이 도구 집합에서 지원되는 플랫폼***
+***테이블 1 — 이 도구 집합에서 지원되는 플랫폼** _
 
-****
+_***
 
 |PowerShell 버전|Windows 7|Windows 8|Windows 10|Windows Server 2012|Windows Server 2016|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -53,7 +53,7 @@ Microsoft는 Windows 플랫폼 및 PowerShell 콘솔에서 이 도구 집합의 
 
 ![PowerShell — 앱을 변경할 수 있도록 허용](../media/fasttrack-run-powershell_image.png)
 
-콘솔이 열려 있으므로 스트립트 실행에 관한 사용 권한을 설정해야 합니다. 스크립트를 실행할 수 있도록 다음 명령을 입력합니다.
+이제 콘솔이 열려 있으므로 스크립트를 실행하려면 권한을 설정해야 합니다. 다음 명령을 입력하여 스크립트 실행을 허용하세요.
 
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
@@ -61,7 +61,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 
 관리자 판단에 따라 범위를 변경할 수 있으므로 이 작업을 확인하라는 메시지가 표시됩니다.
 
-***실행 정책 설정***
+**_실행 정책 설정_* _
 
 ![PowerShell에서 실행 정책 변경 설정](../media/powershell-set-execution-policy_image.png)
 
@@ -75,7 +75,7 @@ Install-Module -Name Microsoft.FastTrack -Repository PSGallery -WarningAction Si
 
 이 모듈을 성공적으로 실행하려는 경우 종속 모듈이 설치되어 있지 않으면 먼저 설치해야 합니다. PowerShell을 다시 시작해야 할 수도 있습니다.
 
-DSR을 제출하려면 Office 365 자격 증명을 사용하여 로그인해야 합니다. 적절한 자격 증명을 입력하면 전역 관리자 상태의 유효성을 검사하고 테넌트 정보를 수집합니다.
+DSR을 제출하려면 먼저 Office 365 자격 증명을 사용하여 로그인해야 합니다. 적절한 자격 증명을 입력하면 전역 관리자 상태의 유효성을 검사하고 테넌트 정보를 수집할 수 있습니다.
 
 ```powershell
 Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
@@ -83,7 +83,7 @@ Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
 
 성공적으로 로그인하면 현재 PowerShell 세션의 나머지에 대해 FastTrack 모듈과 함께 사용하기 위해 자격 증명 및 키가 저장됩니다.
 
-상업 환경 이외의 클라우드 환경에 연결해야 하는 경우 다음 유효한 환경 중 하나를 사용하여 *로그인* 명령에 *-Environment* 를 추가해야 합니다.
+상업 환경 이외의 클라우드 환경에 연결해야 하는 경우 다음 유효한 환경 중 하나를 사용하여 *로그인* 명령에 _-Environment*를 추가해야 합니다.
 
 - AzureCloud
 - AzureChinaCloud
@@ -100,7 +100,7 @@ DSR 요청을 제줄하려면 다음 명령을 실행합니다.
 Submit-FastTrackGdprDsrRequest -DsrRequestUserEmail SubjectUserEmail@mycompany.com
 ```
 
-성공하면, cmdlet에서 트랜잭션 ID 개체를 반환합니다. 트랜잭션 ID를 유지하세요.
+성공 시, cmdlet이 트랜잭션 ID 개체를 반환합니다. 트랜잭션 ID를 보유하세요.
 
 #### <a name="checking-the-status-of-a-request-transaction"></a>요청 트랜잭션의 상태 확인
 

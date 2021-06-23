@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: cf7d749df05d4be1396fa988615daa5c195c51cf
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 285b2d041b5ca1d7c3366cb98274a5aa8a812638
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508055"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089832"
 ---
 # <a name="baseline-informatiebeveiliging-rijksdienst-standard-bir-2012"></a>Baseline Informatiebeveiliging Rijksdienst 표준(BIR 2012)
 
@@ -45,18 +45,17 @@ Microsoft는 BIR 2012 규정 준수의 적용 대상이 아니지만 클라우�
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 
-- [Azure 및 Office 365 BIR-2012 Baseline Coverage](https://protection.office.com/DownloadFile/ServiceAssurance/Document/compliance/Azure%20and%20Office%20365%20BIR-2012%20Baseline%20Coverage/pdf)
-- [Azure 및 Office 365 BIR-2012 Baseline Coverage 사용자 가이드(네덜란드어)](https://protection.office.com/DownloadFile/ServiceAssurance/Document/compliance/Azure%20and%20Office%20365%20BIR-2012%20Baseline%20Coverage%20User%20Guide_Dutch/docx)
+Microsoft는 독립적인 타사 감사 회사를 고용하여 현재 Azure 및 Office 365 인증 및 증명(ISO/IEC 27001 및 SOC 2 유형 2)이 Microsoft가 담당하는 BIR 2012의 어느 부분에 적용되는지를 분석했습니다. 결과 보고서는 이러한 기존 인증 및 증명을 BIR 2012 표준에 나열된 컨트롤에 매핑합니다. 고객은 이 보고서를 BIR 2012 규정 준수 방식으로 Azure를 채택하는 데 도움이 되는 툴로 사용할 수 있습니다. 이 보고서에서는 Microsoft가 어떤 BIR 2012 컨트롤을 다루는지와 고객이 어떤 제어를 구현해야 하는지 명확히 보여줍니다. 'Microsoft 클라우드: Azure 및 Office 365 BIR 2012 기준 적용 범위' 보고서는 [Service Trust Portal 감사 보고서 - GRC 평가 보고서](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3) 섹션에서 다운로드할 수 있습니다.
 
 ## <a name="frequently-asked-questions"></a>자주하는 질문
 
 **Microsoft는 BIR 2012 인증을 받았나요?**
 
-BIR 규정 준수에 대한 책임은 정부 부문에 적용됩니다. 조직은 정보보안 관리시스템을 구현하고 적절한 기술적 및 조직적 조치를 통해 위험을 해결해야 합니다. 클라우드 서비스 공급자 역할을 하는 Microsoft의 경우 BIR 규정 준수는 목표가 아니며, 기술적으로도 실현 가능하지 않습니다. 고객이 Microsoft 클라우드 서비스를 구현하거나 사용하는 경우 해당 서비스는 BIR 평가 범위에 속할 수 있습니다. 그러나 조직에서 전체 BIR 평가의 일부로 자체 (추가적인) 컨트롤, 선택 및 프로세스를 추가해야 합니다. 이 보고서의 목적은 정부 기관이 BIR 2012를 준수하는 방식으로 Microsoft 클라우드 서비스를 채택할 수 있음을 보여주기 위한 것입니다.
+BIR 규정 준수에 대한 책임은 정부 부문에 적용됩니다. 조직은 정보보안 관리시스템을 구현하고 적절한 기술적 및 조직적 조치를 통해 위험을 해결해야 합니다. 클라우드 서비스 공급자 역할을 하는 Microsoft의 경우 BIR 규정 준수는 목표가 아니며, 기술적으로도 가능하지 않습니다. 고객이 Microsoft 클라우드 서비스를 구현하거나 사용하는 경우 해당 서비스는 BIR 평가 범위에 속할 수 있습니다. 그러나 조직에서 전체 BIR 평가의 일부로 자체 (추가적인) 컨트롤, 선택 및 프로세스를 추가해야 합니다. 이 보고서의 목적은 정부 기관이 BIR 2012를 준수하는 방식으로 Microsoft 클라우드 서비스를 채택할 수 있음을 보여주기 위한 것입니다.
 
 **Microsoft 클라우드 서비스를 사용하는 고객이 BIR 2012를 준수하나요?**
 
-BIR 규정 준수를 입증하는 것은 고객의 책임입니다. 클라우드 서비스 공급 업체를 사용할 때, 고객은 일반적으로 공급 업체의 보증을 요구하고 자체 (추가적인) 기술과 조직의 결정, 선택 및 프로세스를 추가합니다. 이로 인해 BIR 규정 준수에 대한 고객의 전반적인 평가가 이루어지며 검토 또는 인증을 위해 제 3의 감사관에게 제출할 수 있습니다. BIR 적용 범위 보고서는 Microsoft 클라우드 서비스가 적용할 수있는 BIR 컨트롤에 대한 통찰력을 제공하지만 종단간 규정 준수는 다루지 않습니다.
+BIR 규정 준수를 입증하는 것은 고객의 책임입니다. 클라우드 서비스 공급 업체를 사용할 때, 고객은 일반적으로 공급 업체의 보증을 요구하고 자체(추가적인) 기술과 조직의 결정, 선택 및 프로세스를 추가합니다. 이로 인해 BIR 규정 준수에 대한 고객의 전반적인 평가가 이루어지며 검토 또는 인증을 위해 제 3의 감사관에게 제출할 수 있습니다. BIR 적용 범위 보고서는 Microsoft 클라우드 서비스가 적용할 수있는 BIR 컨트롤에 대한 통찰력을 제공하지만 종단간 규정 준수는 다루지 않습니다.
 
 **보고서에 100% 적용 범위가 표시되지 않습니다. BIR 2012 규정 준수가 적합하지 않나요?**
 

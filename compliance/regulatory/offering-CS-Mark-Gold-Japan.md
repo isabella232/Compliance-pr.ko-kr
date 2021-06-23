@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8ae3f837336b0eb79ded802d17df37fefe8d5245
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 978979483be55852b34a4ab65e6949a7f234c82d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508050"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088497"
 ---
 # <a name="cloud-security-mark-gold-cs-gold-mark"></a>클라우드 보안 마크 골드(CS 골드 마크)
 
@@ -29,7 +29,7 @@ ms.locfileid: "49508050"
 
 CS 마크(클라우드 보안 마크)는 일본의 클라우드 서비스 공급자(CSPs)를 위한 최초의 보안 표준으로, 정보 보안 통제를 위한 국제 규약인 ISO/IEC 27017을 기반으로 하고 있습니다. 이 마크는 클라우드 컴퓨팅의 정보 보안과 클라우드 관련 정보 보안 통제의 구현을 규정하는 클라우드 서비스용 ISO/IEC 27002를 기반으로 하고 있습니다.
 
-CS 마크는 일본의 정보 보안을 강화하기 위해 내무성 및 경제산업성에서 설립한 비영리 조직인 JASA(Japan Information Security Audit Association: 일본 정보 보안 감사 협회)에서 승인합니다. CS 마크는 클라우드 서비스의 사용을 장려하고 다음의 사항을 제공합니다.
+CS 마크는 일본의 정보 보안을 강화하기 위해 내무성 및 경제산업성에서 설립한 비영리 조직인 JASA(Japan Information Security Audit Association: 일본 정보 보안 감사 협회)에서 승인합니다. CS Mark는 클라우드 서비스 사용을 촉진하고 다음을 제공합니다.
 
 - 클라우드 데이터의 보안 및 기밀성에 대한 일반적인 고객 문제와 클라우드 서비스 사용이 비즈니스에 미치는 영향을 해결하기 위해 CSP에서 적용할 수 있는 공통 표준
 - 클라우드 서비스 사용 시 고객이 직면하는 위험에 대한 가시성과 확인 가능한 운영 투명성

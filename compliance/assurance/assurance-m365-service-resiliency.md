@@ -1,6 +1,6 @@
 ---
-title: Microsoft 365의 기본 제공 서비스 탄력성
-description: Microsoft 365 서비스 탄력성에 대한 설명
+title: Microsoft 365
+description: 서비스 Microsoft 365 설명
 author: robmazz
 ms.author: robmazz
 manager: laurawi
@@ -17,14 +17,14 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: b97e8876f0ef69faefbeb5cf50a1891d36bf8795
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: fc8964f453c5a2924fc9a4b43a2c89aa1dec4271
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497030"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088577"
 ---
-# <a name="built-in-service-resiliency-in-microsoft-365"></a>Microsoft 365의 기본 제공 서비스 탄력성
+# <a name="built-in-service-resiliency-in-microsoft-365"></a>Microsoft 365
 
 Microsoft는 클라우드 공동 작업 공급자로서 일관되게 작동하고 사용자의 사랑을 받는 솔루션을 제공하여 지속적으로 신뢰를 구축해야 합니다. 지정한 서비스를 사용할 수 없는 경우 이를 중단 시간이라고 합니다. 가동 중지 시간의 정의는 Microsoft 365 서비스에 따라 다르지만 일반적으로 사용자가 서비스의 필수 기능을 사용할 수 없는 기간에 초점을 맞추고 있습니다. 예를 들어 다음은 Microsoft 365 서비스 수준 계약에서 가져온 SharePoint Online의 가동 중지 시간 정의입니다.
 
@@ -36,7 +36,7 @@ Microsoft는 클라우드 공동 작업 공급자로서 일관되게 작동하�
 
 ## <a name="activeactive-design"></a>활성/활성 설계
 
-Microsoft 365에서 Microsoft는 모든 서비스가 탄력성 향상을 위해 활성/활성 디자인으로 설계 및 운영되고 있습니다. 이 디자인은 사용자 요청에 응답할 수 있으며 지리적으로 분산된 데이터 센터에서 호스팅되는 서비스 인스턴스가 항상 여러 개 실행되고 있는 것입니다. 모든 사용자 트래픽은 Microsoft Front Door 서비스를 통해 제공되고 자동으로 서비스에 대한 최적의 위치로 라우팅되며 서비스 오류가 발생할 경우 고객에게 미치는 영향을 방지하거나 줄일 수 있습니다.
+이 Microsoft 365 당사는 모든 서비스를 활성/활성 디자인으로 설계 및 운영하여 탄력성 향상을 위해 개발하고 있습니다. 이 디자인은 사용자 요청에 응답할 수 있으며 지리적으로 분산된 데이터 센터에서 호스팅되는 서비스 인스턴스가 항상 여러 개 실행되고 있는 것입니다. 모든 사용자 트래픽은 Microsoft Front Door 서비스를 통해 제공되고 자동으로 서비스에 대한 최적의 위치로 라우팅되며 서비스 오류가 발생할 경우 고객에게 미치는 영향을 방지하거나 줄일 수 있습니다.
 
 ## <a name="reduce-incident-scope"></a>인시던트 범위 줄이기
 
@@ -44,7 +44,7 @@ Microsoft 365에서 Microsoft는 모든 서비스가 탄력성 향상을 위해 
 
 - 각 서비스의 여러 인스턴스를 분할
 - 업데이트에서 발생하는 문제를 배포 프로세스의 조기에 감지하여 완화할 수 있도록 유효성 검사 링을 사용하여 제어되고 등급이 지정된 방식으로 업데이트 배포. 이 디자인을 사용하면 필요한 경우 업데이트를 회귀할 수 있으며 Microsoft(내부 링) 내부의 작은 그룹에서 먼저 140,000명 Microsoft 직원(링 2)과 같은 대규모 그룹에 배포한 다음 얼리 어포터 링(링 3)에 대해 배포하고 궁극적으로 모든 전역 고객에 대해 발생합니다(링 4).
-- 자동화를 통한 모니터링으로 개선 촉진 Microsoft 365는 대규모 서비스로, SLA 대상의 업타임이 높습니다. 서비스 인시던트 초기에 인력이 검색 및 응답에 개입해야 한다면 SLA를 충족하는 빠른 속도로 대응할 수 없습니다. 서비스 인시던트를 빠르고 효과적으로 검색하여 대응하려면 자동화가 핵심입니다. 상황을 빠르게 파악할수록 더 빠르게 해결할 수 있습니다.
+- 자동화를 통한 모니터링으로 개선 촉진 Microsoft 365 서비스인 경우 SLA 대상의 업타임이 높습니다. 서비스 인시던트 초기에 인력이 검색 및 응답에 개입해야 한다면 SLA를 충족하는 빠른 속도로 대응할 수 없습니다. 서비스 인시던트를 빠르고 효과적으로 검색하여 대응하려면 자동화가 핵심입니다. 상황을 빠르게 파악할수록 더 빠르게 해결할 수 있습니다.
 
 이러한 노력은 Microsoft 365 서비스 아키텍처에 기본 제공되는 활성/활성 기능과 함께 서비스 인시던트 중에 영향을 미치는 고객의 심각도, 기간 및 수를 완화합니다.  
 
@@ -55,7 +55,7 @@ Microsoft 365에서 Microsoft는 모든 서비스가 탄력성 향상을 위해 
 
 Microsoft SDL(보안 개발 수명 주기)은 복원력을 강화하며 보안 및 규정 준수 요구 사항을 지원하는 일련의 사례로 구성됩니다. SDL은 탄력적이고 안전하고 규정을 준수하는 서비스를 구축할 수 있도록 개발자를 안내합니다. SDL의 주요 요소에는 코드 검토, 위협 모델링, 침투 테스트, Microsoft 클라우드를 통한 표준화된 인시던트 대응 프로세스 등이 있습니다.
 
-Microsoft 365 서비스는 상호 연결성이 높지만, 이러한 서비스 인시던트의 시스템과 기술은 한 서비스 인시던트가 다른 서비스로 유출되지로부터 영향을 제한하는 방식으로 설계됩니다. 예를 들어 Exchange Online에 영향을 주는 문제가 Teams의 핵심 기능에 영향을 주지 않고, SharePoint Online의 검색 기능과 관련 문제는 사용자의 파일 업로드 또는 다운로드 기능에 영향을 주지 않습니다.
+Microsoft 365 서비스는 상호 연결되지만 이러한 서비스 인시던트의 시스템과 기술은 한 서비스 인시던트가 다른 서비스로 유출되는 경우의 영향을 제한하는 방식으로 설계됩니다. 예를 들어 Exchange Online 영향을 주는 문제는 Teams 핵심 기능에 영향을 주지 않습니다. 또는 SharePoint Online의 검색 기능에 문제가 있는 경우 사용자가 파일을 업로드하거나 다운로드하는 기능에 영향을 주지 않습니다.
 
 ## <a name="continuous-service-improvement"></a>지속적인 서비스 향상
 

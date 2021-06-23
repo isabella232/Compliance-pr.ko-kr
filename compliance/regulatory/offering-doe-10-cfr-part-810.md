@@ -1,7 +1,7 @@
 ---
-title: US DoE 10 CFR 부분 810
-description: 고객은 Azure 정부를 사용할 수 있는 US DoE 10 CFR 파트 810의 수출 관리 요구 사항을 따릅니다.
-keywords: Microsoft 365, 규정 준수, 제안
+title: US DoE 10 CFR Part 810
+description: 미국 DoE 10 CFR Part 810의 수출 제어 요구 사항을 준수하는 고객은 Azure Government를 사용할 수 있습니다.
+keywords: Microsoft 365, 규정 준수, 제품
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,56 +16,56 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a09f4f6df73ef09dbbce26afd91704181886dd01
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 1a16495f5cfe3e293910ebe84e6af566aea17621
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509283"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53087547"
 ---
-# <a name="us-doe-10-cfr-part-810"></a>US DoE 10 CFR 부분 810
+# <a name="us-doe-10-cfr-part-810"></a>US DoE 10 CFR Part 810
 
-## <a name="microsoft-and-doe-10-cfr-part-810"></a>Microsoft 및 DoE 10 CFR 부분 810
+## <a name="microsoft-and-doe-10-cfr-part-810"></a>Microsoft 및 DoE 10 CFR 파트 810
 
-Microsoft Azure 정부에서는 고객을 지원 하 여 귀하의 미국 에너지 (홍길동) 10 CFR 부분 810, 두 가지 인증을 통해 다음과 같은 수출 관리 요구 사항에 따라 도움을 받을 수 있습니다.
+Microsoft Azure 정부는 다음 두 가지 인증을 통해 미국 DoE(에너지부) 10 CFR Part 810의 수출 제어 요구 사항을 준수하는 고객을 지원할 수 있습니다.
 
-- JAB (공동 인증 위원회)에서 실행 되는 FedRAMP High Provisional 권한 부여 (P-ATO)
-- 수준 4 및 5 Provisional (DoD) 방어 정보 시스템 에이전시의 권한 부여
+- JAB(합동 인증 위원회)에서 발행한 P-ATO(High Provisional Authorization to Operate)
+- DoD(국방부) 국방 정보 시스템 기관의 수준 4 및 5 임시 권한
 
-FedRAMP에서는 Azure 정부에서 엄격한 NIST 컨트롤로 설계 된 계산, 저장소 및 네트워킹 같은 서비스를 핵심 인프라 및 가상화 기술과 제공 하는 것을 보장 하는 적절 한 기준을 제공 합니다. 이러한 도움말은 고객 데이터 분리 요구 사항을 충족 하 고 고객의 온-프레미스 환경에 대 한 보안 연결을 설정 하는 데 도움이 됩니다.
+FedRAMP는 Azure Government가 엄격한 NIST 컨트롤을 사용하여 설계된 컴퓨팅, 저장소 및 네트워킹과 같은 핵심 인프라 및 가상화 기술 및 서비스를 제공할 수 있는 적절한 기준을 제공합니다. 이러한 설정은 고객 데이터 분리 요구 사항을 충족하고 고객의 사내 환경에 대한 보안 연결을 가능하게 하는 데 도움이 됩니다.
 
-또한 Azure 정부는 Azure 클라우드와 물리적으로 분리 된 미국 정부 커뮤니티 클라우드입니다. Azure 운영 직원 중에 정보 및 시스템에 대 한 액세스를 차단 하는 특정 제어 기능을 포함 하 여 US 정부의 특정 백그라운드 차단 요구 사항에 대 한 추가 보증을 제공 합니다.
+또한 Azure Government는 Azure 클라우드와 물리적으로 분리된 미국 정부 커뮤니티 클라우드입니다. Azure 운영 담당자 사이에서 선별된 미국 시민으로 정보 및 시스템에 대한 액세스를 제한하는 특정 제어를 포함하여 미국 정부의 특정 배경 심사 요구 사항에 대한 추가 보증을 제공합니다.
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
 
-- [Azure 정부](https://aka.ms/AzureCompliance)
+- [Azure Government](https://aka.ms/AzureCompliance)
 - Intune
 
 ## <a name="how-to-implement"></a>구현 방법
 
-- 클라우드 컴퓨팅에 대 한 자세한 [c CIP 표준 &](https://aka.ms/AzureNERC): 전기 유틸리티 및 등록 된 엔터티에 대 한 지침 Azure 또는 azure 정부에 작업을 배포 합니다.
+- [NERC CIP 표준 &](https://aka.ms/AzureNERC)클라우드 컴퓨팅: Azure 또는 Azure Government에 작업을 배포하는 전기 유틸리티 및 등록된 엔터티에 대한 지침입니다.
 
 ## <a name="about-doe-10-cfr-part-810"></a>DoE 10 CFR Part 810
 
-미국 에너지 (DoE) 수출 통제 규정 [10 CFR 부분 810](https://www.govinfo.gov/content/pkg/FR-2015-02-23/pdf/2015-03479.pdf) 에서는 분류 되지 않은 핵 기술 및 지원의 수출을 제어 합니다. 이를 통해 미국에서 내보내진 핵 기술이 peaceful 목적 으로만 사용 되도록 할 수 있습니다. 수정 된 부분 810 (Final Rule)은 3 월 2015에 적용 되 고 [국내 핵 보안 관리](https://www.energy.gov/nnsa/national-nuclear-security-administration)에 의해 관리 됩니다. 810.6 섹션에는 향상 및 고급 물의 생산과 같은 중요 한 핵 기술이 필요한 경우와 같이 특정 인증을 요구 하는 모든 지원 및 중요 한 기밀 기술의 전송에 대 한 특정 DoE 인증이 필요 합니다.
+미국 에너지부(DoE) 수출 제어 규정 [10 CFR Part 810은](https://www.govinfo.gov/content/pkg/FR-2015-02-23/pdf/2015-03479.pdf) 미분분 기술 및 지원의 수출을 관리합니다. 미국에서 내보낼 선구 기술은 선행 목적으로만 사용되도록 보장합니다. 수정된 제810부(최종 규칙)는 2015년 3월에 적용된 것으로 국가보안국에서 [관리합니다.](https://www.energy.gov/nnsa/national-nuclear-security-administration) 섹션 810.6에서는 특정 DoE 권한 부여가 '일반적으로 승인된' 중요한 기술의 지원 프로비전 및 전송과 특정 승인이 필요한 경우(예: 강화 및 고수 생산과 같은 중요한 유해 기술에 대한 지원의 경우)에 필요하도록 규정합니다.
 
 ## <a name="frequently-asked-questions"></a>질문과 대답
 
-**미국 핵 규제 위원회에 대 한 10 CFR 부분 110 규정은 Azure 정부에 적용 됩니까?**
+**미국 규율 규제 위원회의 10 CFR 제110조 규정이 Azure Government에 적용하나요?**
 
-아니요. [미국 핵 규제 위원회](https://www.nrc.gov/) (nrc)는 [CFR 부분 110](https://www.nrc.gov/reading-rm/doc-collections/cfr/part110/)에서 핵 설비 및 관련 장비 및 자료의 [수출 및 가져오기를](https://www.nrc.gov/about-nrc/ip/export-import.html) 조절 합니다. NRC는 DoE에 속하는 이러한 항목과 관련 된 이러한 항목에 대 한 핵 기술 및 지원을 규제 하지 않습니다. 따라서 NRC 10 CFR Part 110 규정은 Azure 정부에 적용 되지 않습니다.
+아니요. [NRC(미국](https://www.nrc.gov/) 지민 규제 위원회)는 [10 CFR Part 110에](https://www.nrc.gov/reading-rm/doc-collections/cfr/part110/)따라 시설 시설 및 관련 장비 및 재료의 수출 및 수입을 규제합니다. [](https://www.nrc.gov/about-nrc/ip/export-import.html) NRC는 DoE 관할권에 속하는 이러한 항목과 관련된 기술 및 지원을 규제하지 않습니다. 따라서 NRC 10 CFR Part 110 규정은 Azure Government에 적용되지 않습니다.
 
-**DoE 10 CFR Part 810을 준수 하 고 있는 증거를 제공 하려면 어떻게 해야 하나요?**
+**DoE 10 CFR Part 810을 준수하고 있는 증거를 제공하면 어떻게 하나요?**
 
-조직에서 Azure 정부에 데이터를 배포 하는 경우 적절 한 제한 된 방식으로 데이터를 처리 하는 증거로 Azure 정부 FedRAMP High P ATO을 사용 하도록 설정할 수 있습니다. 그러나 클라우드 서비스 사용을 비롯 하 여 사용자의 시스템에 대 한 DoE 권한 부여를 담당 해야 합니다.
+조직에서 Azure Government에 데이터를 배포하는 경우 Azure Government FedRAMP High P-ATO를 적절하게 제한된 방식으로 데이터를 처리하고 있는 증거로 사용할 수 있습니다. 그러나 클라우드 서비스 사용을 포함하여 자체 시스템의 DoE 권한 부여를 받고 있는 것은 사용자 책임입니다.
 
-**Azure 정부에 배포 된 데이터를 분류 하기 위한 책임은 무엇 인가요?**
+**Azure Government에 배포된 데이터를 분류하는 데는 어떤 책임이 있나요?**
 
-Azure 정부에 데이터를 배포 하는 고객은 자체 보안 분류 프로세스를 담당 합니다. DoE export 컨트롤을 대상으로 하는 고객 데이터의 경우, 분류 시스템은 [미국 원자성 에너지 Act](https://www.epa.gov/laws-regulations/summary-atomic-energy-act)의 148 섹션으로 설정 된 분류 되지 않은 제어 되는 컨트롤에 따라 확장 됩니다.
+Azure Government에 데이터를 배포하는 고객은 자체 보안 분류 프로세스를 담당합니다. DoE 내보내기 제어를 적용하는 고객 데이터의 경우 미국 원자력법의 148조에 의해 수립된 UCNI(Unclassified Controled Classification Information) 컨트롤에 의해 분류 시스템이 보강됩니다. [](https://www.epa.gov/laws-regulations/summary-atomic-energy-act)
 
 ## <a name="resources"></a>리소스
 
-- [Azure 클라우드 서비스 및 US 수출 컨트롤](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=c24c11f2-2cd4-444a-9160-19762855ad3a&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
+- [Azure 클라우드 서비스 및 미국 수출 제어](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=c24c11f2-2cd4-444a-9160-19762855ad3a&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
 - [Microsoft 및 FedRAMP](offering-fedramp.md)
 - [Microsoft 및 DoD](offering-dod-disa-l2-l4-l5.md)
 - [Microsoft Government 클라우드](https://www.microsoft.com/enterprise/government)

@@ -16,26 +16,26 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ae241dcff38ac764c2b57f559e95c079d6e59cd7
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: afe763500a4c8f3af261870af53216c6f6f95d39
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121237"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088957"
 ---
 # <a name="eu-us-and-swiss-us-privacy-shield-frameworks"></a>EU-US 및 Swiss-US Privacy Shield 프레임워크
 
 ## <a name="about-the-eu-us-and-swiss-us-privacy-shield-frameworks"></a>EU-US 및 Swiss-US Privacy Shield 프레임워크 정보
 
-Privacy Shield 프로그램에 따라 “[EU-US 및 Swiss-US Privacy Shield 프레임워크](https://www.privacyshield.gov/welcome)는 미 상무부와 유럽 위원회(European Commission) 및 스위스 행정부를 통해 설계되었으며 대서양의 양측에 있는 회사에 유럽연합 및 스위스에서 미국으로 개인 데이터를 전송할 때 데이터 보호 요구 사항을 준수하는 메커니즘을 제공합니다.” 미 상무부 국제무역청에서는 미국의 Privacy Shield 프로그램을 관리 합니다.
+Privacy Shield 프로그램에 따라 ‘[EU-US 및 Swiss-US Privacy Shield 프레임워크](https://www.privacyshield.gov/welcome)는 미 상무부와 유럽 위원회(European Commission) 및 스위스 행정부를 통해 설계되었으며 대서양의 양측에 있는 회사에 유럽연합 및 스위스에서 미국으로 개인 데이터를 전송할 때 데이터 보호 요구 사항을 준수하는 메커니즘을 제공합니다.” 미 상무부 국제무역청에서는 미국의 Privacy Shield 프로그램을 관리 합니다.
 
-EU와 스위스 외부의 개인 데이터 전송에는 EU 및 스위스 법률이 적용되며 “적절한” 보호 수준이 보장되지 않는 한 일반적으로 EEA 외부의 국가로 개인 데이터가 전송되는 것을 금지합니다. Privacy Shield 프레임 워크와 표준 계약 조항(또는 [EU 모범 조항](offering-EU-Model-Clauses.md))은 이러한 수준의 데이터 보호를 제공하도록 설계된 두 가지 메커니즘입니다.
+EU와 스위스 외부의 개인 데이터 전송에는 EU 및 스위스 법률이 적용되며 ‘적절한” 보호 수준이 보장되지 않는 한 일반적으로 EEA 외부의 국가로 개인 데이터가 전송되는 것을 금지합니다. Privacy Shield 프레임 워크와 표준 계약 조항(또는 [EU 모범 조항](offering-EU-Model-Clauses.md))은 이러한 수준의 데이터 보호를 제공하도록 설계된 두 가지 메커니즘입니다.
 
 23가지 [Privacy Shield 원칙](https://www.privacyshield.gov/article?id=Requirements-of-Participation)은 EU에서 전송되는 개인 데이터를 사용하고 처리할 뿐만 아니라 참여하는 회사가 EU 시민이 제공해야 하는 액세스 및 분쟁 해결 메커니즘을 규제하는 요구 사항 집합을 정의합니다. 회사는 사용자들이 자신의 데이터가 처리되는 방식을 파악하고, 사용되는 용도를 제한하며, 데이터 보유 기간에는 데이터를 보호하고, 제3자에 데이터를 전달하는지 확인해야 합니다. 요구 사항에는 개인 데이터에 대한 정부 요청과 관련된 이용 가능한 무료 분쟁 해결과 투명성도 포함될 수 있습니다.
 
 ## <a name="microsoft-and-the-eu-us-and-swiss-us-privacy-shield-frameworks"></a>Microsoft와 EU-US 및 Swiss-US Privacy Shield 프레임워크
 
-EU-US 및 Swiss-US Privacy Shield 프레임워크에 참여하려면(자발적 행위) 미국 기반의 회사가 공개적으로 프레임워크 요구 사항을 준수할 것을 약속하고 준수 사항을 미 상무부에 자체 인증해야 합니다. 공개적으로 이행 및 자체 인증하면 해당 약정은 미국법에 따라 집행될 수 있습니다.
+EU-US 및 Swiss-US Privacy Shield 프레임워크에 참여하려면(자발적 행위) 미국 기반의 회사가 공개적으로 프레임워크 요구 사항을 준수할 것을 약속하고 준수 사항을 미 상무부에 자체 인증해야 합니다. 공개적으로 약속하고 자체 인증한 후에는 미국 법률에 따라 해당 약속을 적용할 수 있게 됩니다.
 
 Microsoft는 [Privacy Shield 원칙](https://www.privacyshield.gov/article?id=Requirements-of-Participation)을 공개적으로 준수하고 요구 사항을 준수한 것으로 자체 인증했습니다. 당사의 참여는 유럽 연합, 유럽 경제 지역(EEA), 스위스에서 미국으로 전송되는 Microsoft에서 처리하는 모든 개인 데이터에 적용됩니다. 또한 Microsoft 비즈니스 클라우드 서비스 고객은 고객에게 해당 조항이 만료되지 않는 한, [Microsoft Online Services 사용 약관](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31)에 있는 표준 계약 조항([EU 모범 조항](offering-eu-model-clauses.md)이라고도 함)을 준수하는 이점을 활용할 수 있습니다.
 
@@ -67,7 +67,7 @@ Azure의 데이터 보호 - Azure는 기본적으로 또는 고객 옵션으로 
 
 **Microsoft 개인 정보 보호 계약에 따라 EU 또는 스위스에서 미국으로 전송되는 데이터는 무엇인가요?**
 
-온라인 서비스 약관에 명시된 대로 고객을 대신하여 Microsoft에서 처리하는 개인 데이터가 미국이나 Microsoft, 해당 계열사 또는 하도급업자가 시설을 유지 관리하는 다른 국가에서 전송, 저장 및 처리될 수도 있습니다. 그러나 EU에서 전송되는 경우에는 EU 법규의 요구 사항을 충족해야 합니다.
+온라인 서비스 약관에 명시된 대로 고객을 대신하여 Microsoft에서 처리하는 개인 데이터가 미국이나 Microsoft, 해당 계열사 또는 하도급업자가 시설을 유지 관리하는 다른 국가에서 전송, 저장 및 처리될 수도 있습니다. 그러나 EU에서 이러한 전송은 EU 법률의 요구 사항을 충족해야 합니다.
 
 개인 데이터가 EU에서 미국으로 전송되는 경우:
 

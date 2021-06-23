@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 27f0072091520317a6780e00331e0997022941a0
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 88e85b1060374932320a4191c4eb4b2b665fe986
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509558"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088947"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>FISC(Center for Financial Industry Information Systems: 금융 산업 정보 시스템 센터)
 
@@ -37,7 +37,7 @@ FISC는 센터 회원 기관, 일본은행 및 일본 금융청(Financial Servic
 
 ## <a name="microsoft-and-fisc"></a>Microsoft 및 FISC
 
-Microsoft에서는 Microsoft Azure, Dynamics 365 및 Microsoft Office 365가 금융 기관을 위한 컴퓨터 시스템의 FISC 보안 지침 9차 개정판의 요구 사항을 충족하는지 확인하기 위해 외부 평가자를 고용했습니다. Microsoft는 다음의 각 영역에서 규정 준수를 증명했습니다.
+Microsoft에서는 Microsoft Azure, Dynamics 365 및 Microsoft Office 365가 금융 기관을 위한 컴퓨터 시스템의 FISC 보안 지침 9차 개정판의 요구 사항을 충족하는지 확인하기 위해 외부 평가자를 고용했습니다. Microsoft는 다음 각 영역에서 규정 준수에 대한 증거를 제공했습니다.
 
 - 건물과 컴퓨터실, 전력, 에어컨, 데이터 센터 및 설비 모니터링 관련 데이터 센터 지침
 - 기관, 교육, 액세스 제어, 시스템 개발 및 감사 관련 운영 지침
@@ -74,7 +74,7 @@ FISC는 전문가 협의회를 통해 다음 두 가지 보고서를 발표했�
 
 **이 프레임워크에 대한 Microsoft의 대응 방식을 우리 회사의 자격 조건 프로세스에 활용할 수 있나요?**
 
-예. 하지만 이 프레임워크에 대한 Microsoft의 대응 방식이 외부 업체에 의해 규정을 준수하는 것으로 확인되었더라도, 고객은 Azure 또는 Office 365에 대해 자신들이 구현한 솔루션의 규정 준수 상태를 검증할 책임이 있습니다.
+네. 하지만 이 프레임워크에 대한 Microsoft의 대응 방식이 외부 업체에 의해 규정을 준수하는 것으로 확인되었더라도, 고객은 Azure 또는 Office 365에 대해 자신들이 구현한 솔루션의 규정 준수 상태를 검증할 책임이 있습니다.
 
 ## <a name="resources"></a>리소스
 

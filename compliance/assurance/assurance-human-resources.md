@@ -1,6 +1,6 @@
 ---
 title: 인적 리소스 개요
-description: Microsoft 365의 인적 자원에 대해 자세히 알아보기
+description: 인적 자원에 대해 Microsoft 365
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 69f23af93f6b41563fb3694436bf7272ac2d5b75
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 1dc9e54b7ebbf27dc77a1814a5411002ca75ad4c
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497178"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088617"
 ---
 # <a name="human-resources-overview"></a>인적 리소스 개요
 
@@ -44,7 +44,7 @@ Microsoft는 모든 직원, 인턴 및 부대 직원에 대한 엄격한 직원 
 
 ## <a name="what-additional-checks-are-performed-for-those-who-manage-cloud-services"></a>클라우드 서비스를 관리하는 사용자에 대해 어떤 추가 검사를 수행하나요?
 
-미국에 Microsoft 365 관련 서비스를 제공하는 Microsoft 직원은 고용 전 심사 외에도 Microsoft 365 시스템에 대한 액세스에 대한 선행 작업으로 Microsoft 클라우드 배경 검사를 따라야 합니다. 백그라운드 검사의 요구 사항은 적용 가능한 법률 및 서비스 제공 모델을 준수하는 데 따라 다릅니다. Microsoft 클라우드 백그라운드 검사의 결과는 직원 데이터베이스에 저장되고 최소 2년마다 갱신해야 합니다. Microsoft 클라우드 백그라운드 검사가 만료되고 직원이 이를 갱신하지 않는 경우 Microsoft 클라우드 백그라운드 검사가 완료될 때까지 Microsoft 365 서비스에 대한 액세스가 해지되고 더 이상 사용할 수 없습니다. 마찬가지로 Microsoft와의 고용 관계가 종료된 경우 모든 액세스가 즉시 해지됩니다.
+미국에 있는 Microsoft 365 관련 서비스를 제공하는 Microsoft 직원은 고용 전 심사 외에도 Microsoft 클라우드 배경 검사를 Microsoft 365 시스템 액세스에 대한 선행 요구 Microsoft 365 합니다. 백그라운드 검사의 요구 사항은 적용 가능한 법률 및 서비스 제공 모델을 준수하는 데 따라 다릅니다. Microsoft 클라우드 백그라운드 검사의 결과는 직원 데이터베이스에 저장되고 최소 2년마다 갱신해야 합니다. Microsoft 클라우드 백그라운드 검사가 만료되고 직원이 갱신하지 않는 경우 Microsoft 365 서비스에 대한 액세스가 해지되고 Microsoft 클라우드 백그라운드 검사가 완료될 때까지 더 이상 사용할 수 없습니다. 마찬가지로 Microsoft와의 고용 관계가 종료된 경우 모든 액세스가 즉시 해지됩니다.
 
 ## <a name="how-does-microsoft-ensure-employees-maintain-sufficient-skillset-and-knowledge-to-perform-their-responsibilities-and-follow-microsoft-policies"></a>Microsoft는 직원들이 책임을 수행하고 Microsoft 정책을 따를 수 있는 충분한 기술 및 지식을 유지 관리하도록 어떻게 하나요?
 
@@ -60,7 +60,7 @@ Microsoft는 명확하게 정의된 정책 및 절차를 사용하여 직원이 
 
 ## <a name="how-does-microsoft-ensure-third-party-suppliers-meet-the-same-personnel-requirements-as-microsoft-employees"></a>Microsoft는 타사 공급업체가 Microsoft 직원과 동일한 직원 요구 사항을 충족하도록 어떻게 하나요?
 
-Microsoft 365를 사용하려면 타사 공급업체가 MSSA(마스터 공급자 서비스 계약)를 체결해야 합니다. 이 계약은 공급업체가 직원 보안 정책 및 절차를 포함하여 Microsoft 정책 및 절차를 준수해야 합니다. Microsoft 365는 심사 결과를 직접 추적하여 타사 직원의 심사 요구 사항을 준수하는지 모니터링합니다. Microsoft는 공급업체가 타사 직원에 대한 심사 결과를 Microsoft에 직접 제출해야 합니다.
+Microsoft 365 타사 공급자가 MSSA(마스터 공급자 서비스 계약)를 체결해야 합니다. 이 계약은 공급업체가 직원 보안 정책 및 절차를 포함하여 Microsoft 정책 및 절차를 준수해야 합니다. Microsoft 365 결과를 직접 추적하여 타사 직원의 심사 요구 사항을 준수하는지 모니터링합니다. Microsoft는 공급업체가 타사 직원에 대한 심사 결과를 Microsoft에 직접 제출해야 합니다.
 
 ## <a name="related-external-regulations--certifications"></a>인증을 위한 & 규정
 
@@ -69,7 +69,7 @@ Microsoft의 온라인 서비스는 외부 규정 및 인증을 준수하도록 
 | **외부 감사** | **섹션** | **최신 보고서 날짜** |
 |:--------------------|:------------|:-----------------------|  
 | [FedRAMP(Office 365)](https://compliance.microsoft.com/compliancemanager) | AT-2: 보안 인식 <br> AT-3: 역할 기반 보안 교육 <br> AT-4: 보안 교육 레코드 <br> PS-3: 직원 심사 <br> PS-4: 직원 종료 <br> PS-5: 직원 이동 <br> PS-7: 타사 직원 보안 | 2020년 9월 24일 |
-| [ISO 27001/27002(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용성 설명](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [인증](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.7: 인적 자원 보안 | 2020년 2월 22일 |
-| [ISO 27017(Office 365)](https://aka.ms/o365iso) <br><br> [적용성 설명](https://aka.ms/o365isosoa) <br> [인증](https://aka.ms/Office365ISO27017Cert) | A.7: 인적 자원 보안 | 2020년 2월 22일 |
+| [ISO 27001/27002(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용성 설명](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [인증](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.7: 인적 자원 보안 | 2021년 4월 20일 |
+| [ISO 27017(Office 365)](https://aka.ms/o365iso) <br><br> [적용성 설명](https://aka.ms/o365isosoa) <br> [인증](https://aka.ms/Office365ISO27017Cert) | A.7: 인적 자원 보안 | 2021년 4월 20일 |
 | [SOC 1(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-08: 백그라운드 검사 <br> CA-43: 계정 해지 | 2020년 12월 24일 |
 | [SOC 2(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-07: SBC(비즈니스 수행 표준) <br> CA-08: 백그라운드 검사 <br> CA-43: 계정 해지 | 2020년 12월 24일 |

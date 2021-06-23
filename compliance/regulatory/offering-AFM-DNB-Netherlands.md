@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a7f6f07a2dd58d4a99559488c3f9d3b92d4fe195
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 13a628ee832079bd0402e5aec9969ec6e1f14cb4
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121807"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089842"
 ---
 # <a name="dutch-authority-for-the-financial-markets-and-the-central-bank-of-the-netherlands"></a>네덜란드의 금융 서비스 기관 및 네덜란드 중앙은행
 
@@ -29,7 +29,7 @@ ms.locfileid: "50121807"
 
 네덜란드의 주요 금융 규제 기관은 [네덜란드 금융시장기관](https://afm.nl/en)([Autoriteit Financiële Markten, AFM](https://afm.nl/)) 및 [네덜란드 중앙은행](https://www.dnb.nl/en/home/index.jsp)([De Nederlandsche Bank, DNB](https://www.dnb.nl/home/))입니다. 그 역할이 미국에서 SEC와 유사한 AFM은 "절감, 대출, 투자, 보험 시장에 대한 독립적인 감독 기관입니다." 유럽중앙은행제도권에 있는 DNB를 통해 통화 정책을 결정하고 구현하며, 네덜란드의 금융 조직에 대한 철저한 감독을 시행합니다.  
   
-이러한 기관은 모두 "유럽 금융 부문 전반에서 효과적이고 일관되고 철저한 규정 및 감독을 보장하기 위해 노력하는 독립된 EU 기관"인 유럽금융기관(EBA)과 협력하여 운영됩니다. 그 목적을 달성하기 위해 EBA는 유럽에서 금융 기관이 클라우드 컴퓨팅을 사용하는 방법에 대한 포괄적인 접근 방법인 [클라우드 서비스 공급자에 대한 아웃소싱 권장 사항](https://eba.europa.eu/sites/default/documents/files/documents/10180/1848359/c1005743-567e-40fc-a995-d05fb93df5d1/Draft%20Recommendation%20on%20outsourcing%20to%20Cloud%20Service%20%20%28EBA-CP-2017-06%29.pdf )의 개요를 만들었습니다.  
+이러한 기관은 모두 ‘유럽 금융 부문 전반에서 효과적이고 일관되고 철저한 규정 및 감독을 보장하기 위해 노력하는 독립된 EU 기관"인 유럽금융기관(EBA)과 협력하여 운영됩니다. 그 목적을 달성하기 위해 EBA는 유럽에서의 금융 기관의 클라우드 컴퓨팅을 사용하는 방법에 대한 포괄적인 접근 방법인 [클라우드 서비스 공급자에게의 외주에 대한 권장](https://eba.europa.eu/sites/default/documents/files/documents/10180/1848359/c1005743-567e-40fc-a995-d05fb93df5d1/Draft%20Recommendation%20on%20outsourcing%20to%20Cloud%20Service%20%20%28EBA-CP-2017-06%29.pdf )을 개요화하였습니다.  
   
 일반적으로 법률 및 지침은 타사 서비스와 관련된 클라우드 컴퓨팅이 아웃소싱의 형태로의 자격이 있다는 관점을 뒷받침하며, 네덜란드의 금융 기관은 비즈니스 활동을 클라우드로 이전하기 전에 관련 위험을 해결해야 합니다. 여기에는 다음이 포함됩니다.
 
@@ -70,9 +70,9 @@ Microsoft의 점검 목록은 Microsoft 비즈니스 클라우드 서비스에 �
 
 **규제적 승인이 필요한가요?**
 
-아니요. 그러나 Circulaire Cloud Computing에 따르면 DNB는 감독되는 네덜란드 기관이 클라우드 컴퓨팅에 참여하기 전에 잠재 아웃소싱 협의에 관한 위험 분석을 제출할 것을 요구합니다.
+아니오. 그러나 Circulaire Cloud Computing에 따르면 DNB는 감독되는 네덜란드 기관이 클라우드 컴퓨팅에 참여하기 전에 잠재 아웃소싱 협의에 관한 위험 분석을 제출할 것을 요구합니다.
 
-**클라우드 서비스 공급자와의 계약에 포함해야 하는 필수 약관이 있나요?**
+**클라우드 서비스 공급 업체와의 계약에 포함해야 하는 필수 약관이 있나요?**
 
 예. 클라우드 계약에 포함할 프로비전 및 협의는 금융 기관의 유형에 따라 달라집니다. 요구 사항(예: 위원회 위임 규정(EU) 2017/565의 제31조에 설명된 내용)은 검사 목록의 2부에 명시되어 있습니다.
 

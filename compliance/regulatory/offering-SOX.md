@@ -1,7 +1,7 @@
 ---
 title: Sarbanes-Oxley Act of 2002(SOX)
-description: 금융 서비스 기업은 Microsoft 준수 보고서를 사용 하 여 Sarbanes-Oxley Act 준수를 처리할 수 있습니다.
-keywords: Microsoft 365, 규정 준수, 제안
+description: 금융 서비스 회사는 Microsoft 규정 준수 보고서를 사용하여 규정 준수를 Sarbanes-Oxley 있습니다.
+keywords: Microsoft 365, 규정 준수, 제품
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,34 +16,34 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6e5a4f133ba996b809d879e114733a31c29ff83b
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 3720eb98ee6f903d59316500ffe008398f388bf0
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509343"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089792"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act of 2002(SOX)
 
 ## <a name="sox-overview"></a>SOX 개요
 
-2002의 Sarbanes-Oxley 동작은 증권 및 Exchange 위원회 (초)에서 관리 하는 미국 연방 법입니다. 다른 여러 지시어 중에서 SOX를 사용 하려면 해당 재무 설명이 재무 결과를 정확히 반영 하는지 확인 하기 위해 적절 한 내부 제어 구조를 마련 해야 합니다.
+200 Exchange 2년 Sarbanes-Oxley법은 SEC(증권거래위원회)에서 관리하는 미국 연방법입니다. SOX는 재무제표가 재무 결과를 정확하게 반영하는지 검사하기 위해 공개적으로 거래하는 기업에 적절한 내부 통제 구조를 요구합니다.
 
-초는 SOX 인증 프로세스를 정의 하거나 부여 하지 않습니다. 대신, SOX 보고 요구 사항을 준수 하는 방법을 결정 하기 위해 조정 하는 회사에 대 한 광범위 한 지침을 제공 합니다.
+SEC는 SOX 인증 프로세스를 정의하거나 부과하지 않습니다. 대신 SOX 보고 요구 사항을 준수하는 방법을 결정하기 위해 규제하는 회사에 대한 광범위한 지침을 제공합니다.
 
 ## <a name="microsoft-and-sox"></a>Microsoft 및 SOX
 
-Microsoft 클라우드 서비스 고객은 SOX (Sarbanes-Oxley Act)와의 규정 준수에 따라 고유한 SOX 준수 의무를 처리할 때 Microsoft에서 독립 된 감사 회사 로부터 받은 SOC 1 유형 2 증명을 사용할 수 있습니다. 이 증명은 재무 보고를 통해 내부 컨트롤을 보고 하는 데 적합 합니다.
+SOX(Sarbanes-Oxley Act)를 준수하는 Microsoft 클라우드 서비스 고객은 자체 SOX 준수 의무를 다할 때 Microsoft가 독립 감사 회사로부터 받은 SOC 1 유형 2 확정을 사용할 수 있습니다. 이 의거는 재무 보고에 대한 내부 제어를 보고하는 데 적절합니다.
 
-클라우드 서비스 공급자에 대 한 SOX 인증 또는 유효성 검사는 없지만 Microsoft는 고객이 해당 SOX 의무를 충족 하도록 도울 수 있습니다. 예를 들어 SOX를 사용 하려면 재무 보고와 관련 된 자재 변경 내용에 대 한 정확성, 완전성, 효율성 및 공개 공개에 영향을 주는 문서를 준비 하 고 검토 하기 위한 내부 컨트롤이 필요 합니다. 기업에서 지원 하기 위해 Microsoft는 광범위 한 응용 프로그램을 작성 하는 데 사용할 수 있는 광범위 한 서비스 포트폴리오에서 이러한 컨트롤을 보고 하기에 적합 한 SOC 1 유형 2 증명을 유지 관리 합니다. 이는 증명 계약 18 (SSAE 18)에 대 한 표준에 대 한 인증 된 공공 회계사 (AICPA) 설명서의 미국 협회와 보증 계약 내용에 대 한 국제 표준에 따라 결정 됩니다. 3402 (ISAE 3402) (이 증명은 SAS 70를 대체 했습니다.)
+클라우드 서비스 공급자에 대한 SOX 인증 또는 유효성 검사가 없는 경우에도 Microsoft는 고객이 SOX 의무를 이행하는 데 도움을 줄 수 있습니다. 예를 들어 SOX에는 재무 제표 준비 및 검토를 위한 내부 제어, 특히 재무 보고와 관련된 재료 변경의 정확성, 완전성, 효율성 및 공개에 영향을 주는 컨트롤이 필요합니다. Microsoft는 회사를 지원하기 위해 광범위한 응용 프로그램을 구축하는 데 사용할 수 있는 광범위한 서비스 포트폴리오에서 이러한 컨트롤을 보고하는 데 적합한 SOC 1 유형 2 의거를 유지 관리합니다. SSAE 18(American Institute of Certified Public Accountants) On Standards for Attestation Engagements 18(SSAE 18) 및 International Standard on Assurance Engagements No를 기반으로 합니다. 3402(ISAE 3402). (이 의거는 SAS 70으로 대체했습니다.)
 
-타사 감사 회사에서 만든 감사 보고서는 Microsoft 제어가 적절 하 게 설계 되었으며, 지정 된 날짜에 작업을 수행 하 고, 지정 된 기간 동안 효율적으로 운영 하는 attests입니다. 고객은 보고서를 검토 하 여 Microsoft 제어 목적 및 해당 컨트롤의 효율성을 알아보고 보완 컨트롤에 액세스할 수 있습니다.
+타사 감사 회사에서 생성한 감사 보고서는 Microsoft 컨트롤이 지정된 날짜에 적절하게 설계되어 지정된 날짜에 작동하며 지정된 기간 동안 효과적으로 작동했다는 것을 확인했습니다. 고객은 보고서를 검토하여 Microsoft 컨트롤 목표와 컨트롤의 효과에 대해 알아보고 보조 컨트롤에 액세스할 수 있습니다.
 
-Azure 클라이언트가 SOX 의무를 해결 하는 데 도움을 주기 위해 Microsoft는 [sarbanes-oxley of 용 Azure 지침](https://aka.ms/Azure-SOX-Guide)을 게시 했습니다. 이 문서에서는 SOX 준수의 의미를 비롯 한 마이그레이션 모범 사례를 제공 하 고, SOX 관련 응용 프로그램 (Microsoft 국채 및 Microsoft 재무)을 Azure로 마이그레이션하는 내부 환경을 소개 합니다.
+Azure 클라이언트가 SOX 의무를 이행할 수 있도록 Microsoft는 [Sarbanes-Oxley에 대한 Azure 지침을 게시했습니다.](https://aka.ms/Azure-SOX-Guide) 이 문서에서는 SOX 준수의 의미를 포함하여 마이그레이션 모범 사례를 제공하며, SOX 관련 응용 프로그램(Microsoft Treasury 및 Microsoft Finance)을 Azure로 마이그레이션하는 내부 환경을 제공합니다.
 
-Microsoft에서는 고객을 준수 하는 책임을 공유 합니다. Microsoft는 제 3 자 인증에서 자세한 감사 결과를 요청 하 여 확인할 수 있는 준수 프로그램에 대 한 구체적인 정보를 제공 합니다. 그러나 궁극적으로는 서비스가 비즈니스에 적합 한 특정 법률 및 규정을 준수 하 고 있는지를 확인 해야 합니다. 예를 들어 클라우드 리소스에 대 한 사용자 액세스 같은 SOX 관련 보안 컨트롤 (예: 조직에서 SOX 규정 준수의 일환으로 이러한 컨트롤에 대 한 적절 한 감사를 개발 해야 함)이 있습니다.
+Microsoft는 고객과 규정 준수의 책임을 공유합니다. 인증된 제3자로부터 자세한 감사 결과를 요청하여 확인할 수 있는 규정 준수 프로그램에 대한 세부 정보를 제공합니다. 그러나 궁극적으로는 서비스가 비즈니스에 적용되는 특정 법률 및 규정을 준수하는지 여부를 결정하는 것은 사용자가 결정해야 합니다. 예를 들어 사용자의 책임인 클라우드 리소스에 대한 사용자 액세스와 같은 SOX 관련 보안 제어가 있습니다. 조직은 SOX 규정 준수의 일부로 이러한 컨트롤에 대한 적절한 감사를 개발해야 합니다.
 
-SOX 준수 의무를 해결 하는 경우 Microsoft Azure 준수 보고서를 사용 하는 방법에 대 한 자세한 내용은 [sarbanes-oxley of에 대 한 Azure 지침 다운로드](https://aka.ms/Azure-SOX-Guide) 를 참조 하세요.
+SOX 준수 의무를 해결할 때 Microsoft Azure 보고서 사용 방법에 대해 자세히 알아보시고, [Sarbanes-Oxley용 Azure 지침 다운로드](https://aka.ms/Azure-SOX-Guide)
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
 
@@ -55,7 +55,7 @@ SOX 준수 의무를 해결 하는 경우 Microsoft Azure 준수 보고서를 �
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 
-[SOC 1 유형 2](offering-SOC.md) 보고서:
+[SOC 1에 대한 유형 2](offering-SOC.md) 보고서:
 
 - Azure 및 Power BI
 - Dynamics 365
@@ -63,13 +63,13 @@ SOX 준수 의무를 해결 하는 경우 Microsoft Azure 준수 보고서를 �
 
 ## <a name="frequently-asked-questions"></a>질문과 대답
 
-**조직의 규정 준수 프로세스를 용이 하 게 하기 위해 Microsoft SOX 준수를 어떻게 사용할 수 있나요?**
+**Microsoft SOX 규정 준수를 사용하여 조직의 규정 준수 프로세스를 촉진하는 방법**
 
-응용 프로그램 및 데이터를 포함 된 Microsoft 클라우드 서비스로 마이그레이션할 때 Microsoft에서 보유 하 고 있는 attestations 및 인증을 구축할 수 있습니다. 독립 감사자 보고서는 데이터의 보안 및 개인 정보를 유지 관리 하기 위해 Microsoft에서 구현한 컨트롤의 효율성을 보증 합니다. 그러나 조직의 모든 관련 법률 및 규정 준수를 보장 하는 일은 전적으로 책임 합니다.
+응용 프로그램 및 데이터를 적용된 Microsoft 클라우드 서비스로 마이그레이션할 때 Microsoft가 보유하는 증명 및 인증을 구축할 수 있습니다. 독립 감사자 보고서는 데이터의 보안 및 개인 정보 보호를 유지하기 위해 Microsoft가 구현한 제어의 효율성을 시연합니다. 그러나 조직의 모든 관련 법률 및 규정 준수를 보장할 책임은 전적으로 사용자가 져야 합니다.
 
 ## <a name="resources"></a>리소스
 
-- [Sarbanes-oxley of에 대 한 Azure 지침-Sarbanes-oxley](https://aka.ms/Azure-SOX-Guide)
+- [Sarbanes-Oxley에 대한 Azure 지침](https://aka.ms/Azure-SOX-Guide)
 - [Microsoft 금융 서비스 준수 프로그램](https://www.microsoft.com/download/details.aspx?id=55332)
 - [Azure에서의 금융 서비스 규정 준수](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Microsoft 비즈니스 클라우드 서비스 및 금융 서비스](https://www.microsoft.com/trustcenter/cloudservices/financialservices)

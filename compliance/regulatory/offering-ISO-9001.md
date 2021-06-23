@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 37a561845b4eaa4568ed71a4873bb5927a42f761
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: c0b7a9583b8b6d2420837156e836b75326870f1d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497271"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089692"
 ---
 # <a name="iso-90012015-quality-management-systems-standards"></a>ISO 9001:2015 품질 관리 시스템 표준
 
@@ -57,7 +57,7 @@ ISO 9001:2015는 품질 관리 시스템에 대한 기준을 설정하는 국제
 
 ## <a name="frequently-asked-questions"></a>질문과 대답
 
-이 표준은 누구에게 적용되나요?
+이 표준은 누구에게 적용됩니까?
 
 이 실무 표준은 클라우드 서비스 공급 업체 및 클라우드 서비스 고객이 클라우드 제품과 서비스가 고객의 요구 사항을 지속적으로 충족하기 위한 지침 및 도구를 제공합니다. ISO 27001:2013과 유사한 형식으로 구성되어 있습니다.
 
@@ -69,7 +69,7 @@ ISO 9001:2015는 품질 관리 시스템에 대한 기준을 설정하는 국제
 
 예. ISO 9001:2015 연간 평가는 기본 물리적 인프라 데이터 센터를 포함합니다. 적용 범위 세부 정보는 [인증서를 검토](https://www.microsoft.com/?ref=aka)하세요.
 
-**ISO 9001:2015에 대한 Microsoft의 규정 준수 정보는 어디에서 확인할 수 있나요?**
+**ISO 9001:2015에 대한 Microsoft의 규정 준수 정보는 어디에서 확인할 수 있습니까?**
 
 Azure와 이 평가 범위 내에 있는 추가 서비스에 대한 [ISO 9001:2015](https://www.microsoft.com/?ref=aka) 인증서를 다운로드할 수 있습니다.
 

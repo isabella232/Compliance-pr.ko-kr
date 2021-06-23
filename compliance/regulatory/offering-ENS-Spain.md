@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: bf4ea5afbcc44a7e59e66d5d74c9b87123b6ded8
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 7079147a9ee952f97a4ad5b9d8df0cfcf9d494a2
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508005"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089822"
 ---
 # <a name="spain-esquema-nacional-de-seguridad-ens-high-level-security-measures"></a>Spain Esquema Nacional de Seguridad(ENS) 높은 수준의 보안 조치
 
@@ -53,14 +53,14 @@ Microsoft Azure 및 Microsoft Office 365는 이들에 대한 규정 준수 공�
 ### <a name="azure"></a>Azure
 
 - [Azure 국가 보안 프레임워크 ENS 인증서](https://aka.ms/AzureNationalSecurityFrameworkENSCertificate)
-- [Azure 스페인 국가 보안 프레임워크(ENS) 감사 보고서](https://aka.ms/AzureNationalSecurityFrameworkAuditReport)
+- [Azure 스페인어 국가 보안 프레임워크(ENS) 감사 보고서](https://aka.ms/AzureNationalSecurityFrameworkAuditReport)
 - [Azure 감사 보고서 ENS(스페인어)](https://aka.ms/AzureInformeAuditoriaENS)
 - [Azure 국가 보안 프레임워크 인증서 ENS(스페인어)](https://aka.ms/AzureNationalSecurityFrameworkCertificadoENS)
 
 ### <a name="office-365"></a>Office 365
 
 - [Office 365 국가 보안 프레임워크 ENS 인증서](https://aka.ms/Office365NationalSecurityFrameworkENSCertificate)
-- [Office 365 스페인 국가 보안 프레임워크(ENS) 감사 보고서](https://aka.ms/Office365NationalSecurityFrameworkAuditReport)
+- [Office 365 스페인어 국가 보안 프레임워크(ENS) 감사 보고서](https://aka.ms/Office365NationalSecurityFrameworkAuditReport)
 - [Office 365 감사 보고서 ENS(스페인어)](https://aka.ms/Office365InformeAuditoriaENS)
 - [Office 365 국가 보안 프레임워크 인증서 ENS(스페인어)](https://aka.ms/Office365NationalSecurityFrameworkCertificadoENS)
 
@@ -70,7 +70,7 @@ Microsoft Azure 및 Microsoft Office 365는 이들에 대한 규정 준수 공�
 
 [Service Trust Portal](https://aka.ms/stphelp)에서는 감사 보고서와 인증을 스페인어 및 영어로 제공합니다. 감사자는 이를 사용하여 Microsoft의 클라우드 서비스 결과를 파트너의 법률 및 규제 요건과 비교할 수 있습니다.
 
-**우리 회사의 자체 규정 준수 활동은 어느 것부터 시작해야 합니까?**
+**우리 회사의 자체 규정 준수 활동은 어느 것부터 시작해야 하나요?**
 
 조직이 Azure 또는 Office 365를 사용하는 경우에는 ENS Microsoft 감사 보고서와 승인을 회사 고유의 승인 프로세스의 일부로 활용할 수 있습니다. 하지만 규정 준수의 구현을 평가하도록 감사자를 관여시키고 고유의 조직 내 컨트롤 및 프로세스가 해당 프레임워크와 일관되었는지를 확인하는 책임은 사용자에게 있습니다.
 

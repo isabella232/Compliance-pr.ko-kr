@@ -1,7 +1,7 @@
 ---
-title: 새로운 뉴질랜드 정부 클라우드 컴퓨팅 보안 및 개인 정보 고려 사항
-description: Microsoft NZ는 새로운 뉴질랜드 클라우드 컴퓨팅 프레임 워크에 게시 된 질문을 해결 합니다.
-keywords: Microsoft 365, 규정 준수, 제안
+title: 뉴질랜드 정부 클라우드 컴퓨팅 보안 및 개인 정보 보호 고려 사항
+description: Microsoft NZ는 뉴질랜드 클라우드 컴퓨팅 프레임워크에 게시된 질문을 해결합니다.
+keywords: Microsoft 365, 규정 준수, 제품
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,28 +16,26 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: db1168d494fd5a8d0a31176ccccdff72dd096f1d
-ms.sourcegitcommit: c697549cdc5785e163bd6147cf0d95ba61b078fe
+ms.openlocfilehash: da53b5e2cdac7095e2fc3ff9b243d2863b85fdbf
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49528894"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088787"
 ---
-# <a name="new-zealand-government-cloud-computing-security-and-privacy-considerations"></a>새로운 뉴질랜드 정부 클라우드 컴퓨팅 보안 및 개인 정보 고려 사항
+# <a name="new-zealand-government-cloud-computing-security-and-privacy-considerations"></a>뉴질랜드 정부 클라우드 컴퓨팅 보안 및 개인 정보 보호 고려 사항
 
-## <a name="new-zealand-government-cloud-computing-security-and-privacy-overview"></a>새로운 뉴질랜드 정부 클라우드 컴퓨팅 보안 및 개인 정보 보호 개요
+## <a name="new-zealand-government-cloud-computing-security-and-privacy-overview"></a>뉴질랜드 정부 클라우드 컴퓨팅 보안 및 개인 정보 개요
 
-2015 년 10 월, 뉴질랜드 정부 endorsed은 공용 섹터 전체에서 정보 기술을 사용 하 여 해당 ' 클라우드 최초 ' 정책을 reaffirmed 하는 수정 된 모든 정부 정보를가지고 있습니다. 개정 된 전략은 NZ 정부의 기관에서 개발 되 고 구현 된 ' 클라우드 컴퓨팅 위험 및 보증 프레임 워크 '를 유지 합니다.
+2015년 10월 뉴질랜드 정부는 공공 부문에서 정보 기술을 사용하는 '클라우드 우선' 정책을 재확인하는 수정된 모든 정부 ICT 전략을 인정했습니다. 수정된 전략은 NZ 정부 최고 정보 책임자(GCIO)의 권한으로 개발 및 구현된 '클라우드 컴퓨팅 위험 및 보증 프레임워크'를 보유합니다.
 
-정부에는 클라우드 서비스를 평가 하 고 채택할 때 모든 새 뉴질랜드 State 서비스 기관이이 프레임 워크 내에서 작동 하는 것으로 예상 됩니다. ' 클라우드 컴퓨팅에 대 한 요구 사항 '에는 정부의 클라우드 정책 내역에 대 한 개요와 함께 클라우드 서비스를 채택할 때 수행 해야 하는 작업에 대 한 개요가 나와 있습니다.
+정부는 클라우드 서비스를 평가하고 채택할 때 모든 뉴질랜드 주 정부 기관이 이 프레임워크 내에서 작업할 것으로 기대합니다. '클라우드 컴퓨팅 요구 사항'에서는 정부의 클라우드 정책 내역과 함께 클라우드 서비스를 채택할 때 기관이 해야 하는 작업을 간략하게 소개합니다.
 
-NZ 정부 기관에서 잠재적 클라우드 솔루션에 대 한 일관성 있고 강력 하 게 주의을 수행 하도록 지원 하기 위해 GCIO가 ' 클라우드 컴퓨팅: 정보 보안 및 개인 정보 고려 사항 ' (' 클라우드 컴퓨팅 ISPC ')을 게시 했습니다. 이 문서에는 데이터 소유권, 개인 정보, 보안, 거 버 넌 스, 데이터 무결성, 가용성 및 사건 대응 및 관리에 초점을 맞춘 100 개 이상의 질문이 포함 되어 있습니다. ' Cloud 컴퓨팅 IPSC '는 클라우드 서비스 공급자가 공식적인 준수를 시연 해야 하는 NZ 정부 표준을 정의 하지 않습니다. 그러나 문서에서 설정 된 많은 질문은 클라우드 서비스 공급자가 광범위 한 관련 표준을 준수 하는 방식을 이해 하는 것이 중요 합니다.
+GCIO는 NZ 정부 기관이 잠재적인 클라우드 솔루션에 대해 일관되고 강력한 실사 수행을 지원하기 위해 클라우드 [컴퓨팅: ISPC(정보](https://www.digital.govt.nz/dmsdocument/1~cloud-computing-information-security-and-privacy-considerations/html)보안 및 개인 정보 보호 고려 사항)를 게시했습니다. 이 문서에는 데이터 주권, 개인 정보, 보안, 거버넌스, 기밀성, 데이터 무결성, 가용성 및 인시던트 대응 및 관리에 초점을 맞추는 100개 이상의 질문이 포함되어 있습니다. ISPC는 클라우드 서비스 공급자가 공식적인 규정 준수를 입증해야 하는 NZ 정부 표준을 정의하지 않습니다. 그러나 문서에 설정된 많은 질문은 클라우드 서비스 공급자가 다양한 관련 표준을 준수하는 방식에 대한 이해의 중요성을 강조합니다.
 
-Microsoft 및 뉴질랜드 정부 클라우드 컴퓨팅 보안 및 개인 정보 보호 고려 사항
+## <a name="microsoft-and-new-zealand-government-cloud-computing-security-and-privacy-considerations"></a>Microsoft 및 뉴질랜드 정부 클라우드 컴퓨팅 보안 및 개인 정보 보호 고려 사항
 
-기관에서 Microsoft enterprise 클라우드 서비스의 분석과 평가를 수행 하는 데 도움을 주기 위해 microsoft cloud services가 인증 되는 표준에 연결 하 여 해당 엔터프라이즈 클라우드 서비스가 ' 클라우드 컴퓨팅 ISPC '에서 설정 된 질문을 처리 하는 방법을 보여 주는 문서를 만들었습니다. 이러한 인증은 개인 정보 보호 및 보안 위험을 효과적으로 완화 하 고 데이터 소유권 관련 문제를 해결 하기 위해 클라우드 서비스가 디자인 되 고 구축 되 고 운영 된다는 것을 Microsoft가 제공 하는 방식에 따라 결정 됩니다.
-
-Azure 보안 및 준수 청사진을 사용 하 여 NZ CC Framework 배포를 가속화 하는 방법을 알아봅니다. [NZ 참조 프레임 워크에 azure 응답 다운로드](https://gallery.technet.microsoft.com/Response-to-GCIO-Cloud-e117bbb9)
+기관이 Microsoft 엔터프라이즈 클라우드 서비스를 분석하고 평가할 수 있도록 Microsoft 뉴질랜드는 엔터프라이즈 클라우드 서비스가 Microsoft 클라우드 서비스가 '클라우드 컴퓨팅 ISPC'에 설정된 질문을 Microsoft 클라우드 서비스가 인증된 표준에 연결하여 해결 방법을 보여 주는 문서를 제작했습니다. 이러한 인증은 Microsoft가 개인 정보 및 보안 위험을 효과적으로 완화하고 데이터 주권 문제를 해결하기 위해 클라우드 서비스를 설계, 구축 및 운영하고 공공 부문 고객 모두에게 제공하는 방법의 핵심입니다. 클라우드 [컴퓨팅 ISPC에 대한 Azure](https://azure.microsoft.com/resources/microsoft-azure-response-to-nz-gcio-cloud-computing-information-security-privacy-considerations/) 응답은 고객이 다운로드할 수 있습니다.
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
 
@@ -46,32 +44,29 @@ Azure 보안 및 준수 청사진을 사용 하 여 NZ CC Framework 배포를 �
 - Intune
 - 독립형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power BI 클라우드 서비스
 - [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Exchange Online, SharePoint Online 및 Microsoft 팀 Microsoft NZ는 GCIO 팀과 협력 하 여 Exchange Online 및 SEEMail의 통합을 위한 참조 아키텍처를 개발 했습니다.
+- Exchange Online, SharePoint 온라인 및 Microsoft Teams. Microsoft NZ는 GCIO 팀과 함께 통합을 위한 참조 아키텍처를 개발하기 위해 Exchange Online 참조 아키텍처를 개발하고 있습니다.
 
-## <a name="frequently-asked-questions"></a>자주하는 질문
+## <a name="frequently-asked-questions"></a>질문과 대답
 
-**프레임 워크를 적용할 사람**
+**프레임워크는 누구에게 적용하나요?**
 
-GCIO 요구 사항이 적용 되는 조직, 공용 및 공용이 아닌 서비스 부서, 20 개의 학구 상태 보드 및 7 Crown 엔터티는 클라우드 서비스 사용을 결정할 때 프레임 워크를 준수 해야 합니다.
+GCIO 위임, 공공 및 비공용 서비스 부서, 20개 교육구 보건 위원회 및 7개 교육구 기관에 속하는 조직은 클라우드 서비스 사용을 결정할 때 프레임워크를 준수해야 합니다.
 
-**해당 ICT 시스템의 인증 프로세스에서이 프레임 워크에 대 한 Microsoft의 응답을 에이전시에서 사용할 수 있나요?**
+**기관에서 ICT 시스템의 인증 프로세스에서 이 프레임워크에 대한 Microsoft의 응답을 사용할 수 있나요?**
 
-[새 뉴질랜드 정보 보안 설명서](https://go.microsoft.com/fwlink/p/?linkid=2099496)에서 해당 ICT 시스템의 인증 및 인정을 수행 하기 위해 에이전시가 필요한 경우에는 이러한 반응을 분석의 일부로 사용할 수 있습니다.
+기관이 뉴질랜드 정보 보안 설명서에 따라 ICT 시스템의 인증 및 [](https://go.microsoft.com/fwlink/p/?linkid=2099496)인증을 획득해야 하는 경우 이러한 응답을 분석의 일부로 사용할 수 있습니다.
 
 ## <a name="resources"></a>리소스
 
-- [Offshore hosted Office 생산성 서비스에 대 한 보안 요구 사항: Office 365에 대 한 준수 가이드](https://aka.ms/o365-gcio-conformance-guidance)
-- [뉴질랜드 보안 및 개인 정보 요구 사항의 맥락에서 Microsoft Azure 준수](https://aka.ms/azurecompliancenewzealand)
-- [NZ 정부 ICT 전략 2015](https://www.ict.govt.nz/strategy-and-action-plan/strategy/)
-- [클라우드 컴퓨팅을 위한 NZ 정부 요구 사항](https://aka.ms/NZ-Cloud-Requirements)
-- [클라우드 컴퓨팅: 정보 보안 및 개인 정보 보호 고려 사항 (ISPC)](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/cloud-services/)
+- [해상에서 호스팅되는 Office 생산성 서비스에 대한 보안 요구 사항: Office 365](https://aka.ms/o365-gcio-conformance-guidance)
+- [NZ Government ICT Strategy 2015](https://www.ict.govt.nz/strategy-and-action-plan/strategy/)
+- [클라우드 컴퓨팅: ISPC(정보 보안 및 개인 정보 보호 고려 사항)](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/cloud-services/)
 - [Microsoft 온라인 서비스 사용 약관](https://aka.ms/Online-Services-Terms)
 - [Microsoft 보안 센터에 대한 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 
-## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>' Cloud 컴퓨팅 IPSC '에 대 한 Microsoft 응답
+## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>'클라우드 컴퓨팅 IPSC'에 대한 Microsoft 응답
 
 - [Azure](https://aka.ms/Azure-NZ-response)
-- [Dynamics 365](https://aka.ms/d365-nz-response)
 - [Intune](https://aka.ms/Intune-NZ-response)
 - [Office 365](https://aka.ms/O365-NZ-Response)
 - [Power BI](https://download.microsoft.com/download/5/1/7/51726B9B-2E76-49C4-9D4F-A36BF025CB93/Response-to-GCIO-105-questions-Power-BI.pdf)

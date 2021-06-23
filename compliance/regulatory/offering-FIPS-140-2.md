@@ -1,7 +1,7 @@
 ---
 title: FIPS(Federal Information Processing Standard) 게시 140-2
 description: Microsoft는 암호화 모듈이 미국 연방 정보 처리 표준을 준수하는지 인증합니다.
-keywords: Microsoft 365, 규정 준수, 제안
+keywords: Microsoft 365, 규정 준수, 제품
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,72 +16,72 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d7d1f47d7f76f9fc6d3cefa6cac5be807af98cbc
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 0838ce11e732f5c6e8c79c40af0e85bff9d22caf
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120837"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089732"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>FIPS(Federal Information Processing Standard) 게시 140-2
 
 ## <a name="fips-140-2-standard-overview"></a>FIPS 140-2 표준 개요
 
-FIPS(Federal Information Processing Standard) 발행물 140-2는 1996년 정보 기술 관리 재구성법 5131조에 규정된 정보 기술 제품의 암호화 모듈에 대한 최소 보안 요구 사항을 정의하는 미국 정부 표준입니다.
+FIPS(Federal Information Processing Standard) 발행물 140-2는 1996년 정보 기술 관리 재구성법의 5131조에 정의된 정보 기술 제품에서 암호화 모듈에 대한 최소 보안 요구 사항을 정의하는 미국 정부 표준입니다.
 
-미국 [](https://csrc.nist.gov/Projects/cryptographic-module-validation-program) NIST(National Institute of Standards and Technology) 및 CCCS(Canadian Institute for Cyber Security)의 공동 노력인 CMVP(암호화 모듈 유효성 검사 *프로그램)는* 암호화 모듈 표준(예: FIPS 140-2) 및 관련 FIPS 암호화 표준에 대한 보안 요구 사항에 대한 암호화 모듈의 유효성을 검사합니다. FIPS 140-2 보안 요구 사항에는 암호화 모듈의 디자인 및 구현과 관련된 11개 영역이 포함됩니다. NIST 정보 기술 실험실은 모듈에서 FIPS 승인 암호화 알고리즘의 유효성을 검사하는 관련 프로그램을 운영합니다.
+미국 [](https://csrc.nist.gov/Projects/cryptographic-module-validation-program) NIST(National Institute of Standards and Technology) 및 CCCS(Canadian Institute for Cyber Security)의 공동 노력인 CMVP(암호화 모듈 유효성  검사 프로그램)는 암호화 모듈의 보안 요구 사항(예: FIPS 140-2) 및 관련 FIPS 암호화 표준에 대한 암호화 모듈의 유효성을 검사합니다. FIPS 140-2 보안 요구 사항에는 암호화 모듈의 디자인 및 구현과 관련된 11개 영역이 포함됩니다. NIST 정보 기술 실험실은 모듈에서 FIPS 승인 암호화 알고리즘의 유효성을 검사하는 관련 프로그램을 운영합니다.
 
 ## <a name="microsofts-approach-to-fips-140-2-validation"></a>FIPS 140-2 유효성 검사에 대한 Microsoft의 접근 방식
 
-Microsoft는 2001년 표준이 시작된 이래로 암호화 모듈의 유효성을 검사하여 140-2 요구 사항을 충족하기 위한 적극적인 약속을 유지하고 있습니다. Microsoft는 NIST(National Institute of Standards and Technology) CMVP(암호화 모듈 유효성 검사 [프로그램)에서](https://csrc.nist.gov/Projects/cryptographic-module-validation-program) 암호화 모듈의 유효성을 검사합니다. 많은 클라우드 서비스를 비롯한 여러 Microsoft 제품은 이러한 암호화 모듈을 사용합니다.
+Microsoft는 2001년 표준이 시작된 이후 암호화 모듈의 유효성을 검사하여 140-2 요구 사항을 충족하기 위한 적극적인 약속을 유지하고 있습니다. Microsoft는 NIST(National Institute of Standards and Technology) CMVP(암호화 모듈 유효성 검사 [프로그램)에서](https://csrc.nist.gov/Projects/cryptographic-module-validation-program) 암호화 모듈의 유효성을 검사합니다. 많은 클라우드 서비스를 포함한 여러 Microsoft 제품은 이러한 암호화 모듈을 사용합니다.
 
-Microsoft Windows 암호화 모듈, 각 모듈에 대한 보안 정책 및 CMVP 인증서 세부 정보 카탈로그에 대한 기술 정보는 Windows 및 [Windows Server FIPS 140-2](https://aka.ms/AA6ehud)콘텐츠를 참조하세요.
+Microsoft Windows 모듈, 각 모듈에 대한 보안 정책 및 CMVP 인증서 세부 정보 카탈로그에 대한 기술 정보는 Windows 및 Windows [Server FIPS 140-2](https://aka.ms/AA6ehud)콘텐츠를 참조하세요.
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
 
-현재 CMVP FIPS 140-2 구현 지침에서는 클라우드 서비스 자체에 대한 FIPS 140-2 유효성 검사를 제외합니다. 클라우드 서비스 공급자는 클라우드 서비스를 구성하는 컴퓨팅 요소에 대해 FIPS 140의 유효성이 검사된 암호화 모듈을 획득하고 작동하도록 선택할 수 있습니다. FIPS가 140-2인 구성 요소가 포함된 Microsoft 온라인 서비스는 다음과 같습니다.
+현재 CMVP FIPS 140-2 구현 지침에서는 클라우드 서비스 자체에 대한 FIPS 140-2 유효성 검사를 제외합니다. 클라우드 서비스 공급자는 클라우드 서비스를 구성하는 컴퓨팅 요소에 대해 FIPS 140 유효성이 검사된 암호화 모듈을 획득하고 작동하도록 선택할 수 있습니다. FIPS 140-2 유효성이 검사된 구성 요소가 포함된 Microsoft 온라인 서비스는 다음과 같습니다.
 
 - [Azure 및 Azure Government](/azure/azure-government/documentation-government-plan-security)
 - [Dynamics 365 및 Dynamics 365 Government](/microsoft-365/compliance/office-365-encryption-in-microsoft-dynamics-365)
 - [Office 365, Office 365 U.S. Government, Office 365 U.S. Government Defense](/microsoft-365/compliance/office-365-encryption-risks-and-protections)
 
-## <a name="frequently-asked-questions"></a>자주 묻는 질문
+## <a name="frequently-asked-questions"></a>질문과 대답
 
-**"FIPS 140 Validated" 및 "FIPS 140 compliant"의 차이점은 무엇입니까?**
+**'FIPS 140 유효성 검사' 및 'FIPS 140 호환'의 차이점은 무엇입니까?**
 
-"FIPS 140 Validated"는 암호화 모듈 또는 모듈을 추가하는 제품이 FIPS 140-2 요구 사항을 충족하는 것으로 CMVP에 의해 유효성이 검사("인증")된 것입니다. "FIPS 140 규격"은 암호화 기능을 위해 FIPS 140의 유효성이 검사된 제품을 사용 하는 IT 제품에 대한 업계 용어입니다.
+'FIPS 140 Validated'는 CMVP가 FIPS 140-2 요구 사항을 충족하는 암호화 모듈 또는 모듈을 설치한 제품의 유효성을 검사('인증')했다는 의미입니다. 'FIPS 140 규격'은 암호화 기능에 FIPS 140 유효성 검사 제품을 사용 하는 IT 제품에 대한 업계 용어입니다.
 
 **Microsoft는 언제 FIPS 140 유효성 검사를 진행하나요?**
 
-모듈 유효성 검사를 시작하는 정도는 Windows 10 및 Windows Server의 기능 업데이트와 일치합니다. 소프트웨어 산업이 발전함에 따라 운영 체제가 월별 소프트웨어 업데이트를 통해 더 자주 릴리스됩니다. Microsoft는 기능 릴리스에 대한 유효성 검사를 진행하지만 릴리스 사이에는 암호화 모듈의 변경 내용을 최소화하기 위해 노력합니다.
+모듈 유효성 검사를 시작하는 케이던스가 Windows 10 서버의 기능 Windows 정렬됩니다. 소프트웨어 산업이 발전함에 따라 운영 체제가 월별 소프트웨어 업데이트와 함께 더 자주 릴리스됩니다. Microsoft는 기능 릴리스에 대한 유효성 검사를 진행하지만 릴리스 사이에는 암호화 모듈의 변경 내용을 최소화하기 위해 노력합니다.
 
 **FIPS 140 유효성 검사에 포함되는 컴퓨터는 무엇입니까?**
 
-Microsoft는 Windows 10 및 Windows Server를 실행하는 하드웨어 구성의 대표 샘플에서 암호화 모듈의 유효성을 검사합니다. 일반적으로 환경에서 하드웨어를 사용하는 경우 유효성 검사 프로세스에 사용되는 샘플과 유사한 이 FIPS 140-2 유효성 검사를 수락하는 것이 일반적입니다.
+Microsoft는 Windows 10 및 Windows 실행되는 하드웨어 구성의 대표 샘플에서 암호화 모듈의 유효성을 검사합니다. 일반적으로 환경에서 하드웨어를 사용하는 경우 유효성 검사 프로세스에 사용되는 샘플과 유사한 이 FIPS 140-2 유효성 검사를 수락하는 것이 일반적입니다.
 
 **NIST 웹 사이트에는 여러 모듈이 나열되어 있습니다. 기관에 어떤 것이 적용되는지 어떻게 알 수 있나요?**
 
-FIPS 140-2를 통해 유효성이 검사된 암호화 모듈을 사용하려면 사용하는 버전이 유효성 검사 목록에 나타나는지 확인해야 합니다. CMVP 및 Microsoft는 Windows 시스템에 설치된 모듈을 식별하기 위한 지침과 함께 제품 릴리스별로 구성되는 유효성이 검사된 암호화 모듈 목록을 유지 관리합니다. 규정을 준수하도록 시스템을 구성하는 데 대한 자세한 내용은 Windows 및 [Windows Server FIPS 140-2 콘텐츠를 참조하세요.](https://aka.ms/AA6ehud)
+FIPS 140-2를 통해 유효성이 검사된 암호화 모듈을 사용하려면 사용하는 버전이 유효성 검사 목록에 나타나는지 확인해야 합니다. CMVP 및 Microsoft는 제품 릴리스별로 구성되는 유효성이 검사된 암호화 모듈 목록을 유지 관리하며, Windows 시스템에 설치되는 모듈을 식별합니다. 규격으로 시스템을 구성하는 데 대한 자세한 내용은 Windows 및 Windows [Server FIPS 140-2 콘텐츠를 참조하세요.](https://aka.ms/AA6ehud)
 
 **인증서에 대한 'FIPS 모드에서 작동하는 경우'는 무엇을 의미하나요?**
 
-이 주의는 FIPS 140-2 보안 정책과 일관된 방식으로 암호화 모듈을 사용하려면 필수 구성 및 보안 규칙을 따라야 하도록 독자에게 알릴 수 있습니다. 각 모듈에는 자체 보안 정책(작동할 보안 규칙의 정확한 사양)이 있으며 승인된 암호화 알고리즘, 암호화 키 관리 및 인증 기술을 사용합니다. 보안 규칙은 각 모듈에 대한 보안 정책에 정의되어 있습니다. CMVP를 통해 유효성이 검사된 각 모듈에 대한 보안 정책 링크를 비롯한 자세한 내용은 Windows 및 [Windows Server FIPS 140-2 콘텐츠를 참조하세요.](https://aka.ms/AA6ehud)
+이 주의는 FIPS 140-2 보안 정책과 일관된 방식으로 암호화 모듈을 사용하기 위해 필요한 구성 및 보안 규칙을 따라야 하다는 경고를 독자에게 알릴 수 있습니다. 각 모듈에는 자체 보안 정책(작동할 보안 규칙의 정확한 사양)이 있으며 승인된 암호화 알고리즘, 암호화 키 관리 및 인증 기술을 사용합니다. 보안 규칙은 각 모듈에 대한 보안 정책에서 정의됩니다. CMVP를 통해 유효성이 검사된 각 모듈에 대한 보안 정책에 대한 링크를 비롯한 자세한 내용은 Windows 및 Windows [Server FIPS 140-2 콘텐츠를 참조하세요.](https://aka.ms/AA6ehud)
 
 **FedRAMP에 FIPS 140-2 유효성 검사가 필요합니까?**
 
-예, FedRAMP(Federal Risk and Authorization Management Program)는 FIPS 유효성 검사 암호화 또는 NSA 승인 암호화 사용을 규정하는 [SC-13](https://nvd.nist.gov/800-53/Rev4/control/SC-13) 암호화 보호를 포함하여 [NIST SP 800-53 개정 4에](https://nvd.nist.gov/800-53/Rev4/)정의된 제어 기준을 활용합니다.
+예. FedRAMP(Federal Risk and Authorization Management Program)는 FIPS 유효성이 검사된 암호화 또는 NSA 승인 암호화 사용을 규정하는 [SC-13](https://nvd.nist.gov/800-53/Rev4/control/SC-13) 암호화 보호를 포함하여 [NIST SP 800-53 개정 4에](https://nvd.nist.gov/800-53/Rev4/)정의된 제어 기준을 활용합니다.
 
-**Microsoft Azure는 FIPS 140-2를 어떻게 지원하나요?**
+**어떤 Microsoft Azure FIPS 140-2를 지원하나요?**
 
-Azure는 하드웨어, 상업적으로 사용할 수 있는 운영 체제(Linux 및 Windows) 및 Azure 관련 Windows 버전을 조합하여 구축되었습니다. [운영](https://www.microsoft.com/securityengineering/sdl/) 체제는 하이퍼 스케일 클라우드에서 작동하면서 FIPS 140-2 승인 알고리즘을 사용하기 때문에 Microsoft SDL(보안 개발 수명 주기)을 통해 모든 Azure 서비스는 데이터 보안을 위해 FIPS 140-2 승인 알고리즘을 사용합니다.
+Azure는 하드웨어, 시판되는 운영 체제(Linux 및 Windows) 및 Azure 관련 버전의 하드웨어를 Windows. Microsoft SDL(보안 개발 수명 [주기)을](https://www.microsoft.com/securityengineering/sdl/) 통해 모든 Azure 서비스는 데이터 보안을 위해 FIPS 140-2 승인 알고리즘을 사용합니다. 운영 체제는 하이퍼 스케일 클라우드에서 작동하면서 FIPS 140-2 승인 알고리즘을 사용하기 때문에.
 
 **기관의 인증 프로세스에서 Microsoft의 FIPS 140-2 준수를 사용할 수 있나요?**
 
-FIPS 140-2를 준수하려면 암호화 모듈이 FIPS 승인 알고리즘만 사용하는지 확인하는 작업을 포함하는 FIPS 승인된 작업 모드에서 실행하도록 시스템을 구성해야 합니다. 규정을 준수하도록 시스템을 구성하는 데 대한 자세한 내용은 Windows 및 [Windows Server FIPS 140-2 콘텐츠를 참조하세요.](https://aka.ms/AA6ehud)
+FIPS 140-2를 준수하려면 암호화 모듈이 FIPS 승인 알고리즘만 사용하는지 확인을 포함하는 FIPS 승인된 작업 모드에서 실행하도록 시스템을 구성해야 합니다. 규격으로 시스템을 구성하는 데 대한 자세한 내용은 Windows 및 Windows [Server FIPS 140-2 콘텐츠를 참조하세요.](https://aka.ms/AA6ehud)
 
 **FIPS 140-2와 일반 조건 간의 관계는 무엇입니까?**
 
-서로 다르지만 보완적인 두 가지 보안 표준입니다. FIPS 140-2는 소프트웨어 및 하드웨어 암호화 모듈의 유효성을 검사하도록 디자인된 반면, 공통 조건은 IT 소프트웨어 및 하드웨어 제품의 보안 기능을 평가하도록 디자인되었습니다. 일반적인 기준 평가는 종종 FIPS 140-2 유효성 검사를 사용하여 기본 암호화 기능이 제대로 구현되었는지 보장합니다.
+서로 다르지만 상호 보완적인 두 가지 보안 표준입니다. FIPS 140-2는 소프트웨어 및 하드웨어 암호화 모듈의 유효성을 검사하도록 특별히 디자인된 반면, 공통 조건은 IT 소프트웨어 및 하드웨어 제품의 보안 기능을 평가하도록 디자인되었습니다. 일반적인 기준 평가는 종종 FIPS 140-2 유효성 검사를 사용하여 기본 암호화 기능이 제대로 구현되었는지 확인합니다.
 
 ## <a name="resources"></a>리소스
 

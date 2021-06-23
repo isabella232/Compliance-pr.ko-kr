@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 420f95b0a7f7625ff10d76baf5f1c9d9efb69c6a
-ms.sourcegitcommit: 2b347c9b778ac9b6450daf20fdf8eb74ed14cbbd
+ms.openlocfilehash: 9d228a02e9c2eaa268d36a8948dbcbb417580f0c
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51002198"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089782"
 ---
 # <a name="trusted-information-security-assessment-exchange-tisax-germany"></a>신뢰할 수 있는 정보 보안 평가 교환(TISAX) 독일
 
@@ -64,7 +64,7 @@ ENX에 등록한 업계 대표자는 [ENX 포털](https://portal.enx.com/ko-KR/)
 
 **Microsoft TISAX 인증 사본을 볼 수 없는 이유는 무엇인가요?**
 
-ENX는 ENX 포털을 통해 등록된 업계 대표자에게만 인증 확인을 제공합니다. 진행하는 방법에 대한 자세한 내용은 위의 "감사, 보고서 및 인증서" 섹션을 참조하세요.
+ENX는 ENX 포털을 통해 등록된 업계 대표자에게만 인증 확인을 제공합니다. 진행하는 방법에 대한 자세한 내용은 위의 ‘감사, 보고서 및 인증서" 섹션을 참조하세요.
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
 

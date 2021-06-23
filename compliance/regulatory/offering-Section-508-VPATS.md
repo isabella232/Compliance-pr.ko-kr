@@ -1,7 +1,7 @@
 ---
-title: 미국 508
-description: Microsoft는 이러한 서비스의 내게 필요한 옵션 기능을 설명 하는 많은 클라우드 서비스에 대 한 자세한 내게 필요한 옵션 규칙 보고서를 제공 합니다.
-keywords: Microsoft 365, 규정 준수, 제안
+title: 미국 섹션 508
+description: Microsoft는 해당 서비스의 접근성 기능을 설명하는 많은 클라우드 서비스에 대한 자세한 접근성 적합성 보고서를 제공합니다.
+keywords: Microsoft 365, 규정 준수, 제품
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,24 +16,24 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4af002c6543659ce78cd7d03e037088324e6af2e
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: b6c48ebc9461010db1e129e88e53b4ada5c32683
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508305"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088807"
 ---
-# <a name="us-section-508"></a>미국 508
+# <a name="us-section-508"></a>미국 섹션 508
 
-## <a name="about-us-section-508"></a>미국 508 섹션
+## <a name="about-us-section-508"></a>미국 섹션 508
 
-미국 Congress에서는 2000 1998 Rehabilitation가 소프트웨어, 하드웨어, 전자 콘텐츠 및 지원 설명서와 같은 EIT (전자 및 정보 기술) 제품을 사용 하 여 장애가 있는 사용자가 액세스할 수 있도록 하는 연방 기관에 게 제공 됩니다. Rehabilitation의 미국 508, 1973 (29 US 코드 § 794d), 수정 된 것 처럼, 연방 기관에서 EIT가 포함 된 직원 들이 다른 연방 직원과 비교 하 고, 데이터 및 EIT에 대 한 액세스를 보장 하 고 사용 하도록 하는 방식으로이를 사용 하는 것이 좋습니다.
+미국 의회는 1998년과 2000년 재활성화법을 개정하여 연방 기관이 장애가 있는 사람이 액세스할 수 있는 소프트웨어, 하드웨어, 전자 콘텐츠 및 지원 문서와 같은 EIT(전자 및 정보 기술) 제품을 만들 수 있도록 요구했습니다. 미국 근로자 재활성화법 1973(29 US Code §794d)의 508조는 연방 기관이 장애가 있는 연방 공무원이 다른 연방 직원을 상대로 동등한 액세스 및 데이터 및 EIT를 사용할 수 있도록 하여 연방 기관이 EIT를 조달, 유지 및 사용할 수 있도록 규정합니다.
 
-Microsoft는 미국 연방 및 지방 정부에 대 한 주요 소프트웨어 및 클라우드 서비스 공급자입니다.  정부 고객이 조달 의사 결정을 지원 하기 위해 Microsoft는 제품 및 서비스가 508 섹션의 기준을 지 원하는 범위를 설명 하는 내게 필요한 옵션 규칙 보고서를 게시 합니다.  이 정보를 통해 Microsoft 고객에게 특정 제품이나 서비스가 요구 사항을 충족하는지 확인하는 데 도움이 될 수 있습니다.
+Microsoft는 미국 연방 및 주 정부에 대한 주요 소프트웨어 및 클라우드 서비스 공급자입니다.  정부 고객의 조달 결정을 지원하기 위해 Microsoft는 제품 및 서비스가 섹션 508의 기준을 지원하는 정도를 설명하는 접근성 적합성 보고서를 게시합니다.  이 정보를 통해 Microsoft 고객에게 특정 제품이나 서비스가 요구 사항을 충족하는지 확인하는 데 도움이 될 수 있습니다.
 
-## <a name="microsoft-and-us-section-508"></a>Microsoft 및 미국식 섹션 508
+## <a name="microsoft-and-us-section-508"></a>Microsoft 및 미국 섹션 508
 
-제품 및 서비스 개발에서 미국 섹션 508에 대 한 Microsoft의 고려 사항은 모든 고객이 사용할 수 있는 기술 및 데이터를 만들기 위한 약정을 가리킵니다.
+제품 및 서비스 개발에 대한 Microsoft의 미국 섹션 508 고려 사항은 모든 고객이 기술 및 데이터에 액세스할 수 있도록 만들겠다는 약속을 지니는 것입니다.
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
 
@@ -51,8 +51,8 @@ Microsoft는 미국 연방 및 지방 정부에 대 한 주요 소프트웨어 �
 
 ## <a name="resources"></a>리소스
 
-- [Microsoft 내게 필요한 옵션 페이지](https://go.microsoft.com/fwlink/p/?linkid=2051579): 모든 사용자가 더 많은 작업을 수행할 수 있도록 microsoft innovates을 활용 하는 방법을 알아봅니다.
+- [Microsoft 접근성 페이지:](https://go.microsoft.com/fwlink/p/?linkid=2051579)모든 사람이 더 많은 성과를 달성할 수 있도록 Microsoft가 혁신하는 방법을 살펴보십시오.
 - [Office 365 접근성 센터](https://go.microsoft.com/fwlink/p/?linkid=2051801): 장애가 있는 사용자를 위한 Office 365 리소스
 - [Enterprise Disability Answer Desk](https://go.microsoft.com/fwlink/p/?linkid=2050890): 제품 및 서비스 또는 규정 준수에 대한 접근성과 관련된 질문이 있는 엔터프라이즈 고객을 위한 전용 지원
-- [DHS 신뢰할 수 있는 테스터 프로그램](https://go.microsoft.com/fwlink/?linkid=2052171): Microsoft가 참여 하는 DHS (Homeland Security) 신뢰할 수 있는 테스터 프로그램에 대 한 정보를 가져옵니다.
+- [DHS 신뢰할](https://go.microsoft.com/fwlink/?linkid=2052171)수 있는 테스터 프로그램: Microsoft가 참여하는 미국 DHS(미국 국토 보안) 신뢰할 수 있는 테스터 프로그램에 대한 정보를 얻습니다.
 - [Microsoft 보안 센터에 대한 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)

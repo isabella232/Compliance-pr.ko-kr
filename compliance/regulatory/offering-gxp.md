@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e93f71a023fe79e768e96b3c8894bf09d0655b6e
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: d8ffd78c4d762d72310e3ac5b200d422b0af26cf
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508260"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089762"
 ---
 # <a name="good-clinical-laboratory-and-manufacturing-practices-gxp"></a>임상, 실험실 및 제조 모범 사례 (GxP)
 
@@ -55,7 +55,7 @@ Azure 및 Office 365에서 GxP 솔루션을 구축하는 생명 과학 조직은
 ## <a name="how-to-implement"></a>구현 방법
 
 - [Microsoft 365 GxP 지침](../downloads/microsoft-365-gxp-guidelines-july-2020.pdf): GxP 모범 사례 및 규정을 준수하면서 Microsoft 365를 사용하기 위한 백서입니다.
-- [Microsoft Dynamics 365 GxP 지침](../downloads/microsoft-dynamics-365-gxp-guidelines-july-2020.pdf): GxP 모범 사례 및 규정을 준수하면서 Microsoft Dynamics 365를 사용하기 위한 백서입니다.
+- [Microsoft Dynamics 365 GxP 지침](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=fb579b09-0874-4197-a97e-a25992383482&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_Compliance_Guides): GxP 모범 사례 및 규정을 준수하면서 Microsoft Dynamics 365를 사용하기 위한 백서입니다.
 - [Azure GxP 지침](https://aka.ms/gxpcompliance): GxP 모범 사례 및 규정을 준수하면서 Azure를 사용하기 위한 포괄적인 도구 집합입니다.
 - [GxP 시스템과 함께 Azure 사용](https://aka.ms/GXP-Azure-Strategies): 생명 과학 조직이 GxP 응용 프로그램을 구축하기 위한 전략을 수립하는 데 도움이됩니다.
 - FDA CFR Title 21 Part 11 가이드: 전자 기록에 대한 FDA 지침을 준수하는 [Azure](https://aka.ms/Azure-FDA-Guidelines) 및 [Office 365](https://aka.ms/o365-qualification-guideline) 인증 전략 수립에 대한 도움을 받으세요.

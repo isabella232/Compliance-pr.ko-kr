@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9aca1e5019967db6f73de245cd75ceba88e62e64
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 1b391d3f3cd748047e24bf9e82d3c267ca7425a7
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120877"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089551"
 ---
 # <a name="financial-market-supervisory-authority-finma-switzerland"></a>스위스 금융시장감독청 (FINMA, Financial Market Supervisory Authority)
 
@@ -58,7 +58,7 @@ Microsoft의 점검 목록은 스위스 금융 기업이 Microsoft 비즈니스 
 
 **규제적 승인이 필요한가요?**
 
-아니요. 공용 클라우드 컴퓨팅의 사용은 FINMA의 승인 없이 허용될 수 있으며 항상 위에 나열된 규정 및 지침에 명시된 요구 사항을 준수해야 합니다.
+아니오. 공용 클라우드 컴퓨팅의 사용은 FINMA의 승인 없이 허용될 수 있으며 항상 위에 나열된 규정 및 지침에 명시된 요구 사항을 준수해야 합니다.
 
 **클라우드 서비스 공급 업체와의 계약에 포함해야 하는 필수 약관이 있나요?**
 
