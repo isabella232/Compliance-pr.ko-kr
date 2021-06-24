@@ -8,6 +8,8 @@
       href: /microsoft-365/enterprise/microsoft-365-tenant-isolation-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: AAD의 격리 및 액세스 컨트롤
       href: /microsoft-365/enterprise/microsoft-365-isolation-in-azure-active-directory?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Microsoft 365 인프라 보호
+      href: assurance-securing-microsoft-365-infrastructure.md
 - name: 감사 로깅
   items:
     - name: 감사 로깅 개요
@@ -62,6 +64,8 @@
       href: assurance-pre-employment-screening.md
     - name: Microsoft 클라우드 백그라운드 검사
       href: assurance-cloud-background-check.md
+    - name: Microsoft 직원 전근 및 고용 종료
+      href: assurance-employee-transfer-termination.md
 - name: ID 및 액세스 관리
   items:
     - name: ID 및 액세스 관리 개요
@@ -150,6 +154,8 @@
   items:
     - name: 리스크 관리 개요
       href: assurance-risk-management.md
+    - name: Microsoft 365 위험 관리 프로그램
+      href: assurance-risk-management-program.md
 - name: 보안 개발 및 운영
   items:
     - name: 보안 개발 및 작업 개요
