@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b5921a0535b9fe3dd84f4faf57dca4d7d117498e
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 16965373da1be8289a86319bb715f987624badd4
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121313"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088827"
 ---
 # <a name="canadian-privacy-laws"></a>캐나다 개인 정보 보호법
 
@@ -72,7 +72,7 @@ Azure와 Intune은 [ISO/IEC 27001](offering-ISO-27001.md) 및 [SOC 프레임워�
 
 캐나다의 Microsoft 비즈니스 클라우드 서비스 고객은 [자신의 고객 데이터가 저장되어 있는 위치를 알고 있습니다](https://www.microsoft.com/trust-center/privacy/data-location). 게다가 고객 데이터가 있는 위치와 상관없이, Microsoft는 고객이나 최종 사용자가 자신의 데이터에 액세스할 수 있는 위치를 컨트롤하거나 제한하지 않습니다.  
 
-PIPEDA에서는 캐나다 기업이 캐나다에서 개인 정보를 유지해야 할 필요가 없습니다. 그러나 조직이 사업하는 행정 구역 또는 산업에 따라 특정 유형의 데이터를 캐나다의 국경 내에서 유지해야 할 수 있습니다. 이러한 유형의 요구 사항을 충족하기 위해 Microsoft에서는 캐나다에 Azure 및 Intune을 지원하는 두 개의 데이터 센터를 건립하고(토론토와 퀘벡) 각 데이터 센터가 엄격한 보안 요구 사항을 충족하는지 확인합니다.
+PIPEDA는 캐나다 기업이 개인 정보를 캐나다에 보관할 것을 요구하지 않습니다. 그러나 조직이 사업하는 행정 구역 또는 산업에 따라 특정 유형의 데이터를 캐나다의 국경 내에서 유지해야 할 수 있습니다. 이러한 유형의 요구 사항을 충족하기 위해 Microsoft에서는 캐나다에 Azure 및 Intune을 지원하는 두 개의 데이터 센터를 건립하고(토론토와 퀘벡) 각 데이터 센터가 엄격한 보안 요구 사항을 충족하는지 확인합니다.
 
 ## <a name="resources"></a>리소스
 

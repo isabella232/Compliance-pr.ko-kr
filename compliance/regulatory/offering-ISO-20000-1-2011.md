@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a04e5b7b0a292cfe419118085d387051e0c56e48
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 9995a237a82d41bfbb6740dbbe448f1ef3ae750a
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497768"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088997"
 ---
 # <a name="isoiec-20000-12011-information-technology-service-management"></a>ISO/IEC 20000-1:2011 정보 기술 서비스 관리
 
@@ -70,11 +70,11 @@ ISO 20000-1 문서는 다음과 같습니다.
 
 예. ISO 20000-1:2011 연간 평가는 기본 물리적 인프라 데이터 센터를 포함합니다. 적용 범위 세부 정보는 인증서를 검토하세요.
 
-**ISO 20000-1:2011에 대한 Microsoft의 규정 준수 정보는 어디에서 확인할 수 있습니까?**
+**ISO 20000-1:2011에 대한 Microsoft의 규정 준수 정보는 어디에서 확인할 수 있나요?**
 
-Azure와 이 평가 범위에 있는 추가 서비스의 ISO 20000-1:2011 인증서를 다운로드할 수 있습니다.
+이 평가 범위에 속하는 Azure 및 추가 서비스의 ISO 20000-1:2011 인증서를 다운로드할 수 있습니다.
 
-**우리 회사의 인증 프로세스에 Microsoft 서비스 규정 준수를 ISO 20000-1:2011에 사용할 수 있나요?**
+**ISO 20000-1:2011에 대한 Microsoft 서비스 규정 준수를 우리 조직의 인증 프로세스에서 사용할 수 있나요?**
 
 예. 범위 내 서비스에 배포되는 구현에 대해 인증을 받아야 하는 고객은 규정 준수 평가 시 관련 Microsoft 인증을 사용할 수 있습니다. 하지만 구현에 대한 규정 준수를 평가하기 위한 평가자와의 계약과 고유 조직 내 통제 수단 및 프로세스에 대해서는 파트너가 책임을 져야 합니다.
 

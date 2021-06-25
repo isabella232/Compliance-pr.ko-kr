@@ -15,12 +15,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: b047b4ccf7fa9745a7237de79bbaa198e079865e
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 298f0efe74539c8a8bd10330cfeb80894ef9edb1
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496024"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089017"
 ---
 # <a name="gdpr-for-office-web-apps-server-and-office-online-server"></a>Office Web Apps Server 및 Office Online Server GDPR
 
@@ -72,7 +72,7 @@ Office Online Server 및 Office Web Apps Server 원격 분석 데이터는 ULS �
 
 ## <a name="types-of-data"></a>데이터 형식
 
-Office 로그는 다양한 형식의 데이터를 포함합니다. 다음은 ULS 로그에 포함될 수 있는 데이터의 예입니다.
+Office 로그는 다양한 데이터 형식을 포함합니다. 다음은 ULS 로그에 포함될 수 있는 데이터의 예시입니다.
 
 - 제품을 사용하는 동안 발생한 문제의 오류 코드
 
@@ -82,7 +82,7 @@ Office 로그는 다양한 형식의 데이터를 포함합니다. 다음은 ULS
 
 - 사용자의 컴퓨터 위치에 대한 일반적인 위치 정보(예: IP 주소에서 파생된 국가/지역, 시/도), 하지만 정확한 지리적 위치는 배제
 
-- 브라우저(예: 브라우저 이름 및 버전) 및 컴퓨터(예: 데이터 OS 유형 및 버전)에 대한 기본 메타데이터
+- 브라우저(예: 브라우저 이름 및 버전) 및 컴퓨터(예: OS 유형 및 버전)에 관한 기본 메타데이터
 
 - 문서 호스트(예: OneDrive, SharePoint, Exchange)에서 보낸 오류 메시지
 

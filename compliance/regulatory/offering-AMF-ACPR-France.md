@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: cd26a6a8256d2efa85451e84f1caffc7e68c043b
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: e83206a9d8f0639d529b64f00c07a79a16d40f0d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121407"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088517"
 ---
 # <a name="financial-authority-amf-and-prudential-authority-acpr-france"></a>프랑스 재무 기관(AMF) 및 건전성 감독청(ACPR)
 
@@ -36,7 +36,7 @@ AMF 및 ACPR은 “유럽 뱅킹 부문 전반에서 효과적이고 일관된 �
 - AMF 종합감독규정([프랑스어](https://amf-france.org/eli/fr/aai/amf/rg/livre/1/fr.html) 및 [영어](https://amf-france.org/eli/fr/aai/amf/rg/20180103/notes/en.pdf))은 재무 법규를 적용하는 규칙과 절차를 제정합니다. 특히 313-75 조항은 재무 기관이 클라우드 서비스 공급자와 체결하는 계약에 반영해야 하는 조건을 명시합니다.
 - ACPR은 클라우드 컴퓨팅에 관련된 위험([프랑스어](https://acpr.banque-france.fr/sites/default/files/medias/documents/201307-risques-associes-au-cloud-computing.pdf) 및 [영어](https://acpr.banque-france.fr/sites/default/files/medias/documents/201307-the-risks-associated-with-cloud-computing.pdf))을 게시했으며, 이는 ACPR 감독 하의 조직들이 비즈니스 기능을 클라우드로 외주 처리할 때 위험을 관리하기 위한 적절한 조치를 취할 수 있도록 합니다. 또한 ACPR 감독 하에 [회사의 내부 통제에 대한 2014년 11월 3일 ACPR 명령의 239 조항](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029700770&categorieLien=id)(프랑스어)는 클라우드 서비스 공급자와의 계약에 포함할 의무 약관도 지정합니다.
 - 어떤 경우에는 특히 비즈니스 운영에 상당한 영향을 줄 수 있는 경우 규제 기관이 아웃소싱 요소 처리 방식에 대해 AMF 및 ACPR에 통보해야 합니다.
-- 프랑스의 데이터 보호 당국으로서 [CNIL](https://www.cnil.fr/en/home)(Commission Nationale de l’Informatique et des Libertés)은 클라우드 컴퓨팅 서비스([프랑스어](https://www.cnil.fr/sites/default/files/typo/document/Recommandations_pour_les_entreprises_qui_envisagent_de_souscrire_a_des_services_de_Cloud.pdf) 및 [영어](https://www.cnil.fr/sites/default/files/typo/document/Recommendations_for_companies_planning_to_use_Cloud_computing_services.pdf))를 사용하려는 회사에 대한 권장 사항을 포함하여 많은 클라우드 컴퓨팅 지침을 발부했습니다.
+- 프랑스의 데이터 보호 당국으로서 [CNIL](https://www.cnil.fr/en/home)(Commission Nationale de l’Informatique et des Libertés)은 클라우드 컴퓨팅 서비스를 사용하려는 회사에 대한 권장 사항을 포함하여 많은 클라우드 컴퓨팅 지침([프랑스어](https://www.cnil.fr/sites/default/files/typo/document/Recommandations_pour_les_entreprises_qui_envisagent_de_souscrire_a_des_services_de_Cloud.pdf) 및 [영어](https://www.cnil.fr/sites/default/files/typo/document/Recommendations_for_companies_planning_to_use_Cloud_computing_services.pdf))을 발부했습니다.
 
 ## <a name="microsoft-and-the-amf-and-acpr"></a>Microsoft와 AMF 및 ACPR
 
