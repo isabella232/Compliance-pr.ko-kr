@@ -20,24 +20,24 @@ ms.workload:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: eccc07b5f40182c3dad8652f0e4c1671b5eb9843
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 46b59094b188e6ceac58c4aa1fac6dedf8c55671
+ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496218"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53141469"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Visual Studio 제품군 데이터 주체 요청
 
 EU [일반 데이터 보호 규정(GDPR)](https://ec.europa.eu/justice/data-protection/reform/index_en.htm)은 사용자(규정에 _데이터 주체_ 로 알려짐)에게 개인 데이터를 관리할 수 있는 권리를 부여합니다. 개인 데이터는 GDPR에 따라 식별되거나 식별 가능한 자연인과 관련된 모든 데이터로 매우 광범위하게 정의됩니다. GDPR은 데이터 주체 특정 권한을 개인 데이터에 제공합니다. 이러한 권한에는 개인 데이터 복사본 획득, 수정 요청, 처리 제한, 삭제 또는 전자 형식으로 수신하는 권한이 포함됩니다. 해당 데이터 주체의 개인 데이터에 대해 조치를 취하는 데이터 컨트롤러(개인 데이터를 제어하는 고용주 또는 기타 유형의 에이전시 또는 조직)에 대한 데이터 주체의 공식 요청을 _데이터 주체 요청_ 또는 DSR이라고 합니다.
 
-마찬가지로 캘리포니아 소비자 개인 정보 보호법(CCPA)은 캘리포니아 소비자에게 GDPR의 데이터 주체 권리와 유사한 권리를 포함하여, 소비자의 개인 정보 삭제, 액세스 및 수신(이식성)과 같은 개인 정보 보호 권리 및 의무를 제공합니다.  또한 CCPA는 특정 공개, 실행 권리 행사 시 차별 대우로부터 보호, “판매"로 분류되는 특정 데이터 전송에 대한 "옵트아웃(opt-out)/옵트인(opt-in)" 요구도 허용합니다. 판매는 가치 있는 대가관계를 위하여 데이터 공유를 포함하도록 광범위하게 정의됩니다. CCPA에 대한 자세한 내용은 [캘리포니아 소비자 개인 정보 보호법](offering-ccpa.md) 및 [캘리포니아 소비자 개인 정보 보호법 FAQ](ccpa-faq.md)를 참조하세요.
+마찬가지로 캘리포니아 소비자 개인 정보 보호법(CCPA)은 캘리포니아 소비자에게 GDPR의 데이터 주체 권리와 유사한 권리를 포함하여, 소비자의 개인 정보 삭제, 액세스 및 수신(이식성)과 같은 개인 정보 보호 권리 및 의무를 제공합니다.  또한 CCPA는 특정 공개, 실행 권리 행사 시 차별 대우로부터 보호, “판매"로 분류되는 특정 데이터 전송에 대한 "옵트아웃(opt-out)/옵트인(opt-in)" 요구도 허용합니다. 판매는 가치 있는 대가관계를 위하여 데이터 공유를 포함하도록 광범위하게 정의됩니다. CCPA에 대한 자세한 내용은 [캘리포니아 소비자 개인 정보 보호법](offering-ccpa.md) 및 [캘리포니아 소비자 개인 정보 보호법 FAQ](ccpa-faq.yml)를 참조하세요.
 
 GDPR 대한 일반적인 내용은 [Service Trust portal의 GDPR 섹션](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)을 참조하세요.
 
 ## <a name="products-covered-by-this-guide"></a>이 가이드 적용을 받는 제품
 
-이 가이드에서는 Microsoft 도구를 사용하여 인증(로그인)된 Visual Studio와 Mac용 Visual Studio, Microsoft 확장의 세션 사용 동안 수집된 개인 데이터를 이러한 항목 및 Visual Studio Code로 내보내거나 삭제하는 방법을 설명합니다. 이 가이드에서는 Visual Studio 개발자 커뮤니티, NuGet.org 및 ASP.NET 웹 사이트를 사용할 때 수집된 개인 데이터에 대해 데이터 주체 요청을 수행하는 방법도 설명합니다. 이러한 제품에서는 타사 도구 및 확장을 사용할 수 있으며, Microsoft가 이러한 도구 및 확장의 데이터 처리자 또는 관리자가 아닙니다. 사용자가 도구 또는 확장 공급자에게 문의하여 이러한 도구 및 확장에 대한 개인 데이터와 수집 정책을 파악해야 합니다.
+이 가이드에서는 Microsoft 도구를 사용하여 Mac 및 Microsoft 확장용 Visual Studio 및 Virtual Studio의 인증된(로그인된) 세션 사용 동안 수집된 개인 데이터를 삭제하거나 해당 Studio와 Visual Studio Code에 내보냅니다. 또한 이 가이드는 Visual Studio 개발자 커뮤니티, NuGet.org 및 ASP.NET 웹 사이트를 사용할 때 수집되는 개인 데이터에 대한 데이터 주체 요청 방법을 설명합니다. 이러한 제품은 Microsoft 이외의 도구 및 확장을 사용할 수 있으며 Microsoft는 이러한 도구 및 확장을 위한 데이터 프로세서 또는 컨트롤러가 아닙니다. 사용자는 도구 또는 확장 공급자에 연락하여 이러한 도구 및 확장에 대한 개인 데이터와 컬렉션 정책을 이해해야 합니다.
 
 ## <a name="additional-privacy-information"></a>추가 개인 정보 보호 정보
 
