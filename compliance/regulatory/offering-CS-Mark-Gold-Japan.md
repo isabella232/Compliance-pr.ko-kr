@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 978979483be55852b34a4ab65e6949a7f234c82d
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: a559597f3fc959ffdc20ecfb14c7b143ae9b1849
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088497"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385348"
 ---
 # <a name="cloud-security-mark-gold-cs-gold-mark"></a>클라우드 보안 마크 골드(CS 골드 마크)
 
@@ -41,11 +41,25 @@ JASA는 정보, 물리 및 개발 보안, 인사 보안, 비즈니스 연속성,
 
 Microsoft에서는 JASA 공인 감사자에 의한 엄격한 평가를 거친 후 세 가지 서비스 범주에 대해 모두 CS 골드 마크를 획득했습니다. Microsoft Azure IaaS(Infrastructure as a Service) 및 PaaS(Platform as a Service) 및 Microsoft Office 365 SaaS(Software as a Service)에 대해 승인을 받았습니다. Microsoft는 세 가지 범주 모두에서 이 승인을 획득한 최초의 글로벌 CSP입니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
+
+## <a name="office-365-and-cs-gold-mark"></a>Office 365 및 CS 골드 마크
+
+### <a name="office-365-cloud-environments"></a>Office 365 클라우드 환경
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
+
+다음 표를 사용하여 Office 365 서비스 및 구독에 대한 적용 가능성을 확인합니다.
+
+| **적용 가능성** | **범위 내 서비스** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, 준수 관리자, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Office 365용 Microsoft Defender, Microsoft Graph, Microsoft Teams, 웹용 Microsoft To-Do, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Cloud App Security, Office 365 그룹, Office 365 버안 및 준수 센터, Office 365 비디오, Office 온라인, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint 온라인, 비즈니스용 Skype, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 

@@ -1,5 +1,5 @@
 ---
-title: 스페인 칙령 1720/2007, 스페인 기본법 15/1999
+title: 스페인 칙령 1720/2007, 스페인 기본법 15/1999(LOPD)
 description: Microsoft 클라우드 고객은 스페인 정보보호청(AEPD, Data Protection Agency)을 통해 국경을 넘어 데이터를 전송할 수 있는 권한을 부여 받았습니다.
 keywords: Microsoft 365, 규정 준수, 제안
 localization_priority: Priority
@@ -16,14 +16,14 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a665e6be33d42901597de23f39b6e71ae9c2fe70
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 29b4c3bf83d2fea147e2e7ce5294136040fa58ba
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089802"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384568"
 ---
-# <a name="spanish-royal-decree-17202007-spanish-organic-law-151999"></a>스페인 칙령 1720/2007, 스페인 기본법 15/1999
+# <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-lopd"></a>스페인 칙령 1720/2007, 스페인 기본법 15/1999(LOPD)
 
 ## <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-overview"></a>스페인 칙령 1720/2007, 스페인 기본법 15/1999의 개요
 
@@ -35,12 +35,26 @@ AEPD는 국경 간 데이터 전송을 비롯하여 개인 정보 보호에 관�
 
 Microsoft는 스페인 기본법 15/1999 (LOPD, Ley Orgánica 15/1999 de Protección de Datos)에 따라 국제간 데이터 전송을 관리하는 높은 기준을 준수하여 스페인 정보보호청(AEPD, Agencia Española de Protección de Datos)으로 부터 승인을 받은, 고객의 이점을 위한 최초의 하이퍼 스케일 클라우드 서비스 제공 업체입니다. Microsoft는 또한 온라인 서비스가 칙령 1720/2007 제8호에 명시된 보안 조치를 준수하여 타사 감사 인증을 획득한 최초의 하이퍼 스케일 클라우드 서비스 제공 업체입니다. 이 승인을 통해 고객은 유럽 연합 모델 조항이 적용되는 Microsoft Azure, Dynamics 365 및 Office 365 서비스로 개인 데이터를 전송할 수 있습니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
-- [Microsoft Azure](https://aka.ms/AzureCompliance)
-- [Microsoft Dynamics 365](https://aka.ms/d365-compliance-list)
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- [Microsoft Office 365](https://aka.ms/o365-compliance-framework)
+- Office 365
+
+## <a name="office-365-and-lopd"></a>Office 365 및 LOPD
+
+### <a name="office-365-cloud-environments"></a>Office 365 클라우드 환경
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
+
+다음 표를 사용하여 Office 365 서비스 및 구독에 대한 적용 가능성을 확인합니다.
+
+| **적용 가능성** | **범위 내 서비스** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, 준수 관리자, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Office 365용 Microsoft Defender, Microsoft Graph, Microsoft Teams, 웹용 Microsoft To-Do, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Cloud App Security, Office 365 그룹, Office 365 버안 및 준수 센터, Office 365 비디오, Office 온라인, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint 온라인, 비즈니스용 Skype, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: abe7b849b8cb10ddbe11eb1a95a972d244ac43c3
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 3e0cedef50d4ac52547c785e5a5395b8b67ca1d6
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120091"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384448"
 ---
 # <a name="national-bank-of-belgium-nbb-and-the-financial-services-and-markets-authority-fsma"></a>벨기에 은행(NBB) 및 금융 서비스 및 시장 감독원(FSMA)
 
@@ -45,12 +45,12 @@ NBB 및 FSMA는 ‘유럽 뱅킹 부문 전반에서 효과적이고 일관된 �
 
 벨기에의 금융 기관에서 클라우드로 비즈니스 기능을 외부에서 조달하는 경우 유럽은행관리국 (EBA)의 광범위한 정책 프레임워크 내에서 벨기에 은행(NBB)과 금융 서비스 및 시장 감독원(FSMA)의 규칙과 지침을 준수해야 합니다.
 
-이 Microsoft의 점검 목록은 벨기에에서 Microsoft 비즈니스 클라우드 서비스에 대한 실사 평가를 수행하는 재무 기업에 도움을 줍니다. 이 목록에는 다음과 같은 내용이 포함됩니다.
+이 Microsoft의 점검 목록은 벨기에에서 Microsoft 비즈니스 클라우드 서비스에 대한 실사 평가를 수행하는 재무 기업에 도움을 줍니다. 다음이 포함됩니다.
 
 - 컨텍스트에 대한 규제 사항의 개요.
 - 해결할 문제를 설명하고 Microsoft Azure, Microsoft Dynamics 365 및 Microsoft 365 서비스를 해당 규제적 의무에 매핑하는 점검 목록. 이 점검 목록은 규제 프레임워크에 대한 준수를 측정하는 도구로 사용될 수 있으며, 규정 준수를 문서화하기 위한 내부 구조를 제공하고, 고객이 Microsoft 비즈니스 클라우드 서비스의 고유 위험 평가를 수행하는 데 도움이 됩니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -68,7 +68,7 @@ NBB 및 FSMA는 ‘유럽 뱅킹 부문 전반에서 효과적이고 일관된 �
 
 아니요. 그러나, 금융 기관은 기관의 비즈니스 운영, 명성 또는 수익성 혹은 위험을 관리하는 능력이나 해당 법률과 규정을 준수할 능력에 상당한 영향을 미칠 가능성이 있는 아웃소싱의 준비에 지장이 있는 경우 NBB 및 FSMA에 통보해야 합니다.
 
-**클라우드 서비스 공급자와의 계약에 포함해야 하는 필수 약관이 있나요?**
+**클라우드 서비스 공급 기업과의 계약에 포함해야 하는 필수 사용 약관이 있나요?**
 
 예. 금융 기관이 클라우드 서비스 계약에 포함해야 하는 구체적 사항이 있습니다. [Microsoft 점검 목록](https://aka.ms/FinServ-Guide-Belgium)의 2부(49 페이지)는 이 사항들을 Microsoft 계약 문서에서 그들이 언급되는 섹션에 매핑을 합니다.
 

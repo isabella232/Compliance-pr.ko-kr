@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9ae0ba0b3ad10e4b1f2d308090f05c698bce092f
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 79dc7fc209b85048189016a9bed8f5ca45b99bdb
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088487"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384458"
 ---
 # <a name="nen-7510"></a>NEN 7510
 
@@ -35,11 +35,25 @@ Microsoft는 현재 인증 및 보장 진술문을 분석하고 [NEN 7510 커버
 
 Azure 보안 및 규정 준수 청사진을 사용하여 NEN 7510 배포를 가속화하는 방법에 대해 알아보세요. [Microsoft 클라우드 다운로드 — Azure 및 Office 365 NEN7510-2011 Standard Coverage 사용자 가이드](https://aka.ms/Azure-NEN7510-2011)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
-- [Azure 및 Azure Government](https://aka.ms/AzureCompliance)
+- Azure 및 Azure Government
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
+
+## <a name="office-365-and-iso-27001"></a>Office 365 및 ISO 27001
+
+### <a name="office-365-cloud-environments"></a>Office 365 클라우드 환경
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
+
+다음 표를 사용하여 Office 365 서비스 및 구독에 대한 적용 가능성을 확인합니다.
+
+| **적용 가능성** | **범위 내 서비스** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Information Protection, Bookings, Delve, Exchange Online, Exchange Online, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, 웹용 Microsoft To-Do, MyAnalytics, Office 365 Cloud App Security, Office 365 그룹, Office 365 Video, 비즈니스용 OneDrive, Planner, Power Apps, Power Automate, Office 365용 Power BI, PowerApps, SharePoint Online, 비즈니스용 Skype, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 

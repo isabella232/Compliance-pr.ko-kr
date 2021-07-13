@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 09473dc7b27b34bd4b0394739cd303fa613780bf
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 6c431d856fc03f328148722c14dfc558082aacb5
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497738"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384728"
 ---
 # <a name="isoiec-270172015-code-of-practice-for-information-security-controls"></a>ISO/IEC 27017:2015 정보 보안 통제를 위한 규약
 
@@ -43,35 +43,52 @@ ISO/IEC 27017:2015 규약은 조직에서 ISO/IEC 27002:2013에 기초한 클라
 
 ISO/IEC 27017은 클라우드 서비스 공급자 및 클라우드 서비스 고객을 위한 지침을 제공하는 고유한 표준입니다. 또한 클라우드 서비스 고객이 클라우드 서비스 공급자에게 어떤 것을 바랄 수 있는지에 대한 실용적인 정보를 제공합니다. 고객은 클라우드를 이용한 공유의 책임을 이해함으로써 ISO/IEC 27017로부터 직접적인 혜택을 얻을 수 있습니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - [Azure, Azure Government, Azure Germany](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security
 - [Dynamics 365, Dynamics 365 및 Dynamics 365 Germany](https://aka.ms/d365-compliance-list)
+- Intune
 - 엔드포인트용 Microsoft Defender
 - Microsoft Graph
 - Microsoft Healthcare Bot
-- Intune
 - [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
-- 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power Automate(이전 Microsoft Flow) 클라우드 서비스
 - Office 365, Office 365 U.S. Government, Office 365 U.S. Government Defense, 및 Office 365 Germany
+- 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power Automate(이전 Microsoft Flow) 클라우드 서비스
 - 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 PowerApps 클라우드 서비스
 - 독립 실행형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power BI 클라우드 서비스
 - Power BI Embedded
-- Microsoft Stream
-- Office 365에서 적용되는 서비스에 대한 [자세한 목록](https://go.microsoft.com/fwlink/p/?linkid=2077751)보기
 
-## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
+## <a name="azure-dynamics-365-and-iso-270172015"></a>Azure, Dynamics 365, ISO 27017:2015
+
+Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자세한 내용은 [Azure ISO 27017 제품](/azure/compliance/offerings/offering-iso-27017)을 참조하세요.
+
+## <a name="office-365-and-iso-270172015"></a>Office 365 및 ISO 27017:2015
+
+### <a name="office-365-cloud-environments"></a>Office 365 클라우드 환경
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
+
+다음 표를 사용하여 Office 365 서비스 및 구독에 대한 적용 가능성을 확인합니다.
+
+| **적용 가능성** | **범위 내 서비스** |
+|:------------------|:----------------------|
+| **Office 365** | Access Online, Azure Active Directory, Azure Communications Service, 준수 관리자, Customer Lockbox, Delve, Exchange Online, Exchange Online Protection, Forms, Griffin, Identity Manager, Lockbox (Torus), Office 365용 Defender, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Customer Portal, Office 365 Microservices(Kaizala, ObjectStore, Sway, PowerPoint Online 문서 서비스, 쿼리 주석 서비스, 학교 데이터 동기화, Siphon, Speech, StaffHub, eXtensible 애플리케이션 프로그램을 포함하지만, 제한하지는 않음), Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, Office 서비스 인프라, 비즈니스용 Skype, Planner, PowerApps, Power Automate, Power BI, Project Online, 고객 키로 서비스 암호화, SharePoint Online, 비즈니스용 Skype, Stream |
+| **GCC** | Azure Active Directory, Azure Communications Service, 준수 관리자, Delve, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, Stream |
+| **GCC High** | Azure Active Directory, Azure Communications Service, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype |
+| **DoD** | Azure Active Directory, Azure Communications Service, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, Power BI, SharePoint Online, 비즈니스용 Skype |
+
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365 감사, 보고서 및 인증서
 
 Microsoft 클라우드 서비스는 ISO/IEC 27001:2013에 대한 인증 프로세스의 일부로서 ISO/IEC 27017:2015 규약에 대해 1년에 한 번씩 감사를 받습니다.
 
-- [Azure ISO 27017 인증서](https://aka.ms/azureiso27017cert)
-- [Azure ISO 27017 평가 보고서](https://aka.ms/azureiso27017report)
 - [Office 365: ISO 27001, 27018 및 27017 감사 평가 보고서](https://aka.ms/o365isoreport)
 
-## <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="frequently-asked-questions"></a>질문과 대답
 
-이 표준은 누구에게 적용됩니까?
+**이 표준은 누구에게 적용되나요?**
 
 이 규약은 클라우드 서비스 공급자 및 클라우드 서비스 고객 모두에게 규제 및 구현 지침을 제공합니다. ISO/IEC 27002:2013과 유사한 형식으로 작성되어 있습니다.
 
@@ -87,11 +104,11 @@ Azure, Intune, Power BI에 대한 [ISO/IEC 27017:2015 인증서](https://aka.ms/
 
 [Service Trust Portal](https://aka.ms/stphelp)에서는 제3의 독립 기관 감사 보고서와 기타 관련 문서를 제공합니다. 이 포털을 이용하여 자체 규제 요건에 도움이 되는 문서를 다운로드하고 검토할 수 있습니다.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
 
 [Microsoft 준수 관리자](/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규제에 대한 평가를 빌드하기 위한 프리미엄 서식 파일을 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
 
-## <a name="resources"></a>리소스
+### <a name="resources"></a>리소스
 
 - [ISO/IEC 27017:2015 규약](https://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=43757)
 - [Microsoft 온라인 서비스 사용 약관](https://aka.ms/Online-Services-Terms)

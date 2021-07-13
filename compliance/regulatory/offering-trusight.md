@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4fe0196ae019dbf35902c2fd0589db96ed1f1086
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: a29713d530542b64514f694eef67aabb09e303e0
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50119887"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385538"
 ---
 # <a name="trusight"></a>TruSight
 
@@ -41,7 +41,7 @@ Microsoft의 경우 TruSight는 Microsoft Azure, Microsoft Dynamics 365, Microso
 
 이 엄격한 TruSight 평가 결과, 금융 서비스 고객은 이제 자체적으로 수행하는 데 필요한 상당한 리소스를 소비하지 않고도 업계에서 표준화된 방법론을 기반으로한 Microsoft 클라우드 서비스에 대한 고품질 평가를 요청을 통해 액세스할 수 있습니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365 (버전 9 및 이후 버전)](https://aka.ms/d365-compliance-list)

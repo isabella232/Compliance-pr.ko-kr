@@ -19,12 +19,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 9ac4a87670d1889e9c74e5ec6afe8920b96946fc
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 65462901c72bcda1af4e1b58bc0df2caa6cbaec9
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088777"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377565"
 ---
 # <a name="resiliency-and-continuity-overview"></a>복원력 및 연속성 개요
 
@@ -70,7 +70,7 @@ Microsoft의 온라인 서비스는 외부 규정 및 인증을 준수하도록 
 ## <a name="resources"></a>리소스
 
 - [Microsoft Enterprise 비즈니스 연속성 관리 프로그램 백서](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=64f922a6-d624-40dd-a8ae-6f996b5186f3&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f) 
-- [Microsoft 클라우드 EBCM 및 재해 복구 계획 유효성 검사 보고서: FY21 Q3](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=c072d11c-9cc9-42e1-b1cf-7281572fb1dd&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
+- [Microsoft 클라우드 EBCM 및 재해 복구 계획 유효성 검사 보고서: FY21 Q4](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=83dc940a-2078-4e14-8b7d-07128e5b453d&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
 
 ## <a name="legal-disclaimer"></a>법적 고지 조항
 

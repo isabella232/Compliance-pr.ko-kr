@@ -1,7 +1,7 @@
 ---
 title: 미국 FINRA(금융산업규제당국) 규칙 4511(c) 미국
 description: 독립적인 평가 회사가 Azure 및 Office 365 FINRA 규칙 4511 레코드 보존 및 변경 불가능한 저장소 요구 사항을 충족하는 데 도움이 될 수 있는 것으로 확인했습니다.
-keywords: Microsoft 365, 규정 준수, 제품
+keywords: Microsoft 365, 규정 준수, 제안
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 35c24da993fd40cd787650389ab8324eca1cf828
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 5db72902615eef26b45b5d4eeaa52132ee3703b1
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089541"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385028"
 ---
 # <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>미국 FINRA(금융산업규제당국) 규칙 4511(c) 미국
 
@@ -51,7 +51,7 @@ Cohasset은 WORM(지우기 불가능 및 다시 쓰지 못함) 형식으로 시�
 
 [FINRA 규칙 4511(c)](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) 요구 사항의 경우 Cohasset은 Microsoft 365 중개인을 포함하여 규제된 고객이 레코드 보존에 대한 SEC 요구 사항을 준수하는 데 도움이 되는 방식으로 데이터를 저장할 수 있도록 하는 보관 기능을 Microsoft 365 유효성을 검사했습니다. 전자 메일의 Microsoft 365 기능은 전자 메일, 음성 메일, 공유 문서, 인스턴트 메시지 및 타사 데이터를 포함하여 광범위한 데이터를 보존하는 데 도움이 됩니다. 특히, Microsoft 365 보관을 통해 고객은 전역 또는 세분화 메시징 보존 정책을 설정하여 정의된 기간 동안 및 그 이상 기간 동안 데이터를 다시 덮어 사용할 수 없는 지울 수 없는 형식으로 저장할 수 있습니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)
@@ -69,7 +69,7 @@ Cohasset은 WORM(지우기 불가능 및 다시 쓰지 못함) 형식으로 시�
 ## <a name="how-to-implement"></a>구현 방법
 
 - **금융 서비스 규정:** 클라우드 컴퓨팅 및 Microsoft 온라인 서비스에 대한 주요 미국 규제 원칙의 규정 준수 맵입니다. [자세한 정보](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
-- **위험 평가 & 준수 가이드**: Microsoft 클라우드 서비스의 위험 평가 및 규제 기관의 알림에 대한 거버넌스 모델을 만들 수 있습니다. [자세한 정보](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
+- **위험 평가 및 규정 준수 가이드**: Microsoft 클라우드 서비스의 위험 평가 및 규제 기관의 알림에 대한 거버넌스 모델을 만들 수 있습니다. [자세한 정보](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
 - **금융 유스케이스**: 금융 서비스용 Azure 솔루션을 구축하기 위한 유스케이스 개요, 자습서 및 기타 리소스.. [자세한 정보](/azure/industry/financial/)
 
 ## <a name="resources"></a>리소스

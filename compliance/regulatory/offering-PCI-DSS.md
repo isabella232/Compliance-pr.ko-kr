@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: feba7b943f04dc0a9470cef23465f1f63fc55ef7
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: ab92c2d12477e0e7fa1890ae25e06d264305e95c
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497724"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384388"
 ---
 # <a name="payment-card-industry-pci-data-security-standard-dss"></a>PCI(Payment Card Industry) DSS(Data Security Standard)
 
@@ -39,36 +39,46 @@ Microsoft는 승인된 QSA(Qualified Security Assessor)를 사용하여 연간 P
 
 Azure, 비즈니스용 OneDrive, SharePoint Online의 PCI DSS 규정 준수 상태가 고객이 이러한 플랫폼에서 빌드하거나 호스팅하는 서비스에 대한 PCI DSS 인증으로 자동으로 전환되는 것은 아닙니다. 고객은 일부 PCI DSS 요구 사항을 준수하는지 확인해야 할 책임이 있습니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
-- [Azure 및 Azure Government](https://aka.ms/AzureCompliance)
-- Microsoft Cloud App Security
-- 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Flow 클라우드 서비스
-- Microsoft Graph
+- Azure 및 Azure Government
 - Intune
+- Microsoft Cloud App Security
 - [엔드포인트용 Microsoft Defender](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)
-- 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 PowerApps 클라우드 서비스
-- 독립 실행형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power BI 클라우드 서비스
+- Microsoft Graph
+- Office 365
 - 비즈니스용 OneDrive 및 SharePoint Online(미국에만 해당)
+- 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 PowerApps 클라우드 서비스
+- 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power Automate(이전 Microsoft Flow) 클라우드 서비스
+- 독립 실행형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power BI 클라우드 서비스
 
-## <a name="audit-reports-and-certificates"></a>감사, 보고서 및 인증서
+## <a name="azure-dynamics-365-and-pci-dss"></a>Azure, Dynamics 365 및 PCI DSS
 
-- [Azure PCI DSS 준수 증명(AoC)](https://aka.ms/azure-pci)
+Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자세한 내용은 [Azure PCI DSS 제품](/azure/compliance/offerings/offering-pci-dss)을 참조하세요.
+
+## <a name="office-365-and-pci-dss"></a>Office 365 및 PCI DSS
+
+### <a name="office-365-cloud-environments"></a>Office 365 클라우드 환경
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
+
+다음 표를 사용하여 Office 365 서비스 및 구독에 대한 적용 가능성을 확인합니다.
+
+| **적용 가능성** | **범위 내 서비스** |
+|:------------------|:----------------------|
+| **Office 365** | 비즈니스용 OneDrive(미국), SharePoint Online |
+
+### <a name="office-365-audit-reports-and-certificates"></a>Office 365 감사, 보고서 및 인증
+
 - [비즈니스용 OneDrive 및 SharePoint Online PCI DSS 준수 증명(AoC)](https://aka.ms/spo-pci)
 
-## <a name="get-your-pci-dss-solution-running-on-azure"></a>Azure에서 실행되는 PCI DSS 솔루션 받기
-
-Azure 보안 및 준수 PCI DSS 청사진을 사용하여 클라우드에서 PCI DSS 솔루션을 더 빠르게 빌드하고 배포합니다. 참조 아키텍처, 배포 지침, 제어 구현 매핑, 자동화된 스크립트 등을 가져옵니다. [Azure PCI DSS 청사진 사용 시작하기](https://aka.ms/pciblueprint)
-
-## <a name="frequently-asked-questions"></a>자주하는 질문
+### <a name="frequently-asked-questions"></a>자주하는 질문
 
 **AoC(Attestation on Compliance) 표지 페이지에 ‘2018년 6월’이 표시된 이유는 무엇인가요?**
 
-표지 페이지의 날짜 2018년 6월은 AoC 서식 파일이 게시된 날짜입니다. 평가 날짜는 2조를 참조하세요.
-
-**Azure 규정 준수 증명서가 여러 개인 이유는 무엇인가요?**
-
-Azure AoC 패키지에는 Azure Public, Germany, 클라우드에 해당하는 Aoc가 있습니다. 고객은 고객의 Azure 환경에 해당하는 AoC를 사용해야 합니다.  
+표지 페이지의 날짜 2018년 6월은 AoC 서식 파일이 게시된 날짜입니다. 평가 날짜는 2조를 참조하세요. 
 
 **PA DSS와 PCI DSS는 서로 어떤 관계인가요?**
 
@@ -82,12 +92,6 @@ PA DSS(Payment Application Data Security Standard)는 PCI DSS를 준수하고, V
 
 거래의 규모나 수에 상관없이 카드 소유자 데이터를 수락, 전송 또는 저장하는 모든 회사에 적용됩니다. 즉, 고객이 신용 카드 또는 직불 카드를 사용하여 회사에 지불하는 경우 PCI DSS 요구 사항이 적용됩니다. 기업은 12개월 동안의 총 거래량을 기준으로 네 가지 수준 중 하나로 검증됩니다. 연간 처리하는 거래 건수가 600만 건 초과인 기업은 수준 1, 100만 ~ 600만 건인 기업은 수준 2, 2만 ~ 1백만 건인 기업은 수준 3, 2만 건 미만인 기업은 수준 4에 해당합니다.
 
-**Azure에 배포된 솔루션에 대한 우리 회사의 PCI DSS 규정 준수 활동은 어느 것부터 시작해야 하나요?**
-
-특정 규정 준수(compliance) 요건에 대한 자세한 내용은 PCI 보안 표준 심의회에서 제공하는 정보를 참조하십시오. 위원회는 결제 카드 처리에 포함되는 판매자 및 기타 당사자를 대상으로 하는 [PCI DSS 빠른 참조 설명서(영문)](https://www.pcisecuritystandards.org/documents/PCISSC%20QRG%20August%202014%20-print.pdf)를 발행합니다. 이 설명서는 PCI DSS를 통해 결제 카드 거래 환경을 보호하고 PCI DSS를 적용하는 방법을 설명합니다.
-
-규정 준수는 Azure에서 호스팅되지 않는 시스템 및 프로세스 평가를 비롯한 많은 요소를 포함합니다. 개별 요구 사항은 사용되는 Azure 서비스와 Azure가 솔루션에서 사용되는 방법에 따라 다릅니다.
-
 **비즈니스용 OneDrive 및 SharePoint Online가 미국 이외의 지역에서 PCI DSS를 준수할 계획이 있나요?**
 
 현재 비즈니스용 OneDrive 및 SharePoint Online은 미국(US)에서만 PCI-DSS를 준수합니다. Microsoft는 미국 이외의 지역에 대한 요구 사항과 타임라인을 평가하고 다른 지역이 로드맵에 추가되면 업데이트를 제공할 것입니다.
@@ -96,14 +100,13 @@ PA DSS(Payment Application Data Security Standard)는 PCI DSS를 준수하고, V
 
 현재 비즈니스용 OneDrive 및 SharePoint Online에 업로드된 파일과 문서만 PCI DSS를 준수합니다.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험을 평가해 보세요.
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험을 평가해 보세요.
 
 [Microsoft 준수 관리자](/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규제에 대한 평가를 빌드하기 위한 프리미엄 서식 파일을 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
 
-## <a name="resources"></a>리소스
+### <a name="resources"></a>리소스
 
 - [PCI 보안 표준 심의회(영문)](https://www.pcisecuritystandards.org/)
 - [PCI 데이터 보안 표준(영문)](https://www.pcisecuritystandards.org/documents/PCI_DSS_v3-1.pdf)
-- [Azure PCI DSS 3.2.1 청사진](/azure/governance/blueprints/samples/pci-dss-3.2.1/)
 - [PCI DSS 빠른 참조 설명서(영문)](https://www.pcisecuritystandards.org/documents/PCISSC%20QRG%20August%202014%20-print.pdf)
 - [Microsoft 보안 센터에 대한 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)

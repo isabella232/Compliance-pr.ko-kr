@@ -1,7 +1,7 @@
 ---
 title: 뉴질랜드 정부 클라우드 컴퓨팅 보안 및 개인 정보 보호 고려 사항
 description: Microsoft NZ는 뉴질랜드 클라우드 컴퓨팅 프레임워크에 게시된 질문을 해결합니다.
-keywords: Microsoft 365, 규정 준수, 제품
+keywords: Microsoft 365, 규정 준수, 제안
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,16 +16,16 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: da53b5e2cdac7095e2fc3ff9b243d2863b85fdbf
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 4c27c84d2abc2de4866471d652d8b11351bc3168
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088787"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385658"
 ---
-# <a name="new-zealand-government-cloud-computing-security-and-privacy-considerations"></a>뉴질랜드 정부 클라우드 컴퓨팅 보안 및 개인 정보 보호 고려 사항
+# <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>뉴질랜드 정부 정보 보안 및 개인 정보 보호 고려 사항(ISPC)
 
-## <a name="new-zealand-government-cloud-computing-security-and-privacy-overview"></a>뉴질랜드 정부 클라우드 컴퓨팅 보안 및 개인 정보 개요
+## <a name="new-zealand-government-information-security-and-privacy-considerations-overview"></a>뉴질랜드 정부 정보 보안 및 개인 정보 보호 고려 사항 개요
 
 2015년 10월 뉴질랜드 정부는 공공 부문에서 정보 기술을 사용하는 '클라우드 우선' 정책을 재확인하는 수정된 모든 정부 ICT 전략을 인정했습니다. 수정된 전략은 NZ 정부 최고 정보 책임자(GCIO)의 권한으로 개발 및 구현된 '클라우드 컴퓨팅 위험 및 보증 프레임워크'를 보유합니다.
 
@@ -37,14 +37,30 @@ GCIO는 NZ 정부 기관이 잠재적인 클라우드 솔루션에 대해 일관
 
 기관이 Microsoft 엔터프라이즈 클라우드 서비스를 분석하고 평가할 수 있도록 Microsoft 뉴질랜드는 엔터프라이즈 클라우드 서비스가 Microsoft 클라우드 서비스가 '클라우드 컴퓨팅 ISPC'에 설정된 질문을 Microsoft 클라우드 서비스가 인증된 표준에 연결하여 해결 방법을 보여 주는 문서를 제작했습니다. 이러한 인증은 Microsoft가 개인 정보 및 보안 위험을 효과적으로 완화하고 데이터 주권 문제를 해결하기 위해 클라우드 서비스를 설계, 구축 및 운영하고 공공 부문 고객 모두에게 제공하는 방법의 핵심입니다. 클라우드 [컴퓨팅 ISPC에 대한 Azure](https://azure.microsoft.com/resources/microsoft-azure-response-to-nz-gcio-cloud-computing-information-security-privacy-considerations/) 응답은 고객이 다운로드할 수 있습니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
 
-- [Azure 및 Azure Government](https://aka.ms/AzureCompliance)
+- Azure 및 Azure Government
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
+- Office 365
 - 독립형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power BI 클라우드 서비스
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Exchange Online, SharePoint 온라인 및 Microsoft Teams. Microsoft NZ는 GCIO 팀과 함께 통합을 위한 참조 아키텍처를 개발하기 위해 Exchange Online 참조 아키텍처를 개발하고 있습니다.
+
+## <a name="office-365-and-ispc"></a>Office 365 및 ISPC
+
+### <a name="office-365-cloud-environments"></a>Office 365 클라우드 환경
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 및 범위 내 서비스
+
+다음 표를 사용하여 서비스 및 구독에 Office 365 여부를 확인할 수 있습니다.
+
+| **적용 가능 여부** | **범위 내 서비스** |
+|:------------------|:----------------------|
+| **Office 365** | Exchange Online, SharePoint Online, 비즈니스용 Skype |
+
+>[!Note]
+>Microsoft NZ는 GCIO 팀과 함께 통합을 위한 참조 아키텍처를 개발하고 Exchange Online: SEEMail 통합 및 참조 아키텍처에 Office 365 참조 아키텍처를 개발하고 있습니다.
 
 ## <a name="frequently-asked-questions"></a>질문과 대답
 
@@ -64,7 +80,7 @@ GCIO 위임, 공공 및 비공용 서비스 부서, 20개 교육구 보건 위�
 - [Microsoft 온라인 서비스 사용 약관](https://aka.ms/Online-Services-Terms)
 - [Microsoft 보안 센터에 대한 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 
-## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>'클라우드 컴퓨팅 IPSC'에 대한 Microsoft 응답
+## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>클라우드 컴퓨팅 IPSC에 대한 Microsoft 응답
 
 - [Azure](https://aka.ms/Azure-NZ-response)
 - [Intune](https://aka.ms/Intune-NZ-response)

@@ -1,7 +1,7 @@
 ---
 title: 오스트레일리아 APRA(Prudential Regulation Authority)
 description: 금융 서비스 클라이언트가 오스트레일리아 Prudential Regulation Authority의 아웃소싱 표준을 준수하는 데 도움이 되는 Microsoft 지침입니다.
-keywords: Microsoft 365, 규정 준수, 제품
+keywords: Microsoft 365, 규정 준수, 제안
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e57959e6463704b1a6821ace10b9eadad1b570c1
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: de14ca813334e575709b0c4546de95dcf3ef21be
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088847"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385498"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>오스트레일리아 APRA(Prudential Regulation Authority)
 
@@ -72,11 +72,25 @@ Microsoft는 클라우드의 위험 보장에 대한 포괄적인 접근 방식�
 
 APRA 규정을 준수하여 데이터 및 워크로드를 Azure로 이동하기 위한 실질적인 지원을 [얻습니다. Microsoft](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)클라우드 서비스 다운로드: 오스트레일리아 금융 기관에 대한 규정 준수 검사 목록.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
 
-- [Azure](https://aka.ms/AzureCompliance)
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Dynamics 365
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
+- Office 365
+
+## <a name="office-365-and-apra"></a>Office 365 및 APRA
+
+### <a name="office-365-cloud-environments"></a>Office 365 클라우드 환경
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 및 범위 내 서비스
+
+다음 표를 사용하여 서비스 및 구독에 Office 365 여부를 확인할 수 있습니다.
+
+| **적용 가능 여부** | **범위 내 서비스** |
+|:------------------|:----------------------|
+| **Office 365** | Exchange Online Protection, Exchange Online, Office 365 고객 포털, Office Online, Office 서비스 인프라, 비즈니스용 OneDrive, SharePoint Online, 비즈니스용 Skype |
 
 ## <a name="frequently-asked-questions"></a>질문과 대답
 

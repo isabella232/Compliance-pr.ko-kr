@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 07620a613cefd4ebac5acd0626ee855f8d077089
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 111a13f2b9d3e3988f8ae673d5ae9f0c053e2ec9
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120097"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384518"
 ---
 # <a name="multi-tier-cloud-security-mtcs-standard-for-singapore"></a>싱가포르 MTCS(다단계 클라우드 보안) 표준
 
@@ -44,21 +44,33 @@ Microsoft 클라우드 서비스는 MTCS 인증 주체에 의해 엄격한 평�
 
 Microsoft Azure 서비스 (IaaS 및 PaaS), Microsoft Dynamics 365 서비스 (SaaS) 및 Microsoft Office 365 서비스 (SaaS)에 대해 수준 3의 인증을 받았습니다. 수준 3 인증은 범위 내 Microsoft 클라우드 서비스가 가장 엄격한 보안 요구 사항을 준수해야 하는 규제 조직에 대해 영향도가 높은 데이터를 호스팅할 수 있음을 의미합니다. 싱가포르 정부는 특정 클라우드 솔루션의 구현에 이 수준을 요구하고 있습니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
-- [Azure](https://go.microsoft.com/fwlink/p/?linkid=2092718)
-- [Dynamics 365](https://go.microsoft.com/fwlink/p/?linkid=2051700)
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
+- Genomics
+- Intune
 - Microsoft Cloud App Security
-- 유전체학
 - Microsoft Graph
 - Microsoft Healthcare Bot
-- Intune
-- Flow
+- Office 365
 - OMS 서비스 맵
 - PowerApps
 - Power BI
-- Microsoft Stream
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+
+## <a name="office-365-and-mtcs"></a>Office 365 및 MTCS
+
+### <a name="office-365-cloud-environments"></a>Office 365 클라우드 환경
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
+
+다음 표를 사용하여 Office 365 서비스 및 구독에 대한 적용 가능성을 확인합니다.
+
+| **적용 가능성** | **범위 내 서비스** |
+|:------------------|:----------------------|
+| **Office 365** | Delve, Exchange Online, Exchange Online Protection Loki, Microsoft Teams, Office 365 고객 포털, Office 온라인, Office 서비스 인프라, SharePoint Online, 비즈니스용 Skype |
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 

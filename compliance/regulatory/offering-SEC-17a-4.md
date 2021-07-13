@@ -1,7 +1,7 @@
 ---
 title: SEC(증권 Exchange 위원회) 규칙 17a-4(f) 미국
 description: 독립적인 평가 회사는 Azure 및 Office 365 금융 회사가 SEC 규칙 17a-4(f) 기록 보존 및 변경 불가능한 저장소 요구 사항을 충족하는 데 도움이 될 수 있는 것으로 확인했습니다.
-keywords: Microsoft 365, 규정 준수, 제품
+keywords: Microsoft 365, 규정 준수, 제안
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6415b50a38d72ba66ede7e58e1b00aad2485ed42
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: d92fc7b56d2c240588b90afad6a82264fde911c5
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089047"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384328"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>SEC(증권 Exchange 위원회) 규칙 17a-4(f) 미국
 
@@ -44,7 +44,7 @@ Azure 및 SEC Office 365 17a-4(f)를 준수하는지 평가하기 위해 Microso
 - **Azure**: [SEC 17a-4(f)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)준수 평가: Microsoft Azure Storage , Cohasset은 WORM(지우기 불가능 및 다시 쓰지 못함) 형식의 시간 기반 Bl [Storage ob을](/azure/storage/blobs/storage-blob-immutable-storage) 보존하는 데 사용되는 경우 정책 잠금 옵션을 사용하여 Azure 변경 불가능 Blob이 SEC 규칙의 변경 불가능한 저장소 요구 사항을 충족하는지 유효성을 검사했습니다. 각 Blob(레코드)은 필요한 보존 기간이 만료되고 관련 법적 보존이 릴리스될 때까지 수정, 덮어 사용 또는 삭제되지 않습니다. 중요한 워크로드가 있는 소프트웨어 공급자와 파트너는 이제 레코드 보존 및 변경 불가능한 저장소를 위한 onestop-shop 클라우드 솔루션으로 Storage Azure 변경 불가능 Blob을 사용할 수 있습니다. 이제 금융 기관은 규정을 준수하면서 이러한 기능을 활용하는 자체 응용 프로그램을 구축할 수 있습니다.
 - **Microsoft 365:** [SEC 17a-4(f)](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) 요구 사항의 경우 Cohasset은 Microsoft 365 중개인을 비롯한 규제 대상 고객이 레코드 보존에 대한 SEC 요구 사항을 준수하는 데 도움이 되는 방식으로 데이터를 저장할 수 있도록 하는 보관 기능이 포함되어 있는 것으로 확인했습니다. 전자 메일의 Microsoft 365 기능은 전자 메일, 음성 메일, 공유 문서, 인스턴트 메시지 및 타사 데이터를 포함하여 광범위한 데이터를 보존하는 데 도움이 됩니다. 특히, Microsoft 365 보관을 통해 고객은 전역 또는 세분화 메시징 보존 정책을 설정하여 정의된 기간 동안 및 그 이상 기간 동안 데이터를 다시 덮어 사용할 수 없는 지울 수 없는 형식으로 저장할 수 있습니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)

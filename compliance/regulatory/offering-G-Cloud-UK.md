@@ -1,7 +1,7 @@
 ---
 title: 영국 Government-Cloud(G-클라우드)
 description: Commercial Service는 Microsoft 클라우드 서비스 분류를 정부 클라우드 v.6으로 갱신했습니다.
-keywords: Microsoft 365, 규정 준수, 제품
+keywords: Microsoft 365, 규정 준수, 제안
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 887d6a2be0ef4b1d9f1d22eefc53e3fc23e75e22
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: b39c658a768dc106008dcd73a064b05706f734c6
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088817"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384968"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>영국 Government-Cloud(G-클라우드)
 
@@ -41,16 +41,30 @@ Microsoft는 매년 문서를 준비하고 증거를 제출하여 범위 내 엔
 
  [14 Cloud Security Controls for UK](https://azure.microsoft.com/resources/14-cloud-security-controls-for-uk-cloud-using-microsoft-azure/) cloud using Microsoft Azure에서는 서비스를 Azure로 이동하고 CESG/NCSC에서 규정한 영국 의무를 충족하는 데 도움이 되는 고객 전략을 제공합니다. 백서에서는 Azure를 사용하여 클라우드 보안 주체에 설명된 14개 컨트롤을 해결할 수 있는 방법을 파악하고, 고객이 Microsoft Azure 서비스를 채택할 때 비용을 절감하면서 고객이 더 빠르게 이동하고 더 많은 성과를 거는 방법을 간략하게 설명합니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - Microsoft Cloud App Security
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power Automate(이전 Microsoft Flow) 클라우드 서비스
-- Office 365: Exchange Online, SharePoint Online 및 비즈니스용 Skype Online
-- 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 PowerApps 클라우드 서비스
-- 독립 실행형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power BI 클라우드 서비스
+- Office 365
+- Power Automate(이전의 Microsoft Flow) 클라우드 서비스(독립 실행형 서비스 또는 Office 365 또는 Dynamics 365 브랜드 플랜 또는 제품군에 포함)
+- PowerApps 클라우드 서비스(독립 실행형 서비스 또는 Office 365 또는 Dynamics 365 브랜드 플랜 또는 제품군에 포함)
+- Power BI 클라우드 서비스(독립 실행형 서비스 또는 Office 365 플랜 또는 제품군에 포함)
+
+## <a name="office-365-and-uk-g-cloud"></a>Office 365 및 영국 G-Cloud
+
+### <a name="office-365-cloud-environments"></a>Office 365 클라우드 환경
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 및 범위 내 서비스
+
+다음 표를 사용하여 서비스 및 구독에 Office 365 여부를 확인할 수 있습니다.
+
+| **적용 가능 여부** | **범위 내 서비스** |
+|:------------------|:----------------------|
+| **Office 365** | Exchange Online, SharePoint Online, 비즈니스용 Skype |
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 
@@ -105,7 +119,7 @@ Microsoft 클라우드 서비스에는 영국 데이터 센터 외에도 여러 
 
 **감사자 보고서의 복사본을 얻을 수 있는 방법**
 
-[Service Trust Portal](/microsoft-365/compliance/get-started-with-service-trust-portal)은 독립적으로 감사를 거친 규정 준수 보고서를 제공합니다. 감사자는 Microsoft 결과를 자체 법적 및 규정 요구 사항과 비교할 수 있도록 포털을 사용하여 감사 보고서를 요청할 수 있습니다.
+[서비스 보안 포털](/microsoft-365/compliance/get-started-with-service-trust-portal)은 독립적으로 감사를 거친 규정 준수 보고서를 제공합니다. 감사자는 Microsoft 결과를 자체 법적 및 규정 요구 사항과 비교할 수 있도록 포털을 사용하여 감사 보고서를 요청할 수 있습니다.
 
 ## <a name="resources"></a>리소스
 

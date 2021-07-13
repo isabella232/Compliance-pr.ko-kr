@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d8ffd78c4d762d72310e3ac5b200d422b0af26cf
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: a3801d434cb86f4157b70d1afcb0479365af3e9c
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089762"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384198"
 ---
 # <a name="good-clinical-laboratory-and-manufacturing-practices-gxp"></a>임상, 실험실 및 제조 모범 사례 (GxP)
 
@@ -46,7 +46,7 @@ Microsoft는 생명 과학 산업의 품질 보증 및 규제 GxP 준수를 전�
 
 Azure 및 Office 365에서 GxP 솔루션을 구축하는 생명 과학 조직은 클라우드 효율성을 활용하면서 환자 안전, 제품 품질 및 데이터 무결성을 보호할 수 있습니다. 고객은 특정 수준에서 데이터 개인 정보 보호 및 무결성을 강화하는 여러 계층의 보안 및 거버넌스 기술, 운영 관행 및 규정 준수 정책의 혜택을 받습니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Microsoft 365

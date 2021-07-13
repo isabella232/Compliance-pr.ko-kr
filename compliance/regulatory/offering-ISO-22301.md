@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d87d143479cab3dffb881c58dc19d11a81b1c7a9
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 1c4cf624eb6f658bcdddde1acbef7bc43323f257
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088937"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384718"
 ---
 # <a name="iso-223012012-business-continuity-management-standard"></a>ISO 22301:2012 비즈니스 연속성 관리 표준
 
@@ -35,7 +35,7 @@ ISO(International Organization for Standardization: 국제 표준화 기구)는 
 
 Microsoft는 최초로 비즈니스 연속성 관리에 대한 ISO 22301 인증을 받은 하이퍼스케일 클라우드 서비스 공급업체입니다. 비즈니스 연속성 프로세스의 모든 측면을 다루는 엄격한 감사 후에 Microsoft Azure, Microsoft Azure Government, Microsoft Office 365 (상업적, 정부 및 교육 제공품을 포함), Microsoft Cloud App Security, Microsoft Intune 및 Microsoft Power BI에 이 인증을 부여 받은 독립된 인증 기관입니다. 시행된 감사는 아래 나열된 범위 내의 서비스와 Azure 관리 기능, Azure Portal 그리고 및 범위 내의 서비스를 모니터링하고 운영하고 업데이트하는 데 사용되는 시스템을 포함하였습니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - [Azure, Azure Government, Azure Germany](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security
@@ -46,10 +46,10 @@ Microsoft는 최초로 비즈니스 연속성 관리에 대한 ISO 22301 인증�
 - Intune
 - [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
 - 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power Automate(이전 Microsoft Flow) 클라우드 서비스
-- [Office 365 상업용, 정부용 그리고 교육용](https://go.microsoft.com/fwlink/p/?linkid=2077751)
+- Office 365 상업용, 정부용 그리고 교육용
 - 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 PowerApps 클라우드 서비스
 - 독립 실행형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power BI 클라우드 서비스
-- Power BI가 포함됨
+- Power BI Embedded
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 

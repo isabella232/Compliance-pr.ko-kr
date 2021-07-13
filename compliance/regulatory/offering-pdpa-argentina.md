@@ -1,5 +1,5 @@
 ---
-title: PDPA(개인 데이터 보호법) 아르헨티나
+title: 아르헨티나 PDPA(개인 데이터 보호법)
 description: Microsoft 비즈니스 클라우드 서비스는 개인 정보를 보호하기 위해 PDPA 표준을 준수합니다.
 keywords: Microsoft 365, 규정 준수, 제안
 localization_priority: Priority
@@ -16,14 +16,14 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 75ab80c2b017e7fe4576f145db50465ea71e2d41
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: e5b04f64d2dc0b31c8357a02930fa582b2fbae07
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50119917"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385648"
 ---
-# <a name="personal-data-protection-act-pdpa-argentina"></a>PDPA(개인 데이터 보호법) 아르헨티나
+# <a name="argentina-personal-data-protection-act-pdpa"></a>아르헨티나 PDPA(개인 데이터 보호법)
 
 ## <a name="about-the-pdpa"></a>PDPA 정보
 
@@ -41,11 +41,25 @@ Microsoft는 [Microsoft 온라인 서비스 약관](https://www.microsoftvolumel
 
 Microsoft 데이터 전송 계약은 온라인 서비스 약관의 데이터 처리 조건에 대한 개정(개정 ID M314)입니다. 여기에는 Microsoft가 고객에게 개인 정보 공개에 대한 법적 구속력 있는 요청을 알리는 것을 포함하는 중요한 약속이 추가됩니다. 고객 또는 독립적인 제삼자가 고객의 요청에 따라 감사할 데이터 처리 시설을 제출합니다. 그리고 하도급 계약자 사용에 대한 사전 서면 동의를 받습니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - [Azure 및 Azure DevOps](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
-- [Microsoft 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9f756cce-b15d-45a9-94d7-6a583dee4401&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- Office 365
+
+## <a name="office-365-and-the-pdpa"></a>Office 365 및 PDPA
+
+### <a name="office-365-cloud-environments"></a>Office 365 클라우드 환경
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
+
+다음 표를 사용하여 Office 365 서비스 및 구독에 대한 적용 가능성을 확인합니다.
+
+| **적용 가능성** | **범위 내 서비스** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Information Protection, Bookings, Exchange Online, Exchange Online Protection, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, 웹용 Microsoft To-Do, MyAnalytics, Office 365 Cloud App Security, Office 365 그룹, Office 365 Video, Office Delve, 비즈니스용 OneDrive, Planner, Power Apps, Office 365용 Power BI, PowerApps, Power Automate, SharePoint Online, 비즈니스용 Skype, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="how-to-implement"></a>구현 방법
 

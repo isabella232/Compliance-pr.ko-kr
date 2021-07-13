@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f9c3ebd4c4988366d429f7b6cfc377f4f9c8a611
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 92e67729125916b1ec34f7e305468f7e07489d12
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120077"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384468"
 ---
 # <a name="my-number-act-japan"></a>마이넘버 법 (일본)
 
@@ -47,23 +47,33 @@ Microsoft는 클라우드 서비스에 저장된 마이넘버 데이터에 정�
 
 따라서 Microsoft 비즈니스 클라우드 서비스는 마이넘버 법 요구 사항을 지원하며 개인 데이터의 개별 소유자로부터 동의한 경우와 같이 고객에 대한 법률에 따라 추가 의무를 생성하지 않습니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
-- [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
-- [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- [Office 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9f756cce-b15d-45a9-94d7-6a583dee4401&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- Office 365
+
+## <a name="office-365-and-the-my-number-act"></a>Office 365 및 마이넘버 법
+
+### <a name="office-365-cloud-environments"></a>Office 365 클라우드 환경
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
+
+다음 표를 사용하여 Office 365 서비스 및 구독에 대한 적용 가능성을 확인합니다.
+
+| **적용 가능성** | **범위 내 서비스** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, 준수 관리자, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Office 365용 Microsoft Defender, Microsoft Graph, Microsoft Teams, 웹용 Microsoft To-Do, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Cloud App Security, Office 365 그룹, Office 365 버안 및 준수 센터, Office 365 비디오, Office 온라인, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint 온라인, 비즈니스용 Skype, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="how-to-implement"></a>구현 방법
 
 - [Microsoft 보안 정책](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=231213ea-9954-41fd-a757-ae62f3721dc7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): Microsoft가 클라우드 서비스에서 개인 및 조직 정보의 보안을 처리하는 방법입니다.
-
 - [Office 365의 개인 정보](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=a1b48a5b-bcb1-4c19-9277-952c0df87113&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): Microsoft에서 Office 365로 강력한 개인 정보 보호를 구축 하는 방법입니다.
-
 - [Office 365의 관리자 액세스](/office365/SecurityCompliance/office-365-administrative-access-controls-overview): Microsoft에서 고객 데이터에 대한 관리 액세스를 관리하는 방법입니다.
-
 - [Office 365의 감사 및 보고서](/office365/SecurityCompliance/office-365-auditing-and-reporting-overview): 고객이 테넌트 내에서 사용자 및 관리 활동을 추적하는 데 사용할 수 있는 기능을 알아봅니다.
-
 - [Office 365의 데이터 보존](/office365/SecurityCompliance/office-365-data-retention-deletion-and-destruction-overview): 고객 데이터가 삭제된 후 보존되는 기간에 대한 데이터 처리 정책을 이해합니다.
 
 ## <a name="frequently-asked-questions"></a>자주하는 질문

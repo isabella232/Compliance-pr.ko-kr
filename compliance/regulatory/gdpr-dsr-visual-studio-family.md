@@ -20,18 +20,18 @@ ms.workload:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 46b59094b188e6ceac58c4aa1fac6dedf8c55671
-ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+ms.openlocfilehash: 4a4ec723a046b65ade51b2e7aaa08fcda3a1908d
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53141469"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377945"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Visual Studio 제품군 데이터 주체 요청
 
-EU [일반 데이터 보호 규정(GDPR)](https://ec.europa.eu/justice/data-protection/reform/index_en.htm)은 사용자(규정에 _데이터 주체_ 로 알려짐)에게 개인 데이터를 관리할 수 있는 권리를 부여합니다. 개인 데이터는 GDPR에 따라 식별되거나 식별 가능한 자연인과 관련된 모든 데이터로 매우 광범위하게 정의됩니다. GDPR은 데이터 주체 특정 권한을 개인 데이터에 제공합니다. 이러한 권한에는 개인 데이터 복사본 획득, 수정 요청, 처리 제한, 삭제 또는 전자 형식으로 수신하는 권한이 포함됩니다. 해당 데이터 주체의 개인 데이터에 대해 조치를 취하는 데이터 컨트롤러(개인 데이터를 제어하는 고용주 또는 기타 유형의 에이전시 또는 조직)에 대한 데이터 주체의 공식 요청을 _데이터 주체 요청_ 또는 DSR이라고 합니다.
+유럽 연합 [GDPR(일반 데이터 보호 규정)](https://ec.europa.eu/justice/data-protection/reform/index_en.htm)은 개인 데이터를 관리할 수 있는 권한을 규정에서 _데이터 주체_ 로 알려진 사람들에게 부여합니다. GDPR에서 개인 데이터는 식별되거나 식별 가능한 자연인에 관련된 모든 데이터로 광범위하게 정의됩니다. GDPR은 데이터 주체에게 개인 데이터에 대한 특정 권한을 제공합니다. 이러한 권한에는 개인 데이터의 복사본을 얻거나, 수정을 요청하거나, 처리를 제한하거나, 삭제하거나, 전자 형식으로 개인 데이터를 수신할 권한이 포함됩니다. 데이터 컨트롤러(고용주 또는 기타 유형의 기관이나 조직)의 대상이 되는 데이터가 해당 데이터 주체의 개인 데이터에 대해 조치를 취하도록 공식적으로 요청하는 것을 _데이터 주체 요청_ 또는 DSR이라고 합니다.
 
-마찬가지로 캘리포니아 소비자 개인 정보 보호법(CCPA)은 캘리포니아 소비자에게 GDPR의 데이터 주체 권리와 유사한 권리를 포함하여, 소비자의 개인 정보 삭제, 액세스 및 수신(이식성)과 같은 개인 정보 보호 권리 및 의무를 제공합니다.  또한 CCPA는 특정 공개, 실행 권리 행사 시 차별 대우로부터 보호, “판매"로 분류되는 특정 데이터 전송에 대한 "옵트아웃(opt-out)/옵트인(opt-in)" 요구도 허용합니다. 판매는 가치 있는 대가관계를 위하여 데이터 공유를 포함하도록 광범위하게 정의됩니다. CCPA에 대한 자세한 내용은 [캘리포니아 소비자 개인 정보 보호법](offering-ccpa.md) 및 [캘리포니아 소비자 개인 정보 보호법 FAQ](ccpa-faq.yml)를 참조하세요.
+마찬가지로 CCPA(캘리포니아 소비자 개인 정보 보호법)은 캘리포니아 소비자에게 GDPR의 데이터 주체 권리와 유사한 권리를 포함하여, 소비자의 개인 정보 삭제, 액세스 및 수신(이식성)과 같은 개인 정보 보호 권리 및 의무를 제공합니다.  또한 CCPA는 특정 공개, 실행 권리 행사 시 차별 대우로부터 보호, “판매"로 분류되는 특정 데이터 전송에 대한 "옵트아웃(opt-out)/옵트인(opt-in)" 요구도 허용합니다. 판매는 가치 있는 대가관계를 위하여 데이터 공유를 포함하도록 광범위하게 정의됩니다. CCPA에 대한 자세한 내용은 [캘리포니아 소비자 개인 정보 보호법](offering-ccpa.md) 및 [캘리포니아 소비자 개인 정보 보호법 FAQ](ccpa-faq.yml)를 참조하세요.
 
 GDPR 대한 일반적인 내용은 [Service Trust portal의 GDPR 섹션](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)을 참조하세요.
 
@@ -212,9 +212,9 @@ IIS.NET 웹사이트에 대한 DSR의 자세한 내용은 [IIS.NET 웹사이트 
 
 ## <a name="other-visual-studio-family-services"></a>기타 Visual Studio 제품군 서비스
 
-### <a name="surveymonkey"></a>SurveyMonkey
+### <a name="survey-monkey"></a>Survey Monkey
 
-때때로 고객들을 초대하여 SurverMonkey를 통해 이러한 제품들에 대한 피드백을 제공하도록 합니다. 이 데이터는 28일 이내에 삭제됩니다. 이러한 제품에 대한 데이터 주체 요청을 처리할 때 인증된 설문 조사 응답이 있는 경우 데이터 주체 요청을 내보내고 삭제할 때 이를 포함합니다.
+때때로 Survey Monkey를 통해 이러한 제품에 대한 피드백을 제공하도록 고객을 초대합니다. 이 데이터는 28일 이내에 Survey Monkey에서 삭제됩니다. Microsoft는 이 데이터를 최대 18개월 동안 내부적으로 보존할 수 있습니다. 설문 조사 응답이 인증된 경우, 이러한 제품에 대한 데이터 제목 요청을 처리할 때 해당 응답을 내보내기에 포함시키고 데이터 제목 요청을 삭제합니다.
 
 ## <a name="learn-more"></a>자세한 정보
 

@@ -1,7 +1,7 @@
 ---
 title: Sarbanes-Oxley Act of 2002(SOX)
 description: 금융 서비스 회사는 Microsoft 규정 준수 보고서를 사용하여 규정 준수를 Sarbanes-Oxley 있습니다.
-keywords: Microsoft 365, 규정 준수, 제품
+keywords: Microsoft 365, 규정 준수, 제안
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3720eb98ee6f903d59316500ffe008398f388bf0
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 3621d34a87402722e18d50a298dff4d5a10ac3a9
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089792"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384348"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act of 2002(SOX)
 
@@ -39,21 +39,35 @@ SOX(Sarbanes-Oxley Act)를 준수하는 Microsoft 클라우드 서비스 고객�
 
 타사 감사 회사에서 생성한 감사 보고서는 Microsoft 컨트롤이 지정된 날짜에 적절하게 설계되어 지정된 날짜에 작동하며 지정된 기간 동안 효과적으로 작동했다는 것을 확인했습니다. 고객은 보고서를 검토하여 Microsoft 컨트롤 목표와 컨트롤의 효과에 대해 알아보고 보조 컨트롤에 액세스할 수 있습니다.
 
-Azure 클라이언트가 SOX 의무를 이행할 수 있도록 Microsoft는 [Sarbanes-Oxley에 대한 Azure 지침을 게시했습니다.](https://aka.ms/Azure-SOX-Guide) 이 문서에서는 SOX 준수의 의미를 포함하여 마이그레이션 모범 사례를 제공하며, SOX 관련 응용 프로그램(Microsoft Treasury 및 Microsoft Finance)을 Azure로 마이그레이션하는 내부 환경을 제공합니다.
-
 Microsoft는 고객과 규정 준수의 책임을 공유합니다. 인증된 제3자로부터 자세한 감사 결과를 요청하여 확인할 수 있는 규정 준수 프로그램에 대한 세부 정보를 제공합니다. 그러나 궁극적으로는 서비스가 비즈니스에 적용되는 특정 법률 및 규정을 준수하는지 여부를 결정하는 것은 사용자가 결정해야 합니다. 예를 들어 사용자의 책임인 클라우드 리소스에 대한 사용자 액세스와 같은 SOX 관련 보안 제어가 있습니다. 조직은 SOX 규정 준수의 일부로 이러한 컨트롤에 대한 적절한 감사를 개발해야 합니다.
 
-SOX 준수 의무를 해결할 때 Microsoft Azure 보고서 사용 방법에 대해 자세히 알아보시고, [Sarbanes-Oxley용 Azure 지침 다운로드](https://aka.ms/Azure-SOX-Guide)
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
-
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- 독립 실행형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power BI 클라우드 서비스
+- Office 365
+- Power BI 클라우드 서비스(독립 실행형 서비스 또는 Office 365 플랜 또는 제품군에 포함)
 
-## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
+## <a name="azure-dynamics-365-and-sox"></a>Azure, Dynamics 365 및 SOX
+
+Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자세한 내용은 Azure SOX 서비스를 [참조하세요.](/azure/compliance/offerings/offering-sox-us)
+
+## <a name="office-365-and-sox"></a>Office 365 및 SOX
+
+### <a name="office-365-cloud-environments"></a>Office 365 클라우드 환경
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 및 범위 내 서비스
+
+다음 표를 사용하여 서비스 및 구독에 Office 365 여부를 확인할 수 있습니다.
+
+| **적용 가능 여부** | **범위 내 서비스** |
+|:------------------|:----------------------|
+| **Office 365** | Augmentation Loop, Auto Alt Text, Azure Information Protection, Binary Conversion Services, Bookings, Delve, Document Item, Editor, Exchange Online, Forms, Insert Online Media, Insights, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, 비즈니스용 OneDrive, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, 비즈니스용 Skype, StaffHub, Stream,Sway, To-Do, Web Rendering Service, Yammer Enterprise  |
+
+### <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 
 [SOC 1에 대한 유형 2](offering-SOC.md) 보고서:
 
@@ -61,17 +75,15 @@ SOX 준수 의무를 해결할 때 Microsoft Azure 보고서 사용 방법에 �
 - Dynamics 365
 - Office 365
 
-## <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="frequently-asked-questions"></a>질문과 대답
 
 **Microsoft SOX 규정 준수를 사용하여 조직의 규정 준수 프로세스를 촉진하는 방법**
 
 응용 프로그램 및 데이터를 적용된 Microsoft 클라우드 서비스로 마이그레이션할 때 Microsoft가 보유하는 증명 및 인증을 구축할 수 있습니다. 독립 감사자 보고서는 데이터의 보안 및 개인 정보 보호를 유지하기 위해 Microsoft가 구현한 제어의 효율성을 시연합니다. 그러나 조직의 모든 관련 법률 및 규정 준수를 보장할 책임은 전적으로 사용자가 져야 합니다.
 
-## <a name="resources"></a>리소스
+### <a name="resources"></a>리소스
 
-- [Sarbanes-Oxley에 대한 Azure 지침](https://aka.ms/Azure-SOX-Guide)
 - [Microsoft 금융 서비스 준수 프로그램](https://www.microsoft.com/download/details.aspx?id=55332)
-- [Azure에서의 금융 서비스 규정 준수](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Microsoft 비즈니스 클라우드 서비스 및 금융 서비스](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [클라우드 컴퓨팅에 대한 공동 책임](https://aka.ms/sharedresponsibility)
 - [Microsoft 보안 센터에 대한 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)

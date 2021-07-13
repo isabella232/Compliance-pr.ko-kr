@@ -1,7 +1,7 @@
 ---
 title: CJIS(범죄 행위 정보 서비스) 보안 정책
 description: Microsoft 정부 클라우드 서비스는 미국 범죄 정의 정보 서비스 보안 정책을 준수합니다.
-keywords: Microsoft 365, 규정 준수, 제품
+keywords: Microsoft 365, 규정 준수, 제안
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: fe96da8b7a8ef89f9dd8ce14573e3489c75f93e7
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 896202ea1f51d88d1871a2c7ff81f4ee1e620d17
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087617"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385368"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>CJIS(범죄 행위 정보 서비스) 보안 정책
 
@@ -43,20 +43,38 @@ Microsoft는 Microsoft Azure Government, Microsoft Office 365 미국 정부 및 
 
 Microsoft 클라우드에서 CJIS 보안 정책의 이점에 대해 자세히 알아보시고 [Genetec이](https://customers.microsoft.com/story/genetec) 범죄 조사를 지운 방법 읽기
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
 
-- [Azure Government](/azure/azure-government/documentation-government-welcome)
-- [Dynamics 365 미국 정부](/power-platform/admin/microsoft-dynamics-365-government#certifications-and-accreditations)
-- [Office 365 미국 정부](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc#us-government-community-compliance)
-- 독립 실행형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power BI 클라우드 서비스
+- Azure Government
+- Dynamics 365 미국 정부
+- Office 365 미국 정부
+- 독립형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power BI 클라우드 서비스
 
-## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
+## <a name="azure-dynamics-365-and-cjis"></a>Azure, Dynamics 365 및 CJIS
+
+Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자세한 내용은 [Azure CJIS 서비스를 참조하세요.](/azure/compliance/offerings/offering-cjis)
+
+## <a name="office-365-and-cjis"></a>Office 365 및 CJIS
+
+### <a name="office-365-cloud-environments"></a>Office 365 클라우드 환경
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 및 범위 내 서비스
+
+다음 표를 사용하여 서비스 및 구독에 Office 365 여부를 확인할 수 있습니다.
+
+| **적용 가능 여부** | **범위 내 서비스** |
+|:------------------|:----------------------|
+| **GCC** | Azure Active Directory, 준수 관리자, Delve, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, Stream |
+
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365, 보고서 및 인증서
 
 FBI는 CJIS 요구 사항을 준수하는 Microsoft 인증을 제공하지 않습니다. 대신 Microsoft와 주 CJIS 기관 간의 계약과 Microsoft와 고객 간의 계약에 Microsoft 의약이 포함됩니다.
 
 [Microsoft CJIS 클라우드 요구 사항](https://aka.ms/MicrosoftCJISCloudRequirements)
 
-## <a name="cjis-status-in-the-united-states-current-as-of-1152020"></a>미국의 CJIS 상태(2020년 11월 5일 현재)
+### <a name="cjis-status-in-the-united-states-current-as-of-1152020"></a>미국의 CJIS 상태(2020년 11월 5일 현재)
 
 녹색 지도에 강조 표시된 관리 계약이 있는 45개 주 및 콜롬비아 교육구에는 다음이 포함됩니다.
 
@@ -64,7 +82,7 @@ FBI는 CJIS 요구 사항을 준수하는 Microsoft 인증을 제공하지 않�
 
 적용 가능한 CJIS 규제 컨트롤을 충족하기 위한 Microsoft의 약속을 통해 범죄자 조직은 클라우드 기반 솔루션을 구현하고 CJIS 보안 정책 V5.9를 준수할 수 있습니다.
 
-## <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="frequently-asked-questions"></a>질문과 대답
 
 **규정 준수 정보는 어디에서 요청할 수 있나요?**
 
@@ -78,15 +96,14 @@ Microsoft는 주 CSA(CJIS Systems Agency)와 정보 계약에 서명합니다. �
 
 [CJIS 보안 정책은](https://aka.ms/cjis-security-policy) 기관에서 CJI를 보호하기 위해 취해야 하는 예방 조치를 다하고 있습니다. 또한 Microsoft 계정 담당자가 관할권의 요구 사항에 익숙한 사용자와 연락할 수 있습니다.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
 
 [Microsoft 준수 관리자](/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규제에 대한 평가를 빌드하기 위한 프리미엄 서식 파일을 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
 
-## <a name="resources"></a>리소스
+### <a name="resources"></a>리소스
 
 - [범죄 행위 정보 서비스](https://aka.ms/cjis)
 - [CJIS 보안 정책](https://aka.ms/cjis-security-policy)
-- [Azure Government에 대한 CJIS 구현 지침](https://aka.ms/cjisimplementationguidelines)
 - [Microsoft 공통 컨트롤 허브 규정 준수 프레임 워크](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Microsoft Government 클라우드](https://go.microsoft.com/fwlink/?linkid=2087246)
 - [Microsoft 보안 센터에 대한 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)

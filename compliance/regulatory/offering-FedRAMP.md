@@ -1,7 +1,7 @@
 ---
 title: FedRAMP(Federal Risk and Authorization Management Program)
 description: Microsoft는 미국 연방 위험 및 권한 부여 관리 프로그램 P-ATOS 및 ATOS를 부여했습니다.
-keywords: Microsoft 365, 규정 준수, 제품
+keywords: Microsoft 365, 규정 준수, 제안
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ef6b2fd3c7254251831b84fbfd3c4d5e1648f9c7
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: d9b7988b2ab236a26aad0981879f9b49c9ed028a
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089722"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384948"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>FedRAMP(Federal Risk and Authorization Management Program)
 
@@ -47,53 +47,45 @@ Azure Government, Dynamics 365 Government 및 Office 365 미국 정부를 비롯
 
 Microsoft 정부 클라우드 서비스는 공공 부문 고객에게 FedRAMP를 준수하는 다양한 서비스와 [FedRAMP High Blueprint를](https://aka.ms/fedrampblueprint)비롯한 강력한 지침 및 구현 도구를 제공합니다. 이 도구는 고객이 FedRAMP High 컨트롤을 구현해야 하는 Azure 배포 아키텍처에 대한 핵심 정책 집합을 배포하는 데 도움이 됩니다.
 
-## <a name="microsoft-azure-p-atos"></a>Microsoft Azure P-ATOS
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
 
-Azure 및 Azure Government는 Azure 및 Azure Government를 사용하여 매우 중요한 데이터를 처리하기 위한 권한을 부여하는 FedRAMP 승인 최고 표시줄인 합동 인증 위원회에서 높은 영향 수준에서 P-ATO를 획득했습니다.
+- Azure 및 Azure Government
+- [Dynamics 365 미국 정부](https://aka.ms/d365-compliance-list)
+- Intune
+- Office 365 미국, 미국, Office 365- High, Office 365 미국 정부방부
+- 독립형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power BI 클라우드 서비스
 
-Azure 및 Azure Government의 FedRAMP 감사에는 범위 내 서비스의 인프라, 개발, 운영, 관리 및 지원을 아우를 수 있는 정보 보안 관리 시스템이 포함되어 있습니다. P-ATO가 부여된 경우 CSP에는 여전히 해당 기관이 작동하는 모든 정부 기관의 인증(ATO)이 필요합니다. Azure의 경우 정부 기관은 자체 보안 인증 프로세스에서 Azure P-ATO를 사용하여 FedRAMP 요구 사항도 충족하는 기관 ATO를 발행하기 위한 기반으로 사용할 수 있습니다.
+## <a name="azure-dynamics-365-and-fedramp"></a>Azure, Dynamics 365 및 FedRAMP
 
-Azure는 다른 클라우드 공급자보다 FedRAMP 높은 영향 수준에서 더 많은 서비스를 계속 지원하고 있습니다. 또한 Azure 공용 클라우드의 FedRAMP High는 많은 미국 정부 고객의 요구를 충족하는 반면, 더 엄격한 요구 사항을 충족하는 기관은 Azure Government를 계속 사용하여 직원의 고위 직원 심사와 같은 추가 세이프가드를 제공합니다. Microsoft는 현재 Azure Government에서 사용할 수 있는 모든 [Azure](/azure/azure-government/compliance/azure-services-in-fedramp-auditscope#azure-public-services-by-audit-scope) 공용 서비스를 FedRAMP High 경계에 나열하고 현재 연도에 계획된 서비스를 나열합니다.
+Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자세한 내용은 [Azure FedRAMP 서비스를 참조하세요.](/azure/compliance/offerings/offering-fedramp)
 
-## <a name="microsoft-dynamics-365-us-government-ato"></a>Microsoft Dynamics 365 U.S. Government ATO
-
-Dynamics 365 미국 정부는 미국 HUD(거주 및 도시 개발부)에서 높은 영향 수준에서 FedRAMP 기관 ATO를 부여했습니다. 인증 범위는 인증 범위에 제한이 정부 커뮤니티 클라우드, Dynamics 365 미국 정부 비즈니스 및 엔터프라이즈 계획은 동일한 엄격한 FedRAMP 제어 집합을 따라 운영됩니다.
-
-## <a name="microsoft-office-365-and-office-365-us-government-atos"></a>Microsoft Office 365 및 Office 365 미국 정부 ATOS
+## <a name="office-365-and-fedramp"></a>Office 365 및 FedRAMP
 
 - Office 365 및 Office 365 미국 정부는 미국 DHHS(보건복지부)의 ATO가 있습니다.
 - Office 365 미국 국방부에는 DISA(미국방부 정보 시스템 기관)의 P-ATO가 있습니다. 미국 Office 365 배포하고자 하는 모든 고객은 DISA P-ATO를 사용하여 기관 ATO를 생성하여 승인을 문서화할 수 있습니다.
 - Office 365(기업 및 비즈니스 요금제) 및 Office 365 DHHS 일반의 중간 영향 수준에 FedRAMP 기관 ATO가 Office 있습니다. Office 365 미국 정부는 이 인증을 획득한 첫 번째 클라우드 기반 전자 메일 및 공동 작업 서비스입니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+### <a name="office-365-cloud-environments"></a>Office 365 클라우드 환경
 
-- [Azure 및 Azure Government](https://go.microsoft.com/fwlink/p/?linkid=2095323)
-- [Dynamics 365 미국 정부](https://aka.ms/d365-compliance-list)
-- Intune
-- [Office 365 Office 365 미국 관리국](https://go.microsoft.com/fwlink/p/?linkid=2077751)
-- Office 365 US Government Defense
-- 독립 실행형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power BI 클라우드 서비스
-- 엔드포인트용 Microsoft Defender
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-> [!NOTE]
-> Azure Government 내에서 Azure Active Directory 사용하려면 Azure 공용 클라우드에서 Azure Government 외부에 배포되는 구성 요소를 사용해야 합니다.
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 및 범위 내 서비스
 
-## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
+다음 표를 사용하여 서비스 및 구독에 Office 365 여부를 확인할 수 있습니다.
+
+| **적용 가능 여부** | **범위 내 서비스** |
+|:------------------|:----------------------|
+| **GCC** | 작업 피드 서비스, Bing 서비스, Bing Delve, Exchange Online, Exchange Online Protection, 인프라, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office Online, Office 서비스, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, SharePoint Online, 비즈니스용 Skype, Windows Ink |
+| **GCC 높음** | 작업 피드 서비스, Bing 서비스, Exchange Online, Exchange Online Protection, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office Online, Office 서비스 인프라, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, SharePoint Online, 비즈니스용 Skype, Windows Ink |
+| **DoD** | 작업 피드 서비스, Bing 서비스, Exchange Online Protection, Exchange Online, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office Online, Office 서비스 인프라, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, SharePoint Online, 비즈니스용 Skype, Windows Ink |
+
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365, 보고서 및 인증서
 
 Microsoft는 P-ATOs 및 ATOs를 유지하기 위해 매년 클라우드 서비스를 재인증해야 합니다. 이를 위해 Microsoft는 보안 제어를 지속적으로 모니터링하고 평가하고, 서비스의 보안이 규정을 준수하는지 입증해야 합니다.
 
-- [Microsoft 클라우드 서비스 FedRAMP 권한 부여</span>](https://marketplace.fedramp.gov/#/product/azure-government?sort=productName&productNameSearch=azure)
-- [Microsoft FedRAMP 감사 보고서</span>](https://aka.ms/MicrosoftFedRAMPAuditDocuments)  
+- [Microsoft FedRAMP 감사 보고서](https://aka.ms/MicrosoftFedRAMPAuditDocuments)  
 
-다른 FedRAMP 보고서를 받으면 Azure 연방 설명서로 [전자 메일을 보내야 합니다.](mailto:AzFedDoc@microsoft.com)
-
-## <a name="quickly-deploy-your-fedramp-solutions-on-azure-government"></a>Azure Government에서 FedRAMP 솔루션 신속하게 배포
-
-Microsoft가 ATO 프로세스를 안내하고 고객이 FedRAMP High 컨트롤을 구현해야 하는 Azure 배포 아키텍처에 대한 핵심 정책 집합을 구현하는 데 도움이 되는 FedRAMP High Blueprint를 사용하여 FedRAMP 솔루션을 신속하게 배포할 수 있도록 합니다.
-
-[Azure FedRAMP High Blueprint 사용 시작](https://aka.ms/fedrampblueprint)
-
-## <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="frequently-asked-questions"></a>질문과 대답
 
 **Microsoft 클라우드 서비스가 FISMA(Federal Information Security Management Act)를 준수하나요?**
 
@@ -111,14 +103,13 @@ FedRAMP를 성공적으로 탐색하고 해당 요구 사항을 충족하기 위
 
 예. 연방 정부 기관의 ATO가 필요한 프로그램 또는 이니셔티브의 기초로 Microsoft 클라우드 서비스의 인증을 사용할 수 있습니다. 그러나 이러한 서비스 외부의 구성 요소에 대한 자체 권한 부여를 달성해야 합니다.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
 
 [Microsoft 준수 관리자](/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규제에 대한 평가를 빌드하기 위한 프리미엄 서식 파일을 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
 
-## <a name="resources"></a>리소스
+### <a name="resources"></a>리소스
 
 - [Federal Risk and Authorization Management Program](https://www.fedramp.gov/)
 - [FedRAMP 보안 평가 프레임워크](https://www.fedramp.gov/assets/resources/documents/FedRAMP_Security_Assessment_Framework.pdf)
 - [Microsoft의 클라우드에서 규정 준수 관리](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Microsoft Government 클라우드](https://go.microsoft.com/fwlink/p/?linkid=2087246)
-- [Azure 규정 준수 제품](https://aka.ms/azurecompliance)

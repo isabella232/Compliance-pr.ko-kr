@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c753092f26df4a0d8ebcb5fc2a7921cee9e79f93
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 18abcba03796d7f6563c65cebcbbafd63759dc7c
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120927"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385228"
 ---
 # <a name="european-banking-authority-eba"></a>European Banking Authority(유럽은행관리국:EBA)
 
@@ -37,16 +37,16 @@ EBA 권장 사항은 2018년 7월 발효되었으며 2006년 유럽은행감독�
 
 Microsoft 지침은 다음과 같이 각각의 EBA 권장 사항을 하나씩 다룹니다.
 
-- 감사 권리. Microsoft는 업계를 선도하는 금융 서비스 수정안을 통해 고객을 위한 계약에 대한 감사 권리와 규제 기관을 위한 조사의 권리를 제공합니다.
-- 아웃소싱 관련 알림 Microsoft는 고객에게 아웃소싱을 진행할 중요한 활동의 규제자를 통보하는데 도움을 줄 수 있습니다.
+- 감사 권한. Microsoft는 업계를 선도하는 금융 서비스 수정안을 통해 고객을 위한 계약에 대한 감사 권리와 규제 기관을 위한 조사의 권리를 제공합니다.
+- 아웃소싱 관련 알림. Microsoft는 고객에게 아웃소싱을 진행할 중요한 활동의 규제자를 통보하는데 도움을 줄 수 있습니다.
 - 데이터 상주. 유럽의 6개 지역을 포함하여 36개의 지역에서 Microsoft는 전 세계 클라우드 서비스 공급업체 중에 가장 많은 데이터 센터를 제공합니다. 조직은 유럽에서 데이터를 호스팅할 필요가 없이 한 지역에서 작업을 배포할 수 있습니다.
-- 하도급 업체 관련 알림 Microsoft는 고객에게 새로운 하도급 업체에 대한 180일 이내 알림 서비스와 고객이 새로운 하도급 업체의 지정을 승인하지 않는 경우 계약을 종료할 권리를 제공하는 계약 약정을 통해 업계를 주도합니다.
+- 하도급 업체 관련 알림. Microsoft는 고객에게 새로운 하도급 업체에 대한 180일 이내 알림 서비스와 고객이 새로운 하도급 업체의 지정을 승인하지 않는 경우 계약을 종료할 권리를 제공하는 계약 약정을 통해 업계를 주도합니다.
 - 비즈니스 연속성. Microsoft는 당사의 금융 서비스 수정안을 통해 Microsoft 컨설팅 서비스를 통한 전환 지원 서비스를 제공하려는 의지를 포함하여 비즈니스 연속성 및 해결 조항에 대한 설명을 제공합니다.
 - 위험 평가 및 보안 모니터링. Microsoft는 고객이 고유의 위험 평가를 수행하도록 해주고 당사의 클라우드 서비스를 감독하고 모니터링할 수 있도록 도구와 대시보드를 제공합니다.
 
 유럽 연합의 금융 기관을 위해 Microsoft는 또한 EBA 지침을 준수하여 모델화된 검사 목록인 [Microsoft 클라우드에서의 금융 기관을 위한 위험 평가 및 준수 가이드를](https://aka.ms/RiskGovernanceGuide) 발행했습니다. 이 가이드는 규정 요구 사항을 충족하기 위해 최적화된 거버넌스 모델을 설정하고 Microsoft 클라우드 서비스 사용에 대한 위험을 효과적으로 평가하며 이어서 규제적 승인을 위한 제출에 이르는 방법에 대해 설명합니다. 당사의 가이드는 클라우드 서비스 공급업체로의 아웃소싱에 대한 EBA의 지침에서 도출되고 지침에 응대하는 규제적 제안을 통해 답변이 필요한 질문의 목록을 포함하고 있습니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Microsoft 365](https://aka.ms/o365-compliance-framework)

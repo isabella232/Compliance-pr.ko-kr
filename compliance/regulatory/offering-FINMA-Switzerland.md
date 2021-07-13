@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1b391d3f3cd748047e24bf9e82d3c267ca7425a7
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 1fe73fa10549c0126dc0b38b93cf1edd5b132855
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089551"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385048"
 ---
 # <a name="financial-market-supervisory-authority-finma-switzerland"></a>스위스 금융시장감독청 (FINMA, Financial Market Supervisory Authority)
 
@@ -42,7 +42,7 @@ Microsoft의 점검 목록은 스위스 금융 기업이 Microsoft 비즈니스 
 - 컨텍스트에 대한 규제 사항의 개요.
 - 해결할 문제를 설명하고 Microsoft Azure, Microsoft Dynamics 365 및 Microsoft 365 서비스를 해당 규제적 의무에 매핑하는 점검 목록. 이 점검 목록은 규제 프레임워크에 대한 준수를 측정하는 도구로 사용될 수 있으며, 규정 준수를 문서화하기 위한 내부 구조를 제공하고, 고객이 Microsoft 비즈니스 클라우드 서비스의 고유 위험 평가를 수행하는 데 도움이 됩니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

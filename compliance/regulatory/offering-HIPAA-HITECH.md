@@ -1,7 +1,7 @@
 ---
 title: HIPAA(Health Insurance Portability and Accountability Act) & Health Information Technology for Economic and Health Health (HITECH) Act
 description: Microsoft는 BAAS(Health Insurance Portability & Act Business Associate Agreements)를 제공합니다.
-keywords: Microsoft 365, 규정 준수, 제품
+keywords: Microsoft 365, 규정 준수, 제안
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f32ebfe11debbace7783722553d37f68815a9085
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 8145c8e4fc1617371acdfa10cd20daa4f3ba3bf3
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089521"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384868"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>HIPAA(Health Insurance Portability and Accountability Act) & Health Information Technology for Economic and Health Health (HITECH) Act
 
@@ -47,30 +47,42 @@ Microsoft 엔터프라이즈 클라우드 서비스에는 FedRAMP 평가도 있�
 
 Microsoft 클라우드에서 고객이 HIPAA 및 HITECH 요구 사항을 지원하는 방법을 알아보고 [Microsoft 고객 사례를 방문하세요.](https://customers.microsoft.com/)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
 
-- [Azure 및 Azure](https://aka.ms/AzureCompliance)Government(Microsoft의 HIPAA 비즈니스 파트너 계약에 대한 범위 내 서비스 전체 목록은 부록 *A* 및 *B* 참조)
+- Azure 및 Azure Government
+- Azure DevOps 서비스
+- Dynamics 365 및 Dynamics 365 U.S. Government
+- Intune
 - Microsoft Cloud App Security
 - [의료용 Microsoft 클라우드](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
 - Microsoft Healthcare Bot Service
 - [Microsoft Managed Desktop](/microsoft-365/managed-desktop/intro/compliance)
-- Microsoft Stream
 - Microsoft 전문 서비스: Azure, Dynamics 365, Intune, 비즈니스용 Microsoft 365의 중간 규모 비즈니스 및 엔터프라이즈 고객 대상 프리미어 및 온-프레미스
-- [Dynamics 365 및 Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
+- Office 365 Office 365 미국 정부
 - 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power Automate(이전 Microsoft Flow) 클라우드 서비스
-- Intune
-- [Office 365, Office 365 U.S. Government, Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 - 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 PowerApps 클라우드 서비스
 - Power BI 독립 실행형 서비스로 또는 Office 365 또는 Dynamics 365 브랜드 플랜 또는 제품군에 포함된 클라우드 서비스
-- Azure DevOps Services
 
-## <a name="accelerate-your-deployment-of-hipaahitrust-solutions-on-azure"></a>Azure에서 HIPAA/HITRUST 솔루션 배포 가속화
+## <a name="azure-dynamics-365-and-hipaa"></a>Azure, Dynamics 365 및 HIPAA
 
-Azure 보안 및 규정 준수 Blueprint를 사용하여 건강 데이터 솔루션에 대한 클라우드의 이점을 활용하기 [시작하세요.](/azure/governance/blueprints/samples/hipaa-hitrust-9-2) 이 Blueprint는 오늘날 HIPAA/HITRUST 솔루션을 구축하기 시작할 수 있는 도구와 지침을 제공합니다.
+Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자세한 내용은 Azure HIPAA 서비스를 [참조하세요.](/azure/compliance/offerings/offering-hipaa-us)
 
-자세한 내용은 [Azure 및 HIPAA](/azure/compliance/offerings/offering-hipaa-us) 제품을 방문하세요.
+## <a name="office-365-and-hipaa"></a>Office 365 HIPAA
 
-## <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="office-365-cloud-environments"></a>Office 365 클라우드 환경
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 및 범위 내 서비스
+
+다음 표를 사용하여 서비스 및 구독에 Office 365 여부를 확인할 수 있습니다.
+
+| **적용 가능 여부** | **범위 내 서비스** |
+|:------------------|:----------------------|
+| **Office 365** | Access Online, Azure Active Directory, Azure Communications Service, 준수 관리자, Customer Lockbox, Delve, Exchange Online, Forms, Griffin, Identity Manager, Lockbox(Torus), microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Customer Portal, Office 365 Microservices(Kaizala, ObjectStore, Sway, Power Automate, PowerPoint Online Document Service, Query Annotation Service, 학교 데이터 동기화, Siphon, Speech, StaffHub, eXtensible Application Program), Office 365 Security & Compliance Center, Office Online, Office Pro Plus, Office Services Infrastructure, 비즈니스용 OneDrive, Planner, PowerApps, Power BI, Project Online, 고객 키를 사용하여 서비스 암호화, SharePoint Online, 비즈니스용 Skype, Stream |
+| **GCC** | Azure Active Directory, Azure Communications Service, 준수 관리자, Delve, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, Stream |
+
+### <a name="frequently-asked-questions"></a>질문과 대답
 
 **조직에서 Microsoft와 함께 BAA를 입력할 수 있나요?**
 
@@ -90,7 +102,7 @@ HIPAA 비즈니스 파트너 계약은 범위 내 Microsoft Professional 사용�
 
 **제3자 감사 보고서의 복사본을 얻을 수 있는 방법**
 
-[Service Trust Portal](https://www.microsoft.com/trustcenter/STP/default.aspx)은 독립적으로 감사를 거친 규정 준수 보고서를 제공합니다. 감사자는 포털을 사용하여 감사 보고서를 요청할 수 있으므로 감사자는 Microsoft의 클라우드 서비스 결과를 자체 법적 및 규정 요구 사항과 비교할 수 있습니다. Azure 고객은 Azure 보안 센터의 감사 보고서 블레이드를 통해 Azure Portal에서 Azure 인증서 및 감사 보고서를 [검색할 수도 있습니다.](https://ms.portal.azure.com/#blade/Microsoft_Azure_Security/AuditReportsBlade)
+[서비스 보안 포털](https://www.microsoft.com/trustcenter/STP/default.aspx)은 독립적으로 감사를 거친 규정 준수 보고서를 제공합니다. 감사자는 포털을 사용하여 감사 보고서를 요청할 수 있으므로 감사자는 Microsoft의 클라우드 서비스 결과를 자체 법적 및 규정 요구 사항과 비교할 수 있습니다. Azure 고객은 Azure 보안 센터의 감사 보고서 블레이드를 통해 Azure Portal에서 Azure 인증서 및 감사 보고서를 [검색할 수도 있습니다.](https://ms.portal.azure.com/#blade/Microsoft_Azure_Security/AuditReportsBlade)
 
 **Microsoft에서 HIPAA 및 HITECH Act 준수를 지원하는 방법에 대해 자세히 알아보는 방법**
 
@@ -99,17 +111,13 @@ HIPAA 비즈니스 파트너 계약은 범위 내 Microsoft Professional 사용�
 - 개인 정보, 보안 및 규정 [](/azure/governance/blueprints/samples/hipaa-hitrust-9-2/) 준수 책임자 및 HIPAA 및 HITECH Act 구현을 담당하는 기타 Azure에 대한 HIPAA/HITECH Act 구현 지침은 조직이 규정 준수를 유지하기 위해 취할 수 있는 구체적인 단계를 설명합니다.
 - [보안 솔루션을 사용하여 보안](https://aka.ms/azureindustrysecurity) 상태 솔루션을 디자인하는 Microsoft Azure 지침은 클라우드 서비스를 안전한 방식으로 채택하는 데 필요한 것을 더 잘 이해하는 데 도움이 됩니다.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
 
 [Microsoft 준수 관리자](/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규제에 대한 평가를 빌드하기 위한 프리미엄 서식 파일을 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
 
-## <a name="resources"></a>리소스
+### <a name="resources"></a>리소스
 
 - [Microsoft HIPAA 비즈니스 파트너 계약](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3)
-- [Azure HIPAA 구현 지침](https://azure.microsoft.com/resources/a-practical-guide-to-designing-secure-health-solutions-using-microsoft-azure/)
-- [Azure HIPAA/HITRUST Blueprint](/azure/governance/blueprints/samples/hipaa-hitrust-9-2/)
 - [의료 규정 준수 서비스를 위한 Microsoft 클라우드](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
-- [의료 산업용 Azure](https://azure.microsoft.com/industries/healthcare/)
-- [Azure High-Performance 및 생명 과학용 컴퓨팅](https://azure.microsoft.com/solutions/high-performance-computing/health-and-life-sciences/)
 - [의료 산업용 Microsoft 클라우드](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)
 - [Microsoft 보안 센터의 의료](https://www.microsoft.com/trust-center/cloudservices/health)

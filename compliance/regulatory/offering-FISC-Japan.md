@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 88e85b1060374932320a4191c4eb4b2b665fe986
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 977c4805617e71d065b5f8c7a97b91d277a2ef34
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088947"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384958"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>FISC(Center for Financial Industry Information Systems: 금융 산업 정보 시스템 센터)
 
@@ -45,15 +45,29 @@ Microsoft에서는 Microsoft Azure, Dynamics 365 및 Microsoft Office 365가 금
 
 금융 기관에서는 Azure, Dynamics 365, Office 365 및 Microsoft Cloud App Security의 범위 내 인프라 및 플랫폼 서비스에 대해 이 세 가지 영역의 준수 평가를 신뢰할 수 있습니다. 
 
-[외부 평가자의 유효성 검사 및 평가자의 사이트에 대 한 링크 (일본어만 해당)에 대해 자세히 알아보기](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/)
+[외부 평가자의 유효성 검사 및 평가자의 사이트에 대 한 링크 (일본어만 해당)에 대해 자세히 알아보세요](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/).
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
-- [Azure](https://aka.ms/AzureCompliance)
-- Microsoft Cloud App Security
+- Azure
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- 독립 실행형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power BI 클라우드 서비스
+- Microsoft Cloud App Security
+- Office 365
+- Power BI 클라우드 서비스(독립 실행형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태)
+
+## <a name="office-365-and-fisc"></a>Office 365 및 FISC
+
+### <a name="office-365-cloud-environments"></a>Office 365 클라우드 환경
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
+
+다음 표를 사용하여 Office 365 서비스 및 구독에 대한 적용 가능성을 확인합니다.
+
+| **적용 가능성** | **범위 내 서비스** |
+|:------------------|:----------------------|
+| **Office 365** | Access Online, Azure Active Directory, Delve, Exchange Online, Exchange Online Protection, Microsoft Teams, Office 365 ProPlus, Office 온라인, 비즈니스용 OneDrive, Power BI for Office 365, Project Online, SharePoint Online, 비즈니스용 Skype |
 
 ## <a name="frequently-asked-questions"></a>자주하는 질문
 

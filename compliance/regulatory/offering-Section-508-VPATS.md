@@ -1,7 +1,7 @@
 ---
 title: 미국 섹션 508
 description: Microsoft는 해당 서비스의 접근성 기능을 설명하는 많은 클라우드 서비스에 대한 자세한 접근성 적합성 보고서를 제공합니다.
-keywords: Microsoft 365, 규정 준수, 제품
+keywords: Microsoft 365, 규정 준수, 제안
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b6c48ebc9461010db1e129e88e53b4ada5c32683
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: b761a9848e29b09fa46fdac822a545dc67be61f1
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088807"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384338"
 ---
 # <a name="us-section-508"></a>미국 섹션 508
 
@@ -35,21 +35,37 @@ Microsoft는 미국 연방 및 주 정부에 대한 주요 소프트웨어 및 �
 
 제품 및 서비스 개발에 대한 Microsoft의 미국 섹션 508 고려 사항은 모든 고객이 기술 및 데이터에 액세스할 수 있도록 만들겠다는 약속을 지니는 것입니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
 
-- [Azure 및 Azure Government](https://go.microsoft.com/fwlink/p/?linkid=2051569)
+- Azure 및 Azure Government
 - Azure DevOps 서비스
 - Dynamics 365 및 Dynamics 365 U.S. Government
 - Intune
-- [Office 365 및 Office 365 U.S. Government](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- [Office 365 US Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365 Office 365 미국 정부, Office 365 국방부
 - Windows Server 2016
 
-## <a name="microsoft-accessibility-conformance-reports"></a>Microsft 접근성 적합성 보고서
+## <a name="office-365-and-us-section-508"></a>Office 365 및 미국 섹션 508
+
+### <a name="office-365-cloud-environments"></a>Office 365 클라우드 환경
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 및 범위 내 서비스
+
+다음 표를 사용하여 서비스 및 구독에 Office 365 여부를 확인할 수 있습니다.
+
+| **적용 가능 여부** | **범위 내 서비스** |
+|:------------------|:----------------------|
+| **Office 365** | Access, Azure Active Directory, Bookings, Compliance Manager, Delve, Excel, Exchange Online, 양식, Kaizala, microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, android용 Office 365 관리 포털, iOS용 Office 365 관리 포털, Office 365 관리 포털, Office 365 Advanced Compliance 추가 기능, Office 365 및 Azure AD 로그인, Office 365 Business 센터, Office 365 보안 & 준수 센터, Office 365 비디오, Office 365 웹 제품군, Office 구성 도구, Office Lens, Office Online, Office Pro Plus, 비즈니스용 OneDrive, OneDrive, OneNote, Outlook Groups, Outlook, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, SharePoint, 비즈니스용 Skype, StaffHub, Stream, To-Do, Visio, Word, Yammer  |
+| **GCC** | Azure Active Directory, 준수 관리자, Delve, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, Stream |
+| **GCC 높음** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype |
+| **DoD** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 보안 & 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, Power BI, SharePoint Online, 비즈니스용 Skype |
+
+### <a name="microsoft-accessibility-conformance-reports"></a>Microsft 접근성 적합성 보고서
 
 모든 제품 및 서비스에 대한 [적합성 보고서](https://cloudblogs.microsoft.com/industry-blog/government/2018/09/11/accessibility-conformance-reports/)를 찾아보세요.
 
-## <a name="resources"></a>리소스
+### <a name="resources"></a>리소스
 
 - [Microsoft 접근성 페이지:](https://go.microsoft.com/fwlink/p/?linkid=2051579)모든 사람이 더 많은 성과를 달성할 수 있도록 Microsoft가 혁신하는 방법을 살펴보십시오.
 - [Office 365 접근성 센터](https://go.microsoft.com/fwlink/p/?linkid=2051801): 장애가 있는 사용자를 위한 Office 365 리소스

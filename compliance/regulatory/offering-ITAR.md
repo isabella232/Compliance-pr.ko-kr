@@ -1,7 +1,7 @@
 ---
 title: ITAR(International Traffic in Arms Regulations)
 description: Azure Government는 Arms Regs 지원 시스템에서 미국 국제 트래픽을 구축하는 고객을 지원합니다.
-keywords: Microsoft 365, 규정 준수, 제품
+keywords: Microsoft 365, 규정 준수, 제안
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 5ee31d5d61048593eec53a6bb72f8af538d2c3b3
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 0797161b0c7bfca8d4fda37cbf05a037d29322de
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088927"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384638"
 ---
 # <a name="international-traffic-in-arms-regulations-itar"></a>ITAR(International Traffic in Arms Regulations)
 
 ## <a name="itar-overview"></a>ITAR 개요
 
-미국 국무부는 무기 수출 제어법(Title 22 USC 2778) 및 ITAR(International Traffic in Arms Regulations)(제목 22 CFR 120–130)에 규정된 미국 의약정부 목록에서 지정된 항목 또는 기술 데이터를 관리합니다. DDTC(국방 무역 통제국)는 이러한 프로그램에서 제어하는 엔터티를 관리하는 업무를 담당합니다.
+미국 국무부는 무기 수출 제어법(Title 22 USC 2778) 및 ITAR(International Traffic in Arms Regulations)(제목 22 CFR 120-130)에 규정된 미국 의약정부 목록에서 지정된 항목 또는 기술 데이터를 관리합니다. DDTC(국방 무역 통제국)는 이러한 프로그램에서 제어하는 엔터티를 관리하는 업무를 담당합니다.
 
 ## <a name="microsoft-and-itar"></a>Microsoft 및 ITAR
 
@@ -41,22 +41,39 @@ ITAR는 특정 위험 완화 이점을 제공할 수 있는 위반을 보고할 
   
 ITAR 규제 데이터를 호스팅하고자 하는 고객은 Microsoft 계정 및 라이선스 팀과 함께 작업하여 자세한 내용을 알아보고, 적절한 계약을 획득하고, 관련 시스템 아키텍처 정보에 액세스해야 합니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
 
-- [Azure Government](https://aka.ms/AzureCompliance)
-- [Office 365 US Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Azure Government
+- Office 365 미국 정부 - 고위, Office 365 방어
 
-## <a name="frequently-asked-questions"></a>질문과 대답
+## <a name="azure-dynamics-365-and-itar"></a>Azure, Dynamics 365 및 ITAR
 
-**규정 준수 정보는 어디에서 요청할 수 있나요?**
+Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자세한 내용은 Azure ITAR 서비스를 [참조하세요.](/azure/compliance/offerings/offering-itar)
 
-Microsoft 계정 담당자에게 문의하세요.
+## <a name="office-365-and-itar"></a>Office 365 및 ITAR
 
-## <a name="resources"></a>리소스
+### <a name="office-365-cloud-environments"></a>Office 365 클라우드 환경
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 및 범위 내 서비스
+
+다음 표를 사용하여 서비스 및 구독에 Office 365 여부를 확인할 수 있습니다.
+
+| **적용 가능 여부** | **범위 내 서비스** |
+|:------------------|:----------------------|
+| **GCC 높음** | 작업 피드 서비스, Bing Services, Exchange Online, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office Online, Office 서비스 인프라, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, SharePoint Online, 비즈니스용 Skype, Windows Ink |
+| **DoD** | 작업 피드 서비스, Bing Services, Exchange Online, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office Online, Office 서비스 인프라, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, SharePoint Online, 비즈니스용 Skype, Windows Ink |
+
+### <a name="frequently-asked-questions"></a>질문과 대답
+
+**ITAR에 대한 Office 365 정보는 어디에서 요청할 수 있나요?**
+
+Microsoft Office 365 담당자에게 문의하세요.
+
+### <a name="resources"></a>리소스
 
 - [DDTC ITAR](https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&sys_id=24d528fddbfc930044f9ff621f961987)
 - [ITAR 제목 22 CFR 120–130](https://aka.ms/itar)
-- [ITAR 제어 데이터에서 Azure Government 사용](https://aka.ms/azure-itar-guide)
-- [Azure Government](https://azure.microsoft.com/features/gov/)
 - [Office 365 미국 정부](https://products.office.com/government/office-365-web-services-for-government)
 - [Microsoft 보안 센터에 대한 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)

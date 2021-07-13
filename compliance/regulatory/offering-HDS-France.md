@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 84af03217d697f6f54db1a7d87230ae08c2b02b4
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 65739fcf3b787ea50523c3195ffaf7e31d315d3f
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508889"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384908"
 ---
 # <a name="health-data-hosting-hds-france"></a>건강 데이터 호스팅 (HDS) 프랑스
 
@@ -46,7 +46,7 @@ Microsoft에서 개인 건강 데이터를 보호하고 기밀을 보호하기 �
 - 매년 준수 여부를 감사하는 Microsoft 클라우드 서비스의 [ISO / IEC 27001:2013 정보 보안 관리](offering-iso-27001.md) 인증.
 - GDPR 및 [클라우드의 개인 데이터 보호를 위한 ISO/IEC 27018 규정 준수](offering-iso-27018.md)를 기반으로한 높은 수준의 개인 정보 보호.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - [Azure](https://aka.ms/AzureCompliance). HDS 인증서는 Azure 규정 준수 제품의 ISO/IEC 27001 표준을 준수하는 것으로 나열된 Azure 서비스에 적용되며 프랑스 중부, 프랑스 남부, 유럽 서부 및 유럽 북부 Azure 지역에서 프로비저닝됩니다.
 - Dynamics 365. HDS 인증서는 프랑스 및 유럽 연합 지역에서 프로비저닝된 Dynamics 365 [핵심 온라인 서비스](https://aka.ms/Online-Services-Terms)에 적용됩니다.

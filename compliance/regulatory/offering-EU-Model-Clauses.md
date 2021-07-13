@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e50e5a8e0dd8ec400b4ca5ae053f3898e4cb0abc
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 456ce920d3327926541c78b1153577dcc6bb8e42
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496529"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385158"
 ---
 # <a name="european-union-model-clauses"></a>유럽 연합 모델 조항
 
@@ -41,19 +41,33 @@ Microsoft는 검토 및 승인을 받기 위해 EU의 29 조항 특별 조사 �
 
 이 그룹은 Microsoft 계약의 조항 구현이 엄격한 요구 사항을 만족하는 것을 확인했습니다. (Microsoft는 그룹의 보증 승인서를 받은 첫 번째 클라우드 서비스 공급자였습니다.) 승인은 모델 조항 2010/87/EU에 반영된 계약을 다루었지만 데이터 전송 및 데이터 가져오기에서 구현되는 보안 조치를 설명하는 부록에서는 다루지 않았습니다. 부록은 DPA에 의해 별도로 분석될 수 있습니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
-- [Azure 및 Azure Government](https://aka.ms/AzureCompliance)
-- Microsoft Cloud App Security
-- Microsoft 전문 서비스: Azure, Dynamics 365, Intune, 비즈니스용 Microsoft 365의 중간 규모 비즈니스 및 엔터프라이즈 고객 대상 프리미어 및 온-프레미스
+- Azure 및 Azure Government
+- Azure DevOps Services
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune: Office 365용 Intune 추가 기능 제품 및 모바일 장치 관리의 클라우드 서비스 부분
+- Microsoft Cloud App Security
+- 다음의 클라우드 서비스 부분에 대한 엔드포인트용 Windows Defender: 끝점 감지 및 대응, 자동 조사 및 조치, 보안 점수
+- Microsoft 전문 서비스: Azure, Dynamics 365, Intune, 비즈니스용 Microsoft 365의 중간 규모 비즈니스 및 엔터프라이즈 고객 대상 프리미어 및 온-프레미스
+- Office 365
 - 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power Automate(이전 Microsoft Flow) 클라우드 서비스
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 - 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 PowerApps 클라우드 서비스
 - 독립 실행형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power BI 클라우드 서비스
-- Azure DevOps Services
-- 다음의 클라우드 서비스 부분에 대한 엔드포인트용 Windows Defender: 끝점 감지 및 대응, 자동 조사 및 조치, 보안 점수
+
+## <a name="office-365-and-european-union-model-clauses"></a>Office 365 및 유럽 연합 모델 조항
+
+### <a name="office-365-cloud-environments"></a>Office 365 클라우드 환경
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
+
+다음 표를 사용하여 Office 365 서비스 및 구독에 대한 적용 가능성을 확인합니다.
+
+| **적용 가능성** | **범위 내 서비스** |
+|:------------------|:----------------------|
+| **Office 365** | Advanced Threat Protection, Azure Active Directory, Azure Information Protection, Bookings, 준수 관리자, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, 웹용 Microsoft To-Do, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Cloud App Security, Office 365 그룹, Office 365 버안 및 준수 센터, Office 365 비디오, Office 온라인, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint 온라인, 비즈니스용 Skype, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 
@@ -88,7 +102,6 @@ Microsoft는 EU 표준을 지속적으로 평가하고 필요 시 서비스를 �
 - [EU 데이터 보호 지침](https://aka.ms/EU-DPD)
 - [유럽 데이터 보호 위원회](https://edpb.europa.eu/)
 - [Dynamics 365 및 Office 365에 대한 EU 모델 조항 FAQ](https://products.office.com/business/office-365-trust-center-eu-model-clauses-faq)
-- [Microsoft 및 EU-U.S. 프라이버시 쉴드(Privacy Shield)](offering-eu-us-privacy-shield.md)
 - [Microsoft 공통 컨트롤 허브 규정 준수 프레임 워크](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Microsoft 온라인 서비스 사용 약관](https://aka.ms/Online-Services-Terms)
 - [Microsoft 보안 센터에 대한 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)
