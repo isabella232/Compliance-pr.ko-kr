@@ -248,8 +248,8 @@
       items:
         - name: 책임 준비 상태 검사 목록
           href: gdpr-arc.md
-        - name: Azure 및 Dynamics 365
-          href: gdpr-arc-azure-dynamics.md
+        - name: 'Azure, Dynamics 365 및 Windows'
+          href: gdpr-arc-azure-dynamics-windows.md
         - name: Microsoft 지원 및 전문 서비스
           href: gdpr-arc-prof-services.md
         - name: Office 365
@@ -274,20 +274,18 @@
           href: gdpr-dsr-office365.md
         - name: Visual Studio 제품군
           href: gdpr-dsr-visual-studio-family.md
-        - name: Windows 엔터프라이즈
+        - name: Windows
           href: gdpr-dsr-windows.md
     - name: 위반 알림
       items:
         - name: 위반 알림
           href: gdpr-breach-notification.md
-        - name: Azure & Dynamics 365
-          href: gdpr-breach-azure-dynamics.md
+        - name: 'Azure, Dynamics 365 및 Windows'
+          href: gdpr-breach-azure-dynamics-windows.md
         - name: Microsoft 지원 및 전문 서비스
           href: gdpr-breach-microsoft-support-professional-services.md
         - name: Office 365
           href: gdpr-breach-office365.md
-        - name: Windows 엔터프라이즈
-          href: gdpr-breach-windows.md
     - name: 데이터 보호 영향 설명문
       items:
         - name: 데이터 보호 영향 평가
@@ -300,7 +298,7 @@
           href: gdpr-dpia-prof-services.md
         - name: Office 365
           href: gdpr-dpia-office365.md
-        - name: Windows 엔터프라이즈
+        - name: Windows
           href: gdpr-dpia-windows.md
     - name: 온-프레미스 Office 서버에 대한 GDPR
       items:
