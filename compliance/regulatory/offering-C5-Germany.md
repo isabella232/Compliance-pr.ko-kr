@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7154e239956c624d621977b8c9167ec5e58c5001
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 7a530d78107af4f37607f90c6a93008ec695f765
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121777"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385468"
 ---
 # <a name="cloud-computing-compliance-controls-catalog-c5"></a>클라우드 컴퓨팅 규정 준수 컨트롤 카탈로그(C5)
 
@@ -39,7 +39,7 @@ C5는 ISO/IEC 27001:2013, 클라우드 보안 제휴 클라우드 컨트롤 매�
 
 SOC 2(AT Section 101) 표준에 따라 Microsoft 클라우드 서비스를 적어도 매년 감사합니다. BSI에 따르면 C5 감사는 SOC 2 감사와 결합되어 시스템 설명의 일부 및 겹치는 컨트롤에 대한 감사 결과를 재사용할 수 있습니다. Microsoft Azure, Azure Government 및 Azure Germany는 독립 감사원이 수행한 감사 평가를 기반으로 C5 준수 여부를 증명하는 결합된 보고서(C5, SOC 2 유형 2, CSA STAR 증명)를 유지 관리합니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - [Azure, Azure Government, Azure Germany](https://go.microsoft.com/fwlink/p/?linkid=2051569)
 - Office 365 Germany
@@ -68,7 +68,7 @@ Microsoft Cloud Germany는 독일에 물리적으로 기반을 두고 있으며 
 
 ## <a name="resources"></a>리소스
 
-- 클라우드 컴퓨팅 규정 준수 컨트롤 카탈로그(C5) ([영어](https://www.bsi.bund.de/EN/Topics/CloudComputing/Compliance_Criteria_Catalogue/Compliance_Criteria_Catalogue_node.html)) ([독일어](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/CloudComputing/Kriterienkatalog/Kriterienkatalog_node.html))
+- 클라우드 컴퓨팅 규정 준수 컨트롤 카탈로그(C5) ([영어](https://www.bsi.bund.de/EN/Topics/CloudComputing/Compliance_Criteria_Catalogue/Compliance_Criteria_Catalogue_node.html)) ([독일어](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/CloudComputing/Kriterienkatalog/Kriterienkatalog_node.html))
 - 클라우드 컴퓨팅 공급자에 대한 보안 권장 사항([영어](https://www.bsi.bund.de/EN/Topics/CloudComputing/Secure_use_of_cloud_services/Secure_use_cloud_services_node.html)) ([독일어](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/CloudComputing/Sichere_Nutzung_Cloud/Sichere_Nutzung_Cloud_node.html))
 - [준수 보고서: C5-und SOC-Testate Azure 독일](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=df100ae1-baf9-4785-8a6d-864c0bc5c308&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_SOC%20%2F%20SSAE%2016%20Reports)
 - Microsoft Azure Germany용 [IT-Grundschutz 규정 준수 통합 문서](https://gallery.technet.microsoft.com/Azure-Germany-IT-fca4afd7)

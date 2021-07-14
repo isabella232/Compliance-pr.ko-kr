@@ -19,12 +19,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: f6b0582215242dd1de187b4cd0386e44b144dba8
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: b0b16b88ede35ed71cdc90b27a7e3076e51ae56b
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496485"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377815"
 ---
 # <a name="support-your-gdpr-program-with-accountability-readiness-checklists"></a>책임 준비 상태 검사 목록으로 GDPR 프로그램 지원
 
@@ -37,8 +37,9 @@ Microsoft 제품 및 서비스를 사용할 때 GDPR을 지원하는 데 필요�
 4개의 Microsoft 제품 및 서비스 제품군에 대한 특정 지침이 있습니다.
 
 - [Office 365](gdpr-arc-Office365.md)
-- [Dynamics 365](gdpr-arc-azure-dynamics.md)
-- [Azure](gdpr-arc-azure-dynamics.md)
+- [Dynamics 365](gdpr-arc-azure-dynamics-windows.md)
+- [Azure](gdpr-arc-azure-dynamics-windows.md)
+- [Windows](gdpr-arc-azure-dynamics-windows.md)
 - [Microsoft 지원 및 전문 서비스](gdpr-arc-prof-services.md)
 
 GDPR 타일의 고객 관리 컨트롤에서 컨트롤 ID 및 컨트롤 제목을 참조하여 [준수 관리자](/microsoft-365/compliance/compliance-manager)를 통해 이 검사 목록의 항목을 관리할 수 있습니다.

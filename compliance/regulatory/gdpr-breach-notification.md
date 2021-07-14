@@ -19,12 +19,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: 83d07d056656e76c49af015bcd3e7f0a3fe57e1f
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: f75a8e0f87a5a3e893a296bf487668078b5aef94
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496409"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377795"
 ---
 # <a name="gdpr-breach-notification"></a>GDPR 위반 알림
 
@@ -60,12 +60,11 @@ Microsoft는 GDPR(일반 데이터 보호 규정)에 따라 의무를 다합니�
 
     고객이 위반 사항을 알게 되고 Microsoft에 문의할 수 있습니다. 이 경우에는 Microsoft 지원에 문의합니다. Microsoft 지원 팀은 엔지니어링 팀을 통해 추가 정보를 확인하게 됩니다.
 
-2. **[Azure & Dynamics 365](gdpr-breach-azure-dynamics.md)**  
-    Microsoft는 Microsoft Azure와 Dynamics 365에 대한 공격의 영향을 완화하기 위해 전역적인 연중 무휴 서비스를 제공합니다.
+2. **[Azure, Dynamics 365 및 Windows](gdpr-breach-azure-dynamics-windows.md)** Microsoft에는 Microsoft Azure, Dynamics 365 및 Windows 진단 데이터 프로세서 구성에 대한 공격의 영향을 완화하기 위해 글로벌 24x7 인시던트 대응 서비스를 운영하고 있습니다.
 
     - *위반 감지*: Microsoft와 고객 모두에게 보안 의무가 있으므로, Azure 서비스는 공유 책임 모델을 사용하여 보안 및 운영 책임을 정의합니다. Microsoft는 고객의 책임 영역 내에서 보안 사고를 모니터링하거나 대응하지 않습니다. 고객 인시던트 대응 시 Azure [고객 지원](https://azure.microsoft.com/support/options/)과 공동 작업이 수반되며 계약업체에 적절한 서비스가 부여됩니다. 또한 Microsoft Azure는 고객이 보안 인시던트 대응을 개발 및 관리하기 위해 활용할 수 있는 다양한 서비스(예: [Azure Security Center](https://azure.microsoft.com/services/security-center/))도 제공합니다.
 
-        Microsoft Azure에서 위반 조사를 트리거하는 이벤트 목록을 보려면 [잠재적인 침해 감지](/microsoft-365/compliance/gdpr-breach-azure-dynamics#detection-of-potential-breaches)를 참조하세요. [Azure 및 GDPR의 위반 알림](gdpr-breach-azure-dynamics.md)에서는 Microsoft가 Azure 내의 보안 인시던트를 조사, 관리 및 대응하는 방법을 자세히 설명합니다.
+        Microsoft Azure에서 위반 조사를 트리거하는 이벤트 목록을 보려면 [잠재적인 침해 감지](/microsoft-365/compliance/gdpr-breach-azure-dynamics#detection-of-potential-breaches)를 참조하세요. [Azure 및 GDPR의 위반 알림](gdpr-breach-azure-dynamics-windows.md)에서는 Microsoft가 Azure 내의 보안 인시던트를 조사, 관리 및 대응하는 방법을 자세히 설명합니다.
 
     - *데이터 위반 대응*: Microsoft는 인시던트가 기능에 미치는 영향, 복구 가능성 및 정보에 미치는 영향을 조사하여 위반에 대한 적절한 우선 순위와 심각도 수준을 확인합니다. 우선 순위와 심각도는 새로 확인한 결과 및 결론에 따라, 조사가 진행되는 동안 변경될 수 있습니다.
     Microsoft의 보안 대응 팀은 글로벌 법률 고문과 긴밀하게 협력하여 고객에 대한 법적 의무와 약속에 따라 포렌식 검사가 수행되도록 지원합니다. 이러한 프로세스는 [Azure의 데이터 위반 대응](/microsoft-365/compliance/gdpr-breach-azure-dynamics#azures-data-breach-response)에 자세히 설명되어 있습니다.

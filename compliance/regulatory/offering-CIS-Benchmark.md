@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f35e72bc81a93bcba3ecea5ca8a416553e6116a8
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 7cc2131bf35f4f230ed3d18a22d7da0533dd3be5
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121377"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385398"
 ---
 # <a name="center-for-internet-security-cis-benchmarks"></a>인터넷 보안 센터 (CIS) 벤치마크
 
@@ -50,12 +50,12 @@ CIS 벤치마크는 사이버 공격으로부터 IT 시스템 및 데이터를 �
   
 CIS는 Microsoft 제품 및 서비스에 대한 벤치마크 외에도 CIS 벤치마크를 충족하도록 구성된 [Azure 가상 머신에서 사용할 CIS 강화 이미지](https://www.cisecurity.org/blog/cis-hardened-images-now-in-microsoft-azure-marketplace/)를 게시했습니다. 여기에는 Azure에서 실행되도록 인증된 Microsoft Windows Server 2016용 CIS 강화 이미지가 포함됩니다. CIS는 다음과 같이 명시했습니다. [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps?search=center%20for%20internet%20security)에서 사용할 수 있는 모든 CIS 강화 이미지는 Azure에서 실행되도록 인증되었습니다. Azure 퍼블릭 클라우드, 클라우드 OS 네트워크를 통해 서비스 공급자가 호스트하는 Microsoft 클라우드 플랫폼 및 고객이 관리하는 온-프레미스 프라이빗 클라우드 Windows Server Hyper-V 배포와의 호환성에 대해 사전 테스트를 거쳤습니다.'
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - [Azure 및 Azure Government](https://aka.ms/AzureCompliance)
 - [Office 및 Microsoft 365](https://aka.ms/o365-compliance-framework)
 - SQL Server
-- Windows 10
+- Windows 10
 - Windows Server 2016
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서

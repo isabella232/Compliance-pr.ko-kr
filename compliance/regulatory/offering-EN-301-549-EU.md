@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4ec39ccbeb9780c51ef813c1520675abb1d19cc9
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 2d02e7643ca554e55f4d901a95a39d1a8e5285f9
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089571"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385208"
 ---
 # <a name="european-standards-en-301-549"></a>유럽 표준 EN-US 301 549
 
@@ -35,13 +35,13 @@ Microsoft는 유럽 국가의 주요 소프트웨어와 클라우드 서비스 �
 
 제품 및 서비스 개발에서 Microsoft의 EN 301 549 고려 사항은 모든 고객의 접근성에 대한 노력입니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - [Azure 및 Azure Government](https://go.microsoft.com/fwlink/p/?linkid=2051569)
 - Azure DevOps 서비스
 - Dynamics 365 및 Dynamics 365 U.S. Government
 - Intune
-- [Office 365 및 Office 365 U.S. Government](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365 및 Office 365 U.S. Government
 - Office 365 US Government Defense
 - Windows Server 2016
 
