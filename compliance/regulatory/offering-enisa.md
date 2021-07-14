@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8f3471ee619bd2c67641d621652f1ce99322959a
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 0769681ba9a8885639c52eaa1a3d4d55ea9ab0c0
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509278"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384148"
 ---
 # <a name="enisa-information-assurance-framework"></a>ENISA Information Assurance Framework
 
@@ -33,7 +33,7 @@ IAF([Information Assurance Framework](https://www.enisa.europa.eu/publications/c
 
 ## <a name="microsoft-and-the-enisa-iaf"></a>Microsoft와 ENISA IAF
 
-ENISA Information Assurance Framework는 국제 정보보안 관리표준인 ISO/IEC 27001 및 CSA(Cloud Security Alliance) CCM(Cloud Control Alliance) v3.0.1의 다양한 제어 클래스를 기반으로 합니다. CCM  
+ENISA Information Assurance Framework는 국제 정보보안 관리표준인 ISO/IEC 27001 및 CSA(Cloud Security Alliance) CCM(Cloud Control Alliance) v3.0.1의 다양한 컨트롤 클래스를 기반으로 합니다. CCM  
 은 클라우드 고객이 CSP(클라우드 서비스 공급자)의 전반적인 보안 위험을 평가하는 데 도움이 되도록 16개 도메인의 기본 보안 원칙을 다루는 제어 프레임워크입니다.
 
 CSA STAR 자체 평가를 위해 Microsoft는 Microsoft Azure의 CSA CCM 준수를 문서화한 보고서를 제출했습니다. (Microsoft는 Azure에 대해 작성된 CAIQ(Consensus Assessments Initiative Questionnaire)도 게시합니다.) 자체 준수 평가를   
@@ -43,19 +43,30 @@ Azure 준수는 CSP가 CSA 관련 평가를 게시하는 공개적으로 액세�
 
 자체 평가 보고서는 공개되므로 Azure 고객은 Microsoft 보안 관례를 보고 동일한 기준을 사용하여 다양한 CSP를 비교할 수 있습니다.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Microsoft 범위 내 클라우드 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
+- Office 365
 
-## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
+## <a name="azure-dynamics-365-and-enisa-iaf"></a>Azure, Dynamics 365 및 ENISA IAF
 
-Microsoft는 자체 평가, ENISA IAF에 부합하는 서비스를 기반으로 CSA CCM 프레임워크를 Azure에서   
-준수함을 입증합니다.
+Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자세한 내용은 [Azure ENISA IAF 제품](/azure/compliance/offerings/offering-eu-enisa-iaf)을 참조하세요.
 
-- [CSA STAR 레지스트리](https://aka.ms/Azure_STAR)
+## <a name="office-365-and-enisa-iaf"></a>Office 365 및 ENISA IAF
 
-## <a name="resources"></a>리소스
+### <a name="office-365-cloud-environments"></a>Office 365 클라우드 환경
 
-- [정보 요청에 대한 Azure 표준 대응](https://gallery.technet.microsoft.com/Azure-Standard-Response-to-5de19cb6)
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
+
+다음 표를 사용하여 Office 365 서비스 및 구독의 적용 가능성을 확인하세요.
+
+| **적용 가능성** | **범위 내 서비스** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory, Azure Information Protection, Bookings, 준수 관리자, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Office 365용 Microsoft Defender, Microsoft Graph, Microsoft Teams, 웹용 Microsoft To-Do, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Cloud App Security, Office 365 그룹, Office 365 보안 및 준수 센터, Office 365 비디오, Office 온라인, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, StaffHub, Stream, Sway, Yammer Enterprise |
+
+### <a name="resources"></a>리소스
+
 - [Microsoft와 CSA STAR 자체 평가](offering-csa-star-self-assessment.md)
 - [Microsoft와 ISO/IEC 27001](offering-ISO-27001.md)
