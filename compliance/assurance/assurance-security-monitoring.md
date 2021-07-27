@@ -14,17 +14,18 @@ localization_priority: Normal
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
+- MS-Compliance
 search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 2019289542a49f6f586d22da8907eb5c7143e329
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: d0285110c3fe4225ba2e2c6d1fb58820ff2a1dc8
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088877"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573616"
 ---
 # <a name="security-monitoring-overview"></a>보안 모니터링 개요
 

@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 5c94dcab6ac61daa2d1723d84b47a6f360d55b59
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 5708ab20d78d1862af5613c64ea492c40bea9da1
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087707"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573836"
 ---
 # <a name="attack-simulation-in-microsoft-365"></a>Microsoft 365의 공격 시뮬레이션
 
@@ -35,7 +35,7 @@ Microsoft 365 모니터링 시스템은 모든 실패를 지속적으로 모니�
 
 가능한 Microsoft 365 Microsoft 통화 엔지니어가 24x7을 통해 모든 심각도 1 보안 에스컬레이터를 조사할 수 있으며, 모든 서비스 인시던트에 대한 사후 평가는 지속적인 학습 및 개선에 기여합니다. 이 팀에는 지원 엔지니어, 제품 개발자, 프로그램 관리자, 제품 관리자 및 선임 리더십이 포함됩니다. 통화 중 전문가는 시기에 따라 백업을 제공하고 복구 작업을 자동화할 수 있으므로 다음에 이벤트가 발생할 때 자체 복구가 수행될 수 있습니다.
 
-Microsoft는 영향의 규모에 관계없이 Microsoft 365 인시던트가 발생할 때마다 철저한 인시던트 사후 검토를 수행합니다. 인시던트 사후 검토는 발생된 문제, 대응 방법 및 향후 유사한 사고를 방지하는 방법에 대한 분석으로 구성됩니다. 투명성과 책임성을 위해, 영향을 받는 고객과 주요 서비스 인시던트에 대한 인시던트 사후 검토를 공유합니다. 자세한 내용은 보안 [인시던트 Office 365 를 참조합니다.](https://aka.ms/Office365SIM)
+Microsoft는 영향의 규모에 관계없이 Microsoft 365 인시던트가 발생할 때마다 철저한 인시던트 사후 검토를 수행합니다. 인시던트 사후 검토는 발생된 문제, 대응 방법 및 향후 유사한 사고를 방지하는 방법에 대한 분석으로 구성됩니다. 투명성과 책임성을 위해, 영향을 받는 고객과 주요 서비스 인시던트에 대한 인시던트 사후 검토를 공유합니다. 자세한 내용은 Microsoft [보안 인시던트 관리를 참조합니다.](assurance-security-incident-management.md)
 
 ## <a name="assume-breach-methodology"></a>위반 방법론 가정
 

@@ -18,12 +18,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 hideEdit: true
-ms.openlocfilehash: b79d856591566aa1e13633377600c605429ee68e
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 8715ef1ee8133fe950e3ff42b0c53b49f916a018
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377965"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573846"
 ---
 # <a name="windows-diagnostic-data-processor-configuration-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Windows 진단 데이터 프로세서 구성 데이터 주체 요청
 
@@ -104,3 +104,6 @@ Microsoft는 사용자를 삭제할 수 있는 기능을 제공하며, 이 기�
 ## <a name="notify-us-about-exporting-or-deleting-issues"></a>내보내기 또는 삭제 중 발생하는 문제에 대한 알림
 
 Azure Portal에서 Windows 진단 데이터를 내보내거나 삭제하는 동안 문제가 발생하면 Azure Portal **도움말 + 지원** 블레이드로 이동하여 **구독 관리 > 구독에 대한 개인 정보 보호 및 준수 요청 > 개인 정보 보호 블레이드 및 GDPR 요청** 에서 새 티켓을 제출합니다.
+
+>[!NOTE]
+>Windows 진단 데이터 내보내기 요청을 완료하는 데 최대 5일이 걸릴 수 있습니다. 문제가 발생할 경우 최소 7일 이상 여유를 두고 지원 티켓을 여세요.

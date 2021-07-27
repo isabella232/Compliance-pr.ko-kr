@@ -14,17 +14,18 @@ localization_priority: Normal
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
+- MS-Compliance
 search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 862bd05a84e5144602a24ac2aca1780cffaff3fe
-ms.sourcegitcommit: 48b8ec2dd00e957508e5af82458bf697e1a97ebb
+ms.openlocfilehash: 4a71ab3ddf6688df5480a8f260e004778aa6212b
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53395618"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573363"
 ---
 # <a name="microsoft-employee-transfer-and-termination"></a>Microsoft 직원 전근 및 고용 종료
 
@@ -38,6 +39,6 @@ Microsoft 온라인 서비스는 엔지니어를 위해 프로덕션 환경에 �
 
 ## <a name="termination"></a>종료
 
-Microsoft는 명확하게 정의된 정책 및 절차를 사용하여 직원이 해지될 때 Microsoft 시스템 및 리소스에 대한 물리적 및 논리적 액세스를 즉시 해지합니다. 직원이 통지를 하면 직원의 상사는 종료 날짜를 HRIS에 입력합니다. 직원의 마지막 작업일 다음에 HRIS는 직원을 종료된 것으로 표시하고 정보를 IDM에 공유하여 모든 서비스 팀 계정 및 자격을 자동으로 제거합니다.
+Microsoft는 명확하게 정의된 정책 및 절차를 사용하여 직원이 해고될 때 Microsoft 시스템 및 리소스에 대한 물리적 및 논리적 액세스를 즉시 취소합니다. 직원이 통지를 하면 직원의 상사는 종료 날짜를 HRIS에 입력합니다. 직원의 마지막 작업일 다음에 HRIS는 직원을 종료된 것으로 표시하고 정보를 IDM에 공유하여 모든 서비스 팀 계정 및 자격을 자동으로 제거합니다.
 
 자발적 종료의 경우 HR은 직원의 관리자와 함께 적절한 단계에 따라 직원을 종료하고 취소합니다. 자발적 종료와 마찬가지로 종료 정보는 유효 날짜 조정, 액세스 제거와 같은 필요한 단계와 함께 HRIS에 입력됩니다. 및 역할 전환과 상대적인 다른 모든 단계
