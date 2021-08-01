@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 0af79e7834006940f46643dae678c1a8ca77fad2
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: ee0645b13594585df5d940732fa420f2ccd4473b
+ms.sourcegitcommit: 0ffa79db0bbb35258496c7702285ed9d473b4ad9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573786"
+ms.lasthandoff: 07/31/2021
+ms.locfileid: "53678243"
 ---
 # <a name="privacy-overview"></a>개인 정보 개요
 
@@ -45,22 +45,32 @@ Microsoft는 고객 데이터 수집을 [](https://www.microsoft.com/trust-cente
 
 ## <a name="how-does-microsoft-handle-third-party-sharing"></a>Microsoft는 타사 공유를 어떻게 처리하나요?
 
-타사 공유는 제3자에 대한 데이터 공유 또는 이후 공개입니다. Microsoft는 고객이 승인하거나 관련 법률에 따라 필요한 경우 데이터를 공유합니다. Microsoft는 정부(사법 기관 또는 기타 정부 기관 포함)에게 고객 데이터에 대한 직접 또는 지체되지 않은 액세스 권한을 부여하지 않습니다. Microsoft는 국경을 넘어 고객 [데이터를](https://www.microsoft.com/trust-center/privacy/data-location) 전송하는 데 관한 국제 데이터 보호법을 준수합니다.
+제3자 공유는 제3자에게 데이터를 공유하거나 향후 공개하는 것입니다. Microsoft는 고객이 승인하거나 관련 법률에 따라 필요한 경우 데이터를 공유합니다. Microsoft는 정부(법 집행 기관 또는 기타 정부 기관 포함)에게 고객 데이터에 대한 직접 또는 무제한 액세스를 제공하지 않습니다. Microsoft는 국경을 넘어 고객 [데이터를](https://www.microsoft.com/trust-center/privacy/data-location) 전송하는 데 관한 국제 데이터 보호법을 준수합니다.
 
 ## <a name="how-does-microsoft-delete-customer-data-when-a-customer-leaves-the-service"></a>고객이 서비스를 떠날 때 Microsoft에서 고객 데이터를 삭제하는 방법
 
-Microsoft 데이터 처리 표준은 고객 데이터를 지우고 보존하는 기간을 지정합니다. 고객이 구독을 종료하면 Microsoft는 고객이 데이터를 추출할 수 있도록 90일 동안 제한된 기능 계정으로 고객 데이터를 보존합니다. 90일의 보존 기간이 끝나면 Microsoft는 고객 데이터를 보존할 권한이 부여되거나 법률에 따라 보존해야 하는 경우를 아니면 고객 데이터를 삭제합니다. 구독이 만료되거나 종료된 후 180일 Microsoft 365 Microsoft는 계정을 사용하지 않도록 설정하고 계정에서 모든 고객 데이터를 삭제합니다. 데이터에 대한 최대 보존 기간이 경과하면 데이터는 상업적으로 읽을 수 없는 렌더링됩니다.
+Microsoft 데이터 처리 표준은 고객 데이터를 지우고 보존하는 기간을 지정합니다. 고객이 구독을 종료하면 Microsoft는 고객이 데이터를 추출할 수 있도록 제한된 기능 계정에 고객 데이터를 90일 동안 보관합니다. 90일의 보존 기간이 종료된 후 Microsoft는 고객 데이터를 보존하도록 승인되거나 법적으로 보존하도록 요구되지 않는 한 고객 데이터를 삭제합니다. Microsoft 온라인 서비스에 대한 구독이 만료되거나 종료된 후 180일이 지난 후 Microsoft는 계정을 사용하지 않도록 설정하고 계정에서 모든 고객 데이터를 삭제합니다. 데이터의 최대 보존 기간이 경과하면 데이터는 상업적으로 복구할 수 없게 됩니다.
 
-또한 Microsoft는 서비스의 보안과 안정성을 유지하기 위해 데이터가 필요한 경우를 아니라면 표준 Microsoft 데이터 수명 주기의 일부로 모든 서비스 생성 및 진단 데이터를 삭제합니다. 구독에 대해 구독자는 Microsoft 지원에 문의하여 프로비전을 위한 지원을 요청합니다. 고객이 이 프로세스를 활용하면 관리자가 Microsoft에서 제공하는 잠금 코드를 입력하고 3일 후에 모든 사용자 데이터가 삭제됩니다. 이 지우기에는 SharePoint 온라인 및 Exchange Online 비활성 사서함에 저장되어 있는 데이터가 포함됩니다.
+또한 Microsoft는 서비스의 보안과 안정성을 유지하기 위해 데이터가 필요한 경우를 아니라면 표준 Microsoft 데이터 수명 주기의 일부로 모든 서비스 생성 및 진단 데이터를 삭제합니다. 구독의 경우 구독자는 Microsoft 지원에 연락하여 신속한 구독 프로비전 해제를 요청할 수 있습니다. 고객이 이 프로세스를 사용하는 경우 관리자가 Microsoft에서 제공하는 잠금 코드를 입력하고 3일 후에 모든 사용자 데이터가 삭제됩니다. 이 지우기에는 SharePoint 온라인 및 Exchange Online 비활성 사서함에 저장되어 있는 데이터가 포함됩니다.
 
 ## <a name="related-external-regulations--certifications"></a>인증을 위한 & 규정
 
 Microsoft의 온라인 서비스는 외부 규정 및 인증을 준수하도록 정기적으로 감사됩니다. 개인 정보 보호와 관련된 컨트롤의 유효성 검사는 다음 표를 참조합니다.
 
+### <a name="azure-and-dynamics-365"></a>Azure 및 Dynamics 365
+
 | **외부 감사** | **섹션** | **최신 보고서 날짜** |
 |:--------------------|:------------|:-----------------------|  
-| [ISO 27018(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용성 설명](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [인증](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: 공용 클라우드 PII 프로세서의 목적 | 2021년 4월 20일 |
-| [SOC 2(Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12: SLA(서비스 수준 계약) <br> CA-17: Microsoft 보안 정책 <br> CA-25: 프레임워크 업데이트 제어 | 2020년 12월 24일 |
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용성 설명](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [인증](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=56904fc3-0942-4ff5-9eef-7cabc751a25c&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: 공용 클라우드 PII 프로세서의 목적 | 2020년 12월 2일 |
+| [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b8721ebd-af20-42fe-b22f-8332b0a19517&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | DS-15: 고객 구독 종료/만료 <br> SDL-1: SDL(보안 개발 수명 주기) 방법론 <br> LA-4: 기밀 고객 데이터 보호 | 2021년 3월 21일 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=234a0f57-83c1-4afc-a586-a0e7a59592f7&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) <br> [SOC 3](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=75c8cbf6-e456-473c-a05e-34fea888ec2a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | DS-15: 고객 구독 종료/만료 <br> SDL-1: SDL(보안 개발 수명 주기) 방법론 <br> LA-4: 기밀 고객 데이터 보호 <br> SOC2-1: 자산 분류 <br> SOC2-7: 게시된 기밀성 및 보안 의무 | 2021년 3월 31일 |
+
+### <a name="office-365"></a>Office 365
+
+| **외부 감사** | **섹션** | **최신 보고서 날짜** |
+|:--------------------|:------------|:-----------------------|  
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용성 설명](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: 공용 클라우드 PII 프로세서의 목적 | 2021년 4월 20일 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12: SLA(서비스 수준 계약) <br> CA-17: Microsoft 보안 정책 <br> CA-25: 프레임워크 업데이트 제어 | 2020년 12월 24일 |
 
 ## <a name="resources"></a>리소스
 
