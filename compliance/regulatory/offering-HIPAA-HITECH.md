@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8145c8e4fc1617371acdfa10cd20daa4f3ba3bf3
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: df9b502dcad818199de63de3585c902b0c60d2c0a13c0b582e64aa4fa93ced7b
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293835"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>HIPAA(Health Insurance Portability and Accountability Act) & Health Information Technology for Economic and Health Health (HITECH) Act
 
@@ -47,7 +47,7 @@ Microsoft 엔터프라이즈 클라우드 서비스에는 FedRAMP 평가도 있�
 
 Microsoft 클라우드에서 고객이 HIPAA 및 HITECH 요구 사항을 지원하는 방법을 알아보고 [Microsoft 고객 사례를 방문하세요.](https://customers.microsoft.com/)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - Azure 및 Azure Government
 - Azure DevOps 서비스
@@ -73,16 +73,16 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 및 범위 내 서비스
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
 
-다음 표를 사용하여 서비스 및 구독에 Office 365 여부를 확인할 수 있습니다.
+다음 표를 사용하여 Office 365 서비스 및 구독의 적용 가능성을 확인하세요.
 
-| **적용 가능 여부** | **범위 내 서비스** |
+| **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
 | **Office 365** | Access Online, Azure Active Directory, Azure Communications Service, 준수 관리자, Customer Lockbox, Delve, Exchange Online, Forms, Griffin, Identity Manager, Lockbox(Torus), microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Customer Portal, Office 365 Microservices(Kaizala, ObjectStore, Sway, Power Automate, PowerPoint Online Document Service, Query Annotation Service, 학교 데이터 동기화, Siphon, Speech, StaffHub, eXtensible Application Program), Office 365 Security & Compliance Center, Office Online, Office Pro Plus, Office Services Infrastructure, 비즈니스용 OneDrive, Planner, PowerApps, Power BI, Project Online, 고객 키를 사용하여 서비스 암호화, SharePoint Online, 비즈니스용 Skype, Stream |
-| **GCC** | Azure Active Directory, Azure Communications Service, 준수 관리자, Delve, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, Stream |
+| **GCC** | Azure Active Directory, Azure Communications Service, 준수 관리자, Delve, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, Stream |
 
-### <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **조직에서 Microsoft와 함께 BAA를 입력할 수 있나요?**
 

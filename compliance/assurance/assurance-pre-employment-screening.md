@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: f9189b763824a144a72259643c252563bc6a349b
-ms.sourcegitcommit: 48b8ec2dd00e957508e5af82458bf697e1a97ebb
+ms.openlocfilehash: 764b56a0f950d0b933bb86bb86ad505481bce482cbed4d2a0b06a4969b1c6661
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53395588"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292305"
 ---
 # <a name="microsoft-pre-employment-screening"></a>Microsoft 사전 고용 차단
 
@@ -54,7 +54,7 @@ Microsoft의 전역 보안 부서는 Microsoft의 고용을 시작하기 전에 
 
 - 미국의 SSN 추적 또는 유럽, 중동 및 아시아의 정부 발행 문서에서 ID 확인
 - 범죄 기록은 주, 시 및 지역 수준에서, 미국에 적합한 경우 연방 수준에서 중범위 및 비범위 행위에 대해 최대 7년을 검사합니다. 국제 범죄 기록 검사(현지 법률에 따라 다름)는 미국 이외 지역에 적용할 수 있습니다.
-- 최고 수준의 교육적 도전 과제 확인
+- 최종 학력 확인서
 - 5년 고용 기록
 - OFAC(Office Foreign Assets Control) 목록, BIS(Bureau of Industry and Security) 목록 및 DDTC(국방 무역 통제 Office) 목록 확인을 비롯한 전역 제재 및 적용 검사
 
@@ -66,8 +66,8 @@ Microsoft는 공급업체(대리 직원)가 Microsoft 소유 또는 임대 시�
 
 - 미국의 SSN 추적 또는 유럽, 중동 및 아시아의 정부 발행 문서에서 ID 확인
 - 범죄 기록은 주, 시 및 지역 수준에서, 미국에 적합한 경우 연방 수준에서 중범위 및 비범위 행위에 대해 최대 7년을 검사합니다. 국제 범죄 기록 검사(현지 법률에 따라 다름)는 미국 이외 지역에 적용할 수 있습니다.
-- 최고 수준의 교육적 도전 과제 확인
-- 전역 제재 및 적용 검사
+- 최종 학력 확인서
+- 글로벌 제재 및 집행 점검
 
 미국의 각 공급자 직원 구성원이 Microsoft에 대해 수행할 수 있는 각 배치 이전에 현지 법률이 허용하는 범위까지 공급업체는 사전 배치를 수행하고, 특정 배치에 대해 Microsoft의 선호 배경 확인 서비스 공급자를 활용하는 배경 조사를 정기적으로 수행하며, 이는 심사가 Microsoft 표준을 충족하는지 Microsoft에 확인할 것입니다. 
 

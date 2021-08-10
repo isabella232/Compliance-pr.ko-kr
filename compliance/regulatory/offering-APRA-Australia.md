@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: de14ca813334e575709b0c4546de95dcf3ef21be
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 9bbec472f2f7f37e3e2f231343a6b59994e7e00e8f3f14c2e8d8de4e3e20931a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385498"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292625"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>오스트레일리아 APRA(Prudential Regulation Authority)
 
@@ -72,7 +72,7 @@ Microsoft는 클라우드의 위험 보장에 대한 포괄적인 접근 방식�
 
 APRA 규정을 준수하여 데이터 및 워크로드를 Azure로 이동하기 위한 실질적인 지원을 [얻습니다. Microsoft](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)클라우드 서비스 다운로드: 오스트레일리아 금융 기관에 대한 규정 준수 검사 목록.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -84,15 +84,15 @@ APRA 규정을 준수하여 데이터 및 워크로드를 Azure로 이동하기 
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 및 범위 내 서비스
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
 
-다음 표를 사용하여 서비스 및 구독에 Office 365 여부를 확인할 수 있습니다.
+다음 표를 사용하여 Office 365 서비스 및 구독의 적용 가능성을 확인하세요.
 
-| **적용 가능 여부** | **범위 내 서비스** |
+| **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
 | **Office 365** | Exchange Online Protection, Exchange Online, Office 365 고객 포털, Office Online, Office 서비스 인프라, 비즈니스용 OneDrive, SharePoint Online, 비즈니스용 Skype |
 
-## <a name="frequently-asked-questions"></a>질문과 대답
+## <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **금융 기관이 재료 비즈니스 활동을 아웃소싱하기 전에 APRA 승인이 필요한가요?**
 

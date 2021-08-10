@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 445d812b33214a3d2287268b587607004ef96ab7
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 9ec3e0456934c178b32a6f5fac987d70c267ef8046ff5c361abce914a2cea90a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377355"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291871"
 ---
 # <a name="microsoft-security-incident-management-detection-and-analysis"></a>Microsoft 보안 인시던트 관리: 검색 및 분석
 
@@ -60,7 +60,7 @@ Azure, Dynamics 365 및 Microsoft 365 서비스 팀은 보안 모니터링 및 �
 - 영향
 - 범위
 - 영향을 받는 테넌트 수
-- 지역
+- Region
 - 서비스
 - 인시던트 세부 정보
 - 특정 고객 산업 또는 시장 규정.
@@ -76,10 +76,10 @@ Azure, Dynamics 365 및 Microsoft 365 서비스 팀은 보안 모니터링 및 �
 - 인시던트 및 잠재적인 영향에 대한 간략한 설명을 요약합니다.
 - 인시던트의 심각도 및 우선 순위는 잠재적인 영향을 평가하여 파생됩니다.
 - 인시던트 감지를 이행한 식별된 모든 표시기 목록
-- 관련 인시던트 목록
+- 관련된 인시던트 목록
 - v-team에서 수행한 모든 작업 목록
 - 모의 후 분석 및 향후 포렌식 조사를 위해 보존될 수집된 증거
-- 권장되는 다음 단계 및 작업
+- 권장되는 다음 단계 및 액션
 
 보안 인시던트 확인 후 보안 대응 팀과 적절한 서비스 팀의 기본 목표는 공격을 방지하고, 공격으로부터 서비스를 보호하고, 전역적으로 더 큰 영향을 받지 않도록 하는 것입니다. 이와 동시에 적절한 엔지니어링 팀은 근본 원인을 파악하고 첫 번째 복구 계획을 준비합니다.
 

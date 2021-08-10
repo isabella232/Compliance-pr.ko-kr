@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2c51979122aaedda90bac74740e95c9d1265de74
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: dc0ab3e03128e0c9f7feddd36305805c7d8108e4ea12fa5feb5095bdc183e7f1
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385008"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292515"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>FIPS(Federal Information Processing Standard) 게시 140-2
 
@@ -37,7 +37,7 @@ Microsoft는 2001년 표준이 시작된 이후 암호화 모듈의 유효성을
 
 Microsoft Windows 모듈, 각 모듈에 대한 보안 정책 및 CMVP 인증서 세부 정보 카탈로그에 대한 기술 정보는 Windows 및 Windows [Server FIPS 140-2](https://aka.ms/AA6ehud)콘텐츠를 참조하세요.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 현재 CMVP FIPS 140-2 구현 지침에서는 클라우드 서비스 자체에 대한 FIPS 140-2 유효성 검사를 제외합니다. 클라우드 서비스 공급자는 클라우드 서비스를 구성하는 컴퓨팅 요소에 대해 FIPS 140 유효성이 검사된 암호화 모듈을 획득하고 작동하도록 선택할 수 있습니다. FIPS 140-2 유효성이 검사된 구성 요소가 포함된 Microsoft 온라인 서비스는 다음과 같습니다.
 
@@ -55,15 +55,15 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 및 범위 내 서비스
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
 
-다음 표를 사용하여 서비스 및 구독에 Office 365 여부를 확인할 수 있습니다.
+다음 표를 사용하여 Office 365 서비스 및 구독의 적용 가능성을 확인하세요.
 
-| **적용 가능 여부** | **범위 내 서비스** |
+| **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
 | Office 365, GCC, GCC High, DoD | [FIPS 140-2 유효성 검사 참조](/windows/security/threat-protection/fips-140-validation) |
 
-### <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **'FIPS 140 유효성 검사' 및 'FIPS 140 호환'의 차이점은 무엇입니까?**
 

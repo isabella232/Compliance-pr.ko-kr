@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a3431b93e1c8f4b2705a0362114412aa4381143b
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: abe4804585269110d07e00b2e6f7cda75bd88106effd21f4d8060fedc03bbce8
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385776"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294355"
 ---
 # <a name="system-and-organization-controls-soc-1-type-2"></a>SOC(시스템 및 조직 컨트롤) 1 Type 2
 
@@ -89,7 +89,7 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 
 필요한 경우 SOC 1 및 SOC 2 증명 보고서 및 브리지 레터를 다운로드하려면 Office 365 또는 Office 365 U.S. Government의 기존 구독 또는 평가판 계정이 있어야 합니다.
 
-### <a name="frequently-asked-questions"></a>자주 하는 질문
+### <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **Office 365 SOC 보고서는 얼마나 자주 발행되나요?**
 

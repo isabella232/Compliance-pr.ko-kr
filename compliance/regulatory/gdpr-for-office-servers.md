@@ -14,12 +14,12 @@ titleSuffix: Microsoft GDPR
 ms.collection: MS-Compliance
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 58f3d9108fe36175c2ce879054a35c2cc94d93c8
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 071b3d63372d2fb2c2d730c4f946ae469007f4c25f6ae0e4d07826d04a481044
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496085"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293520"
 ---
 # <a name="gdpr-for-office-on-premises-servers"></a>Office 온-프레미스 Server GDPR
 
@@ -60,4 +60,4 @@ GDPR 및 Microsoft가 지원하는 방법에 대한 자세한 내용은 [Microso
 |모니터링|SIEM 도구와 로그 통합|SIEM 도구와 로그 통합|SIEM 도구와 로그 통합|SIEM 도구와 로그 통합|SIEM 도구와 로그 통합|
 |
 
-<sup>\*</sup> 보호 기능이 파일을 암호화합니다. 따라서 SharePoint Server가 보호된 파일에서 중요한 정보 유형을 찾을 수 없습니다.
+<sup>\*</sup>보호는 파일을 암호화합니다. 따라서 SharePoint Server가 보호된 파일에서 중요한 정보 유형을 찾을 수 없습니다.

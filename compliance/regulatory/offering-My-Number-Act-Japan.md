@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 92e67729125916b1ec34f7e305468f7e07489d12
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 37b5fbaa0ba98bcf79be65a3eeebb0926339164c08bc720daff714476d0f1e2b
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384468"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293925"
 ---
 # <a name="my-number-act-japan"></a>마이넘버 법 (일본)
 
@@ -62,7 +62,7 @@ Microsoft는 클라우드 서비스에 저장된 마이넘버 데이터에 정�
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
 
-다음 표를 사용하여 Office 365 서비스 및 구독에 대한 적용 가능성을 확인합니다.
+다음 표를 사용하여 Office 365 서비스 및 구독의 적용 가능성을 확인하세요.
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
@@ -85,7 +85,7 @@ Microsoft는 클라우드 서비스에 저장된 마이넘버 데이터에 정�
 ## <a name="resources"></a>리소스
 
 - [Azure 규정 준수와 일본 보안 및 개인 정보 요구 사항](https://gallery.technet.microsoft.com/Azure-Compliance-and-the-53409748)
-- [Microsoft 개인 정보](https://privacy.microsoft.com/ko-KR/)
+- [Microsoft 개인 정보](https://privacy.microsoft.com/en-US/)
 - [Microsoft 개인 정보 취급 방침](https://privacy.microsoft.com/privacystatement)
 - [클라우드에서의 개인 정보 보호 고려 사항](https://download.microsoft.com/download/0/9/D/09DE47F6-F9E5-4C14-B9E8-E8119A130ACC/Privacy_considerations_in_the_cloud.pdf)
 - [Microsoft 보안 센터에 대한 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)

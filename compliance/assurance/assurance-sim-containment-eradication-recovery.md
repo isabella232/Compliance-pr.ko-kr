@@ -19,24 +19,24 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 95e52107df2f3e745d393c62929f7c169bcf9a33
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 6614f3997310a227320865aa0f0da99b64420084534e47afd25bb15441ddb451
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377555"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292056"
 ---
 # <a name="microsoft-security-incident-management-containment-eradication-and-recovery"></a>Microsoft 보안 인시던트 관리: 포함, 삭제 및 복구
 
 보안 대응 팀, 서비스 팀 및 기타에서 수행한 분석에 따라 보안 인시던트의 영향을 최소화하기 위해 적절한 포함 및 복구 계획을 개발합니다. 그런 다음 적절한 서비스 팀은 보안 대응 팀의 지원을 통해 프로덕션에서 해당 계획을 적용합니다.
 
-## <a name="containment"></a>포함
+## <a name="containment"></a>억제
 
 보안 인시던트가 감지된 후 침입을 포함해야 적대가 더 많은 리소스에 액세스하거나 더 많은 손상을 일으킬 수 있습니다. 보안 인시던트 대응 절차의 주요 목표는 고객 또는 해당 데이터 또는 Microsoft 시스템, 서비스 및 응용 프로그램에 대한 영향을 제한하는 것입니다.
 
-## <a name="eradication"></a>지우기
+## <a name="eradication"></a>근절
 
-지우기 는 높은 수준의 신뢰도로 보안 인시던트의 근본 원인을 제거하는 프로세스입니다. 목표는 다음 두 가지가 있습니다.
+근절은 높은 신뢰도로 보안 인시던트의 근본 원인을 제거하는 과정입니다. 목표는 다음 두 가지가 있습니다.
 
 - 환경에서 사적을 완전히 제거
 - 를 사용하여 악의적인 사용자가 환경을 다시 사용하도록 설정할 수 있는 취약성(알려진 경우)을 완화할 수 있습니다.

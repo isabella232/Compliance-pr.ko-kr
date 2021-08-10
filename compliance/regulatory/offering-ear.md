@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b3867c9d8c165c451813929d49dc5936e643e95c
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 2438db5a94871e60bb7181c3acfe250e8552e94aa9b127d5e800ab8d6edfcf93
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384228"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293595"
 ---
 # <a name="us-export-administration-regulations-ear"></a>EAR(미국 수출 관리 규정)
 
@@ -51,7 +51,7 @@ EAR를 적용하는 미국 상무부는 Microsoft와 같은 클라우드 서비�
 - **종단-종단 암호화.** EAR에 지정된 물리적 저장소 위치에 대한 종단-종단-종단 암호화 안전한 하버를 활용하면 Microsoft 범위 내 클라우드 서비스는 수출 제어 위험으로부터 보호할 수 있는 암호화 기능을 제공합니다. 또한 고객에게 전송 [](https://aka.ms/Azure-Encryption-Overview) 중 및 미사용 데이터를 암호화하는 다양한 옵션과 암호화 옵션 중에서 선택할 수 있는 유연성을 제공합니다.
 - **권한이 없는 것으로 보인 내보내기 를 방지하기 위한 도구 및 프로토콜입니다.** 또한 암호화를 사용하면 EAR에서 잠재적으로 것으로 생각되는 내보내기(또는 다시 내보내기)로부터 보호할 수 있습니다. 미국이 아닌 사용자가 암호화된 데이터에 액세스할 수 있는 경우에도 암호화된 동안 데이터를 읽거나 이해할 수 없는 경우에는 아무 것도 노출되지 않습니다. 따라서 제어된 데이터의 '릴리스'가 없습니다.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - [Azure 및 Azure Government](https://aka.ms/AzureCompliance)
 - [Office 365 Government(GCC-High 및 DoD)](https://aka.ms/Office-365-Export-Controls)
@@ -64,7 +64,7 @@ EAR에 따라 의무를 평가하는 고객을 위한 미국 수출 제어 및 �
 - [Azure](https://aka.ms/Azure-Export-Controls)
 - [Office 365](https://aka.ms/Office-365-Export-Controls)
 
-## <a name="frequently-asked-questions"></a>자주 하는 질문
+## <a name="frequently-asked-questions"></a>자주하는 질문
 
 **Microsoft 클라우드 서비스를 사용할 때 내보내기 제어를 준수하기 위해 무엇을 해야 하나요?**
 

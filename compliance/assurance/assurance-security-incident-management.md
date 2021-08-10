@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: d52832d34034966eb9373925be2d3f5b31cfad5a
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 38bb8c8492c3bbff6ed96380ac3a4d284f220a0ec5b2fb7b7c00814033a5c02c
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573726"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292191"
 ---
 # <a name="microsoft-security-incident-management"></a>Microsoft 보안 인시던트 관리
 
@@ -43,7 +43,7 @@ Microsoft 온라인 서비스 보안 팀과 다양한 서비스 팀은 공동으
 
 |**팀/영역**|**설명**|
 |:------------|:--------------|
-| Microsoft 보안 응답 센터 | 보안 인시던트 및 Microsoft 소프트웨어 보안 취약점을 식별, 모니터링, 해결 및 대응합니다. |
+| Microsoft 보안 대응 센터 | 보안 인시던트 및 Microsoft 소프트웨어 보안 취약점을 식별, 모니터링, 해결 및 대응합니다. |
 | 사이버 방어 운영 센터 | 사이버 방어 운영 센터는 실시간으로 위협을 보호, 감지 및 대응하는 데 도움을 줄 수 있도록 보안 대응 팀과 전문가를 모아하는 물리적 위치입니다. |
 | 회사, 외부 및 법률 업무 | 의심되는 보안 인시던트에 대한 법적 및 규정 자문을 제공합니다. |
 | Microsoft 데이터 센터 보안 팀 | 서비스 아키텍처 위험 및 위협을 보호, 감지 및 대응하기 위해 일반적인 보안 엔지니어링 투자에 대한 다양한 서비스 전반에 집중하는 팀 |

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 19b312d1b9f31683d775049010d390710554df01
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 4b5f8bfd19193b3a05b5ffa6476271bc6da05c7ec1c669a2f1614535a54942e1
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385668"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294305"
 ---
 # <a name="nist-sp-800-171"></a>NIST SP 800-171
 
@@ -44,7 +44,7 @@ NIST SP 800-171 요구 사항은 FedRAMP에서 사용하는 표준인 NIST SP 80
 
 연구 기관, 컨설팅 회사, 제조 계약자 등 미국 정부 CUI를 처리하거나 저장하는 모든 엔터티는 NIST SP 800-171의 엄격한 요구 사항을 준수해야 합니다. 이 의거는 Microsoft의 범위 내 클라우드 서비스가 Microsoft가 완전하게 준수할 것임에 따라 CUI 워크로드를 배포하기를 원하는 고객을 수용할 수 있는 것입니다. 예를 들어 정보 시스템에서 범위 내 Microsoft 클라우드 서비스를 사용하여 '적용된 방어 정보'를 처리, 저장 또는 전송하는 모든 DoD 계약자는 NIST SP 800-171의 보안 요구 사항을 준수해야 하는 미국 국방부 DFARS 조항을 충족합니다.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - Azure Commercial, Azure Government
 - Dynamics 365 미국 정부
@@ -61,18 +61,18 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 및 범위 내 서비스
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
 
-다음 표를 사용하여 서비스 및 구독에 Office 365 여부를 확인할 수 있습니다.
+다음 표를 사용하여 Office 365 서비스 및 구독의 적용 가능성을 확인하세요.
 
-| **적용 가능 여부** | **범위 내 서비스** |
+| **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
 | **GCC** | 작업 피드 서비스, Bing 서비스, Delve, Exchange Online, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office Online, Office 서비스 인프라, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, SharePoint Online, 비즈니스용 Skype, Windows Ink |
-| **GCC 높음** | 작업 피드 서비스, Bing 서비스, Exchange Online, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office Online, Office 서비스 인프라, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, 
+| **GCC High** | 작업 피드 서비스, Bing 서비스, Exchange Online, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office Online, Office 서비스 인프라, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, 
 SharePoint 온라인, 비즈니스용 Skype, Windows Ink |
 | **DoD** | 작업 피드 서비스, Bing 서비스, Exchange Online, 지능형 서비스, Office 365 고객 포털, Office Online, Office 서비스 인프라, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, Microsoft Teams, SharePoint Online, 비즈니스용 Skype, Windows Ink |
 
-### <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **조직에서 NIST SP 800-171과 함께 Microsoft 규정 준수를 사용할 수 있나요?**
 

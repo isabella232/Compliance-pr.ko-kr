@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b39c658a768dc106008dcd73a064b05706f734c6
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 9e441e8e1c5419eab741ceec370afe61815332e51115509dd5974e9ea2984c22
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384968"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292495"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>영국 Government-Cloud(G-클라우드)
 
@@ -41,7 +41,7 @@ Microsoft는 매년 문서를 준비하고 증거를 제출하여 범위 내 엔
 
  [14 Cloud Security Controls for UK](https://azure.microsoft.com/resources/14-cloud-security-controls-for-uk-cloud-using-microsoft-azure/) cloud using Microsoft Azure에서는 서비스를 Azure로 이동하고 CESG/NCSC에서 규정한 영국 의무를 충족하는 데 도움이 되는 고객 전략을 제공합니다. 백서에서는 Azure를 사용하여 클라우드 보안 주체에 설명된 14개 컨트롤을 해결할 수 있는 방법을 파악하고, 고객이 Microsoft Azure 서비스를 채택할 때 비용을 절감하면서 고객이 더 빠르게 이동하고 더 많은 성과를 거는 방법을 간략하게 설명합니다.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - Azure
 - Microsoft Cloud App Security
@@ -50,7 +50,7 @@ Microsoft는 매년 문서를 준비하고 증거를 제출하여 범위 내 엔
 - Office 365
 - Power Automate(이전의 Microsoft Flow) 클라우드 서비스(독립 실행형 서비스 또는 Office 365 또는 Dynamics 365 브랜드 플랜 또는 제품군에 포함)
 - PowerApps 클라우드 서비스(독립 실행형 서비스 또는 Office 365 또는 Dynamics 365 브랜드 플랜 또는 제품군에 포함)
-- Power BI 클라우드 서비스(독립 실행형 서비스 또는 Office 365 플랜 또는 제품군에 포함)
+- Power BI 클라우드 서비스(독립 실행형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태)
 
 ## <a name="office-365-and-uk-g-cloud"></a>Office 365 및 영국 G-Cloud
 
@@ -58,11 +58,11 @@ Microsoft는 매년 문서를 준비하고 증거를 제출하여 범위 내 엔
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 및 범위 내 서비스
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
 
-다음 표를 사용하여 서비스 및 구독에 Office 365 여부를 확인할 수 있습니다.
+다음 표를 사용하여 Office 365 서비스 및 구독의 적용 가능성을 확인하세요.
 
-| **적용 가능 여부** | **범위 내 서비스** |
+| **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
 | **Office 365** | Exchange Online, SharePoint Online, 비즈니스용 Skype |
 
@@ -96,7 +96,7 @@ Microsoft 클라우드 서비스가 G-클라우드 계약을 준수하는지 확
 
 [Azure UK G-Cloud Blueprint 사용 시작](https://aka.ms/ukofficialblueprint)
 
-## <a name="frequently-asked-questions"></a>질문과 대답
+## <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **Who 마켓플레이스를 사용할 자격이 있습니까?**
 

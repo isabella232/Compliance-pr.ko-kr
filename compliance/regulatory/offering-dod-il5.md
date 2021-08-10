@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9f92ed19a22b7eff8a7e9988e66c51aea90d42ab
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 539a53888ec859bb3b6942b48288659f73fa4b69807ce19e063cbfe104b7072d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385759"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294235"
 ---
 # <a name="department-of-defense-dod-impact-level-5-il5"></a>DoD(국방부) 영향 수준 5(IL5)
 
@@ -51,11 +51,11 @@ DISA는 CSP 사용을 계획하고 승인하는 DoD 기관 및 부서를 안내�
 - DoD/비연방 정부 테넌트(즉, 공용, 로컬/주 정부 테넌트)와 물리적으로 분리해야 합니다.
 - CSP는 DoD 및 커뮤니티 정보에 대한 잠재적인 액세스를 미국 시민인 CSP 직원으로 제한합니다.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - Azure
 - Dynamics 365 고객 서비스
-- 끝점용 Microsoft Defender(이전의 Microsoft Defender Advanced Threat Protection)
+- 엔드포인트용 Microsoft Defender(이전의 Microsoft Defender Advanced Threat Protection)
 - Microsoft Graph
 - Microsoft Stream
 - Office 365 US Government Defense
@@ -72,11 +72,11 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 및 범위 내 서비스
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
 
-다음 표를 사용하여 서비스 및 구독에 Office 365 여부를 확인할 수 있습니다.
+다음 표를 사용하여 Office 365 서비스 및 구독의 적용 가능성을 확인하세요.
 
-| **적용 가능 여부** | **범위 내 서비스** |
+| **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
 | **DoD** | 작업 피드 서비스, Bing 서비스, Exchange Online, Exchange Online Protection, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office Online, Office 서비스 인프라, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, SharePoint Online, 비즈니스용 Skype, Windows Ink |
 

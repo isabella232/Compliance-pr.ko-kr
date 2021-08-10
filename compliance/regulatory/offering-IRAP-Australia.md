@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8fb98bfab57008cdee3c2fbb049c7f34af361c37
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: a9f621e31b2ea7c0becd528915e1377fcaa33c68940235a6b195139a61c824c0
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384828"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293865"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>오스트레일리아 정부 정보 보안 등록 평가자 프로그램(IRAP)
 
@@ -58,7 +58,7 @@ ISM에서 사용하는 위험 관리 프레임워크는 [NIST(National Institute
 
 Microsoft의 서비스 및 클라우드 운영에 대한 IRAP 평가는 정부 및 해당 파트너에게 Microsoft가 보호된 수준을 포함하여 분류된 데이터의 처리, 저장 및 전송에 대해 적절하고 효과적인 보안 제어를 적용하고 있는 공공 부문 고객에게 보장하는 데 도움이 됩니다. 이 평가에는 오스트레일리아의 대부분의 정부, 의료 및 교육 데이터가 포함됩니다.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -75,15 +75,15 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 및 범위 내 서비스
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
 
-다음 표를 사용하여 서비스 및 구독에 Office 365 여부를 확인할 수 있습니다.
+다음 표를 사용하여 Office 365 서비스 및 구독의 적용 가능성을 확인하세요.
 
-| **적용 가능 여부** | **범위 내 서비스** |
+| **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
 | **Office 365** | Exchange Online, Exchange Online Protection, Forms, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, 비즈니스용 OneDrive, Planner, SharePoint Online, 비즈니스용 Skype, Whiteboard, Yammer |
 
-### <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **IRAP는 누구에게 적용하나요?**
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f9b5924ce8f8424479bd4320f6e33e6fec7e636d
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: ca3ecd5dc99f71c76c2b8e724a1b6ace3350d947a3bbb278a5ec6ab00c13fe7d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384508"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292455"
 ---
 # <a name="ministry-of-electronics-and-information-technology-meity"></a>MeitY(Electronics and Information Technology)
 
@@ -43,7 +43,7 @@ MeitY는 클라우드 서비스 공급자에 대한 인증(MeitY에서 'empanelm
 
 Microsoft의 MeitY 인증은 MeghRaj 클라우드 이니셔티브의 작업을 기반으로 하는 평가 프레임워크를 사용하여 품질 보증 서비스를 제공하는 정부 조직인 STQC(표준화 테스트 및 품질 인증)감사에서 수행한 엄격한 감사의 결과입니다. 이제 Microsoft Azure 통해 공공 부문 조직은 IaaS(Infrastructure as a Service), PaaS(Platform as a Service), 재해 복구, DevOps 및 관리되는 백업을 비롯한 다양한 배포 모델 및 서비스 제공에 주력할 수 있습니다.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -53,7 +53,7 @@ Microsoft의 MeitY 인증은 MeghRaj 클라우드 이니셔티브의 작업을 �
 
 - 클라우드 서비스 공급자의 감사 [상태에 따라](https://meity.gov.in/content/gi-cloud-meghraj) Microsoft 클라우드 인증
 
-## <a name="frequently-asked-questions"></a>질문과 대답
+## <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **MeitY가 중요한 이유는 무엇입니까?**
 

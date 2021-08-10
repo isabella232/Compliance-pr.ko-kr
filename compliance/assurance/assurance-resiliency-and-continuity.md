@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 730a694455a3e8bcbd6b6ab3daa7f0f8e0ebf503
-ms.sourcegitcommit: 12cec299197fbc7b05c8d7604e7047b9392e3bc8
+ms.openlocfilehash: 9fb013647bc558856f7005c2d5e1ccdb656db9b9b04ceb5882df35a599e7ebff
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/26/2021
-ms.locfileid: "53589677"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292166"
 ---
 # <a name="resiliency-and-continuity-overview"></a>복원력 및 연속성 개요
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1d6f6b0a4c9bd3ebbccb90331a8cf17df7ff8928
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 738970a410baa8f76334d026bd778c8a1f05b4546c85b9c1157e653f401476e0
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385768"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294275"
 ---
 # <a name="system-and-organization-controls-soc-3"></a>SOC(시스템 및 조직 컨트롤) 3
 
@@ -40,7 +40,7 @@ Microsoft 범위 내 서비스는 Azure [SOC 2 유형 2 증명](offering-soc-2.m
 - Azure(자세한 정보는 [Microsoft Azure 규정 준수 제품](https://azure.microsoft.com/resources/microsoft-azure-compliance-offerings/) 또는 Azure SOC 2 Type 2 증명 보고서 참조)
 - Dynamics 365(자세한 정보는 Azure SOC 2 Type 2 증명 보고서 참조)
 - Microsoft 365 Defender
-- MCAS(Microsoft Cloud App Security)
+- Microsoft Cloud App Security(MCAS)
 - 엔드포인트용 Microsoft Defender
 - ID용 Microsoft Defender
 - Microsoft Forms Pro(Azure Government의 경우 범위에 포함되지 않음)
@@ -69,11 +69,11 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
 
-다음 표를 사용하여 Office 365 서비스 및 구독에 대한 적용 가능성을 확인합니다.
+다음 표를 사용하여 Office 365 서비스 및 구독의 적용 가능성을 확인하세요.
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **Office 365** | 준수 관리자, 고객 Lockbox, Delve, Exchange Online Protection, Exchange Online, Forms, Griffin, Identity Manager, Lockbox(Torus), Microsoft Teams, MyAnalytics, Office 365 고객 포털, Office 365 마이크로 서비스(Kaizala, ObjectStore, Sway, PowerPoint Online Document Service, Query Annotation Service, 학교 데이터 동기화, Siphon, Speech, StaffHub, eXtensible Application Program 등), Office Online, Office Services Infrastructure, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, Project Online, 고객 키를 사용한 서비스 암호화, SharePoint Online, 비즈니스용 Skype |
+| **Office 365** | 준수 관리자, 고객 Lockbox, Delve, Exchange Online Protection, Exchange Online, Forms, Griffin, Identity Manager, Lockbox(Torus), Microsoft Teams, MyAnalytics, Office 365 고객 포털, Office 365 마이크로 서비스(Kaizala, ObjectStore, Sway, PowerPoint Online Document Service, Query Annotation Service, 학교 데이터 동기화, Siphon, Speech, StaffHub, eXtensible Application Program 등), Office Online, Office 서비스 인프라, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, Project Online, 고객 키를 사용한 서비스 암호화, SharePoint Online, 비즈니스용 Skype |
 | **GCC** | Azure Active Directory, 준수 관리자, Delve, Exchange Online, 
 , Office 365용 Microsoft Defender, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, Stream |
 | **GCC High** | Azure Active Directory, Exchange Online, Flow, Office 365용 Microsoft Defender, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype |
@@ -90,9 +90,9 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 
 **Office 365 SOC 보고서는 얼마나 자주 발행되나요?**
 
-Office 365 및 기타 온라인 서비스에 대한 SOC 보고서는 과거 12개월 연속 실행 기간(감사 기간)을 기반으로 하고 1년에 두 번 새 보고서가 발행됩니다.(3월 31일과 9월 30일 기간 종료) *브리지 레터* 는 이전 3개월의 내용을 포함하여 분기별로 발행됩니다. 예를 들어 1월 레터는 10월 1일~12월 31일, 4월 레터는 1월 1일~3월 31일, 7월 레터는 4월 1일~6월 30일, 10월 레터는 7월 1일~9월 30일 내용을 포함합니다.
+Office 365 및 기타 온라인 서비스에 대한 SOC 보고서는 과거 12개월 연속 실행 기간(감사 기간)을 기반으로 하고 1년에 두 번 새 보고서가 발행됩니다(기간 종료는 3월 31일과 9월 30일). 이전 3개월을 포함하는 *브리지 레터* 는 분기별로 발급됩니다. 예를 들어 1월 레터는 10월 1일~12월 31일, 4월 레터는 1월 1일~3월 31일, 7월 레터는 4월 1일~6월 30일, 10월 레터는 7월 1일~9월 30일을 포함합니다.
 
-**브리지 레터를 포함한 Office 365 SOC 감사 문서는 어디에서 받을 수 있나요?** 감사 문서 링크는 감사 보고서 섹션을 참조하세요. 로그인하려면 Office 365 또는 [Office](https://azure.microsoft.com/global-infrastructure/government/request/) 365 U.S. Government의 기존 구독 또는 평가판 계정이 있어야 합니다. 그런 다음 감사 인증서, 평가 보고서 및 기타 관련 문서를 다운로드하여 자체 규정 요구 사항에 도움을 받을 수 있습니다.
+**브리지 레터를 포함하여 Office 365 SOC 감사 설명서는 어디에서 받을 수 있나요?** 감사 문서 링크는 감사 보고서 섹션을 참조하세요. 로그인하려면 Office 365 또는 [Office](https://azure.microsoft.com/global-infrastructure/government/request/) 365 U.S. Government의 기존 구독 또는 평가판 계정이 있어야 합니다. 그런 다음 감사 인증서, 평가 보고서 및 기타 관련 문서를 다운로드하여 자체 규정 요구 사항에 도움을 받을 수 있습니다.
 
 ### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
 
@@ -101,7 +101,7 @@ Office 365 및 기타 온라인 서비스에 대한 SOC 보고서는 과거 12�
 ### <a name="resources"></a>리소스
 
 - [Service Trust Portal 감사 보고서](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3)
-- [서비스 조직을 위한 AICPA SOC](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/socforserviceorganizations.html)
-- [SSAE 번호 18, 증명 표준: 설명 및 수정(AICPA 전문가 표준)](https://www.aicpa.org/Research/Standards/AuditAttest/DownloadableDocuments/SSAE_No_18.pdf)
-- [보안, 가용성, 처리 무결성, 기밀성 또는 개인 정보 보호와 관련된 서비스 조직의 컨트롤 검사에 대한 SOC 2 보고(AICPA 가이드)](https://future.aicpa.org/cpe-learning/publication/soc-2-reporting-on-an-examination-of-controls-at-a-service-organization-relevant-to-security-availability-processing-integrity-confidentiality-or-privacy-OPL) (구입 가능)
-- [TSP 섹션 100 (AICPA, 2017 Trust Services Criteria)](https://www.aicpa.org/content/dam/aicpa/interestareas/frc/assuranceadvisoryservices/downloadabledocuments/trust-services-criteria.pdf)
+- [AICPA SOC for Service Organizations](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/socforserviceorganizations.html)(서비스 조직을 위한 AICPA SOC)
+- [SSAE No. 18, Attestation Standards: Clarification and Recodification (AICPA Professional Standards)](https://www.aicpa.org/Research/Standards/AuditAttest/DownloadableDocuments/SSAE_No_18.pdf)(SSAE No. 18, 증명 표준: 명확화 및 재집성(AICPA 전문 표준)
+- [SOC 2 Reporting on an Examination of Controls at a Service Organization Relevant to Security, Availability, Processing Integrity, Confidentiality, or Privacy (AICPA Guide)](https://future.aicpa.org/cpe-learning/publication/soc-2-reporting-on-an-examination-of-controls-at-a-service-organization-relevant-to-security-availability-processing-integrity-confidentiality-or-privacy-OPL)(보안, 가용성, 처리 무결성, 기밀성 또는 개인 정보 보호와 관련된 서비스 조직의 컨트롤 조사에 관한 SOC 2 보고(AICPA 가이드)(구매 가능)
+- [TSP section 100 (AICPA, 2017 Trust Services Criteria)](https://www.aicpa.org/content/dam/aicpa/interestareas/frc/assuranceadvisoryservices/downloadabledocuments/trust-services-criteria.pdf)(TSP 100조(AICPA, 2017 트러스트 서비스 기준)

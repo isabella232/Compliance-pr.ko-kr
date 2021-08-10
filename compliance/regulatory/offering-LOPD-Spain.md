@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 29b4c3bf83d2fea147e2e7ce5294136040fa58ba
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 1b3fe749e2a1a493702f735878173c955498d5ceed796ac7c72d7599b4214ba6
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384568"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293845"
 ---
 # <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-lopd"></a>스페인 칙령 1720/2007, 스페인 기본법 15/1999(LOPD)
 
@@ -50,7 +50,7 @@ Microsoft는 스페인 기본법 15/1999 (LOPD, Ley Orgánica 15/1999 de Protecc
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
 
-다음 표를 사용하여 Office 365 서비스 및 구독에 대한 적용 가능성을 확인합니다.
+다음 표를 사용하여 Office 365 서비스 및 구독의 적용 가능성을 확인하세요.
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|

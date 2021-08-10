@@ -130,7 +130,7 @@ conceptualContent:
         - url: /compliance/assurance/assurance-network-security
           itemType: concept
           text: 네트워크 보안 개요
-    - title: 개인 정보 보호
+    - title: 개인 정보
       links:
         - url: /learn/modules/audit-privacy/
           itemType: learn

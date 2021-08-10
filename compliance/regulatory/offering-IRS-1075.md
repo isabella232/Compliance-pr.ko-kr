@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d8eebfff19667ee96298179843b7b39f071b9f0a
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 6406c63d73e30a62d3cbe54bf8cef632cc5564b2cae3d1a9588652644b8f8c96
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384808"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293905"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>미국 국세청 게시 1075
 
@@ -45,14 +45,14 @@ Microsoft Azure 정부 및 [Microsoft Office 365](https://products.office.com/go
 - 기관이 IRS 1075를 준수하는 방식으로 정부용 Microsoft 클라우드를 사용하는 방법을 설명하는 미국 Office 365 고려 사항 및 미국 정부 준수 고려 사항을 제공합니다. NDA의 정부 고객은 이러한 문서를 요청할 수 있습니다.
 - 고객에게 필요한 경우 Microsoft 주제 전문가 또는 외부 감사자와 의사소통할 수 있는 기회를 제공합니다(비용 부담).
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 FedRAMP 권한 부여는 NIST 지침(낮음, 보통, 높음)에 따라 세 가지 영향 수준에서 부여됩니다. 이러한 순위는 기밀성, 무결성 또는 가용성 손실이 조직에 미칠 수 있는 영향(낮음(제한된 효과), 보통(심각한 부정적인 영향) 및 높은(심각한 또는 재난적 효과)입니다.
 
 - Azure 및 Azure Government
 - Dynamics 365 미국 정부
 - Office 365 Office 365 미국 정부
-- 독립형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power BI 클라우드 서비스
+- 독립 실행형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power BI 클라우드 서비스
 
 ## <a name="azure-dynamics-365-and-irs-1075"></a>Azure, Dynamics 365 및 IRS 1075
 
@@ -64,22 +64,22 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 및 범위 내 서비스
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 적용 가능성 및 범위 내 서비스
 
-다음 표를 사용하여 서비스 및 구독에 Office 365 여부를 확인할 수 있습니다.
+다음 표를 사용하여 Office 365 서비스 및 구독의 적용 가능성을 확인하세요.
 
-| **적용 가능 여부** | **범위 내 서비스** |
+| **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
 | **Office 365** | 작업 피드 서비스, Bing 서비스, Delve, Exchange Online Protection, Exchange Online, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office Online, Office 사용 현황 보고서, 비즈니스용 OneDrive, 피어 카드, 서비스 인프라, SharePoint Online, 비즈니스용 Skype, Windows Ink |
 | **GCC** | 작업 피드 서비스, Bing 서비스, Delve, Exchange Online Protection, Exchange Online, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office Online, Office 서비스 인프라, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, SharePoint Online, 비즈니스용 Skype, Windows Ink |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365, 보고서 및 인증서
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365 감사, 보고서 및 인증서
 
 IRS 1075의 실무 요구 사항을 준수하는 것은 매년 FedRAMP 감사에 따라 진행됩니다.
 
 - [FedRAMP 권한 부여](https://marketplace.fedramp.gov/#/product/azure-government?sort=productName&productNameSearch=azure)
 
-### <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **Microsoft는 IRS 1075의 요구 사항을 어떻게 해결하나요?**
 

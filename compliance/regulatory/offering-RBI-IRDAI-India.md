@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: fbeb7cefc0096225b5de012f62da951ae41d7045
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: eb0e6498a516af763c36163733c6480c9531a584c3820e01701fdcf31089b8e3
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384358"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294225"
 ---
 # <a name="reserve-bank-of-india-rbi-and-insurance-regulatory-and-development-authority-of-india-irdai"></a>RBI(Reserve Bank of India) 및 IRDAI(Insurance Regulatory and Development Authority of India)
 
@@ -48,7 +48,7 @@ Microsoft 점검 목록은 Microsoft 비즈니스 클라우드 서비스에 대�
 - 컨텍스트에 대한 규제 사항의 개요.
 - 해결될 문제를 설정하고 microsoft Dynamics 365 및 Microsoft Azure 규정 Microsoft Office 365 서비스를 매핑하는 검사 목록입니다. 이 점검 목록은 규제 프레임워크에 대한 준수를 측정하는 도구로 사용될 수 있으며, 규정 준수를 문서화하기 위한 내부 구조를 제공하고, 고객이 Microsoft 비즈니스 클라우드 서비스의 고유 위험 평가를 수행하는 데 도움이 됩니다.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -60,7 +60,7 @@ Microsoft 점검 목록은 Microsoft 비즈니스 클라우드 서비스에 대�
 - [위험 평가 및 규정 준수 가이드](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): Microsoft 클라우드 서비스의 위험 평가 및 규제 기관의 알림에 대한 거버넌스 모델을 만들 수 있습니다.
 - [Azure의 금융 사용 사례:](/azure/industry/financial/)금융 서비스를 위한 Azure 솔루션을 구축하기 위한 사용 사례 개요, 자습서 및 기타 리소스.
 
-## <a name="frequently-asked-questions"></a>질문과 대답
+## <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **클라우드 서비스 공급 기업과의 계약에 포함해야 하는 필수 사용 약관이 있나요?**
 

@@ -1,5 +1,5 @@
 ---
-title: 보안 인프라 Microsoft 365 보안
+title: Microsoft 365 인프라 보호
 description: Microsoft에서 클라우드 인프라를 보호하는 Microsoft 365 대해 자세히 알아보습니다.
 ms.author: robmazz
 author: robmazz
@@ -20,14 +20,14 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 224900bd60f2fd5637e7264f1aed98d5ff878b20
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: d0ef6dc92820089259cd315713c0e7e4a9e11aaec50d731b15cd6e826a721107
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089669"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292755"
 ---
-# <a name="securing-the-microsoft-365-infrastructure"></a>보안 인프라 Microsoft 365 보안
+# <a name="securing-the-microsoft-365-infrastructure"></a>Microsoft 365 인프라 보호
 
 Microsoft 365 전 세계 최대 기업 및 소비자 클라우드 서비스 중 하나인 이 서비스는 고객 기반, 제품 및 기능 모두에서 급속도로 성장하고 있습니다. 고객은 Microsoft 365 생산성 솔루션뿐 아니라 지속적으로 진화하는 사이버 위협 환경으로부터 가장 중요한 정보를 보호하는 데 도움을 줍니다. 고객 데이터를 안전하게 보호하고 고객 신뢰를 유지하는 것이 Microsoft의 최우선 과제입니다.
 
@@ -67,7 +67,7 @@ Microsoft 서버의 미사용 고객 콘텐츠는 BitLocker를 사용하여 볼�
 
 암호화의 암호화에 대한 Microsoft 365 암호화 및 키 관리 [개요를 참조하세요.](assurance-encryption.md)
 
-### <a name="network-isolation"></a>네트워크 고리
+### <a name="network-isolation"></a>네트워크 격리
 
 최소 권한의 원칙에 따라 Microsoft 365 인프라의 여러 부분 간의 통신을 작동에 필요한 것으로만 제한합니다. 모든 네트워크 트래픽은 기본적으로 거부되고 명시적으로 정의된 통신만 허용됩니다. 이 제한은 인프라 전체에서 위반 경계를 설정합니다. Teams 기능을 수용하기 위해 새 네트워크 경로를 추가하려면 요청을 열기 전에 먼저 평가 및 승인해야 합니다.
 
@@ -101,4 +101,4 @@ Microsoft 365 가장 우선 순위는 공격이 방어에 침투하지 못하게
 
 ## <a name="resources"></a>리소스
 
-[배경: 서비스 기반 인프라 Microsoft 365 보안](https://download.microsoft.com/download/c/4/5/c45b197e-f0d9-4f40-bd5f-ed8fc7d0cd8c/M365DCSecurityIntro_Whitepaper.pdf)
+[비하인드 스토리: Microsoft 365 서비스를 지원하는 인프라 보안](https://download.microsoft.com/download/c/4/5/c45b197e-f0d9-4f40-bd5f-ed8fc7d0cd8c/M365DCSecurityIntro_Whitepaper.pdf)
