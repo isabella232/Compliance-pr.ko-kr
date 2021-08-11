@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 32637a9c04de8703a97a8790fe412d5c61460c25
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 3f85505832e1eccbbc2f326bb98c36d2c5c483359b9f0175d8ae4e8999ffd2a6
+ms.sourcegitcommit: c9f67f35828eef244961fdc731ce94dd9570cefc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53378256"
+ms.lasthandoff: 08/08/2021
+ms.locfileid: "57800873"
 ---
 # <a name="azure-dynamics-365-and-windows-accountability-readiness-checklist-for-the-gdpr"></a>GDPR에 대한 Azure, Dynamics 365 및 Windows 책임 준비 상태 체크리스트
 
@@ -34,4 +34,4 @@ Microsoft Azure 및 Dynamics 365를 사용할 때 GDPR(일반 데이터 보호 �
 
 Microsoft Azure 및 Dynamics 365 서비스는 [ISO 27701(PIMS)](offering-iso-27701.md) [인증을 받았습니다](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports).
 
-[Windows 진단 데이터 프로세서 구성](/windows/privacy/configure-windows-diagnostic-data-in-your-organization)은 위에서 참조한 것과 동일한 개인 정보 및 보안 컨트롤을 따릅니다.
+[Windows 진단 데이터 프로세서 구성](/windows/privacy/configure-windows-diagnostic-data-in-your-organization)은 Azure 클라우드 서비스 인프라 내의 Enterprise Data Platform 서비스를 활용합니다.  여기에는 위에서 참조한 것과 동일한 개인 정보 보호와 보안 제어 집합 및 인증이 적용됩니다.
