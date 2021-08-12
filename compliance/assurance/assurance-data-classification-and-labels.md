@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 0a178b23182427c0d202be38a9986c9e9069e1af2b71290a248c33aae19e0eaa
-ms.sourcegitcommit: 07b748b28a7815fb5824be0dea3edba29353361d
+ms.openlocfilehash: dc2a1a27994c1f3fc69f35b4b764ae80d3df7defd3b4d0dec97520de7760f815
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/10/2021
-ms.locfileid: "57833885"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288716"
 ---
 # <a name="data-classification--sensitivity-label-taxonomy"></a>민감도 & 분류에 대한 데이터 분류
 
@@ -40,9 +40,7 @@ ms.locfileid: "57833885"
 ## <a name="what-is-a-data-classification-framework"></a>데이터 분류 프레임워크란?
 
 일반적으로 공식적인 엔터프라이즈 전체 정책에서 코딩되는 데이터 분류 프레임워크('데이터 분류 정책'이라고도 부르는)는 일반적으로 3-5 분류 수준으로 구성됩니다. 일반적으로 이름, 설명 및 실제 예제의 세 가지 요소가 포함됩니다. UI(사용자 인터페이스)를 관리하기 위해 각각 하위 레이블이 5개(총 25개)인 최상위 상위 레이블은 5개까지 사용하는 것이 좋습니다. 수준은 일반적으로 *공용,* 내부, 기밀 및 기밀과 같은 가장 중요한 수준부터 가장 민감한 수준으로   
- *정렬됩니다.* 발생할 수 있는 다른 수준 이름 변형에는 *제한,* 무제한 및 *소비자 보호가 있습니다.* Microsoft는 자체적으로 설명하는 레이블 이름을 권장하며 상대 민감도를 명확하게 강조합니다. 예를 들어 *기밀* 및 제한은 사용자가 적합한 레이블을  추측하는 반면 기밀 및 기밀은 더 중요한 레이블을 명확히 할 수 있습니다.   
-
-다음 표에는 기밀 데이터  분류 프레임워크 수준의 예가 표시됩니다.
+ *정렬됩니다.* 발생할 수 있는 다른 수준 이름 변형에는 *제한,* 무제한 및 *소비자 보호가 있습니다.* Microsoft는 자체적으로 설명하는 레이블 이름을 권장하며 상대 민감도를 명확하게 강조합니다. 예를 들어 *기밀* 및 제한은 사용자가 적합한 레이블을  추측하는 반면 기밀 및 기밀은 더 중요한 레이블을 명확히 할 수 있습니다.   다음 표에는 데이터 분류 프레임워크 수준의 예가 표시됩니다.
 
 |**분류 수준**|**설명**|**예제**|
 |:-----------------------|:--------------|:-----------|

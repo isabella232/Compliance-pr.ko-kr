@@ -19,12 +19,12 @@ hideEdit: true
 ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 2fff7a2ffb6dc48e43c8a514609f0f584cb60db1
-ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+ms.openlocfilehash: 5eab26177887632291a24bf7b6195b68b339bb103b785aae68f3b7fc659eb373
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53141479"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54289396"
 ---
 # <a name="dynamics-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Dynamics 365 데이터 주체 요청
 
@@ -34,10 +34,10 @@ EU(유럽 연합) [GDPR(일반 데이터 보호 규정)](https://ec.europa.eu/ju
 
 이 가이드에서는 Microsoft의 제품, 서비스 및 관리 도구를 사용하여 컨트롤러 고객이 DSR 요청에 응답하기 위해 개인 데이터를 찾고 조치를 취할 수 있도록 돕는 방법을 설명합니다. 특히 여기에는 Microsoft 클라우드에 있는 개인 데이터 또는 개인 정보를 찾고, 액세스하고, 조치를 수행하는 방법이 포함됩니다. 다음은 이 가이드에 설명된 프로세스에 대한 간략한 개요입니다.
 
-- **검색:** 검색 및 검색 도구를 사용하여 DSR 요청의 대상이 될 수 있는 고객 데이터를 더 쉽게 찾을 수 있습니다. 잠재적으로 반응형 문서가 수집되면 다음 단계에 설명된 DSR 작업을 수행하여 요청에 응답할 수 있습니다. 또는 요청이 DSR 요청에 응답하기 위한 조직의 지침을 충족하지 않는다고 판단할 수 있습니다.
+- **검색:** 검색 도구를 사용하여 DSR 요청의 대상이 될 수 있는 고객 데이터를 좀 더 쉽게 찾을 수 있습니다. 잠재적인 반응형 문서가 일단 수집되면 다음 단계에 설명된 DSR 작업 중 하나 이상을 수행하여 요청에 응답할 수 있습니다. 또는 요청이 DSR 요청에 응답하기 위한 조직 지침을 충족하지 않는지도 확인할 수 있습니다.
 - **액세스:** Microsoft 클라우드에 있는 개인 데이터를 검색하고 요청될 경우 데이터 주체가 사용할 수 있는 복사본을 만듭니다.
 - **수정:** 해당되는 경우 개인 데이터를 변경하거나 요청된 다른 작업을 구현합니다.
-- **제한**: 다양한 온라인 서비스에 대한 라이선스를 제거하거나 가능한 경우 원하는 서비스를 꺼서 개인 데이터의 처리를 제한합니다. 다음을 수행할 수 있습니다.
+- **제한:** 다양한 온라인 서비스에 대한 라이선스를 제거하거나 가능한 경우 원하는 서비스를 꺼서 개인 데이터의 처리를 제한합니다.
 - **삭제:** Microsoft 클라우드에 있는 개인 데이터를 영구적으로 제거합니다.
 - **내보내기/수신(이식성):** 개인 데이터 또는 개인 정보의 전자 사본(컴퓨터가 읽을 수 있는 형식)을 데이터 주체에게 제공합니다. CCPA 하에서 개인 정보는 식별된 또는 식별 가능한 개인과 관련 있는 모든 정보입니다. 이때 개인의 비공개, 공개 또는 업무 역할이 구분되지 않습니다. 정의된 용어 "개인 정보"는 GDPR의 "개인 데이터"와 대략 일치합니다. 그러나 CCPA에는 가족 및 가정 데이터가 포함되어 있습니다. CCPA에 대한 자세한 내용은 [캘리포니아 소비자 개인 정보 보호법](offering-ccpa.md) 및 [캘리포니아 소비자 개인 정보 보호법 FAQ](ccpa-faq.yml)를 참조하세요.
 
@@ -50,8 +50,8 @@ EU(유럽 연합) [GDPR(일반 데이터 보호 규정)](https://ec.europa.eu/ju
 - **통제자:** 단독으로 또는 다른 대상과 함께 개인 데이터 처리의 목적 및 방법을 결정하는 자연인이나 법인, 공공 기관, 대리점 또는 기타 단체입니다. 이러한 처리의 목적 및 방법을 연합국 법률 또는 회원국 법률에 따라 결정하는 경우, 통제자 또는 구체적인 지명 기준을 연합국 법률 또는 회원국 법률에서 제공할 수 있습니다.
 - **개인 데이터 및 데이터 주체** 식별되었거나 식별 가능한 자연인(‘데이터 주체’)과 관련된 모든 정보입니다. 식별 가능한 자연인은 직간접적으로, 특히 이름, 식별 번호, 위치 데이터, 온라인 식별자 또는 해당 자연인의 신체적, 생리적, 유전적, 정신적, 경제적, 문화적 또는 사회적 ID와 같은 식별자를 참조하여 식별될 수 있는 사람입니다.
 - **프로세서:** 통제자를 대신하여 개인 데이터를 처리하는 자연인이나 법인, 공공 기관, 대리점 또는 기타 단체입니다.
-- **고객 데이터:** 엔터프라이즈 서비스를 사용하여 고객이 Microsoft에 제공하거나 고객 대신에 Microsoft에 제공된 모든 데이터(모든 텍스트, 소리, 동영상 또는 이미지 파일 포함)입니다. 고객 데이터에는 (1) 최종 사용자의 식별 가능한 정보(예: Azure Active Directory의 사용자 이름 및 연락처 정보) 및 고객이 특정 서비스에 업로드하거나 해당 서비스에서 만드는 고객 콘텐츠(예: Azure Storage 계정에서의 고객 콘텐츠, Azure SQL 데이터베이스의 고객 콘텐츠 또는 Azure 가상 머신에 있는 고객의 가상 머신 이미지)가 포함되어 있습니다.
-- **시스템 생성 로그:** Microsoft에서 생성한 로그 및 관련 데이터이며, 이는 Microsoft에서 엔터프라이즈 서비스를 제공하도록 도와줍니다. 시스템 생성 로그에는 주로 가명 처리된 데이터(예: 일반적으로 시스템에서 생성된 숫자인 고유한 식별자)가 있으며, 이 데이터는 개인을 직접 식별할 수 없지만 엔터프라이즈 서비스를 사용자에게 제공하는 데 사용됩니다. 시스템 생성 로그에는 사용자 이름과 같은 최종 사용자에 대한 식별 가능한 정보가 포함될 수도 있습니다.
+- **고객 데이터:** 엔터프라이즈 서비스를 사용하여 고객이 또는 고객을 대신해서 Microsoft에 제공되는 모든 텍스트, 사운드, 비디오 또는 이미지 파일, 소프트웨어를 포함하는 모든 데이터입니다. 고객 데이터에는 (1) 최종 사용자의 식별 가능 정보(예: 사용자 이름 및 Azure Active Directory의 연락처 정보) 및 고객이 특정 서비스에서 업로드하거나 만든 고객 콘텐츠(예: Azure Storage의 고객 콘텐츠, Azure SQL 데이터베이스의 고객 콘텐츠 또는 Azure Virtual Machines의 고객 가상 머신 이미지)가 둘 다 포함됩니다.
+- **시스템 생성 로그:** Microsoft가 사용자에게 엔터프라이즈 서비스를 제공하는 데 도움을 주는 Microsoft 생성 로그 및 관련 데이터입니다. 시스템 생성 로그에는 일반적으로 자체적으로는 개인을 식별할 수 없지만 사용자에게 엔터프라이즈 서비스를 전달하는 데 사용되는 시스템 생성 번호에 해당하는 주로 필명화된 데이터(예: 고유 식별자)가 포함됩니다. 최종 사용자에 대한 식별 가능 정보(예: 사용자 이름)도 시스템 생성 로그에 포함될 수 있습니다.
 
 ## <a name="how-this-guide-can-help-you-meet-your-controller-responsibilities"></a>사용자가 컨트롤러 책임을 충족하도록 가이드가 지원하는 방법
 
@@ -85,7 +85,7 @@ Dynamics 365는 여러 데이터 처리 기능을 SaaS(Software-as-a-Service)로
 
 Microsoft는 데이터 주체 권리 요청에 응답하고 고객 데이터에 액세스하는 데 도움이 될 수 있는 기능을 제공합니다. 그렇지만 개인 데이터를 적절히 찾아 분류하는 것은 귀하의 책임입니다.
 
-***Dynamics 365 for Customer Engagement*** 는 상세하게 찾기 검색 및 레코드 검색과 같이 레코드 내에서 개인 데이터를 검색하는 여러 방법을 제공합니다.  이러한 기능을 통해 개인 데이터를 식별하고 찾을 수 있습니다.
+***Dynamics 365 for Customer Engagement*** 는 상세하게 찾기 검색 및 레코드 검색과 같이 레코드 내에서 개인 데이터를 검색하는 여러 방법을 제공합니다. 이러한 기능을 통해 개인 데이터를 식별하고 찾을 수 있습니다.
 
 - [상세하게 찾기 검색](/dynamics365/customer-engagement/basics/save-advanced-find-search)
 - [레코드 검색](/dynamics365/customer-engagement/basics/search-records): 여러 레코드 유형 간에 검색 가능
@@ -97,7 +97,7 @@ Dynamics 365 for Marketing에서는 다음과 같은 추가 기능을 사용할 
 
 ***Dynamics 365 고객 서비스 통계*** 는 고객의 GDPR 요청에 응답하기 위해 [고객 데이터](/dynamics365/ai/customer-service-insights/gdpr-discovery)를 찾는 데 도움이 되는 리소스 목록을 제공합니다.
 
-***재무 및 운영용 Dynamics 365*** 은 고객 데이터를 검색할 수 있는 몇 가지 방법을 제공합니다. 사용자는 테넌트 관리자로서 다음 작업을 수행하여 고객 데이터를 검색할 수 있습니다.
+***Dynamics 365 for Finance and Operations*** 는 고객 데이터를 검색하는 몇 가지 방법을 제공합니다. 테넌트 관리자는 다음 작업을 수행하여 고객 데이터를 검색할 수 있습니다.
 
 - 개인 데이터를 빠르게 검색하려는 목적에 맞게 고객 데이터를 구성합니다. 이를 위해 [데이터 인벤토리 분류 방법](/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-guide#detailed-inventory)을 참조하세요.
 - [개인 검색 보고서](/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-guide#the-person-search-report)를 사용하여 개인 데이터를 찾아서 수집합니다.
@@ -106,7 +106,7 @@ Dynamics 365 for Marketing에서는 다음과 같은 추가 기능을 사용할 
 - 개인 데이터를 찾아 내보내는 사용자 지정 양식을 작성합니다.
 - 인증된 고객이 해당 개인 데이터를 볼 수 있도록 하는 외부 포털 또는 웹 사이트를 작성합니다.
 
-***Dynamics 365 Business Central*** 은 고객 데이터를 검색할 수 있는 몇 가지 방법을 제공합니다. 자세한 내용을 확인하려면 [검색, 필터링 및 데이터 정렬](/dynamics365/business-central/ui-enter-criteria-filters)를 참조하십시오.
+***Dynamics 365 Business Central*** 은 고객 데이터를 검색할 수 있는 여러 방법을 제공합니다. 자세한 내용은 [데이터 검색, 필터링, 정렬](/dynamics365/business-central/ui-enter-criteria-filters)을 참조하세요.
 
 ***Dynamics 365 for Talent*** 는 상세하게 검색 및 필터 기능을 제공하여 특정 개인 데이터를 찾고, Microsoft Office 내보내기 기능을 사용하여 해당 데이터를 내보내거나 브라우저 확장을 사용하여 해당 정보를 .pdf로 인쇄합니다.
 
@@ -115,13 +115,13 @@ Dynamics 365 for Marketing에서는 다음과 같은 추가 기능을 사용할 
 
 ### <a name="providing-a-copy-of-customer-data"></a>고객 데이터의 복사본 제공
 
-***Dynamics 365 for Customer Engagement*** 의 고객 데이터는 포괄적 인 엔티티 내보내기 기능을 사용하여 내보낼 수 있습니다. 데이터 이동성 요청을 용이하게 하기 위해 고객 데이터를 정적 Excel 파일로 내보낼 수 있습니다. Excel을 사용하면 이식 가능성 요청에 포함되도록 개인 데이터를 편집 한 다음 .csv 또는 .xml과 같이 일반적으로 사용되는 기계 가독 형식으로 저장할 수 있습니다. 또한 [Common Data Service 웹 API](/powerapps/developer/common-data-service/webapi/overview)를 통해 Dynamics 365 for Customer Engagement 레코드를 내보낼 수 있습니다.
+***Dynamics 365 for Customer Engagement*** 의 고객 데이터는 포괄적인 엔터티 내보내기 기능을 사용하여 내보낼 수 있습니다. 고객 데이터를 정적 Excel 파일로 내보내 데이터 이식성 요청을 지원할 수 있습니다. 그러면 Excel을 사용하여 이식성 요청에 포함되도록 개인 데이터를 편집하고, 일반적으로 사용되는 컴퓨터가 이해할 수 있는 형식(예: .csv 또는 .xml)으로 저장할 수 있습니다. Dynamics 365 for Customer Engagement 레코드는 [Common Data Service Web API](/powerapps/developer/common-data-service/webapi/overview)를 통해 내보낼 수도 있습니다.
 
 또한 Dynamics 365 for Marketing의 경우 고객이 개인 데이터가 포함되어 있을 수 있는 캡처된 고객 상호 작용에 대한 추가 레코드를 검색하는 확장 프로그램을 빌드할 수 있도록 하는 [전용 API](/dynamics365/customer-engagement/marketing/developer/retrieve-interactions-contact)도 제공됩니다. 이 API는 백 엔드 시스템에서 모든 관련 정보를 로드한 후 하나의 이식 가능 문서로 조합합니다.
 
 ***Dynamics 365 고객 서비스 정보 활용*** 을 사용하면 데이터 내보내기를 사용하여 [고객 데이터 사본을 제공](/dynamics365/ai/customer-service-insights/gdpr-export)할 수 있습니다.
 
-**재무 및 작업용 ynamics 365** 의 고객 데이터는 포괄적인 엔티티 내보내기 기능을 사용하여 내보내기할 수 있습니다. 테넌트 관리자는 [데이터 관리 및 통합 엔터티*](/dynamics365/unified-operations/dev-itpro/data-entities/data-management-integration-data-entity)를 사용하여 제공된 엔터티를 활용, 엔터티를 새로 생성하거나 기존 엔티티를 확장하여 반복적인 개인 데이터를 Excel 또는 [*데이터 가져 오기 및 내보내기 작업*](/dynamics365/unified-operations/dev-itpro/data-entities/data-import-export-job)을 사용하는 여러 가지 일반 형식으로 내보낼 수 있습니다.  또는 데이터 이동성 요청을 용이하게 하기 위해 수많은 목록을 정적 Excel 파일로 내보낼 수 있습니다. 고객 데이터를 Excel로 내보낼 때 이식 가능성 요청에 포함될 개인 데이터를 편집한 다음 파일을 .csv 또는 .xml과 같이 일반적으로 사용되는 컴퓨터가 읽을 수 있는 형식으로 저장합니다. 또한 *개인 검색 보고서* 를 사용하여 개인 데이터로 분류한 데이터를 데이터 주체에 제공할 수도 있습니다.
+포괄적인 엔터티 내보내기 기능을 사용하여 ***Dynamics 365 for Finance and Operations** 의 고객 데이터를 내보낼 수 있습니다. [_데이터 관리 및 통합 엔터티*](/dynamics365/unified-operations/dev-itpro/data-entities/data-management-integration-data-entity)를 사용하여 테넌트 관리자는 제공된 엔터티를 활용하고, [*데이터 가져오기 및 내보내기 작업*](/dynamics365/unified-operations/dev-itpro/data-entities/data-import-export-job)을 사용하여 반복 가능한 개인 데이터를 Excel 또는 다양한 일반 형식으로 내보내기 위해 새 엔터티를 만들거나 기존 엔터티를 확장할 수 있습니다. 또는 많은 목록을 정적 Excel 파일로 내보내 데이터 이식성 요청을 지원할 수 있습니다. 고객 데이터가 Excel로 내보내지면 이식성 요청에 포함할 개인 데이터를 편집한 후 해당 파일을 일반적으로 사용되며 컴퓨터가 읽을 수 있는 형식(예: .csv 또는 .xml)으로 저장할 수 있습니다. 또한 *사용자 검색 보고서* 를 사용하여 개인 데이터로 분류한 데이터를 데이터 주체에 제공하는 것도 고려할 수 있습니다.
 
 ***Dynamics 365 Business Central*** 에서 다음 두 가지 기능을 활용하여 데이터 주체에게 고객 데이터 사본을 제공할 수 있습니다.
 
@@ -170,7 +170,7 @@ Excel 파일에 고객 데이터를 내보낼 수 있습니다. Excel에서 이�
 - 여러 Dynamics 365 레코드를 대량으로 편집하면 Microsoft Office 추가 기능을 사용하여 Microsoft Excel로 데이터를 내보내고, 변경을 수행하고, 수정한 데이터를 Excel에서 온라인 서비스로 다시 가져올 수 있습니다.
 - 삭제하려는 데이터를 찾은 수 대상 고객 데이터를 포함하는 데이터 요소를 수동으로 삭제하여 모든 필드에 저장된 고객 데이터를 삭제할 수 있습니다. 예를 들어 데이터 주체를 나타내는 연락처 레코드와 개인 데이터를 포함하는 기타 레코드를 영구 삭제할 수 있습니다.
 
-또한 Dynamics 365 Marketing의 경우, 연락처를 삭제하면 개인 정보를 포함하는 상호 작용 데이터도 제거됩니다. 사용자 지정 필드 또는 엔터티의 경우 관련 레코드에서 모든 고객 데이터를 삭제하고, 연락처 레코드에서 연결이 끊어져서 모든 개인 정보가 제거되도록 시스템을 사용자 지정해야 합니다. 자세한 내용은 [개발자 가이드(마케팅)](/dynamics365/customer-engagement/marketing/developer/marketing-developer-guide)를 참조하세요.
+또한 Dynamics 365 Marketing의 경우 연락처를 삭제하면 개인 정보가 포함된 아웃바운드 마케팅 상호 작용 데이터도 제거됩니다. 모든 사용자 지정 필드 또는 엔터티에 대해 사용자가 관련 레코드에서 모든 고객 데이터를 삭제하고 연락처 레코드와의 연결을 해제하여 모든 개인 정보가 제거되도록 시스템을 사용자 지정해야합니다. 실시간 마케팅 모듈을 사용하는 고객은 모든 실시간 상호 작용 데이터가 제거되도록 삭제 요청과 함께 지원 티켓도 제출해야 합니다. 자세한 정보는 [개발자 가이드(마케팅)](/dynamics365/customer-engagement/marketing/developer/marketing-developer-guide)를 참조하세요.
 
 ***Dynamics 365 고객 서비스 정보 활용*** 은 조직에 [고객 데이터](/dynamics365/ai/customer-service-insights/gdpr-delete)을 삭제할 수 있는 기능을 제공합니다.
 
@@ -193,7 +193,7 @@ Excel 파일에 고객 데이터를 내보낼 수 있습니다. Excel에서 이�
 
 ***Dynamics 365 고객 서비스 통계*** 의 경우 Azure 관리 포털을 통해 [고객 데이터를 내보내기](/dynamics365/ai/customer-service-insights/gdpr-export)할 수 있습니다.
 
-***재무 및 운영을 위한 Dynamics 365*** 는 제공된 엔터티, 새로 생성된 엔터티 또는 확장된 엔터티가 반복 가능한 개인 데이터를 Excel로 내보낼 수 있게 하는 데이터 관리 및 통합 엔터티를 제공합니다. 또는 [데이터 가져오기 및 내보내기 작업](/dynamics365/unified-operations/dev-itpro/data-entities/data-import-export-job)을 사용하는 기타 여러 일반적인 형식을 제공합니다.  또는 데이터 이동성 요청을 용이하게 하기 위해 수많은 목록을 정적 Excel 파일로 내보낼 수 있습니다. 고객 데이터를 Excel로 내보낼 때 이런 방식으로 이식 가능성 요청에 포함될 개인 데이터를 편집한 다음 파일을 .csv 또는 .xml과 같이 일반적으로 사용되는 컴퓨터가 읽을 수 있는 형식으로 저장합니다.
+***Dynamics 365 for Finance and Operations*** 는 테넌트 관리자는 제공된 엔터티를 활용하고, [데이터 가져오기 및 내보내기 작업](/dynamics365/unified-operations/dev-itpro/data-entities/data-import-export-job)을 사용하여 반복 가능한 개인 데이터를 Excel 또는 다양한 일반 형식으로 내보내기 위해 새 엔터티를 만들거나 기존 엔터티를 확장할 수 있는 [데이터 관리 및 통합 엔터티를 제공합니다. 또는 많은 목록을 정적 Excel 파일로 내보내 데이터 이식성 요청을 지원할 수 있습니다. 고객 데이터가 Excel로 내보내지면 이식성 요청에 포함할 개인 데이터를 편집한 후 해당 파일을 일반적으로 사용되며 컴퓨터가 읽을 수 있는 형식(예: .csv 또는 .xml)으로 저장할 수 있습니다.
 
 Dynamics 365 for Finance and Operations 및 ***Dynamics 365 for Talent*** 둘 다 개인 데이터로 분류한 데이터를 데이터 주제에게 제공하기 위한 사용자 검색 보고서를 제공합니다.
 

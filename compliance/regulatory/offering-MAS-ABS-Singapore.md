@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9b7accfce56b2035dcaab95f774f8035c05c7362
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 2cd1209c0f80ee34fcc4fadb0fa341da7b3fc6e28502b8a73adb99580db0e164
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384548"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287197"
 ---
 # <a name="monetary-authority-of-singapore-mas-and-association-of-banks-in-singapore-abs"></a>싱가포르 통화청(MAS) 및 싱가포르 은행 연합(ABS)
 
@@ -74,7 +74,7 @@ MAS 지침을 준수하면서 Microsoft 클라우드로 데이터 및 워크로�
 - 독립형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power BI 클라우드 서비스
 - [Office 365](https://aka.ms/o365-compliance-framework)
 
-## <a name="frequently-asked-questions"></a>자주 하는 질문
+## <a name="frequently-asked-questions"></a>자주하는 질문
 
 **규제적 승인이 필요한가요?**
 

@@ -18,12 +18,12 @@ titleSuffix: Microsoft GDPR
 description: Microsoft 제품 및 서비스를 사용하여 유럽연합 일반 개인정보보호법(GDPR) 및 캘리포니아 소비자 개인 정보 보호법(CCPA)에 따라 DSR을 완료하는 방법에 대해 알아봅니다.
 ms.custom: seo-marvel-mar2020
 hideEdit: true
-ms.openlocfilehash: 8e6b862de3e52b171d886613af8529c082bad56d
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 58bea55beae9d5d8d4b018812f68b07b2d356d3db9cdf49d04ef8523e4db0b5b
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496259"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54289956"
 ---
 # <a name="data-subject-requests-and-the-gdpr-and-ccpa"></a>데이터 주체 요청과 GDPR 및 CCPA
 
@@ -50,7 +50,7 @@ GDPR(일반 데이터 보호 규제)는 EU(유럽 연합) 회원국 국민에게
 
 ## <a name="what-is-a-dsr"></a>DSR이란 무엇인가요?
 
-GDPR(일반 데이터 보호 규정)은 사람들(규정에서 데이터 주체)에게 고용주 또는 다른 유형의 기관이나 조직(데이터 컨트롤러 또는 간단하게 컨트롤러)에 의해 수집된 개인 데이터를 관리할 권한을 제공합니다. GDPR은 데이터 주체에게 개인 데이터에 대한 특정 권한을 제공합니다. 이러한 권한에는 개인 데이터의 복사본을 얻거나, 수정을 요청하거나, 처리를 제한하거나, 삭제하거나, 다른 관리자에게 전달할 수 있도록 전자 형식으로 개인 데이터를 수신할 권한이 포함됩니다.
+EU GDPR(일반 데이터 보호 규정)은 사용자(규정에 데이터 주체로 알려짐)에게 고용주 또는 다른 유형의 대리점 및 조직(데이터 통제자 또는 단순히 통제자로 지칭)이 수집한 개인 데이터를 관리할 수 있는 권한을 부여합니다. GDPR은 데이터 주체에게 개인 데이터에 대한 특정 권한을 부여합니다. 이러한 권한에는 개인 데이터 복사본 획득, 변경 요청, 처리 제한, 삭제 또는 다른 통제자에게 이동될 수 있도록 전자 형식으로 수신하는 권한이 포함됩니다.
 
 캘리포니아 소비자 개인 정보 보호법(CCPA)은 캘리포니아 소비자에게 GDPR의 데이터 주체 권리와 유사한 권리를 포함하여, 소비자의 개인 정보 삭제, 액세스 및 수신(이식성)과 같은 개인 정보 보호 권리 및 의무를 제공합니다.  
 
@@ -81,7 +81,7 @@ Microsoft에서 생성한 로그 및 관련 데이터는 GDPR의 "개인 데이�
 
 ### <a name="yammer-and-kaizala"></a>Yammer 및 Kaizala
 
-사용자 계정을 삭제해도 Yammer 및 Kaizala에 대한 시스템 생성 로그는 제거되지 않습니다. 이러한 응용 프로그램에서 생성된 데이터를 제거하려면 다음 리소스 중 하나를 참조하세요.
+사용자 계정을 삭제해도 Yammer 및 Kaizala에 대한 시스템 생성 로그는 제거되지 않습니다. 이러한 응용 프로그램에서 데이터를 제거하려면 다음 리소스 중 하나를 참조합니다.
 
 - [Yammer Enterprise에서 GDPR 데이터 주체 요청 관리](/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)
 - [Kaizala에서 사용자의 조직 데이터 내보내기 또는 삭제](/office365/kaizala/export-or-delete-a-user-s-data)

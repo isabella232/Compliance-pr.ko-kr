@@ -18,12 +18,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 hideEdit: true
-ms.openlocfilehash: 2dcfb419af60ae4d555ffb3686d107c3cd80808f
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 912bd80aea4e02eaa7e4d18f2f019eb3a6909e5d011204a1bb2cc299015f78fe
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377695"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54289876"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-controllers-using-windows-diagnostic-data-processor-configuration"></a>데이터 보호 영향 평가 - Windows 진단 데이터 프로세서 구성을 사용하는 컨트롤러에 대한 지침
 
@@ -62,7 +62,7 @@ GDPR 제35조에는 컨트롤러가 특별히 새로운 기술을 이용한 처�
 
 | DPIA의 요소 | Windows 진단 데이터 프로세서 구성에 대한 관련 정보 |
 |:---|:---|
-| 처리 목적 | Windows 진단 데이터 프로세서 구성에 따라 수집된 진단 데이터를 처리하는 목적은 이를 구현, 구성 및 사용하는 컨트롤러에 의해 결정됩니다. <br><br> Microsoft는 데이터 프로세서로서 Microsoft 제품 약관의 조건에 따라 Windows 진단 데이터 처리합니다. <br><br> Microsoft는 다음과 같은 합법적인 비즈니스 운영 지원을 위하여 개인 데이터를 사용합니다. (1) 청구 및 계정 관리. (2) 보상 (예: 사원 수수료과 파트너의 성과급 계산). (3) 내부 보고 및 모델링 (예: 예측, 수익, 용량 계획, 제품 전략); (4) Microsoft 또는 Microsoft 제품에 영향을 줄 수 있는 사기, 사이버 범죄 또는 사이버-공격 방어. (5) 접근성, 개인 정보 보호 또는 에너지 효율성의 핵심 기능 개선. (6) 법률적인 의무를 통한 재무 보고 및 준수 (Windows 진단 데이터 노출에 대한 제한 사항 준수). <br><br> Microsoft는 이와 같은 특정 합법적인 비즈니스 운영에 대한 Windows 진단 데이터 처리의 컨트롤러입니다. 일반적으로 Microsoft는 Windows 진단 데이터를 합법적인 비즈니스 운영에 사용하기 전에 해당 데이터를 수집하여 Microsoft가 특정 개인을 식별하지 못할 뿐만 아니라, 합법적 비즈니스 운영에 필요한 처리를 지원하는 Windows 진단 데이터 사용시 개인 식별 가능성을 최소화합니다. <br><br> Microsoft는 Windows 진단 데이터 프로세서 구성을 사용할 때 수집된 Windows 진단 데이터 또는 광고나 유사한 상업적 목적으로 수집된 정보를 사용하지 않습니다.|
+| 처리 목적 | Windows 진단 데이터 프로세서 구성에 따라 수집된 진단 데이터를 처리하는 목적은 이를 구현, 구성 및 사용하는 컨트롤러에 의해 결정됩니다. <br><br> Microsoft는 데이터 프로세서로서 Microsoft 제품 약관의 조건에 따라 Windows 진단 데이터 처리합니다. <br><br> Microsoft는 다음과 같은 합법적인 비즈니스 운영 지원을 위하여 개인 데이터를 사용합니다. (1) 청구 및 계정 관리. (2) 보상 (예: 사원 수수료과 파트너의 성과급 계산). (3) 내부 보고 및 모델링 (예: 예측, 수익, 용량 계획, 제품 전략); (4) Microsoft 또는 Microsoft 제품에 영향을 줄 수 있는 사기, 사이버 범죄 또는 사이버-공격 방어. (5) 접근성, 개인 정보 보호 또는 에너지 효율성의 핵심 기능 개선. (6) 법률적인 의무를 통한 재무 보고 및 준수 (Windows 진단 데이터 노출에 대한 제한 사항 준수). <br><br> Microsoft는 이러한 특정 합법적인 비즈니스 작업에 대한 Windows 진단 데이터 처리의 컨트롤러입니다. 일반적으로 Microsoft는 합법적인 비즈니스 운영에 사용하기 전에 Windows 진단 데이터를 집계하여 특정 개인을 식별할 수 있는 Microsoft의 능력을 제거하고, 합법적인 비즈니스 운영에 필요한 처리를 지원하는 가장 식별하기 어려운 형식으로 Windows 진단 데이터를 사용합니다. <br><br> Microsoft는 Windows 진단 데이터 프로세서 구성을 사용할 때 수집된 Windows 진단 데이터 또는 광고나 유사한 상업적 목적으로 수집된 정보를 사용하지 않습니다.|
 | 처리된 개인 데이터의 범주 | **Windows 진단 데이터**- 디바이스와 Windows 및 관련 소프트웨어의 작동 방식에 대한 Windows 디바이스의 기술 데이터입니다. Windows를 최신 상태로 유지하고, 안전하고, 안정적이며, 성능을 향상시키고, 제품을 개선하는 데 사용됩니다. Windows 진단 데이터의 몇 가지 예로는 사용 중인 하드웨어 유형, 각각의 용도에 맞게 설치된 응용 프로그램 및 디바이스 드라이버의 안정성 정보가 있습니다. 일부 Windows 구성 요소 및 앱은 Microsoft 서비스에 직접 연결되지만 교환하는 데이터는 Windows 진단 데이터가 아닙니다. 예를 들어 지역 날씨 또는 뉴스를 위해 사용자 위치를 교환하는 것은 Windows 진단 데이터의 예가 아닙니다. <br><br> Windows 진단 데이터 프로세서 구성을 사용하는 경우 데이터 처리에 대한 자세한 내용은 [조직에 Windows 진단 데이터 구성](/windows/privacy/configure-windows-diagnostic-data-in-your-organization) 및 [Microsoft 보안 센터](https://www.microsoft.com/trust-center)를 참조하세요.|
 | 데이터 보존 | Microsoft는 Microsoft 제품 약관에 따라 Windows 진단 데이터 프로세서 구성을 사용하도록 설정한 경우 수집된 Windows 진단 데이터를 보유하고 처리합니다. 고객은 [GGDPR 및 CCPA에 대한 Windows 진단 데이터 프로세서 구성 데이터 주체 요청](gdpr-dsr-windows.md)에 설명된 기능을 사용하여 데이터 주체 요청에 따라 Windows 진단 데이터를 삭제하고 내보낼 수 있습니다.|
 | 개인 데이터의 위치 및 전송 | Windows 진단 데이터 프로세서 구성을 사용하는 경우 수집되는 Windows 진단 데이터는 미국에 있는 Microsoft 데이터 센터에 있습니다. |

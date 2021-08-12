@@ -20,26 +20,26 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: bf17ec68648efbc5f149bad0671a4e035d27a307
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 953255f96acbc22349d9f00a83edff7d65106ec6360b42930fe5985fcb4df3f5
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377475"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291066"
 ---
 # <a name="governance-overview"></a>거버넌스 개요
 
 ## <a name="how-does-microsoft-provide-effective-security-governance-across-the-enterprise"></a>Microsoft는 기업 전체에서 효과적인 보안 거버넌스를 어떻게 제공하나요?
 
-Microsoft는 Microsoft 정보 시스템 및 고객을 보호하기 위해 기업 전체에서 효과적인 보안 정책을 일관되게 구현해야 한다는 것을 알고 있습니다. 또한 보안 정책은 비즈니스 기능 및 정보 시스템의 변형을 고려하여 보편적으로 적용할 수 있어야 합니다. 이러한 요구 사항을 충족하기 위해 Microsoft는 Microsoft 정책 프레임워크의 일부로 포괄적인 보안 거버넌스 프로그램을 구현합니다. 보안 거버넌스는 MSP(Microsoft 보안 정책)에 속합니다.
+Microsoft는 Microsoft 정보 시스템 및 고객을 보호하기 위해 기업 전체에서 효과적인 보안 정책을 일관되게 구현해야 한다는 것을 알고 있습니다. 또한 보안 정책은 비즈니스 기능 및 정보 시스템의 변형을 고려하여 범용으로 적용해야 합니다. 이러한 요구 사항을 충족하기 위해 Microsoft는 Microsoft 정책 프레임워크의 일부로 포괄적인 보안 거버넌스 프로그램을 구현합니다. 보안 거버넌스는 MSP(Microsoft Security 정책)에 속합니다.
 
-MSP는 모든 Microsoft 엔지니어링 그룹 및 사업부에서 구현할 수 있도록 Microsoft의 보안 정책, 표준 및 요구 사항을 구성합니다. 개별 사업부는 Microsoft 보안 정책의 특정 구현을 담당합니다. 예를 Microsoft 365 보안 구현을 Microsoft 365 정보 보안 정책 및 관련 Microsoft 365 제어 프레임워크에 문서화합니다. Azure 및 Dynamics 365는 SOP(Standard Operating Procedures) 및 Azure Control Framework에 보안 구현을 문서화합니다. 이러한 보안 구현은 MSP의 목표와 일치합니다.
+MSP는 모든 Microsoft 엔지니어링 그룹 및 사업부에서 구현할 수 있도록 Microsoft의 보안 정책, 표준 및 요구 사항을 구성합니다. 개별 사업부는 Microsoft Security 정책의 특정 구현을 담당합니다. 예를 Microsoft 365 보안 구현을 Microsoft 365 정보 보안 정책 및 관련 Microsoft 365 제어 프레임워크에 문서화합니다. Azure 및 Dynamics 365는 SOP(Standard Operating Procedures) 및 Azure Control Framework에 보안 구현을 문서화합니다. 이러한 보안 구현은 MSP의 목표와 일치합니다.
 
 Microsoft의 보안 거버넌스 프로그램은 다양한 규정 및 규정 준수 프레임워크를 통해 정보를 보고하고 준수합니다. 보안 요구 사항은 새로운 기술, 규정 및 규정 준수 요구 사항 및 보안 위협을 고려하기 위해 지속적으로 진화하고 있습니다. 이러한 변경으로 Microsoft는 Microsoft 시스템과 고객을 보호하고, 약정을 충족하며, 고객 신뢰를 유지하기 위해 보안 정책 및 지원 문서를 정기적으로 업데이트합니다.
 
 ## <a name="how-do-microsoft-online-services-implement-the-microsoft-security-policy-msp"></a>Microsoft 온라인 서비스에서 MSP(Microsoft 보안 정책)를 구현하는 방법
 
-Microsoft 365 정보 보안 정책의 보안 구현을 Microsoft 365 문서화합니다. 이 정책은 Microsoft 보안 정책에 부합하며 모든 Microsoft 365 환경 및 데이터 수집, 처리, 유지 관리, 사용, 공유, 배포 및 폐기와 관련된 모든 리소스를 포함하여 Microsoft 365 정보 시스템을 관리합니다. 마찬가지로 Azure 및 Dynamics 365는 Microsoft 보안 정책을 사용하여 정보 시스템을 관리합니다.
+Microsoft 365 정보 보안 정책의 보안 구현을 Microsoft 365 문서화합니다. 이 정책은 Microsoft 보안 정책과 일치하며 모든 Microsoft 365 환경 및 데이터 수집, 처리, 유지 관리, 사용, 공유, 배포 및 폐기와 관련된 모든 리소스를 포함하여 Microsoft 365 정보 시스템을 관리합니다. 마찬가지로 Azure 및 Dynamics 365는 Microsoft 보안 정책을 사용하여 정보 시스템을 관리합니다.
 
 정보 시스템에는 Microsoft 365 정보 보안 정책(Microsoft 365) 및 Microsoft 보안 정책(Azure 및 Dynamics 365용)에서 관리되는 다음 구성 요소가 포함됩니다.
 
@@ -49,11 +49,11 @@ Microsoft 365 정보 보안 정책의 보안 구현을 Microsoft 365 문서화�
 - 절차: Azure, Dynamics 365 및 Microsoft 365 시스템 운영과 관련된 프로그래밍된 수동 절차
 - 데이터: Azure, Dynamics 365 및 Microsoft 365 시스템(트랜잭션 스트림, 파일, 데이터베이스 및 테이블)에서 생성, 수집 및 처리되는 정보
 
-Microsoft 365 정보 보안 정책은 Microsoft 365 제어 프레임워크에서 보완합니다. Microsoft 365 Control Framework에서는 모든 Microsoft 365 및 정보 시스템 구성 요소에 대한 최소 보안 요구 사항을 자세히 제공합니다. 또한 각 제어의 뒤에서 법적 및 회사 요구 사항을 참조합니다. 이 프레임워크에는 서비스 팀의 효과적인 제어 구현을 보장하기 위한 컨트롤 활동 이름, 설명 및 지침이 포함되어 있습니다. Microsoft 365 프레임워크를 사용하여 내부 및 외부 보고에 대한 컨트롤 구현을 추적합니다. 마찬가지로 Azure 및 Dynamics 365는 Azure Control Framework에서 컨트롤 구현을 기록합니다.
+Microsoft 365 정보 보안 정책은 Microsoft 365 제어 프레임워크에서 보완합니다. Microsoft 365 Control Framework에서는 모든 Microsoft 365 및 정보 시스템 구성 요소에 대한 최소 보안 요구 사항을 자세히 제공합니다. 또한 각 제어의 뒤에서 법적 및 회사 요구 사항을 참조합니다. 프레임워크에는 서비스 팀의 효과적인 제어 구현을 보장하기 위한 제어 활동 이름, 설명 및 지침이 포함됩니다. Microsoft 365 프레임워크를 사용하여 내부 및 외부 보고에 대한 컨트롤 구현을 추적합니다. 마찬가지로 Azure 및 Dynamics 365는 Azure Control Framework에서 컨트롤 구현을 기록합니다.
 
 ## <a name="how-do-online-services-limit-and-track-exceptions-to-established-policies-and-procedures"></a>온라인 서비스는 설정한 정책 및 절차에 대한 예외를 제한하고 추적하는 방법
 
-제어 프레임워크에 대한 모든 예외는 합법적인 비즈니스 정당성 및 각 온라인 서비스 팀 내의 적절한 거버넌스 엔터티에 의해 승인되어야 합니다. 예외의 범위와 예외가 나타내는 잠재적 위험에 따라 회사 부사장 이상으로부터 예외에 대한 승인을 얻어야 할 수 있습니다. 예외는 추적 도구에서 관리되는 도구에서 관리하며, 추적 도구에서 계속된 참조가 검토되고 승인됩니다.
+제어 프레임워크에 대한 모든 예외는 합법적인 비즈니스 정당성 및 각 온라인 서비스 팀 내의 적절한 거버넌스 엔터티에 의해 승인되어야 합니다. 예외의 범위와 이것이 나타내는 잠재적 위험에 따라 기업 부사장 이상의 승인을 받아야 할 수도 있습니다. 예외는 추적 도구에서 관리되는 도구에서 관리하며, 추적 도구에서 계속된 참조가 검토되고 승인됩니다.
 
 ## <a name="how-do-online-services-keep-security-and-compliance-requirements-updated"></a>온라인 서비스를 통해 보안 및 규정 준수 요구 사항을 업데이트하는 방법
 
@@ -82,5 +82,5 @@ Microsoft의 온라인 서비스는 외부 규정 및 인증을 준수하도록 
 
 ## <a name="resources"></a>리소스
 
-- [Microsoft 보안 정책](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=bc35aefb-ec41-4a0e-bfc7-10aa5169ca88&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
+- [Microsoft Security 정책](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=bc35aefb-ec41-4a0e-bfc7-10aa5169ca88&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
 - [Microsoft 보안 프로그램 정책](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=4b010ac5-2861-4d20-b8ff-db77875b43a9&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)

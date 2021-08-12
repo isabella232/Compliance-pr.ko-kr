@@ -1,6 +1,6 @@
 ---
 title: 전송되는 데이터 암호화
-description: 이 문서에서는 Microsoft가 전송되는 Microsoft 365 고객 데이터를 암호화하는 방법에 대한 간략한 설명을 제공합니다.
+description: 이 문서에서는 Microsoft가 전송되는 고객 데이터를 암호화하는 Microsoft 365 간략한 설명을 제공합니다.
 ms.author: krowley
 author: kccross
 manager: laurawi
@@ -21,12 +21,12 @@ ms.collection:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 227f74140ecd9b6283b92e8b0e87bd70912ec8e3
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 6a4707be17c0ef5d992e1f98db9638b9b8337dfd22f012af914ef65891c315ed
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497247"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291286"
 ---
 # <a name="encryption-for-data-in-transit"></a>전송되는 데이터 암호화
 
@@ -34,9 +34,9 @@ Microsoft는 미사용 고객 데이터를 보호하는 것 외에도 암호화 
 
 - 클라이언트 컴퓨터와 Microsoft 서버 통신하는 경우
 - Microsoft 서버가 다른 Microsoft 서버와 통신하는 경우 및
-- Microsoft 서버가 타사 서버와 통신하는 경우(예: Exchange Online이 타사 전자 메일 서버로 전자 메일을 배달하는 경우).
+- Microsoft 서버가 타사 서버와 통신하는 경우(예: 타사 Exchange Online 전자 메일 서버로 전자 메일을 배달하는 경우)
 
-Microsoft 서버 간의 데이터 센터 간 통신은 TLS 또는 IPsec을 통해 진행하며 모든 고객 연결 서버는 클라이언트 컴퓨터와 함께 TLS를 사용하여 보안 세션을 협상합니다(예를 들어 Exchange Online에서는 256비트 암호 강도가 256비트인 TLS 1.2를 사용).(FIPS 140-2 수준 2 유효성 검사). (Office [](/microsoft-365/compliance/technical-reference-details-about-encryption) 365에서 지원하는 TLS 암호화 제품군 목록은 암호화에 대한 기술 참조 세부 정보를 참조하세요.) 이는 Outlook, 비즈니스용 Skype, Microsoft Teams 및 웹용 Outlook(예: HTTP, POP3 등)과 같은 클라이언트에서 사용하는 프로토콜에 적용됩니다.
+Microsoft 서버 간의 데이터 센터 간 통신은 TLS 또는 IPsec을 통해 진행하며 모든 고객 연결 서버는 클라이언트 컴퓨터와의 TLS를 사용하여 보안 세션을 협상합니다(예를 들어 Exchange Online 256비트 암호 강도가 있는 TLS 1.2를 사용하는지 여부를 밝게 합니다(FIPS 140-2 수준 2 유효성 검사). 암호화에 대한 기술 [참조 세부](/microsoft-365/compliance/technical-reference-details-about-encryption) 정보는 암호화에서 지원하는 TLS 암호화 제품군 목록을 Office 365. 이는 Outlook, 비즈니스용 Skype, Microsoft Teams 및 웹용 Outlook(예: HTTP, POP3 등) 클라이언트에서 사용하는 프로토콜에 적용됩니다.
 
 공용 인증서는 전송된 정보의 기밀성을 보호하기 위한 내부 Microsoft 도구인 SSLAdmin을 사용하여 Microsoft IT SSL에서 발급합니다. Microsoft IT에서 발급한 모든 인증서의 길이는 2048비트 이상이기 때문에 Webtrust 준수를 위해서는 SSLAdmin이 Microsoft가 소유한 공용 IP 주소에만 인증서를 발급해야 합니다. 이 기준을 충족하지 못하는 IP 주소는 예외 프로세스를 통해 라우팅됩니다.
 
@@ -50,4 +50,4 @@ Microsoft 서버 간의 데이터 센터 간 통신은 TLS 또는 IPsec을 통�
 - [Exchange Online Protection](https://ssl-tools.net/mailservers/microsoft-com.mail.protection.outlook.com)
 - [Microsoft Teams](https://www.ssllabs.com/ssltest/analyze.html?d=teams.microsoft.com&latest)
 
-Exchange Online Protection의 경우 URL은 테넌트 이름에 따라 다릅니다. 그러나 모든 고객은 를 사용하여 Microsoft 365를 테스트할 **microsoft-com.mail.protection.outlook.com.**
+이 Exchange Online Protection URL은 테넌트 이름에 따라 다릅니다. 그러나 모든 고객은 를 사용하여 Microsoft 365 테스트할 **microsoft-com.mail.protection.outlook.com.**

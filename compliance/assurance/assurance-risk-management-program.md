@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 21408643bcdb3effc0a8630d3f4da54a42281f44
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 8909d2c3029050a18f3f37862f7dd342696b1fc0f92c5e8bb03aa190f03f2c25
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573756"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290561"
 ---
 # <a name="microsoft-365-risk-management-program"></a>Microsoft 365 위험 관리 프로그램
 
@@ -59,11 +59,11 @@ Microsoft 365 보안 팀은 Microsoft 365 위험 관리 프로그램을 관리�
 
 ## <a name="response"></a>응답
 
-트러스트 팀은 확인된 위험 목록을 사용하여 Microsoft 365 서비스에 위험을 할당하여 위험 대응을 합니다. 정의된 지침은 위험 점수 및 제어 효율성에 따라 적절한 위험 대응 전략을 결정하는 데 도움이 됩니다. 위험 대응 전략은 다음과 같은 네 가지 범주로 분류됩니다.
+트러스트 팀은 확인된 위험 목록을 사용하여 Microsoft 365 서비스에 위험을 할당하여 위험 대응을 합니다. 정의된 지침은 위험 점수 및 제어 효율성에 따라 적절한 위험 대응 전략을 결정하는 데 도움이 됩니다. 위험 대응 전략은 네 가지 범주로 나뉩니다.
 
-- Tolerate: 낮은 수준의 제어를 통해 위험 수준이 낮은 노출 영역입니다.
-- 작동: 컨트롤이 적절한 것으로 평가되는 낮은 위험 노출 영역입니다.
-- 모니터: 컨트롤이 적절한 것으로 인식된 고위험 노출 영역으로, 효율성을 모니터링해야 합니다.
+- 허용: 통제 수준이 낮고 위험도가 낮은 노출 영역입니다.
+- 운영: 통제가 적절하다고 판단되는 위험도가 낮은 노출 영역입니다.
+- 모니터: 통제가 적절하다고 판단되고 효과를 모니터링해야 하는 위험도가 높은 노출 영역입니다.
 - 개선: 낮은 수준의 제어로 고위험 노출 영역이 해결의 최우선 순위입니다.
 
 보안 팀은 서비스 팀과 협의하여 각 위험을 해결하기 위한 계획을 개발합니다. 심각도 수준에 따라 각 계획에 대한 적절한 검토 및 승인 수준이 결정됩니다. 작업이 필요한 위험의 경우 기존 엔지니어링 버그 프로세스가 추적, 관리 및 예외 결정을 내리는 데 사용됩니다. 엔지니어링 및 운영 팀에 익숙한 프로세스를 사용하면 위험 대응이 더 효율적이고 효과적입니다.

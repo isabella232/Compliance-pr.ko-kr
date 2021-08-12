@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 42f5677b923edc225833882bc3916e698fde369e
-ms.sourcegitcommit: 48b8ec2dd00e957508e5af82458bf697e1a97ebb
+ms.openlocfilehash: f732ccf412272ec7138ac24fcc1f89dcf9bacacf1e64865ebfb9ba4e9dc6daf8
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53395648"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291006"
 ---
 # <a name="human-resources-overview"></a>인적 리소스 개요
 
@@ -48,9 +48,9 @@ Microsoft는 모든 직원, 인턴 및 부대 직원에 대한 엄격한 직원 
 
 ## <a name="how-does-microsoft-ensure-employees-maintain-sufficient-skills-and-knowledge-to-perform-their-responsibilities-and-follow-microsoft-policies"></a>Microsoft는 직원들이 책임을 수행하고 Microsoft 정책을 따르기 위해 충분한 기술과 지식을 유지하도록 어떻게 보장하나요?
 
-모든 Microsoft 직원은 기본 보안 인식 교육을 완료해야 합니다. 초기 교육은 신입 사원이 Microsoft에서 근무를 시작하고 그 이후에 매년 매년 재교육이 진행될 때 발생합니다. 이 교육은 직원에게 Microsoft의 보안에 대한 기본 접근 방식에 대한 이해를 제공하도록 고안된 것입니다. 개인의 직무에 필요한 특정 액세스 권한을 부여하기 전에 적용 가능한 역할 기반 보안 교육도 필요합니다. Microsoft 직원의 보안 교육은 매년 새로 고쳐지며 시스템 또는 정책이 변경될 때 새 교육이 보장됩니다.
+모든 Microsoft 직원은 기본 보안 인식 교육을 완료해야 합니다. 초기 교육은 신입 사원이 일하기 시작할 때 이루어지며, 그 후 매년 갱신 교육이 시행됩니다. 이 교육은 직원들이 Microsoft의 보안에 대한 근본적인 접근 방식을 이해할 수 있도록 하기 위해 마련되었습니다. 개인의 직무에 필요한 특정 액세스 권한을 부여하기 전에 적용 가능한 역할 기반 보안 교육도 필요합니다. Microsoft 직원의 보안 교육은 매년 새로 고쳐지며 시스템 또는 정책이 변경될 때 새 교육이 보장됩니다.
 
-Microsoft 직원은 보안 인식 교육 외에도 비즈니스 수행 표준 교육을 완료해야 합니다. 이 교육에는 비즈니스 행동, 직원 안전, 개인 정보 보호, 괴롭히지 않는 괴롭히기 및 비도상 행동에 대한 허용 오차가 포함됩니다. 교육 과정이 끝나면 직원은 조직 수준에서 추적되는 Microsoft 비즈니스 행동 규약을 따라야 하다는 규약을 반드시 따라야 합니다. 비즈니스 수행 표준 교육은 매년 새로 고쳐지며,
+Microsoft 직원은 보안 인식 교육 외에도 비즈니스 수행 표준 교육을 완료해야 합니다. 이 교육에는 비즈니스 행동, 직원 안전, 개인 정보 보호, 괴롭히지 않는 괴롭히기 및 비도상 행동에 대한 허용 오차가 포함됩니다. 과정이 끝나면 직원은 조직 수준에서 추적되는 Microsoft 비즈니스 행동 강령을 준수할 것임을 증명해야 합니다. 비즈니스 수행 표준 교육은 매년 새로 고쳐지며,
 
 ## <a name="how-does-microsoft-revoke-access-for-employees-who-leave-microsoft"></a>Microsoft에서 Microsoft를 떠나는 직원에 대한 액세스는 어떻게 해지하나요?
 

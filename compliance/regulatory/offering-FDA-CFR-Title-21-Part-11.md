@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f5710d392e1d2293bfee976873e5d7c603918e67
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 39c7e69ab980a7d75fced1d59474478df6f05c9ec9549db6e7fa72ba7f9278a8
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385128"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287567"
 ---
 # <a name="food-and-drug-administration-cfr-title-21-part-11"></a>식약 관리 CFR 제목 21부 11부
 
@@ -47,7 +47,7 @@ Microsoft 엔터프라이즈 클라우드 서비스는 정기적인 독립적인
 
 FDA CFR Title 21 배포를 가속화하는 방법: [Azure FDA 21](https://go.microsoft.com/fwlink/p/?linkid=2086604) 자격 가이드 다운로드
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 & 서비스
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 CFR Title 21 Part 11을 준수하는 데 대한 인증은 없습니다. 하지만 다음 Microsoft 엔터프라이즈 클라우드 서비스는 독립적인 타사 감사를 진행하여 고객이 규정 준수를 위해 노력하는 데 도움이 될 수 있습니다. 이러한 서비스에는 다음이 포함됩니다.
 
@@ -61,7 +61,7 @@ CFR Title 21 Part 11을 준수하는 데 대한 인증은 없습니다. 하지�
 
 SOC 1 및 SOC 2 유형 2, ISO/IEC 27001 및 ISO/IEC 27018 표준에 대한 감사 보고서는 Microsoft가 구현한 제어의 효율성을 보장하며 고객이 FDA CFR Title 21 Part 11을 준수하는 데 도움이 될 수 있습니다.
 
-## <a name="frequently-asked-questions"></a>자주하는 질문
+## <a name="frequently-asked-questions"></a>질문과 대답
 
 **이 표준은 누구에게 적용되나요?**
 

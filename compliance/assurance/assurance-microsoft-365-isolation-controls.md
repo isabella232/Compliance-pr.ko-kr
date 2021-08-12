@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 격리 제어
+title: Microsoft 365 격리 컨트롤
 description: 2016년 8월 1일부로 Microsoft 365
 ms.author: robmazz
 author: robmazz
@@ -20,14 +20,14 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 1876ee933b0f94057abb2a6edd8fae9ca66111a4
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 2278a2475887e93733ce32b82a1d7d0b15cce91a1f1e70dbe72a6469bdd3e0b7
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573453"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290605"
 ---
-# <a name="microsoft-365-isolation-controls"></a>Microsoft 365 격리 제어
+# <a name="microsoft-365-isolation-controls"></a>Microsoft 365 격리 컨트롤
 
 Microsoft는 Microsoft의 다중 테넌트 아키텍처가 엔터프라이즈 수준의 보안Microsoft 365 기밀성, 개인 정보 보호, 무결성, 로컬, 국제 및 가용성 표준을 지원하도록 지속적으로 [작업합니다.](https://www.microsoft.com/trust-center/compliance/compliance-overview) Microsoft에서 제공하는 서비스의 규모와 범위는 사용자 개입이 많은 서비스를 관리하기 어렵고 Microsoft 365 비가치적입니다. Microsoft 365 서비스는 휴먼 터치 또는 고객 콘텐츠에 대한 액세스가 필요한 몇 가지 작업으로 각각 고도로 자동화된 글로벌 분산 데이터 센터를 통해 제공됩니다. 당사의 직원은 자동화된 도구와 매우 안전한 원격 액세스를 사용하여 이러한 서비스 및 데이터 센터를 지원하고 있습니다.
 
@@ -38,9 +38,9 @@ Microsoft 365 중요한 비즈니스 기능을 제공하고 전체 비즈니스 
 
 Microsoft 365 상호 운영되지만 서로 독립적으로 자율 서비스로 배포 및 운영될 수 있도록 설계 및 구현된 서비스입니다. Microsoft는 조직의 자산을 무단 또는 Microsoft 365 잘못 수정하거나 오용할 기회를 줄이기 위해 조직에 대한 책임 영역과 의무를 세분화합니다. Microsoft 365 팀은 포괄적인 역할 기반 액세스 제어 메커니즘의 일부로 역할을 정의했습니다.
 
-## <a name="tenant-isolation"></a>테넌트 고리
+## <a name="tenant-isolation"></a>테넌트 격리
 
-클라우드 컴퓨팅의 주요 이점 중 하나는 많은 고객에 걸쳐 동시에 공유되는 공유 인프라의 개념으로 확장되는 경제성입니다. Microsoft는 클라우드 서비스의 다중 테넌트 아키텍처가 엔터프라이즈 수준의 보안, 기밀성, 개인 정보 보호, 무결성 및 가용성 표준을 지원하도록 지속적으로 작업합니다.
+클라우드 컴퓨팅의 주요 이점 중 하나는 많은 고객에 걸쳐 동시에 공유되는 공유 인프라의 개념으로 확장되는 경제성입니다. Microsoft는 클라우드 서비스의 다중 테넌트 아키텍처가 엔터프라이즈 수준 보안, 기밀성, 개인 정보 보호, 무결성 및 가용성 표준을 지원하도록 지속적으로 노력하고 있습니다.
 
 Microsoft 클라우드 서비스는 모든 테넌트가 다른 모든 테넌트에 잠재적으로 악의적일 수 있는 것으로 가정하고, 한 테넌트의 작업이 다른 테넌트의 보안 또는 서비스에 영향을 미치거나 다른 테넌트의 콘텐츠에 액세스하지 못하도록 하는 보안 조치를 구현했습니다.
 

@@ -20,24 +20,24 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 04ca3dde35ded2f0f4117d91ccc8ae0fa6a9aa9b
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: cdc3b00123a1bb3fe862260b32ae08bf876dad552827af6878a9c65f4b33b75c
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573646"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290501"
 ---
 # <a name="risk-management-overview"></a>리스크 관리 개요
 
 ## <a name="how-does-microsoft-assess-and-manage-risk-across-the-enterprise"></a>Microsoft는 기업 전체의 위험을 어떻게 평가하고 관리하나요?
 
-위험 관리는 위험을 식별, 평가 및 대응하는 프로세스입니다. Microsoft의 위험 관리는 새로운 위협을 예상하고 클라우드 시스템과 이를 사용하는 고객에게 지속적인 보안을 제공하도록 고안되었습니다.
+위험 관리는 위험을 식별, 평가 및 대응하는 프로세스입니다. Microsoft의 위험 관리는 새로운 위협을 예측하고 클라우드 시스템과 이를 사용하는 고객에게 지속적인 보안을 제공하도록 설계되었습니다.
 
-Microsoft의 위험 관리 활동은 ERM(Enterprise 관리) 프로그램에서 관리합니다. ERM을 사용하면 전체 엔터프라이즈 위험 관리 프로세스를 사용할 수 있으며 기업 전체의 관리와 함께 Microsoft의 가장 중요한 위험을 식별하고 책임질 수 있습니다. Microsoft의 비즈니스 전략을 알리고 위험을 완화하고 책임감을 주도하기 위해 위험을 예상, 평가 및 보고하는 데 중점을 습니다.
+Microsoft의 위험 관리 활동은 ERM(Enterprise Risk Management) 프로그램의 적용을 받습니다. ERM을 사용하면 전반적인 엔터프라이즈 위험 관리 프로세스가 가능하며 기업 전체의 관리와 협력하여 Microsoft의 가장 중요한 위험에 대한 책임을 식별하고 보장합니다. Microsoft의 비즈니스 전략을 알리고 위험 완화 및 책임을 추진하기 위해 위험을 예측, 평가 및 보고하는 데 중점을 둡니다.
 
 ![위험 관리 구조](../media/assurance-risk-management-structure.png)
 
-Microsoft ERM은 기업 전체에서 위험 관리 활동을 조정하여 사업부가 일관되고 비교적인 위험 평가를 독립적으로 지원할 수 있도록 합니다. 이러한 조정을 통해 Microsoft는 관리에 대한 통합된 방식으로 위험 정보를 집계하고 보고할 수 있습니다. ERM은 위험 관리 프로세스에 대한 일반적인 방법, 도구 및 목표를 Microsoft의 사업부에 제공합니다. Microsoft 365 및 기타 엔지니어링 그룹 및 사업부는 이러한 도구를 사용하여 ERM의 지침에 따라 자체 위험 관리 프로그램의 일부로 개별 위험 평가를 실시합니다.
+Microsoft ERM은 기업 전체의 위험 관리 활동을 조정하여 사업부가 일관되고 비교적인 위험 평가를 독립적으로 용이하게 할 수 있도록 합니다. 이러한 조정을 통해 Microsoft는 관리에 대한 통합된 방식으로 위험 정보를 집계하고 보고할 수 있습니다. ERM은 Microsoft의 사업부에 위험 관리 프로세스에 대한 일반적인 방법론, 도구 및 목표를 제공합니다. Microsoft 365 및 기타 엔지니어링 그룹 및 사업부는 이러한 도구를 사용하여 ERM의 지침에 따라 자체 위험 관리 프로그램의 일부로 개별 위험 평가를 실시합니다.
 
 ## <a name="how-does-microsoft-365-work-with-erm"></a>ERM에서 Microsoft 365 어떻게 작동하나요?
 
@@ -47,9 +47,9 @@ Microsoft 365 위험 관리 프로그램은 ERM 지침을 따라 여러 서비�
 
 ## <a name="how-does-microsoft-365-manage-and-assess-risk-in-its-online-services"></a>온라인 Microsoft 365 어떻게 관리하고 평가하나요?
 
-지속적인 위험 평가 활동의 일부로 Microsoft 365 위험 관리 프로그램은 Microsoft 365 서비스를 디자인, 구축 및 운영하는 서비스 팀과 면접을 수행하여 현재 위험 및 우려 영역을 식별합니다. 지속적인 모니터링 데이터, 감사 및 기타 원본 분석과 함께 이러한 활동은 장기 비즈니스 목표에 대한 현재 및 가능한 미래 위험을 식별하는 위험 평가 보고서를 개발하는 데 사용됩니다. 위험 평가 보고서는 Microsoft 365 팀의 결과 및 피드백을 기반으로 하여 위험 Microsoft 365 개요를 제공합니다. 다른 사업부의 유사한 보고서와 함께 Microsoft 365 위험 평가 보고서는 ERM 프로그램 위험 평가에 기여하고 이를 알릴 수 있습니다.
+지속적인 위험 평가 활동의 일부로 Microsoft 365 위험 관리 프로그램은 Microsoft 365 서비스를 디자인, 구축 및 운영하는 서비스 팀과 면접을 수행하여 현재 위험 및 우려 영역을 식별합니다. 지속적인 모니터링 데이터, 감사 및 기타 원본 분석과 함께 이러한 활동은 장기 비즈니스 목표에 대한 현재 및 가능한 미래 위험을 식별하는 위험 평가 보고서를 개발하는 데 사용됩니다. 위험 평가 보고서는 Microsoft 365 팀의 결과 및 피드백을 기반으로 하여 위험 Microsoft 365 개요를 제공합니다. 다른 사업부의 유사한 보고서와 함께 Microsoft 365 위험 평가 보고서가 ERM 프로그램 위험 평가에 기여하고 이를 알릴 수 있습니다.
 
-Microsoft 365 신뢰는 정책 준수, 보안 요구 사항 및 위험 관리와 관련된 보증 작업을 지원하는 그룹입니다. Microsoft 365 신뢰는 새로운 위험을 식별하고 알려진 위험 및 위험 대응을 모니터링합니다. Microsoft 365 서비스 팀의 피드백 및 Microsoft 365 이 프로세스를 알릴 수 있습니다. 위험 대응의 성공 및 실패를 추적하여 위험 가능성 및 영향 분석을 개발하고 알리기 위해 추적됩니다. 위험 소유자와의 정기적인 위험 검토 모임을 통해 Microsoft 365 트러스트를 사용하여 위험 응답을 업데이트하고 관리할 수 있습니다.
+Microsoft 365 신뢰는 정책 준수, 보안 요구 사항 및 위험 관리와 관련된 보증 작업을 지원하는 그룹입니다. Microsoft 365 Trust는 새로운 위험이 발생할 때 이를 식별하고 알려진 위험 및 위험 대응을 모니터링하는 작업을 수행합니다. Microsoft 365 서비스 팀의 피드백 및 Microsoft 365 이 프로세스를 알릴 수 있습니다. 위험 대응의 성공과 실패를 추적하여 위험 가능성 및 영향에 관한 분석을 개발하고 알립니다. 위험 소유자와의 정기적인 위험 검토 모임을 통해 Microsoft 365 트러스트를 사용하여 위험 응답을 업데이트하고 관리할 수 있습니다.
 
 ## <a name="related-external-regulations--certifications"></a>인증을 위한 & 규정
 

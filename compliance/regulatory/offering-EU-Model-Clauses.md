@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 20dccebdb31eff3e502efe8fe6eba6fbdd4881c4ac864927566fc786dff09a15
-ms.sourcegitcommit: 07b748b28a7815fb5824be0dea3edba29353361d
+ms.openlocfilehash: db61f90991f8881d6343aca25382f2cfe5e023b9bebf90a38e5e96c09d1090ad
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/10/2021
-ms.locfileid: "57833895"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287597"
 ---
 # <a name="european-union-model-clauses"></a>유럽 연합 모델 조항
 
@@ -33,9 +33,13 @@ EU(유럽 연합) 데이터 보호법은 EEA(유럽 경제 지역)(모든 EU 국
 
 ## <a name="microsoft-and-european-union-model-clauses"></a>Microsoft 및 유럽 통합 모델 조항
 
-EU(유럽 연합) GDPR[(일반 데이터 보호 규정)](/compliance/regulatory/gdpr)은 EEA(유럽 경제 지역)(모든 EU 국가와 아이슬란드, 리히텐슈타인 및 노르웨이 포함) 외부 국가로의 고객 개인 데이터 전송을 규제합니다. Microsoft는 고객에게 범위 내 서비스에 대한 개인 데이터 전송에 대한 구체적인 보증을 제공하는 EU SCC([표준 계약 조항](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en))을 제공합니다. EU 모델 조항은 서비스 공급자(예: Microsoft)와 고객 간의 계약에 사용되어 EEA에서 외부로 전송되는 모든 개인 데이터가 EU 데이터 보호법을 준수하는 방식으로 전송되고 GDPR을 규정합니다.
+Microsoft는 처리자로의 개인 데이터 전송에 대해 모델 조항의 정확한 요구 사항을 충족하는 데 필요한 운영 프로세스를 구축하는 데 투자를 아끼지 않았습니다. Microsoft는 범위 내 Microsoft 서비스에 대한 개인 데이터 전송 관련 사항을 구체적으로 보장하는 표준 계약 조항이라는 모델 조항을 고객에게 제공합니다. 이로써 Microsoft 고객은 Microsoft 클라우드를 통해 EEA에서 전 세계 다른 지역으로 데이터를 자유롭게 이동할 수 있습니다.
 
-2020년 7월 유럽 연합 사법 재판소(CJEU)는 EU에서 미국으로 개인 데이터를 이전하기 위한 유럽연합 미국간 개인 정보 보호 프레임워크의 효력을 무효화했습니다. 그러나 EU 모델 조항은 스위스와 영국뿐만 아니라 EU와 EEA로부터 개인 데이터를 이전하는 데 유효한 메커니즘을 계속 제공합니다. Microsoft는 Microsoft 온라인 서비스 약관(OST) [데이터 보호 기관](https://aka.ms/DPA)(DPA)에 설명된 대로 EU 모델 조항을 고객에게 제공합니다.
+하지만 데이터를 보호할 기본 책임은 개인 데이터의 관리자인 Microsoft 엔터프라이즈 고객에게 있습니다. 이는 EEA 엔터프라이즈 고객이 자신의 서비스 공급자가 EU 데이터 보호법을 준수함을 확인하는 데 많은 관심을 가져야 하며, 그렇지 않을 경우 고객이 책임에 직면하거나 서비스 사용 기능이 정지될 수도 있음을 의미합니다.
+
+Microsoft는 검토 및 승인을 받기 위해 EU의 29 조항 특별 조사 위원회에 표준 계약 조항을 제출했습니다. 29 조항 특별 조사 위원회에는 유럽 데이터 보호 감독 기관, 유럽 위원회 및 각각 28 EU 데이터 보호 감독 기구(DPA)의 대표가 포함되어 있습니다.
+
+이 그룹은 Microsoft 계약의 조항 구현이 엄격한 요구 사항을 만족하는 것을 확인했습니다. (Microsoft는 그룹의 보증 승인서를 받은 첫 번째 클라우드 서비스 공급자였습니다.) 승인은 모델 조항 2010/87/EU에 반영된 계약을 다루었지만 데이터 전송 및 데이터 가져오기에서 구현되는 보안 조치를 설명하는 부록에서는 다루지 않았습니다. 부록은 DPA에 의해 별도로 분석될 수 있습니다.
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
@@ -63,7 +67,7 @@ EU(유럽 연합) GDPR[(일반 데이터 보호 규정)](/compliance/regulatory/
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **상업용** | Advanced Threat Protection, Azure Active Directory, Azure Information Protection, Bookings, 준수 관리자, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, 웹용 Microsoft To-Do, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Cloud App Security, Office 365 그룹, Office 365 버안 및 준수 센터, Office 365 비디오, Office 온라인, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint 온라인, 비즈니스용 Skype, StaffHub, Stream, Sway, Yammer Enterprise |
+| **Office 365** | Advanced Threat Protection, Azure Active Directory, Azure Information Protection, Bookings, 준수 관리자, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, 웹용 Microsoft To-Do, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Cloud App Security, Office 365 그룹, Office 365 버안 및 준수 센터, Office 365 비디오, Office 온라인, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint 온라인, 비즈니스용 Skype, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 

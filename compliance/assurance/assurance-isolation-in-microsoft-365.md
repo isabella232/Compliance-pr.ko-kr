@@ -20,12 +20,12 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ca0371d51bfe0b403805f259d87a8162e32bfd1e
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 287611c897a14b87fdfcd280e1457291863cdba339b6281fe0755eda3f2a859a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088587"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290931"
 ---
 # <a name="isolation-and-access-control-in-microsoft-365"></a>2016년 8월 1일부로 Microsoft 365
 
@@ -47,13 +47,13 @@ Exchange Online 사서함에 고객 데이터를 저장하는 데 사용할 수 
 - 일정 및 약속이 있는/약속이 있는 정보
 - 연락처
 - 작업
-- 메모들
+- 참고
 - 그룹
 - 유추 데이터
 
 데이터베이스 내의 각 Exchange Online 여러 테넌트의 사서함이 포함되어 있습니다. 권한 부여 코드는 테넌시 내에서를 포함하여 각 사서함을 보호합니다. 기본적으로 할당된 사용자만 사서함에 액세스할 수 있습니다. 사서함을 보호하는 ACL(액세스 제어 목록)에는 테넌트 수준에서 Azure AD에서 인증한 ID가 포함되어 있습니다. 각 테넌트의 사서함은 테넌트의 인증 공급자에 대해 인증된 ID로 제한됩니다. 여기에는 해당 테넌트의 사용자만 포함됩니다. 테넌트 A의 콘텐츠는 테넌트 A가 명시적으로 승인하지 않는 한 테넌트 B의 사용자가 어떤 방식으로도 얻을 수 없습니다.
 
-## <a name="skype-for-business"></a>Skype for Business
+## <a name="skype-for-business"></a>비즈니스용 Skype
 
 비즈니스용 Skype 장소에 데이터를 저장하는 데 사용할 수 있습니다.
 

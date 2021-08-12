@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 838f6bfbae65770071cfa1e07e668bb6641e89a8
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: d30214f68911553b0e835e072e02233428bf296bc4927c7c0e49fb04718a9282
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088967"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54289886"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-professional-services"></a>데이터 보호 영향 평가: Microsoft 전문 서비스를 사용하는 데이터 컨트롤러의 참고 자료
 
@@ -51,7 +51,7 @@ GDPR 제 35조에 따라 데이터 컨트롤러는 ‘특히 신기술을 사용
 |||
 
 > [!Note]
-> <sup>1</sup> 처리가 ‘대규모’되는 기준에 대해 GDPR의 비고 91에서는 다음을 명확하게 제시합니다. ‘처리 작업에서 개인 담당 의사, 다른 의료 전문가 또는 법률가가 환자 또는 클라이언트의 개인 데이터를 우려할 경우 개인 데이터 처리는 대규모로 간주되지 않습니다. 그러한 경우 데이터 보호 영향 평가는 필수 사항이 아닙니다.”
+> <sup>1</sup> 처리가 “대규모”가 되는 기준에 대해 GDPR의 비고 91에서는 다음을 명확하게 제시합니다. “처리 작업에서 개인 담당 의사, 다른 의료 전문가 또는 법률가가 환자 또는 클라이언트의 개인 데이터를 우려할 경우 개인 데이터 처리는 대규모로 간주되지 않습니다. 그러한 경우 데이터 보호 영향 평가는 필수 사항이 아닙니다.”
   
 [사용자 지정 개발 참고 사항] 전문 서버는 여러 가지 다양한 컨설팅 솔루션을 제공합니다. 데이터 컨트롤러는 위 기준에 따라 고위험 솔루션일 수 있는 솔루션을 잠재적으로 요청할 수 있습니다. 예를 들어 데이터 컨트롤러는 전문 서비스에서 고용 결정 또는 신용 확인서에 대한 비즈니스 인텔리전스 엔진 또는 AI(인공 지능)/분석, 또는 개인 데이터의 특별 카테고리 처리 사용에 특수화된 사용자 추적과 관련된 솔루션 개발하기 위해 솔루션을 만들도록 요청할 수 있습니다.
 
