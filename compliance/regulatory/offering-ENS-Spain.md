@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 929b83821fcb68059f9a091bf1bf4b043613dad24f0de2830b58b6ca72b5e091
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 8b201231ba8e605e2afe7bf2e8aba5a4cb21d88f
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287637"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260524"
 ---
 # <a name="spain-esquema-nacional-de-seguridad-ens-high-level-security-measures"></a>Spain Esquema Nacional de Seguridad(ENS) 높은 수준의 보안 조치
 
@@ -43,7 +43,7 @@ Microsoft Azure 및 Microsoft Office 365는 이들에 대한 규정 준수 공�
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
-- Azure 및 Azure Government
+- Azure
 - Office 365
 
 ## <a name="office-365-and-ens-high"></a>Office 365 및 ENS High
@@ -58,7 +58,7 @@ Microsoft Azure 및 Microsoft Office 365는 이들에 대한 규정 준수 공�
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, Exchange Online Protection, Microsoft Teams, MyAnalytics, Office 365 고객 포털, Office 온라인, Office 서비스 인프라, Outlook 모바일, SharePoint Online, 비즈니스용 Skype |
+| **상업용** | Exchange Online, Exchange Online Protection, Microsoft Teams, MyAnalytics, Office 365 고객 포털, Office 온라인, Office 서비스 인프라, Outlook 모바일, SharePoint Online, 비즈니스용 Skype |
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 

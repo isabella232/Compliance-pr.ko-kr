@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 587b05960289bc64932c23db099238af7bf971d6063c9f6568d690ee77bb4c5d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: a09374f9515e4c215da5d2f61d6d5e3996e15f84
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288656"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260534"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>ISO/IEC 27001:2013 정보 보안 관리 표준
 
@@ -79,7 +79,7 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **Office 365** | Access Online, Azure Active Directory, Azure Communications Service, 준수 관리자, Customer Lockbox, Delve, Exchange Online, Exchange Online Protection, Forms, Griffin, Identity Manager, Lockbox (Torus), Office 365용 Defender, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Customer Portal, Office 365 Microservices(Kaizala, ObjectStore, Sway, Power Automate, PowerPoint Online 문서 서비스, 쿼리 주석 서비스, 학교 데이터 동기화, Siphon, Speech, StaffHub, eXtensible 애플리케이션 프로그램을 포함하지만, 제한하지는 않음), Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, Office 서비스 인프라, 비즈니스용 Skype, Planner, PowerApps, Power BI, Project Online, 고객 키로 서비스 암호화, SharePoint Online, 비즈니스용 Skype, Stream |
+| **상업용** | Access Online, Azure Active Directory, Azure Communications Service, 준수 관리자, Customer Lockbox, Delve, Exchange Online, Exchange Online Protection, Forms, Griffin, Identity Manager, Lockbox (Torus), Office 365용 Defender, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Customer Portal, Office 365 Microservices(Kaizala, ObjectStore, Sway, Power Automate, PowerPoint Online 문서 서비스, 쿼리 주석 서비스, 학교 데이터 동기화, Siphon, Speech, StaffHub, eXtensible 애플리케이션 프로그램을 포함하지만, 제한하지는 않음), Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, Office 서비스 인프라, 비즈니스용 Skype, Planner, PowerApps, Power BI, Project Online, 고객 키로 서비스 암호화, SharePoint Online, 비즈니스용 Skype, Stream |
 | **GCC** | Azure Active Directory, Azure Communications Service, 준수 관리자, Delve, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, Stream |
 | **GCC High** | Azure Active Directory, Azure Communications Service, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype |
 | **DoD** | Azure Active Directory, Azure Communications Service, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, Power BI, SharePoint Online, 비즈니스용 Skype |
@@ -128,6 +128,7 @@ ISO/IEC 27001 채택은 전략적인 약속입니다. [ISO/IEC 27000 디렉터�
 
 ### <a name="resources"></a>리소스
 
+- [Microsoft 365 ISO 27001 작업 계획](iso-action-plan.md)
 - [Microsoft 사이버 제품을 다음에 매핑: NIST Cybersecurity (CSF), CIS Controls and ISO27001:2013 Frameworks](https://download.microsoft.com/download/B/1/8/B18F4C7D-5CBA-4E68-A437-31F1E908ACBA/Microsoft_Cyber_Offerings_Mapped_to_Security_Frameworks_EN_US.pdf)
 - [ISO/IEC 27000 디렉터리](https://www.27000.org/index.htm)
 - [ISO/IEC 27001: 2013 표준](https://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=54534)(구입)

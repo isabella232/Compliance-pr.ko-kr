@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 405a752b9a6d8e1bdb5d7d5c0ad937aba634806033ea87a36c92629bf458bf3a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: ff74580117a3ff1883b35331f2c9bed076d17bb8
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292505"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58261009"
 ---
 # <a name="financial-market-supervisory-authority-finma-switzerland"></a>스위스 금융시장감독청 (FINMA, Financial Market Supervisory Authority)
 
@@ -33,7 +33,7 @@ FINMA는 은행, 증권 거래소 및 보험 회사가 회사의 비즈니스 �
 
 ## <a name="microsoft-and-finma"></a>Microsoft와 FINMA
 
-스위스에서 클라우드로 비즈니스 기능의 아웃소싱을 고려하는 금융 기관에 대한 안내를 지원하기 위해 Microsoft는 [스위스 금융 기관을 위한 규정 준수 점검 목록](https://aka.ms/FinServ-Guide-Switzerland)을 게시했습니다. 이 점검 목록을 검토하고 완료함으로서 금융 기관은 해당 규제 요구 사항의 준수에 대한 확신을 가지고 Microsoft 비즈니스 클라우드 서비스를 도입할 수 있습니다.
+스위스에서 클라우드로 비즈니스 기능의 아웃소싱을 고려하는 금융 기관에 대한 안내를 지원하기 위해 Microsoft는 [스위스 금융 기관을 위한 규정 준수 점검 목록](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=343ee8d6-db99-4e03-903c-1c24c9ce893c&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides)을 게시했습니다. 이 점검 목록을 검토하고 완료함으로서 금융 기관은 해당 규제 요구 사항의 준수에 대한 확신을 가지고 Microsoft 비즈니스 클라우드 서비스를 도입할 수 있습니다.
 
 스위스 금융 기관이 비즈니스 활동을 아웃소싱할 때 스위스 금융시장감독청(FINMA, Swiss Financial Market Supervisory Authority)의 요구 사항을 준수해야 하며 스위스 은행법, 스위스 은행 조례 및 스위스 보험 감독법의 내용을 포함하는 기타 요구 사항 및 지침을 인지하고 있어야 합니다.
 
@@ -50,7 +50,7 @@ Microsoft의 점검 목록은 스위스 금융 기업이 Microsoft 비즈니스 
 
 ## <a name="how-to-implement"></a>구현 방법
 
-- [준수 점검 목록: 스위스](https://aka.ms/FinServ-Guide-Switzerland): 금융 기업은 Microsoft 비즈니스 클라우드 서비스의 위험 평가를 수행하는데 도움을 받을 수 있습니다.
+- [준수 점검 목록: 스위스](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=343ee8d6-db99-4e03-903c-1c24c9ce893c&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides): 금융 기업은 Microsoft 비즈니스 클라우드 서비스의 위험 평가를 수행하는데 도움을 받을 수 있습니다.
 - [위험 평가 & 준수 가이드](https://aka.ms/RiskGovernanceGuide): Microsoft 클라우드 서비스의 위험 평가 및 규제 기관의 알림에 대한 거버넌스 모델을 만들 수 있습니다.
 - [금융 유스케이스](/azure/industry/financial/): 금융 서비스용 Azure 솔루션을 구축하기 위한 유스케이스 개요, 자습서 및 기타 리소스..
 

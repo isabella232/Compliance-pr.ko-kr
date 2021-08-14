@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 04fcc05bcde30bb3ecd6e33336789839cb5a6e404e650d16875692cea38bb7b5
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 36d8bd6a0fa27056188b48fef4e1cc8d6e123372
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287927"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58261115"
 ---
 # <a name="title-23-nycrr-part-500"></a>Title 23 NYCRR Part 500
 
@@ -67,7 +67,7 @@ Microsoft는 Title 23 NYCRR Part 500에 따라 규제되는 재무 서비스를 
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online Protection, Exchange Online, Office 365 고객 포털, Office Online, Office 서비스 인프라, 비즈니스용 OneDrive, SharePoint Online, 비즈니스용 Skype |
+| **상업용** | Exchange Online Protection, Exchange Online, Office 365 고객 포털, Office Online, Office 서비스 인프라, 비즈니스용 OneDrive, SharePoint Online, 비즈니스용 Skype |
 
 ## <a name="frequently-asked-questions"></a>자주 묻는 질문
 

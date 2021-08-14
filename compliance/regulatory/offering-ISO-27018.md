@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6683d038027ac940ec480af6baca58c7f6bae0d682b023e1bee4259344862019
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 92d5d00c473f2da92380478e7559ca18ef6f8937
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289366"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260470"
 ---
 # <a name="isoiec-27018-code-of-practice-for-protecting-personal-data-in-the-cloud"></a>클라우드 내 개인 데이터 보호를 위한 ISO/IEC 27018 규약
 
@@ -81,7 +81,7 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **Office 365** | Access Online, Azure Active Directory, Azure Communications Service, 준수 관리자, Customer Lockbox, Delve, Exchange Online Protection, Exchange Online, Forms, Griffin, Identity Manager, Lockbox (Torus), Office 365용 Defender, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Customer Portal, Office 365 Microservices(Kaizala, ObjectStore, Sway, PowerPoint Online 문서 서비스, 쿼리 주석 서비스, 학교 데이터 동기화, Siphon, Speech, StaffHub, eXtensible 애플리케이션 프로그램을 포함하지만, 제한하지는 않음), Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, Office 서비스 인프라, 비즈니스용 Skype, Planner, PowerApps, Power Automate, Power BI, Project Online, 고객 키로 서비스 암호화, SharePoint Online, 비즈니스용 Skype, Stream |
+| **상업용** | Access Online, Azure Active Directory, Azure Communications Service, 준수 관리자, Customer Lockbox, Delve, Exchange Online Protection, Exchange Online, Forms, Griffin, Identity Manager, Lockbox (Torus), Office 365용 Defender, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Customer Portal, Office 365 Microservices(Kaizala, ObjectStore, Sway, PowerPoint Online 문서 서비스, 쿼리 주석 서비스, 학교 데이터 동기화, Siphon, Speech, StaffHub, eXtensible 애플리케이션 프로그램을 포함하지만, 제한하지는 않음), Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, Office 서비스 인프라, 비즈니스용 Skype, Planner, PowerApps, Power Automate, Power BI, Project Online, 고객 키로 서비스 암호화, SharePoint Online, 비즈니스용 Skype, Stream |
 | **GCC** | Azure Active Directory, Azure Communications Service, 준수 관리자, Delve, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, Stream |
 | **GCC High** | Azure Active Directory, Azure Communications Service, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype |
 | **DoD** | Azure Active Directory, Azure Communications Service, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, Power BI, SharePoint Online, 비즈니스용 Skype |

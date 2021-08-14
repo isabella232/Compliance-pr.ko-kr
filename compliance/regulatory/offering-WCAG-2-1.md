@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: de5d4d46e49b5ceaba453e4bcfdef1891d15e080e881f9c450585bca1a1af88b
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: a8441c6ea20f5429a5e760cef307a132fab9559b
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289356"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260901"
 ---
 # <a name="web-content-accessibility-guidelines"></a>웹 콘텐츠 접근성 지침
 
@@ -62,7 +62,7 @@ Microsoft는 전체 제품 또는 서비스를 반영하는 WCAG 보고서를 �
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **Office 365** | Excel, Exchange 관리 센터, Office 365 관리 센터(포털), Office 365 및 Azure AD 로그인 환경, Office 365 고객 포털, Office 365 보안 및 준수 센터 Office 365 Video, Office Lens, Office.com, OneDrive 관리 센터, 비즈니스용 OneDrive, OneDrive 동기화 클라이언트, OneNote, Orcas, Outlook Groups, Outlook, PowerPoint, Project, Word  |
+| **상업용** | Excel, Exchange 관리 센터, Office 365 관리 센터(포털), Office 365 및 Azure AD 로그인 환경, Office 365 고객 포털, Office 365 보안 및 준수 센터 Office 365 Video, Office Lens, Office.com, OneDrive 관리 센터, 비즈니스용 OneDrive, OneDrive 동기화 클라이언트, OneNote, Orcas, Outlook Groups, Outlook, PowerPoint, Project, Word  |
 | **GCC** | Azure Active Directory, 준수 관리자, Delve, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, Stream |
 | **GCC High** | Azure Active Directory, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype |
 | **DoD** | Azure Active Directory, Exchange Online, Office 365용 Microsoft Defender, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, Forms, Power BI, SharePoint Online, 비즈니스용 Skype |

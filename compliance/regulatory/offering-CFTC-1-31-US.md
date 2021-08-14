@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 903f4d3db8965fdcd8c96a8d474e5180430b4966e4adc6945315f283ddbc0d3f
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: bc2577e8841798543881b0431c130d1d9cc487af
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292585"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260620"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>CFTC(상품선물거래위원회) 규칙 1.31(c-d) 미국
 
@@ -52,9 +52,8 @@ CFTC 규칙 1.31(c-d)을 준수하는 Azure 규정 준수를 평가하기 위해
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 
-[Azure & CFTC 규칙 1.31: SEC 17a-4(f) & CFTC 1.31(c-d) 준수 평가 Azure Storage
-
-[Office 365 & CFTC 규칙 1.31: Office 365, 데이터 보존 및 SEC 규칙 17a-4 규정 준수의 보관
+- [Azure & CFTC 규칙 1.31: SEC 17a-4(f) & CFTC 1.31(c-d) 준수 평가 Azure Storage](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)
+- Office 365 & CFTC 규칙 1.31: Office 365, 데이터 보존 및 SEC 규칙 17a-4 규정 준수의 보관
 
 ## <a name="how-to-implement"></a>구현 방법
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2c866391c08b4a69db3cb54bdbfbe367007e32ce59207f0d42df0bb29cf98f9f
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 39ab743755b949502d4f63c36a64d5785d85f6ab
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293405"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260685"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>SEC(증권 Exchange 위원회) 규칙 17a-4(f) 미국
 
@@ -53,11 +53,11 @@ Azure 및 SEC Office 365 17a-4(f)를 준수하는지 평가하기 위해 Microso
 
 ### <a name="azure--sec-rule-17"></a>Azure & SEC 규칙 17
 
-[SEC 17a-4(f) & CFTC 1.31(c-d) 준수 평가 Azure Storage](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)
+- [SEC 17a-4(f) & CFTC 1.31(c-d) 준수 평가 Azure Storage](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)
 
 ### <a name="office-365--sec-rule-17"></a>Office 365 & SEC 규칙 17
 
-[SEC 17a-4(f) 준수 평가: & SharePoint, OneDrive, Teams, Exchange 및 준수 센터를 비즈니스용 Skype](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=2dc92867-5f83-49d8-ad04-9e7295c9e40e&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
+- [SEC 17a-4(f) 준수 평가: & SharePoint, OneDrive, Teams, Exchange 및 준수 센터를 비즈니스용 Skype](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=2dc92867-5f83-49d8-ad04-9e7295c9e40e&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
 
 ## <a name="how-to-implement"></a>구현 방법
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 0453e148c38de9cc6e7171becd21576646dd4be50796ecb674a02fc8fef4ff43
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 525870883b67ef37b45af2aa690ce849acd9217d
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287917"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58261125"
 ---
 # <a name="microsoft-365-iso-27001-action-plan--top-priorities-for-your-first-30-days-90-days-and-beyond"></a>Microsoft 365 ISO 27001 작업 계획 - 처음 30일, 90일 및 그 이상 기간에 대한 최고 우선 순위 지정
 
@@ -29,7 +29,7 @@ ISO(국제 표준화 기구)는 자발적 국제 표준의 독립적인 비정�
 
 ISO/IEC 27001은 ISMS(정보 보안 관리 시스템)를 구현하기 위한 국제 표준입니다. ISMS는 사용되는 필수 방법과 각종 조직의 정보 자산 보안에 대한 안전한 관리에 필수적인 요건과 관련된 증거를 기술합니다.  
 
-이 문서에는 ISO/IEC 27001 요구 사항을 준수하기 위해 작업할 때 따라야 하는 우선 순위가 지정된 작업 계획이 포함되어 있습니다. 이 작업 계획은 규정 준수 전문 업체인 Microsoft 파트너, Protiviti와 협력하여 개발되었습니다. Maithili Dandige(Microsoft) 및 Antonio Maio(Protiviti)가 발표한 [Microsoft 365 준수 경로 및 정보 보호 전략 차트](https://myignite.techcommunity.microsoft.com/videos/65720) 세션에 참석하여 Microsoft Ignite에서 이 작업 계획을 사용하는 방법을 알아보세요.
+이 문서에는 ISO/IEC 27001 요구 사항을 충족하기 위해 사용할 수 있는 작업 계획이 우선순위대로 포함되어 있습니다. 이 작업 계획은 규정 준수 전문 업체인 Microsoft 파트너가 있는 Protiviti와 공동 작업으로 개발되었습니다.
 
 ## <a name="action-plan-outcomes"></a>작업 계획 결과
 

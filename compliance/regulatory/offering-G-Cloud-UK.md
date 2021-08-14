@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9e441e8e1c5419eab741ceec370afe61815332e51115509dd5974e9ea2984c22
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 2ed9ba3e08dd75bd0d3209826497de80fc3781c4
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292495"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260942"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>영국 Government-Cloud(G-클라우드)
 
@@ -64,7 +64,7 @@ Microsoft는 매년 문서를 준비하고 증거를 제출하여 범위 내 엔
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, SharePoint Online, 비즈니스용 Skype |
+| **상업용** | Exchange Online, SharePoint Online, 비즈니스용 Skype |
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 
@@ -96,7 +96,7 @@ Microsoft 클라우드 서비스가 G-클라우드 계약을 준수하는지 확
 
 [Azure UK G-Cloud Blueprint 사용 시작](https://aka.ms/ukofficialblueprint)
 
-## <a name="frequently-asked-questions"></a>자주 묻는 질문
+## <a name="frequently-asked-questions"></a>자주하는 질문
 
 **Who 마켓플레이스를 사용할 자격이 있습니까?**
 

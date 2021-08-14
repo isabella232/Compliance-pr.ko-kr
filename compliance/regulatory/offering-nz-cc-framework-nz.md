@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c333fc2d6bdb9889dafefd2571b8381edd15e5158a4783aa7a17cec7ce1bcc7c
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: f135cf64356a55ba3ed6c0010e8273d2854c005e
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293385"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259817"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>뉴질랜드 정부 정보 보안 및 개인 정보 보호 고려 사항(ISPC)
 
@@ -57,12 +57,12 @@ GCIO는 NZ 정부 기관이 잠재적인 클라우드 솔루션에 대해 일관
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, SharePoint Online, 비즈니스용 Skype |
+| **상업용** | Exchange Online, SharePoint Online, 비즈니스용 Skype |
 
 >[!Note]
 >Microsoft NZ는 GCIO 팀과 함께 통합을 위한 참조 아키텍처를 개발하고 Exchange Online: SEEMail 통합 및 참조 아키텍처에 Office 365 참조 아키텍처를 개발하고 있습니다.
 
-## <a name="frequently-asked-questions"></a>자주 묻는 질문
+## <a name="frequently-asked-questions"></a>자주하는 질문
 
 **프레임워크는 누구에게 적용하나요?**
 

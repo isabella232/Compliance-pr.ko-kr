@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1754a102b87b68e36feb8bd18b4194c50cfd2622a9adacea75449cb8f624e441
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: bb0cb0d194dce63c2de6e42d7def9fb855c981a2
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293485"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260982"
 ---
 # <a name="multi-tier-cloud-security-mtcs-standard-for-singapore"></a>싱가포르 MTCS(다단계 클라우드 보안) 표준
 
@@ -70,7 +70,7 @@ Microsoft Azure 서비스 (IaaS 및 PaaS), Microsoft Dynamics 365 서비스 (Saa
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **Office 365** | Delve, Exchange Online, Exchange Online Protection Loki, Microsoft Teams, Office 365 고객 포털, Office 온라인, Office 서비스 인프라, SharePoint Online, 비즈니스용 Skype |
+| **상업용** | Delve, Exchange Online, Exchange Online Protection Loki, Microsoft Teams, Office 365 고객 포털, Office 온라인, Office 서비스 인프라, SharePoint Online, 비즈니스용 Skype |
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 

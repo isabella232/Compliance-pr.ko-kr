@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 88a5e554fc2307dfa427ccb0023e7a00e006d536fc8cca276d550aa9510dbc29
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c6f9a01ff954465240b74f9526c93b926fb08006
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287302"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260490"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>FISC(Center for Financial Industry Information Systems: 금융 산업 정보 시스템 센터)
 
@@ -67,7 +67,7 @@ Microsoft에서는 Microsoft Azure, Dynamics 365 및 Microsoft Office 365가 금
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **Office 365** | Access Online, Azure Active Directory, Delve, Exchange Online, Exchange Online Protection, Microsoft Teams, Office 365 ProPlus, Office 온라인, 비즈니스용 OneDrive, Power BI for Office 365, Project Online, SharePoint Online, 비즈니스용 Skype |
+| **상업용** | Access Online, Azure Active Directory, Delve, Exchange Online, Exchange Online Protection, Microsoft Teams, Office 365 ProPlus, Office 온라인, 비즈니스용 OneDrive, Power BI for Office 365, Project Online, SharePoint Online, 비즈니스용 Skype |
 
 ## <a name="frequently-asked-questions"></a>자주하는 질문
 
@@ -84,7 +84,7 @@ FISC는 전문가 협의회를 통해 다음 두 가지 보고서를 발표했�
 
 **FISC 프레임워크에 대한 Microsoft의 대응과 관련된 자세한 정보는 어디에서 얻을 수 있나요?**
 
-또한 Microsoft 클라우드 서비스의 FISC 준수를 평가한 외부 업체에서도 보안 참고 자료([일본어](https://aka.ms/microsoftresponsetofiscguidancejapanese))를 받아 보실 수 있습니다.
+Microsoft 클라우드 서비스의 FISC 준수를 평가한 외부 업체의 보안 참조는 Microsoft 계정 담당자에게 문의하세요.
 
 **이 프레임워크에 대한 Microsoft의 대응 방식을 우리 회사의 자격 조건 프로세스에 활용할 수 있나요?**
 

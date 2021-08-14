@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9df3b3f2d39ba28eb3d6b8ca9cdc293594dcc10f13aa17e7c08c85d41ab6ba0c
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 237fe4ed402679f156042902f7c25526eee354de
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288586"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259747"
 ---
 # <a name="us-section-508"></a>미국 섹션 508
 
@@ -38,7 +38,7 @@ Microsoft는 미국 연방 및 주 정부에 대한 주요 소프트웨어 및 �
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - Azure 및 Azure Government
-- Azure DevOps 서비스
+- Azure DevOps Services
 - Dynamics 365 및 Dynamics 365 U.S. Government
 - Intune
 - Office 365, Office 365 U.S. Government, Office 365 U.S. Government Defense
@@ -56,7 +56,7 @@ Microsoft는 미국 연방 및 주 정부에 대한 주요 소프트웨어 및 �
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **Office 365** | Access, Azure Active Directory, Bookings, Compliance Manager, Delve, Excel, Exchange Online, 양식, Kaizala, microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, android용 Office 365 관리 포털, iOS용 Office 365 관리 포털, Office 365 관리 포털, Office 365 Advanced Compliance 추가 기능, Office 365 및 Azure AD 로그인, Office 365 Business 센터, Office 365 보안 & 준수 센터, Office 365 비디오, Office 365 웹 제품군, Office 구성 도구, Office Lens, Office Online, Office Pro Plus, 비즈니스용 OneDrive, OneDrive, OneNote, Outlook Groups, Outlook, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, SharePoint, 비즈니스용 Skype, StaffHub, Stream, To-Do, Visio, Word, Yammer  |
+| **상업용** | Access, Azure Active Directory, Bookings, Compliance Manager, Delve, Excel, Exchange Online, 양식, Kaizala, microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, android용 Office 365 관리 포털, iOS용 Office 365 관리 포털, Office 365 관리 포털, Office 365 Advanced Compliance 추가 기능, Office 365 및 Azure AD 로그인, Office 365 Business 센터, Office 365 보안 & 준수 센터, Office 365 비디오, Office 365 웹 제품군, Office 구성 도구, Office Lens, Office Online, Office Pro Plus, 비즈니스용 OneDrive, OneDrive, OneNote, Outlook Groups, Outlook, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, SharePoint, 비즈니스용 Skype, StaffHub, Stream, To-Do, Visio, Word, Yammer  |
 | **GCC** | Azure Active Directory, 준수 관리자, Delve, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, Stream |
 | **GCC High** | Azure Active Directory, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype |
 | **DoD** | Azure Active Directory, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, Power BI, SharePoint Online, 비즈니스용 Skype |

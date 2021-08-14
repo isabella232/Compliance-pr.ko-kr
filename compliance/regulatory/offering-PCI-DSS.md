@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 753d793d9024e766dcfda84c631744112b677229984226332517b911186b2679
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 78078698bbe5b69c02cb7a53d4affc4e58e8a0d3
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294005"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260303"
 ---
 # <a name="payment-card-industry-pci-data-security-standard-dss"></a>PCI(Payment Card Industry) DSS(Data Security Standard)
 
@@ -68,7 +68,7 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **Office 365** | 비즈니스용 OneDrive(미국), SharePoint Online |
+| **상업용** | 비즈니스용 OneDrive(미국), SharePoint Online |
 
 ### <a name="office-365-audit-reports-and-certificates"></a>Office 365 감사, 보고서 및 인증
 

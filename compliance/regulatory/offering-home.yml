@@ -17,8 +17,8 @@ metadata:
   ms.date: 11/30/2020
   localization_priority: Normal
 conceptualContent:
-  title: Microsoft 규정 준수 제품
-  summary: '데이터 수집 및 Microsoft 365, Azure, Dynamics 365, Power Platform 및 기타 서비스에 대한 정보.'
+  title: 'Azure, Dynamics 365 및 Microsoft 365 규정 준수 제품'
+  summary: 'Azure, Dynamics 365, Microsoft 365 및 Power Platform에 대한 정보 및 데이터 수집 및 사용에 대한 국가, 지역 및 산업별 규정에 대한 기타 서비스를 제공합니다.'
   items:
     - title: 전역
       links:
@@ -163,7 +163,7 @@ conceptualContent:
           text: FINMA (스위스)
         - url: offering-finra-4511.md
           itemType: reference
-          text: FINRA 4511
+          text: FINRA 4511(미국)
         - url: offering-fisc-japan.md
           itemType: reference
           text: FISC (일본)
@@ -172,7 +172,7 @@ conceptualContent:
           text: FSA (덴마크)
         - url: offering-glba.md
           itemType: reference
-          text: GLBA
+          text: GLBA(미국)
         - url: /azure/compliance/offerings/offering-gsma
           itemType: reference
           text: GSMA
@@ -185,11 +185,11 @@ conceptualContent:
         - url: offering-hipaa-hitech.md
           itemType: reference
           text: HIPAA/HITECH
+    - title: 업계
+      links:
         - url: offering-hitrust.md
           itemType: reference
           text: HITRUST
-    - title: 업계
-      links:
         - url: offering-knf-poland.md
           itemType: reference
           text: KNF (폴란드)
@@ -220,11 +220,11 @@ conceptualContent:
         - url: offering-PCI-DSS.md
           itemType: reference
           text: PCI-DSS
+    - title: 업계
+      links:
         - url: offering-rbi-irdai-india.md
           itemType: reference
           text: RBI + IRDAI (인도)
-    - title: 업계
-      links:
         - url: offering-sec-17a-4.md
           itemType: reference
           text: SEC 17a-4
@@ -239,7 +239,7 @@ conceptualContent:
           text: SOX
         - url: /azure/compliance/offerings/offering-tisax
           itemType: reference
-          text: TISAX(독일)
+          text: TISAX
         - url: offering-trusight.md
           itemType: reference
           text: TruSight
