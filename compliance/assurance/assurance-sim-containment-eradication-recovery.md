@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 6614f3997310a227320865aa0f0da99b64420084534e47afd25bb15441ddb451
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 37de1f6a1b2735b444dc06228a411c0ef0c15f8b
+ms.sourcegitcommit: 35ca898d621a3e158b361c7dea3a33c4b1f9fe3a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292056"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58361261"
 ---
 # <a name="microsoft-security-incident-management-containment-eradication-and-recovery"></a>Microsoft 보안 인시던트 관리: 포함, 삭제 및 복구
 
@@ -52,6 +52,8 @@ ms.locfileid: "54292056"
 ## <a name="customer-notification-of-security-incident"></a>보안 인시던트에 대한 고객 알림
 
 Microsoft가 보안 인시던트가 발생했다고 판단하면 Microsoft는 부당하게 지연되고 계약 및 규정 준수 요구 사항 내에서 사용자에게 알릴 것입니다. 영향을 받는 모든 테넌트 식별 후 해당 커뮤니케이션 팀은 영향을 받는 테넌트에 적용될 수 있는 관련 규정을 식별하기 위해 작업합니다. 커뮤니케이션 팀은 해당 규정에 정의된 적절한 통신 채널을 사용하여 해당 테넌트 담당자에게 알릴 수 있습니다.
+
+![인시던트 대응 프로세스](../media/assurance-incident-response-process.png)
 
 알림에는 인시던트에 대한 자세한 정보(예: 인시던트 설명, 고객 데이터에 대한 영향, 있는 경우, Microsoft에서 취한 작업 및/또는 고객이 문제를 해결하고 재발을 방지하기 위해 취해야 하는 제안된 작업)가 포함됩니다. 알림은 Microsoft 온라인 서비스 테넌트의 지정된 관리자에게 전달됩니다. 알림을 수신하려면 관리자가 테넌트 프로필에서 정확한 연락처 정보를 제공하고 유지 관리해야 합니다. 또한 인시던트의 특성에 따라 Microsoft 365 서비스 상태 대시보드를 통해 알림을 Microsoft 365 [있습니다.](http://status.yammer.com/)
 

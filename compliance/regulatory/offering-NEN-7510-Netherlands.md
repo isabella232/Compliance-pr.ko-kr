@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f3012269f613d5b403882c1718c3fbdc1f745519
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 9b0d5de71b670ccde9fa1b3961c844c23a7bc83a
+ms.sourcegitcommit: 85a756defdc87e3e6dedf4e2bbf68cd06fa2bd37
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259787"
+ms.locfileid: "58340008"
 ---
 # <a name="nen-7510"></a>NEN 7510
 
@@ -31,7 +31,7 @@ ms.locfileid: "58259787"
 
 ## <a name="microsoft-and-nen-75102011"></a>Microsoft와 NEN 7510:2011
 
-Microsoft는 현재 인증 및 보장 진술문을 분석하고 [NEN 7510 커버리지 보고서](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=3285c45c-921c-49ad-b881-be43e0b70490&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides) (Service Trust Platform에서 사용 가능)를 작성했습니다. 이 보고서는 해당 인증 및 보장 진술문을 클라우드 서비스 제공 업체로서 Microsoft가 담당하는 NEN 7510 컨트롤에 매핑합니다. 이 문서는 고객이 환자 건강 정보의 저장 또는 처리를 위해 Microsoft 클라우드 서비스를 사용하여 NEN 7510을 준수하는지 확인하기 위해 구현해야 하는 다른 컨트롤을 결정하는 데 도움이 될 수 있습니다.
+Microsoft는 현재 인증 및 보장 진술문을 분석하고 [NEN 7510 커버리지 보고서](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=15d5a5fa-fbb6-4ea6-8126-2a2c684ae789&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_GRC_Assessment_Reports) (Service Trust Platform에서 사용 가능)를 작성했습니다. 이 보고서는 해당 인증 및 보장 진술문을 클라우드 서비스 제공 업체로서 Microsoft가 담당하는 NEN 7510 컨트롤에 매핑합니다. 이 문서는 고객이 환자 건강 정보의 저장 또는 처리를 위해 Microsoft 클라우드 서비스를 사용하여 NEN 7510을 준수하는지 확인하기 위해 구현해야 하는 다른 컨트롤을 결정하는 데 도움이 될 수 있습니다.
 
 Azure 보안 및 규정 준수 청사진을 사용하여 NEN 7510 배포를 가속화하는 방법에 대해 알아보세요. [Microsoft 클라우드 다운로드 — Azure 및 Office 365 NEN7510-2011 Standard Coverage 사용자 가이드](https://aka.ms/Azure-NEN7510-2011)
 
