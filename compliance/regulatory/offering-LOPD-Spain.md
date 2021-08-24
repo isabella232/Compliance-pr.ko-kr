@@ -2,7 +2,7 @@
 title: 스페인 칙령 1720/2007, 스페인 기본법 15/1999(LOPD)
 description: Microsoft 클라우드 고객은 스페인 정보보호청(AEPD, Data Protection Agency)을 통해 국경을 넘어 데이터를 전송할 수 있는 권한을 부여 받았습니다.
 keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 752fcd4453b8db696826bb3a33080066cb4b342d
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 3e3d8bdd755ae032b0f027150a2211a5fe14f7e5
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260460"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58479760"
 ---
 # <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-lopd"></a>스페인 칙령 1720/2007, 스페인 기본법 15/1999(LOPD)
 

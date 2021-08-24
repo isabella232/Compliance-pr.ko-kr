@@ -2,7 +2,7 @@
 title: GDPR용 DPIA Azure
 description: Microsoft Azure를 사용하는 경우 DPIA(데이터 보호 영향 평가)가 필요한지를 결정하기 위한 정보를 찾아보세요.
 keywords: DPIA, Microsoft 365, Microsoft 365 Education, Microsoft 365 설명서, GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: 50075e8ebaedf8a183304ab2bab1eda5e9a6815e3270cc6b96801f06174717b3
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: a4b04fe9e72986b9fa706a81c61a781e46695599
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289916"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58479830"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-azure"></a>데이터 보호 영향 평가: Microsoft Azure를 사용하는 데이터 컨트롤러의 참고 자료
 

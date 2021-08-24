@@ -1,7 +1,7 @@
 ---
 title: GDPR 및 CCPA에 대한 데이터 주체 요청
 keywords: Microsoft 365, Microsoft 365 Education, Microsoft 365 설명서, GDPR, CCPA
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ titleSuffix: Microsoft GDPR
 description: Microsoft 제품 및 서비스를 사용하여 유럽연합 일반 개인정보보호법(GDPR) 및 캘리포니아 소비자 개인 정보 보호법(CCPA)에 따라 DSR을 완료하는 방법에 대해 알아봅니다.
 ms.custom: seo-marvel-mar2020
 hideEdit: true
-ms.openlocfilehash: 58bea55beae9d5d8d4b018812f68b07b2d356d3db9cdf49d04ef8523e4db0b5b
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: b5ef9464a686a5f2c8823f196408fd71026fa52d
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289956"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58479840"
 ---
 # <a name="data-subject-requests-and-the-gdpr-and-ccpa"></a>데이터 주체 요청과 GDPR 및 CCPA
 

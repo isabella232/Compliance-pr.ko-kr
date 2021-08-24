@@ -1,8 +1,8 @@
 ---
 title: NIST SP 800-171
 description: Microsoft 클라우드 서비스는 비영리 정보 시스템에서 제어된 CUI(미분명 정보)를 보호하기 위한 NIST SP 800-171 지침을 준수합니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4b5f8bfd19193b3a05b5ffa6476271bc6da05c7ec1c669a2f1614535a54942e1
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: bce6847fe4c0cd1541348b70aadacc9c13238c31
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294305"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481140"
 ---
 # <a name="nist-sp-800-171"></a>NIST SP 800-171
 
@@ -72,7 +72,7 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 SharePoint 온라인, 비즈니스용 Skype, Windows Ink |
 | **DoD** | 작업 피드 서비스, Bing 서비스, Exchange Online, 지능형 서비스, Office 365 고객 포털, Office Online, Office 서비스 인프라, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, Microsoft Teams, SharePoint Online, 비즈니스용 Skype, Windows Ink |
 
-### <a name="frequently-asked-questions"></a>자주 묻는 질문
+### <a name="frequently-asked-questions"></a>질문과 대답
 
 **조직에서 NIST SP 800-171과 함께 Microsoft 규정 준수를 사용할 수 있나요?**
 

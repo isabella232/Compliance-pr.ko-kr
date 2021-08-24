@@ -1,8 +1,8 @@
 ---
 title: RBI(Reserve Bank of India) 및 IRDAI(Insurance Regulatory and Development Authority of India)
 description: Microsoft는 인도의 금융 기관에 클라우드 채택을 지원하기 위한 지침을 발표했습니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: eb0e6498a516af763c36163733c6480c9531a584c3820e01701fdcf31089b8e3
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 200319178a714383feeca3d58cf608e9a3baa304
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294225"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481020"
 ---
 # <a name="reserve-bank-of-india-rbi-and-insurance-regulatory-and-development-authority-of-india-irdai"></a>RBI(Reserve Bank of India) 및 IRDAI(Insurance Regulatory and Development Authority of India)
 
@@ -60,7 +60,7 @@ Microsoft 점검 목록은 Microsoft 비즈니스 클라우드 서비스에 대�
 - [위험 평가 및 규정 준수 가이드](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): Microsoft 클라우드 서비스의 위험 평가 및 규제 기관의 알림에 대한 거버넌스 모델을 만들 수 있습니다.
 - [Azure의 금융 사용 사례:](/azure/industry/financial/)금융 서비스를 위한 Azure 솔루션을 구축하기 위한 사용 사례 개요, 자습서 및 기타 리소스.
 
-## <a name="frequently-asked-questions"></a>자주 묻는 질문
+## <a name="frequently-asked-questions"></a>질문과 대답
 
 **클라우드 서비스 공급 기업과의 계약에 포함해야 하는 필수 사용 약관이 있나요?**
 

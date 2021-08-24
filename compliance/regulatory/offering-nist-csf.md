@@ -1,8 +1,8 @@
 ---
 title: NIST(National Institute of Standards and Technology) CSF(Cybersecurity Framework)
 description: Microsoft 클라우드 서비스는 NIST(National Institute of Standards and Technology) CSF(Cybersecurity Framework)를 충족합니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 84a7515c8d23a3e224118bbf56175e6ec79f1ecb
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: aef50dc21274c863708c5b5d774b401e91407114
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259797"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58480520"
 ---
 # <a name="national-institute-of-standards-and-technology-nist-cybersecurity-framework-csf"></a>NIST(National Institute of Standards and Technology) CSF(Cybersecurity Framework)
 
@@ -72,7 +72,7 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 
 - [Office 365 NIST CSF 인증 편지](https://aka.ms/O365NISTCSFcertification)
 
-### <a name="frequently-asked-questions"></a>자주하는 질문
+### <a name="frequently-asked-questions"></a>질문과 대답
 
 **독립적인 평가자에 의해 NIST CSF Office 365 지원 여부가 검증되어 있습니까?**
 

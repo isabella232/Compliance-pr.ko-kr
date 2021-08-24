@@ -1,8 +1,8 @@
 ---
 title: 미국 FINRA(금융산업규제당국) 규칙 4511(c) 미국
 description: 독립적인 평가 회사가 Azure 및 Office 365 FINRA 규칙 4511 레코드 보존 및 변경 불가능한 저장소 요구 사항을 충족하는 데 도움이 될 수 있는 것으로 확인했습니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 481b5e5890d404dc48d1354b83dc44b53cc6362e
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: e5c253fe5a2b4995dffc7059717d74fecdc73935
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260999"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58479770"
 ---
 # <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>미국 FINRA(금융산업규제당국) 규칙 4511(c) 미국
 

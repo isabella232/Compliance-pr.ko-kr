@@ -1,8 +1,8 @@
 ---
 title: 미국 국세청 게시 1075
 description: Microsoft는 미국 국세청 발행물 1075의 요구 사항을 충족하는 제어 기능을 제공합니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 11fcdc23347500265e8eb46cf33195c66a4708d1
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 3212e28e055629b3f2894e7887ffac03e94b9e3a
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260911"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481040"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>미국 국세청 게시 1075
 
@@ -79,7 +79,7 @@ IRS 1075의 실무 요구 사항을 준수하는 것은 매년 FedRAMP 감사에
 
 - [FedRAMP 권한 부여](https://marketplace.fedramp.gov/#/product/azure-government?sort=productName&productNameSearch=azure)
 
-### <a name="frequently-asked-questions"></a>자주하는 질문
+### <a name="frequently-asked-questions"></a>질문과 대답
 
 **Microsoft는 IRS 1075의 요구 사항을 어떻게 해결하나요?**
 

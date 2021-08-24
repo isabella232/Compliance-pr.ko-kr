@@ -2,7 +2,7 @@
 title: GDPR에 대한 Microsoft 지원 및 전문 서비스 책임 준비 상태 검사 목록
 description: Microsoft 전문 서비스 및 지원 서비스 사용 시 GDPR을 지원하는 데 필요한 정보에 편리하게 액세스할 수 있습니다.
 keywords: ARC, 책임 준비 상태 검사 목록, Microsoft 365, Microsoft 365 Education, Microsoft 365 설명서, GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 47f5508899933cd3f0293034c571824d36b7e95a485b96b1227dd1e0c43c63b2
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 044631cd05dc25f126388f38e9d45675ce397d4f
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290216"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58480380"
 ---
 # <a name="microsoft-support-and-professional-services-accountability-readiness-checklist-for-the-gdpr"></a>GDPR에 대한 Microsoft 지원 및 전문 서비스 책임 준비 상태 검사 목록
 

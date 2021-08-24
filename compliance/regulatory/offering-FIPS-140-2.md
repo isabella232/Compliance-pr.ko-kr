@@ -1,8 +1,8 @@
 ---
 title: FIPS(Federal Information Processing Standard) 게시 140-2
 description: Microsoft는 암호화 모듈이 미국 연방 정보 처리 표준을 준수하는지 인증합니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: dc0ab3e03128e0c9f7feddd36305805c7d8108e4ea12fa5feb5095bdc183e7f1
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 0e087393901b76a798c4a4ea3bef25fad8dcda84
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292515"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481230"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>FIPS(Federal Information Processing Standard) 게시 140-2
 
@@ -63,7 +63,7 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 |:------------------|:----------------------|
 | Office 365, GCC, GCC High, DoD | [FIPS 140-2 유효성 검사 참조](/windows/security/threat-protection/fips-140-validation) |
 
-### <a name="frequently-asked-questions"></a>자주 묻는 질문
+### <a name="frequently-asked-questions"></a>질문과 대답
 
 **'FIPS 140 유효성 검사' 및 'FIPS 140 호환'의 차이점은 무엇입니까?**
 

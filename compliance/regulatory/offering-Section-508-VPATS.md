@@ -1,8 +1,8 @@
 ---
 title: 미국 섹션 508
 description: Microsoft는 해당 서비스의 접근성 기능을 설명하는 많은 클라우드 서비스에 대한 자세한 접근성 적합성 보고서를 제공합니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 237fe4ed402679f156042902f7c25526eee354de
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 728050d20babd819c2153cd04b3eae849120eeee
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259747"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58480530"
 ---
 # <a name="us-section-508"></a>미국 섹션 508
 

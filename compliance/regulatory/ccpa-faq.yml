@@ -3,7 +3,7 @@ metadata:
   title: 캘리포니아 소비자 개인 정보 보호법(CCPA) FAQ
   description: Microsoft 서비스와 캘리포니아 개인 정보 보호법(CCPA)에 대한 질문과 대답
   keywords: Microsoft 365, compliance, CCPA, GDPR
-  localization_priority: Priority
+  ms.localizationpriority: high
   ms.prod: microsoft-365-enterprise
   ms.topic: article
   f1.keywords:
@@ -15,12 +15,12 @@ metadata:
   ms.collection:
   - M365-security-compliance
   - MS-Compliance
-  ms.openlocfilehash: 9ed5d5c7062dcdbd2b572b32b4a9ef082d46bc764dc9e46a195a6677d4623a0d
-  ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+  ms.openlocfilehash: 7c324a175f3c5e2cb6eeca07fa7f5046b5e7c28f
+  ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 08/05/2021
-  ms.locfileid: "54290256"
+  ms.lasthandoff: 08/23/2021
+  ms.locfileid: "58481300"
 title: 캘리포니아 소비자 개인 정보 보호법(CCPA) 질문과 대답
 summary: >
   > [!Note]

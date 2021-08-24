@@ -2,7 +2,7 @@
 title: 데이터 보호 영향 평가
 description: 이 문서는 정보와 데이터 컨트롤러를 제공하여 DPIA 필요 여부, 필요한 경우 포함할 세부 사항을 결정할 수 있도록 지원합니다.
 keywords: 데이터 보호 영향 평가, DPIA, Dynamics 365, Microsoft Professional Services, Microsoft 365, Microsoft 365 설명서, GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: f1aa67817553c1ca7c8f9535965409ffb83a55117914254c4d58eec50eb38eba
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c634e1c63a123232f600cbe085964cf9d2e366a9
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289976"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58479800"
 ---
 # <a name="data-protection-impact-assessment-for-the-gdpr"></a>GDPR에 대한 데이터 보호 영향 평가
 

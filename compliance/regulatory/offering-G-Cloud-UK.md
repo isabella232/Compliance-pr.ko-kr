@@ -1,8 +1,8 @@
 ---
 title: 영국 Government-Cloud(G-클라우드)
 description: Commercial Service는 Microsoft 클라우드 서비스 분류를 정부 클라우드 v.6으로 갱신했습니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2ed9ba3e08dd75bd0d3209826497de80fc3781c4
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 805820ac031cd1fc1e1216c5e000e4ee2ad10837
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260942"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481050"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>영국 Government-Cloud(G-클라우드)
 
@@ -96,7 +96,7 @@ Microsoft 클라우드 서비스가 G-클라우드 계약을 준수하는지 확
 
 [Azure UK G-Cloud Blueprint 사용 시작](https://aka.ms/ukofficialblueprint)
 
-## <a name="frequently-asked-questions"></a>자주하는 질문
+## <a name="frequently-asked-questions"></a>질문과 대답
 
 **Who 마켓플레이스를 사용할 자격이 있습니까?**
 
