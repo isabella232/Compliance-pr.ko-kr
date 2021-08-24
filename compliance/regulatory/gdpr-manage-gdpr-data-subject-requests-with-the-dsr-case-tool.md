@@ -9,7 +9,7 @@ manager: laurawi
 audience: Admin
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Priority
+ms.localizationpriority: high
 search.appverid:
 - MET150
 ms.collection:
@@ -20,12 +20,12 @@ ms.collection:
 ms.assetid: ce9eb942-3589-42cb-88fd-1576ecb09c5c
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 8280f6a3aa483c7f447075b4b4c8803d59aefa2b130828eda913699a442ca0e9
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 951dd6063477a29fc3d442d07886d5d62e4d0dae
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288025"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482613"
 ---
 # <a name="manage-gdpr-data-subject-requests-with-the-dsr-case-tool-in-the-microsoft-365-compliance-center"></a>Microsoft 365 규정 준수 센터 DSR 사례 도구를 사용하여 GDPR 데이터 주체 요청 관리
 

@@ -1,8 +1,8 @@
 ---
 title: MeitY(Electronics and Information Technology)
 description: Microsoft는 인도의 전자 및 정보 기술부에서 전체 인가를 부여했습니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ca3ecd5dc99f71c76c2b8e724a1b6ace3350d947a3bbb278a5ec6ab00c13fe7d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 7f597f5267482868c472ed04fada2a2f73490ab7
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292455"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482953"
 ---
 # <a name="ministry-of-electronics-and-information-technology-meity"></a>MeitY(Electronics and Information Technology)
 
@@ -53,7 +53,7 @@ Microsoft의 MeitY 인증은 MeghRaj 클라우드 이니셔티브의 작업을 �
 
 - 클라우드 서비스 공급자의 감사 [상태에 따라](https://meity.gov.in/content/gi-cloud-meghraj) Microsoft 클라우드 인증
 
-## <a name="frequently-asked-questions"></a>자주 묻는 질문
+## <a name="frequently-asked-questions"></a>질문과 대답
 
 **MeitY가 중요한 이유는 무엇입니까?**
 

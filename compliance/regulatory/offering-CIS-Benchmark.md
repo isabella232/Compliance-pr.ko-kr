@@ -2,7 +2,7 @@
 title: 인터넷 보안 센터 (CIS) 벤치마크
 description: 인터넷 보안 센터 (CIS)는 Microsoft 제품 및 서비스에 대한 일련의 벤치마크를 발표했습니다.
 keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7af6dd77d4b67e6912d3b57c823820751b7fb8f6ab3e18c063555d14d1c916cd
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 3084bc6e70bb1c2d9aa1e199a8e1bc4bde8fb2b5
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287797"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482501"
 ---
 # <a name="center-for-internet-security-cis-benchmarks"></a>인터넷 보안 센터 (CIS) 벤치마크
 

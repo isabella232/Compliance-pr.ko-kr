@@ -1,8 +1,8 @@
 ---
 title: 식약 관리 CFR 제목 21부 11부
 description: Microsoft는 고객이 이러한 미국식품 및 약국 규정을 준수하는 데 도움을 제공합니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 39c7e69ab980a7d75fced1d59474478df6f05c9ec9549db6e7fa72ba7f9278a8
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 5d6f590a9035b8628645bdfa46f794c1dfbcd4fb
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287567"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482703"
 ---
 # <a name="food-and-drug-administration-cfr-title-21-part-11"></a>식약 관리 CFR 제목 21부 11부
 

@@ -1,8 +1,8 @@
 ---
 title: 캘리포니아 소비자 개인 정보 보호법(CCPA)
 description: Microsoft 서비스 캘리포니아 소비자 개인 정보 보호법(CCPA)
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 75f814c49395e5b945d0b9092b1158fad3376ce684ea3a8fb43115d51fe6bba5
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 61b15a095dec310aac74bac10b2d062eb1011750
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288257"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482663"
 ---
 # <a name="california-consumer-privacy-act-ccpa"></a>캘리포니아 소비자 개인 정보 보호법(CCPA)
 
@@ -60,7 +60,7 @@ CCPA를 준비하기 위해 취할 수 있는 몇 가지 단계는 다음과 같
 - Microsoft 정보 보호로 중요한 데이터를 검색하고, 분류하고, 레이블을 지정하고, 보호하기 위해 레이블과 정책을 설정합니다.
 - 전자 메일 암호화 기능을 사용하여 중요 한 정보를 더욱 강력하게 제어합니다.
 
-## <a name="frequently-asked-questions"></a>자주 묻는 질문
+## <a name="frequently-asked-questions"></a>질문과 대답
 
 **CCPA는 우리 회사에 어떤 영향을 주나요?**
 

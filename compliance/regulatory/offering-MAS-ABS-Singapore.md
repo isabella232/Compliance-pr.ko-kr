@@ -2,7 +2,7 @@
 title: 싱가포르 통화청(MAS) 및 싱가포르 은행 연합(ABS)
 description: Microsoft는 금융 클라이언트가 싱가포르 통화청(MAS)의 아웃소싱 지침을 준수하고 싱가포르 은행 연합의 가이드를 적용할 수 있도록 지원합니다.
 keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2cd1209c0f80ee34fcc4fadb0fa341da7b3fc6e28502b8a73adb99580db0e164
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 66e0803e41717cfd80fc4c3e4481457d5a165303
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287197"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482673"
 ---
 # <a name="monetary-authority-of-singapore-mas-and-association-of-banks-in-singapore-abs"></a>싱가포르 통화청(MAS) 및 싱가포르 은행 연합(ABS)
 
@@ -74,7 +74,7 @@ MAS 지침을 준수하면서 Microsoft 클라우드로 데이터 및 워크로�
 - 독립형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power BI 클라우드 서비스
 - [Office 365](https://aka.ms/o365-compliance-framework)
 
-## <a name="frequently-asked-questions"></a>자주하는 질문
+## <a name="frequently-asked-questions"></a>자주 하는 질문
 
 **규제적 승인이 필요한가요?**
 

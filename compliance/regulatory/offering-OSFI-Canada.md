@@ -2,7 +2,7 @@
 title: Office of the Superintendent of Financial Institution(금융감독원:OSFI) 캐나다
 description: 캐나다에 있는 금융 기관의 클라우드 도입에 도움을 주는 Microsoft 안내서입니다.
 keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: eb047b0579c787433615f79a86ea8e61bb9e31c70282ef16ed240bea9d673207
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 6140a205827409f2cb3d3386d2416853b24cd692
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290046"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58483023"
 ---
 # <a name="office-of-the-superintendent-of-financial-institutions-osfi-canada"></a>Office of the Superintendent of Financial Institution(금융감독원:OSFI) 캐나다
 

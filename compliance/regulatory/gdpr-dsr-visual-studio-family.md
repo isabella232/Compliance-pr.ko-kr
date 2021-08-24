@@ -2,7 +2,7 @@
 title: GDPR 및 CCPA에 대한 Visual Studio 제품군 데이터 주체 요청
 description: Visual Studio에서 Microsoft 도구를 사용하여 GDPR과 CCPA를 위한 제품군 데이터 주체 요청을 관리하는 방법을 알아봅니다.
 keywords: Visual Studio, Visual Studio Code, Mac용 Visual Studio, Visual Studio 설명서, 개인 정보, GDPR, CCPA
-localization_priority: Priority
+ms.localizationpriority: high
 audience: itpro
 ms.prod: visual-studio-family
 ms.topic: article
@@ -20,12 +20,12 @@ ms.workload:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: be51b20692b003c3f59838a616ac95eb95eb95280f0ddae3a1aed4a6b95d8b41
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 4a3119ad93c0de5de96e748f7692ba6ddef42c80
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293125"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482883"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Visual Studio 제품군 데이터 주체 요청
 

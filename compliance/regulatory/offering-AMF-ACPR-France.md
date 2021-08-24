@@ -2,7 +2,7 @@
 title: 프랑스 재무 기관(AMF) 및 건전성 감독청(ACPR)
 description: 프랑스에 있는 금융 기관의 클라우드 도입에 도움을 주는 Microsoft 참고 자료입니다.
 keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6504060cf7918981a601d4272c944d4b3343c69b97efa675893b21f8719a4757
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 3e7d08c15d126273cbacd75a2cab37e476ebf42d
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292745"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482511"
 ---
 # <a name="financial-authority-amf-and-prudential-authority-acpr-france"></a>프랑스 재무 기관(AMF) 및 건전성 감독청(ACPR)
 

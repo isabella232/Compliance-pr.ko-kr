@@ -3,7 +3,7 @@ title: GDPR용 DPIA Dynamics
 description: 데이터 컨트롤에 Dynamics 365에 대한 정보를 제공하여 DPIA가 필요한지 여부와 포함할 세부 정보를 결정합니다.
 keywords: DPIA, Microsoft 365, Dynamics 365, Microsoft 365 설명서, GDPR
 robots: NOINDEX,NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 2fbe694f2dc16560a04ea2ffb96253024ebdce1835cd05d4586bec016522e96f
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: ed23af0982dd5ce066c78963f108c2b7eaa2403a
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288267"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482441"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-dynamics-365"></a>데이터 보호 영향 평가: Dynamics 365를 사용하는 데이터 컨트롤러의 참고 자료
 
@@ -45,9 +45,9 @@ GDPR 제 35조에 따라 데이터 관리자는 ‘특히 신기술을 사용하
 | 공개적으로 액세스할 수 있는 영역을 대규모로 체계적으로 모니터링 | Dynamics 365는 이러한 모니터링을 수행하거나 용이하게 하도록 설계되지 않았습니다. <br><br> 그러나 데이터 컨트롤러는 이러한 모니터링을 통해 수집된 데이터를 처리할 수는 있습니다. |
 
 >[!Note]
-><sup>1</sup> 처리가 ‘대규모’되는 기준에 대해 GDPR의 비고 91에서는 다음을 명확하게 제시합니다. ‘처리 작업에서 개인 담당 의사, 다른 의료 전문가 또는 법률가가 환자 또는 클라이언트의 개인 데이터를 우려할 경우 개인 데이터 처리는 대규모로 간주되지 않습니다. 그러한 경우 데이터 보호 영향 평가는 필수 사항이 아닙니다.’
+><sup>1</sup> 처리가 ‘대규모’가 되는 기준에 대해 GDPR의 비고 91에서는 다음을 명확하게 제시합니다. ‘처리 작업에서 개인 담당 의사, 다른 의료 전문가 또는 법률가가 환자 또는 클라이언트의 개인 데이터를 우려할 경우 개인 데이터 처리는 대규모로 간주되지 않습니다. 그러한 경우 데이터 보호 영향 평가는 필수 사항이 아닙니다’.
 
-## <a name="part-2-contents-of-a-dpia"></a>2부: DPIA의 내용
+## <a name="part-2-contents-of-a-dpia"></a>2부 - DPIA의 내용
 
 제 35(7)조는 데이터 보호 영향 평가가 처리의 목적과 계획된 처리의 체계적 설명을 명시하도록 규정하고 있습니다. 포괄적인 DPIA의 체계적 설명에는 처리된 데이터 유형, 데이터 보존 기간, 데이터 위치 및 전송 위치, 데이터에 액세스할 수 있는 제3자 등의 요인이 포함될 수 있습니다. 또한 DPIA에는 다음이 포함되어야 합니다.
 

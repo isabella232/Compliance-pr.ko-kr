@@ -2,7 +2,7 @@
 title: 네덜란드의 금융 서비스 기관 및 네덜란드 중앙은행
 description: Microsoft는 네덜란드 금융 기관의 클라우드 도입에 도움을 주는 참고 자료를 게시했습니다.
 keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a1409518fd83f6c43a562cabe7dde09005390a0bb378fc4dd37f70b7e4aaf6cf
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: bfee0aeacfae897ec7618c0fcef369992a7f22f2
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287907"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482763"
 ---
 # <a name="dutch-authority-for-the-financial-markets-and-the-central-bank-of-the-netherlands"></a>네덜란드의 금융 서비스 기관 및 네덜란드 중앙은행
 

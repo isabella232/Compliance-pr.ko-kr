@@ -1,8 +1,8 @@
 ---
 title: DoD(국방부) 영향 수준 5(IL5)
 description: Microsoft가 IL5(국방부) IL5(영향 수준 5) 표준을 충족하는 방법을 학습합니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 539a53888ec859bb3b6942b48288659f73fa4b69807ce19e063cbfe104b7072d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c0c987dc5fbe2bee60508f0fab7dbdb8dce97857
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294235"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482843"
 ---
 # <a name="department-of-defense-dod-impact-level-5-il5"></a>DoD(국방부) 영향 수준 5(IL5)
 

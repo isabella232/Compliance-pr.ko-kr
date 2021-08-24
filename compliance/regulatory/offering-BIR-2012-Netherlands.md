@@ -2,7 +2,7 @@
 title: Baseline Informatiebeveiliging Rijksdienst 표준(BIR 2012)
 description: Microsoft 클라우드 서비스는 네덜란드의 공공 부문 에이전시가 BIR 2012 표준을 준수하는 데 도움을 줍니다.
 keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f82dcb1395823fbfe618537a9fc13f6d7106d56f
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: d0f7bd0db5d71c91a163e05e582ad8c227a8aa22
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58261105"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482753"
 ---
 # <a name="baseline-informatiebeveiliging-rijksdienst-standard-bir-2012"></a>Baseline Informatiebeveiliging Rijksdienst 표준(BIR 2012)
 

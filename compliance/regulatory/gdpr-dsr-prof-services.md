@@ -2,7 +2,7 @@
 title: GDPR 및 CCPA에 대한 Microsoft 고객 지원 및 전문 서비스 데이터 주체 요청
 description: Microsoft 고객 지원 및 전문 서비스가 GDPR 및 CCPA에 대해 데이터 주체 요청을 처리하는 방법을 알아봅니다.
 keywords: 전문 서비스, Microsoft 365, Microsoft 365 Education, Microsoft 365 설명서, GDPR, CCPA
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 165fd006f8cd5390b057d38e9972cf4ce4edda3d6ffe169fcdeb0508d319bc0b
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 06dbe8eeeddc32fb98b7b4bf0351834fb6a34944
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293175"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482633"
 ---
 # <a name="microsoft-support-and-professional-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Microsoft 고객 지원 및 전문 서비스 데이터 주체 요청
 

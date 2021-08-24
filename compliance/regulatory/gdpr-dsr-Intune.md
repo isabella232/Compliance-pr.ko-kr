@@ -2,7 +2,7 @@
 title: GDPR 및 CCPA에 대한 Intune 데이터 주체 요청
 description: 개인 데이터를 찾아서 조치를 취하고, Microsoft Intune 사용 고객의 DSR 및 CCPA 요청에 응답하는 방법을 알아보세요.
 keywords: Microsoft 365, Microsoft 365 Education, Microsoft 365 설명서, GDPR, CCPA
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -19,12 +19,12 @@ ms.custom:
 - seo-marvel-mar2020
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 834e3b6d35004e884857854a004f8c0ff81ed705df1e3692ae6a0444da6b1cc3
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: b718c4121ebf32e1c87342f778b66ecb07203738
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289376"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482401"
 ---
 # <a name="intune-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Intune 데이터 주체 요청
 

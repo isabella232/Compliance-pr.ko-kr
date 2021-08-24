@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 f1.keywords:
@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 9ec3e0456934c178b32a6f5fac987d70c267ef8046ff5c361abce914a2cea90a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: ba9d4c5f3e2781613ef3946e1089deff6e6266f7
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54291871"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481690"
 ---
 # <a name="microsoft-security-incident-management-detection-and-analysis"></a>Microsoft 보안 인시던트 관리: 검색 및 분석
 
@@ -60,7 +60,7 @@ Azure, Dynamics 365 및 Microsoft 365 서비스 팀은 보안 모니터링 및 �
 - 영향
 - 범위
 - 영향을 받는 테넌트 수
-- Region
+- 지역
 - 서비스
 - 인시던트 세부 정보
 - 특정 고객 산업 또는 시장 규정.

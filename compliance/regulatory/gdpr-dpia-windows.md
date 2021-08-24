@@ -2,7 +2,7 @@
 title: DPIA(데이터 보호 영향 평가) - Windows 진단 데이터 프로세서 구성을 사용하는 컨트롤러에 대한 지침
 description: Windows Enterprise용 Microsoft 데이터 프로세서 서비스를 사용할 때 DPIA(데이터 보호 영향 평가)가 필요한지 여부를 확인하는 정보를 찾습니다.
 keywords: DPIA, Microsoft 365, Microsoft 365 Education, Microsoft 365 설명서, GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ROBOTS: NOINDEX, NOFOLLOW
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -18,12 +18,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 hideEdit: true
-ms.openlocfilehash: 912bd80aea4e02eaa7e4d18f2f019eb3a6909e5d011204a1bb2cc299015f78fe
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 325dc91f1d3480414236abfde38eb48d372f3e69
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289876"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482431"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-controllers-using-windows-diagnostic-data-processor-configuration"></a>데이터 보호 영향 평가 - Windows 진단 데이터 프로세서 구성을 사용하는 컨트롤러에 대한 지침
 
@@ -66,7 +66,7 @@ GDPR 제35조에는 컨트롤러가 특별히 새로운 기술을 이용한 처�
 | 처리된 개인 데이터의 범주 | **Windows 진단 데이터**- 디바이스와 Windows 및 관련 소프트웨어의 작동 방식에 대한 Windows 디바이스의 기술 데이터입니다. Windows를 최신 상태로 유지하고, 안전하고, 안정적이며, 성능을 향상시키고, 제품을 개선하는 데 사용됩니다. Windows 진단 데이터의 몇 가지 예로는 사용 중인 하드웨어 유형, 각각의 용도에 맞게 설치된 응용 프로그램 및 디바이스 드라이버의 안정성 정보가 있습니다. 일부 Windows 구성 요소 및 앱은 Microsoft 서비스에 직접 연결되지만 교환하는 데이터는 Windows 진단 데이터가 아닙니다. 예를 들어 지역 날씨 또는 뉴스를 위해 사용자 위치를 교환하는 것은 Windows 진단 데이터의 예가 아닙니다. <br><br> Windows 진단 데이터 프로세서 구성을 사용하는 경우 데이터 처리에 대한 자세한 내용은 [조직에 Windows 진단 데이터 구성](/windows/privacy/configure-windows-diagnostic-data-in-your-organization) 및 [Microsoft 보안 센터](https://www.microsoft.com/trust-center)를 참조하세요.|
 | 데이터 보존 | Microsoft는 Microsoft 제품 약관에 따라 Windows 진단 데이터 프로세서 구성을 사용하도록 설정한 경우 수집된 Windows 진단 데이터를 보유하고 처리합니다. 고객은 [GGDPR 및 CCPA에 대한 Windows 진단 데이터 프로세서 구성 데이터 주체 요청](gdpr-dsr-windows.md)에 설명된 기능을 사용하여 데이터 주체 요청에 따라 Windows 진단 데이터를 삭제하고 내보낼 수 있습니다.|
 | 개인 데이터의 위치 및 전송 | Windows 진단 데이터 프로세서 구성을 사용하는 경우 수집되는 Windows 진단 데이터는 미국에 있는 Microsoft 데이터 센터에 있습니다. |
-| 타사와 데이터 공유 | Microsoft는 고객 및 기술 지원, 서비스 유지 보수 및 기타 운영과 같은 기능을 지원하기 위해 하위 프로세스(즉, 개인 데이터를 처리하는 하도급업체) 역할을 하는 타사와 데이터를 공유할 수 있습니다. Microsoft가 Windows 진단 데이터 프로세서 구성 또는 지원 데이터에 따라 수집된 Windows 진단 데이터를 전송하는 모든 하도급업자는 Microsoft 제품 약관의 조건 수준에 준하는 서면 계약을 Microsoft와 체결하게 됩니다. 고객 데이터 또는 지원 데이터를 공유하는 모든 타사 하청업체는 [하청업체 목록](https://www.microsoft.com/ko-KR/trust-center/privacy/data-access#subcontractors)(‘보조 처리 장치를 사용한 액세스 제한’ 참조)에 포함됩니다. <br><br>Windows 진단 데이터 프로세서 구성 및 지원 데이터에 따라 수집된 Windows 진단 데이터 대한 법 집행 및 타사 요청에 대한 Microsoft의 대응에 대한 정보는 Microsoft 제품 약관에 있습니다. Microsoft가 법적 금지되지 않는 한, Microsoft는 사법 기관 또는 타사를 고객에게 직접 요청하도록 리디렉션을 시도합니다. |
+| 타사와 데이터 공유 | Microsoft는 고객 및 기술 지원, 서비스 유지 보수 및 기타 운영과 같은 기능을 지원하기 위해 하위 프로세스(즉, 개인 데이터를 처리하는 하도급업체) 역할을 하는 타사와 데이터를 공유할 수 있습니다. Microsoft가 Windows 진단 데이터 프로세서 구성 또는 지원 데이터에 따라 수집된 Windows 진단 데이터를 전송하는 모든 하도급업자는 Microsoft 제품 약관의 조건 수준에 준하는 서면 계약을 Microsoft와 체결하게 됩니다. 고객 데이터 또는 지원 데이터를 공유하는 모든 타사 하청업체는 [하청업체 목록](https://www.microsoft.com/en-us/trust-center/privacy/data-access#subcontractors)(‘보조 처리 장치를 사용한 액세스 제한’ 참조)에 포함됩니다. <br><br>Windows 진단 데이터 프로세서 구성 및 지원 데이터에 따라 수집된 Windows 진단 데이터 대한 법 집행 및 타사 요청에 대한 Microsoft의 대응에 대한 정보는 Microsoft 제품 약관에 있습니다. Microsoft가 법적 금지되지 않는 한, Microsoft는 사법 기관 또는 타사를 고객에게 직접 요청하도록 리디렉션을 시도합니다. |
 | 데이터 주체 권리 | 프로세서로 활동할 때 Microsoft는 GDPR에 따라 권한을 행사할 때 데이터 주체의 개인 데이터와 데이터 주체의 요청을 수행할 수 있는 기능을 고객(컨트롤러)에게 제공합니다. Microsoft는 제품의 기능 및 데이터 프로세서로서의 역할과 일치하는 방식으로 이를 수행합니다.  Microsoft가 고객의 데이터 주체로부터 GDPR에 따라 하나 이상의 권한을 행사하라는 요청을 받으면 해당 요청이 데이터 컨트롤러로 리디렉션됩니다.<br><br> [GDPR 및 CCPA에 대한 Windows 진단 데이터 프로세서 구성 데이터 주체 요청](gdpr-dsr-windows.md)에서는 Windows 진단 데이터 프로세서 구성에 따라 수집된 Windows 진단 데이터 대한 데이터 주체 권한을 지원하는 방법에 대한 설명을 제공합니다. |
 | 목적과 관련한 처리 작업의 필요성 및 비례의 원칙 평가 | 이러한 평가는 데이터 컨트롤러의 요구와 처리 목적에 따라 달라집니다. <br><br> Microsoft에서 수행하는 처리와 관련하여 이러한 처리는 Microsoft 제품 약관에 반영된 처리 목적에 필수적이며 비례합니다. |
 | 데이터 주체의 권리와 자유에 대한 위험 평가 | Windows 진단 데이터 프로세서 구성에 따라 수집된 Windows 진단 데이터 사용으로 인한 데이터 주체의 권한 및 자유에 대한 주요 위험은 컨트롤러가 Windows 진단 데이터를 구현하고, 구성하며, 사용하는 방법과 컨텍스트에 따라 결정됩니다. <br><br> Windows 진단 데이터 프로세서 구성에 따라 수집된 Windows 진단 데이터는 무단 액세스 또는 부주의로 인한 공개의 위험이 있습니다. 이러한 위험을 해결하기 위해 Microsoft에서 취하는 조치는 Microsoft 제품 약관에서 논의됩니다. |

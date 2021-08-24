@@ -2,7 +2,7 @@
 title: 정보 보호
 description: GDPR(일반 데이터 보호 규정)에 대한 Microsoft 365의 정보 보호 기능에 대해 알아봅니다.
 keywords: Microsoft 365, Microsoft 365 Education, Microsoft 365 설명서, GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 1a612f40ee095ed6bc55bd4db5d3eda164b1a74a41856d53e227dbf938af681b
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: cf5ef95e9504ba2d63a56dc3d4f7d22398d61255
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287957"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482783"
 ---
 # <a name="information-protection-for-gdpr-with-microsoft-365-capabilities"></a>Microsoft 365 기능을 사용한 GDPR에 대한 정보 보호
 

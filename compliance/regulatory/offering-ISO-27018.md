@@ -2,7 +2,7 @@
 title: 클라우드 내 개인 데이터 보호를 위한 ISO/IEC 27018 규약
 description: Microsoft는 클라우드 개인 정보 보호 정책에 대한 이 규약을 준수하는 최초의 클라우드 공급자입니다.
 keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 92d5d00c473f2da92380478e7559ca18ef6f8937
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: af81575c0f33e0266efee32792eed85fd9f39cd3
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260470"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58483003"
 ---
 # <a name="isoiec-27018-code-of-practice-for-protecting-personal-data-in-the-cloud"></a>클라우드 내 개인 데이터 보호를 위한 ISO/IEC 27018 규약
 

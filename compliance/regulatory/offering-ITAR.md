@@ -1,8 +1,8 @@
 ---
 title: ITAR(International Traffic in Arms Regulations)
 description: Azure Government는 Arms Regs 지원 시스템에서 미국 국제 트래픽을 구축하는 고객을 지원합니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d5bebc4a270a11518989c548ef17ac48b8f79b5cc5720f09bc8677c40e422421
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 5f3a17ca4f06f61b62bcc13e44b74ad4d436a6da
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293892"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482923"
 ---
 # <a name="international-traffic-in-arms-regulations-itar"></a>ITAR(International Traffic in Arms Regulations)
 
@@ -65,7 +65,7 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 | **GCC High** | 작업 피드 서비스, Bing Services, Exchange Online, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office Online, Office 서비스 인프라, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, SharePoint Online, 비즈니스용 Skype, Windows Ink |
 | **DoD** | 작업 피드 서비스, Bing Services, Exchange Online, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office Online, Office 서비스 인프라, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, SharePoint Online, 비즈니스용 Skype, Windows Ink |
 
-### <a name="frequently-asked-questions"></a>자주 묻는 질문
+### <a name="frequently-asked-questions"></a>질문과 대답
 
 **ITAR에 대한 Office 365 정보는 어디에서 요청할 수 있나요?**
 

@@ -1,8 +1,8 @@
 ---
 title: HITRUST(Health Information Trust Alliance) CSF(Common Security Framework)
 description: Azure 및 Office 365 HITRUST(Health Information Trust Alliance) CSF(Common Security Framework)에 인증되었습니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e910593e80c49acf7f1e94c9ade74fb51f225912
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 97875374c58bf174090a9dd34f26d3e22b2b50b3
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260702"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482973"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>HITRUST(Health Information Trust Alliance) CSF(Common Security Framework)
 
@@ -72,7 +72,7 @@ HITRUST CSF Office 365 2년 동안 유효합니다.
 
 - [Office 365 HITRUST 인증 편지](https://aka.ms/O365HITRUSTcertification)
 
-### <a name="frequently-asked-questions"></a>자주하는 질문
+### <a name="frequently-asked-questions"></a>질문과 대답
 
 **일부 Office 365 서비스가 이 인증 범위에 없는 이유는 무엇입니까?**
 

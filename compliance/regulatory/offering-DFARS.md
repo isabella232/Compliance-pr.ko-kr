@@ -1,8 +1,8 @@
 ---
 title: DFARS(Defense Federal Acquisition Regulation Supplement)
 description: Microsoft Azure 정부는 DFARS(Defense Federal Acquisition Regulation) 요구 사항을 지원합니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 11af1e745978358d401502da853640e8bd707249aa827fe30b62813ef44b99d2
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: e190a98a475d6170e793e92e8052012048cc3d7f
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287697"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482271"
 ---
 # <a name="defense-federal-acquisition-regulation-supplement-dfars"></a>DFARS(Defense Federal Acquisition Regulation Supplement)
 

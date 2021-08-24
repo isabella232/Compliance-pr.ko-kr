@@ -2,7 +2,7 @@
 title: SOC(시스템 및 조직 컨트롤) 2 Type 2
 description: Microsoft 클라우드 서비스가 운영 보안을 위해 SOC(시스템 및 조직 컨트롤) 2 Type 2 표준을 준수하는 방법을 알아봅니다.
 keywords: Microsoft 365, 규정 준수, 제품
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 96d03e081a5fb236603c2637f8333924c57520a1
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 92fb47f98e60eb655ee68b38cb747a7d2eb9d2ff
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260544"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482793"
 ---
 # <a name="system-and-organization-controls-soc-2-type-2"></a>SOC(시스템 및 조직 컨트롤) 2 Type 2
 

@@ -15,7 +15,7 @@ metadata:
   author: robmazz
   ms.author: robmazz
   ms.date: 11/30/2020
-  localization_priority: Normal
+  ms.localizationpriority: medium
 conceptualContent:
   title: 'Azure, Dynamics 365 및 Microsoft 365 규정 준수 제품'
   summary: 'Azure, Dynamics 365, Microsoft 365 및 Power Platform에 대한 정보 및 데이터 수집 및 사용에 대한 국가, 지역 및 산업별 규정에 대한 기타 서비스를 제공합니다.'

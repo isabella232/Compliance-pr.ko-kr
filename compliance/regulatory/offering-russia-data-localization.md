@@ -1,8 +1,8 @@
 ---
 title: 러시아 개인 데이터 지역화 요구 사항
 description: 러시아 시민의 개인 데이터 기록, 시스템화, 누적, 저장, 설명 및 추출을 러시아에 있는 Microsoft 서비스 및 데이터베이스에서 수집하는 방법을 알아보습니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 559614554eb661be33a751c212080bea20d967565daf37de59a292851b9a28e8
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 093ec578cd83dc6c52485101d232d9ccff88489e
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287147"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482803"
 ---
 # <a name="russian-personal-data-localization-requirements"></a>러시아 개인 데이터 지역화 요구 사항
 

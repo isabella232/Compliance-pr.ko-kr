@@ -1,8 +1,8 @@
 ---
 title: SEC(증권 Exchange 위원회) 규칙 17a-4(f) 미국
 description: 독립적인 평가 회사는 Azure 및 Office 365 금융 회사가 SEC 규칙 17a-4(f) 기록 보존 및 변경 불가능한 저장소 요구 사항을 충족하는 데 도움이 될 수 있는 것으로 확인했습니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 39ab743755b949502d4f63c36a64d5785d85f6ab
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: e4fd87384f7be620ab755f29031b52e8877582ce
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260685"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482461"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>SEC(증권 Exchange 위원회) 규칙 17a-4(f) 미국
 

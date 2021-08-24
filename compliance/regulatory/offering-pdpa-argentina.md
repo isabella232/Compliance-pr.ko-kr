@@ -2,7 +2,7 @@
 title: 아르헨티나 PDPA(개인 데이터 보호법)
 description: Microsoft 비즈니스 클라우드 서비스는 개인 정보를 보호하기 위해 PDPA 표준을 준수합니다.
 keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 54401015273b24306cae58a2ca78ca1c91322b6e
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 9802fd35cbb93386a42462c6ddd94ddce422ec7e
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260353"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482653"
 ---
 # <a name="argentina-personal-data-protection-act-pdpa"></a>아르헨티나 PDPA(개인 데이터 보호법)
 

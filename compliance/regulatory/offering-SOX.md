@@ -1,8 +1,8 @@
 ---
 title: Sarbanes-Oxley Act of 2002(SOX)
 description: 금융 서비스 회사는 Microsoft 규정 준수 보고서를 사용하여 규정 준수를 Sarbanes-Oxley 있습니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6fb3ec963487169e01c9a69eca3b76f9f21a46cf
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 9b5b9b3a1e398c804aad7f7a42a0b2770de20525
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260436"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482853"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act of 2002(SOX)
 
@@ -75,7 +75,7 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 - Dynamics 365
 - Office 365
 
-### <a name="frequently-asked-questions"></a>자주하는 질문
+### <a name="frequently-asked-questions"></a>질문과 대답
 
 **Microsoft SOX 규정 준수를 사용하여 조직의 규정 준수 프로세스를 촉진하는 방법**
 

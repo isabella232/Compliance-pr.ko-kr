@@ -2,7 +2,7 @@
 title: GDPR 및 CCPA에 대한 Windows 진단 데이터 프로세서 구성 데이터 주체 요청
 description: Microsoft 제품, 서비스 및 관리 도구를 사용하여 개인 데이터를 찾아서 작업을 하여 DSR에 응답하는 방법을 알아봅니다.
 keywords: Microsoft 365, Microsoft 365 Education, Microsoft 365 설명서, GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ROBOTS: NOINDEX, NOFOLLOW
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -18,12 +18,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 hideEdit: true
-ms.openlocfilehash: 365aa84ce2c88468b7f6689aa73507e458a435fd2d3bc58583114f37f50537ac
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 202b8aa75d3dd6fc94025a1a30f922563fc73e7b
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293055"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482381"
 ---
 # <a name="windows-diagnostic-data-processor-configuration-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Windows 진단 데이터 프로세서 구성 데이터 주체 요청
 

@@ -1,8 +1,8 @@
 ---
 title: CJIS(범죄 행위 정보 서비스) 보안 정책
 description: Microsoft 정부 클라우드 서비스는 미국 범죄 정의 정보 서비스 보안 정책을 준수합니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: cdcf6bb91e7bd6b01a7a4372f33e2f52089d1f0c4fed3c327b85a3a13eafeac2
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 313905ec68c7d730cd2372ebd4679943ff124993
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292535"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482733"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>CJIS(범죄 행위 정보 서비스) 보안 정책
 
@@ -82,7 +82,7 @@ FBI는 CJIS 요구 사항을 준수하는 Microsoft 인증을 제공하지 않�
 
 적용 가능한 CJIS 규제 컨트롤을 충족하기 위한 Microsoft의 약속을 통해 범죄자 조직은 클라우드 기반 솔루션을 구현하고 CJIS 보안 정책 V5.9를 준수할 수 있습니다.
 
-### <a name="frequently-asked-questions"></a>자주 묻는 질문
+### <a name="frequently-asked-questions"></a>질문과 대답
 
 **규정 준수 정보는 어디에서 요청할 수 있나요?**
 

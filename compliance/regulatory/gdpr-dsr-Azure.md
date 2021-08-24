@@ -2,7 +2,7 @@
 title: GDPR 및 CCPA에 대한 Azure 데이터 주체 요청
 description: Azure 제품, 서비스 및 관리 도구를 사용하여 개인 데이터를 찾아서 작업을 하여 DSR에 응답하는 방법을 알아봅니다.
 keywords: Microsoft 365, Microsoft 365 Education, Microsoft 365 설명서, GDPR, CCPA
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: 5540a941a9d246eabf37abcf0dd9fa12fd5e0df1b2d2ad70c058e341c14bb2b8
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 2c016cb1d13654564dcbbc3a013e6bb52e1fbb2b
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289626"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482421"
 ---
 # <a name="azure-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Azure 데이터 주체 요청
 

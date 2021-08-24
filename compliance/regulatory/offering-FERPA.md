@@ -1,8 +1,8 @@
 ---
 title: FERPA(가족 교육권 및 개인 정보 보호법)
 description: Microsoft는 미국 가족 교육권 및 개인 정보 보호법의 요구 사항을 준수합니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d41c5fea8e0f6f45703bfe25cae9dbaa491dcd2c
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 6957f3e1c93dd73821456bc45ef1d8e2e12681a0
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58261050"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482241"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>FERPA(가족 교육권 및 개인 정보 보호법)
 
@@ -78,7 +78,7 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 
 FERPA는 감사 또는 인증을 요구하거나 인식하지 않습니다.
 
-### <a name="frequently-asked-questions"></a>자주하는 질문
+### <a name="frequently-asked-questions"></a>질문과 대답
 
 **FERPA가 중요한 이유는 무엇입니까?**
 

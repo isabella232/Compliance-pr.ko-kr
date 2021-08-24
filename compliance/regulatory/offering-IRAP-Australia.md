@@ -1,8 +1,8 @@
 ---
 title: 오스트레일리아 정부 정보 보안 등록 평가자 프로그램(IRAP)
 description: Microsoft는 호주 ACSC(사이버 보안 센터)의 IRAP 평가 및 인증에 따라 DLM(미분분 배포 제한 마커) 및 보호된 데이터를 모두 위한 오스트레일리아 인증 클라우드 서비스 목록에 포함되어 있습니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: df88a1837b948f5f1dc31ad04244b5d9a84442bc
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: cd7ad9a68f69f134689262ad7e379eec89284035
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260313"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58483013"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>오스트레일리아 정부 정보 보안 등록 평가자 프로그램(IRAP)
 
@@ -83,7 +83,7 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 |:------------------|:----------------------|
 | **상업용** | Exchange Online, Exchange Online Protection, Forms, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, 비즈니스용 OneDrive, Planner, SharePoint Online, 비즈니스용 Skype, Whiteboard, Yammer |
 
-### <a name="frequently-asked-questions"></a>자주하는 질문
+### <a name="frequently-asked-questions"></a>질문과 대답
 
 **IRAP는 누구에게 적용하나요?**
 

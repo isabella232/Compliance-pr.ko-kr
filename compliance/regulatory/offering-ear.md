@@ -1,8 +1,8 @@
 ---
 title: EAR(미국 수출 관리 규정)
 description: Microsoft 클라우드 서비스는 미국 EAR(수출 관리 규정)를 준수하는 고객이 규정 준수 요구 사항을 충족하고 수출 제어 위험을 관리하는 데 도움이 됩니다.
-keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: None
+keywords: Microsoft 365, 규정 준수, 제품
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2438db5a94871e60bb7181c3acfe250e8552e94aa9b127d5e800ab8d6edfcf93
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 859067495b6811b2264ab3a379f305d428771bce
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293595"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482983"
 ---
 # <a name="us-export-administration-regulations-ear"></a>EAR(미국 수출 관리 규정)
 
@@ -64,7 +64,7 @@ EAR에 따라 의무를 평가하는 고객을 위한 미국 수출 제어 및 �
 - [Azure](https://aka.ms/Azure-Export-Controls)
 - [Office 365](https://aka.ms/Office-365-Export-Controls)
 
-## <a name="frequently-asked-questions"></a>자주하는 질문
+## <a name="frequently-asked-questions"></a>자주 하는 질문
 
 **Microsoft 클라우드 서비스를 사용할 때 내보내기 제어를 준수하기 위해 무엇을 해야 하나요?**
 

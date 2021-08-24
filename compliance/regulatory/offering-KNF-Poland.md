@@ -2,7 +2,7 @@
 title: KNF (금융 감독 기관) 폴란드
 description: 폴란드에 있는 금융 기관의 클라우드 도입에 도움을 주는 Microsoft 안내서입니다.
 keywords: Microsoft 365, 규정 준수, 제안
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: db789f8670b60eccb2914da9dea42b5114e4864ac922de41db254d074101be92
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: b9152debd0b6fd01624aefc61c3492b4075bc6e1
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290186"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482993"
 ---
 # <a name="financial-supervision-authority-knf-poland"></a>KNF (금융 감독 기관) 폴란드
 
