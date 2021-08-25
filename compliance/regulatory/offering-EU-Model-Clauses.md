@@ -16,20 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ad57ba94dbb79e1e8d5536598ef4e2fd3f0fbf55
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: e57b10527b5eb1bd1baefebb36c9a8f37a97f59e
+ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482251"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505911"
 ---
 # <a name="european-union-model-clauses"></a>유럽 연합 모델 조항
 
 ## <a name="european-union-model-clauses-overview"></a>유럽 연합 모델 조항 개요
 
-EU(유럽 연합) 데이터 보호법은 EEA(유럽 경제 지역)(모든 EU 국가와 아이슬란드, 리히텐슈타인 및 노르웨이 포함) 외부 국가로의 EU 고객 개인 데이터 전송을 규제합니다. EU 모델 조항은 서비스 공급자(예: Microsoft)와 고객 간의 계약에 사용되는 표준화된 계약 조항으로, EEA에서 외부로 전송되는 모든 개인 데이터가 EU 데이터 보호법을 준수하는 방식으로 전송되고 EU 데이터 보호 지침 95/46/EC의 요구 사항을 충족하도록 규정합니다.
-
-실무 수준에서 EU 데이터 보호법 준수는 고객이 EU 외부로의 개인 데이터 전송에 대해 개별 기관으로부터 거의 승인을 받을 필요가 없음을 의미합니다. 이는 대부분의 EU 회원국에서 전송이 모델 조항 준수 계약에 근거할 경우 추가 인증을 필요로 하지 않기 때문입니다.
+EU(유럽 연합) 데이터 보호법은 EEA(유럽 경제 지역)(모든 EU 국가와 아이슬란드, 리히텐슈타인 및 노르웨이 포함) 외부 국가로의 EU 고객 개인 데이터 전송을 규제합니다. 실무 수준에서 EU 데이터 보호법 준수는 고객이 EU 외부로의 개인 데이터 전송에 대해 개별 기관으로부터 거의 승인을 받을 필요가 없음을 의미합니다. 이는 대부분의 EU 회원국에서 전송이 모델 조항 준수 계약에 근거할 경우 추가 인증을 필요로 하지 않기 때문입니다.
 
 ## <a name="microsoft-and-european-union-model-clauses"></a>Microsoft 및 유럽 통합 모델 조항
 
@@ -71,10 +69,6 @@ Microsoft는 EU 표준을 지속적으로 평가하고 필요 시 서비스를 �
 
 ## <a name="frequently-asked-questions"></a>자주하는 질문
 
-**EU 데이터 보호 지침 95/46/EC란 무엇인가요?**
-
-이 지침은 EU의 개인 데이터 취급 기준입니다. 이 규정은 Microsoft가 EU에서 외부로 개인 데이터를 전송하는 데 기반이 되는 규제 프레임워크를 제공합니다. 이 지침과 계약 협정에 따라, Microsoft는 고객 데이터의 데이터 처리자로 활동합니다. 고객은 EEA 외부에서의 처리를 위해 데이터를 합법적으로 Microsoft로 전송할 책임과 최종 소유권을 보유한 데이터 제어자로 활동합니다.
-
 **모델 조항을 준수하는 것이 중요한 이유는 무엇인가요?**
 
 모델 조항을 준수하겠음을 계약상으로 약속하는 서비스 공급자는 개인 데이터가 EU 데이터 보호법에 준하여 전송 및 처리됨을 고객에게 보증하는 것입니다. 모델 조항의 사용은 고객이 EU 외부로의 개인 데이터 전송에 대해 개별 데이터 보호 기관으로부터 거의 승인을 취득할 필요가 없음을 의미합니다.
@@ -93,6 +87,7 @@ Microsoft는 EU 표준을 지속적으로 평가하고 필요 시 서비스를 �
 
 ## <a name="resources"></a>리소스
 
+- [Azure 규정 준수 문서](/azure/compliance/)
 - [EU 표준 조직](https://eur-lex.europa.eu/)
 - [EU 모델 조항](https://aka.ms/EU-model_clauses)
 - [EU 데이터 보호 지침](https://aka.ms/EU-DPD)

@@ -28,7 +28,7 @@ highlightedContent:
       url: /learn/paths/compmgmt/
     - title: 규정 준수 Microsoft 365 가이드 시작
       itemType: get-started
-      url: /microsoft-365/solutions/information-protection-deploy
+      url: /microsoft-365/solutions/
 productDirectory:
   title: 규제 & 산업 규정 준수
   summary: 국내 표준 및 규정을 준수하는 산업 영역 및 국제 & Microsoft 지침입니다.
