@@ -17,30 +17,18 @@ metadata:
   ms.date: 11/30/2020
 highlightedContent:
   items:
-    - title: Microsoft 365 규정 준수를 시작하기 위한 빠른 작업
-      itemType: get-started
-      url: /microsoft-365/compliance/compliance-quick-tasks
-    - title: 데이터 개인 정보 규정을 위한 정보 보호 배포
-      itemType: get-started
-      url: /microsoft-365/solutions/information-protection-deploy
-    - title: 클라우드의 공유 책임에 대해 자세히 알아보기
-      itemType: overview
-      url: /azure/security/fundamentals/shared-responsibility
     - title: Microsoft가 고객 데이터를 보호하는 방법 알아보기
       itemType: learn
       url: /learn/paths/audit-safeguard-customer-data/
+    - title: 클라우드의 공유 책임에 대해 자세히 알아보기
+      itemType: overview
+      url: /azure/security/fundamentals/shared-responsibility
     - title: Microsoft 준수 관리자에 대해 자세히 알아보시고
       itemType: learn
       url: /learn/paths/compmgmt/
-    - title: Microsoft 365에서 내부 위험 관리
-      itemType: learn
-      url: /learn/paths/m365-compliance-insider/
-    - title: 정보 보호 및 거버넌스 관리
-      itemType: learn
-      url: /learn/paths/m365-compliance-information/
-    - title: 자세한 Advanced eDiscovery 및 고급 감사
-      itemType: learn
-      url: /learn/paths/compliance-discover/
+    - title: 규정 준수 Microsoft 365 가이드 시작
+      itemType: get-started
+      url: /microsoft-365/solutions/information-protection-deploy
 productDirectory:
   title: 규제 & 산업 규정 준수
   summary: 국내 표준 및 규정을 준수하는 산업 영역 및 국제 & Microsoft 지침입니다.

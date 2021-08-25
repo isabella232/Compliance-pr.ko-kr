@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6957f3e1c93dd73821456bc45ef1d8e2e12681a0
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 0ec79c5be17018f8b01eb3d938b65392b021ce77
+ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482241"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505951"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>FERPA(가족 교육권 및 개인 정보 보호법)
 
@@ -35,27 +35,24 @@ FERPA(가족 교육권 및 개인 정보 보호법)는 개인 식별 및 디렉�
 
 ## <a name="microsoft-and-ferpa"></a>Microsoft 및 FERPA
 
-FERPA는 감사 또는 기타 인증을 요구하거나 인식하지 않습니다. 따라서 FERPA가 적용된 교육 기관은 클라우드 서비스 사용이 FERPA 요구 사항을 준수하는 능력에 어떤 영향을 주는지 자체적으로 평가해야 합니다. 그러나 Microsoft는 규정 준수를 보장하는 다음과 같은 계약 약정을 체결했습니다.
-
-- 온라인 서비스 [약관에서](https://aka.ms/Online-Services-Terms)Microsoft는 FERPA에 정의된 고객 데이터에서 '적법한 교육적 관심사'를 사용하여 '학교 공무원'으로 지정되는 데 동의합니다. 고객 데이터에는 학교에서 Microsoft 클라우드 서비스를 사용하여 제공된 학생 레코드가 포함됩니다. 학생 교육 기록을 처리할 때 Microsoft는 학교 공무원과 34 CFR 99.33(a)에 의해 부과되는 제한 사항 및 요구 사항을 준수하는 데 동의합니다.
-- 또한 Microsoft는 클라우드 서비스와 호환되는 목적(예: 맬웨어 검색 개선)을 조직에 제공하기 위해 고객 데이터를 사용하며 광고에 대한 고객 데이터를 마이킹하지 않습니다.
-- 또한 Microsoft는 계약에 설명된 바와 같이 또는 법률에 따라 교육 기관이 지시하는 경우를 제외하고 고객 데이터를 공개하지 않을 계약을 체결합니다. Microsoft 클라우드 서비스를 사용하여 교육 기록을 Microsoft에 제공하는 학교는 해당 기록에 사용 및 공개와 관련하여 엄격한 계약 제한이 적용될 수 있습니다.
-
-이러한 계약 약정의 결과, 교육 기관 및 중요한 학생 데이터에 대한 액세스 권한을 부여하는 제3자인 FERPA가 적용된 고객은 범위 내 Microsoft 비즈니스 클라우드 서비스를 사용하여 해당 데이터를 처리, 저장 및 전송할 수 있습니다.
+FERPA는 감사 또는 기타 인증을 요구하거나 인식하지 않습니다. 따라서 FERPA가 적용된 교육 기관은 클라우드 서비스 사용이 FERPA 요구 사항을 준수하는 능력에 어떤 영향을 주는지 자체적으로 평가해야 합니다. 온라인 서비스 약관 [](https://aka.ms/DPA) DPA(데이터 보호 부록)에서 Microsoft는 FERPA에 정의된 고객 데이터에서 '적법한 교육적 관심사'를 사용하여 '학교 공무원'으로 지정되는 데 동의합니다. 고객 데이터에는 학교의 Azure 사용을 통해 제공된 학생 레코드가 포함됩니다. 학생 교육 기록을 처리할 때 Microsoft는 학교 공무원과 34 CFR 99.33(a)에 의해 부과되는 제한 사항 및 요구 사항을 준수하는 데 동의합니다.  Microsoft는 Azure 고객이 FERPA 규정 준수 요구 사항을 충족하도록 지원하기 위한 지침 설명서를 게시했습니다.
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 Microsoft가 고객 데이터에서 '적법한 교육적 관심사'를 사용하여 '학교 공무원'으로 지정되는 데 동의하는 서비스는 다음과 같습니다.
 
-- Azure
+- Azure 및 Azure Government
 - Azure DevOps Services
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365, Office 365, 미국, Office 365- 고위 및 Office 365 국방부
 
-## <a name="azure-dynamics-365-and-ferpa"></a>Azure, Dynamics 365 및 FERPA
+## <a name="azure-guidance-documents"></a>Azure 지침 문서
 
-Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자세한 내용은 [Azure FERPA 서비스를 참조하세요.](/azure/compliance/offerings/offering-ferpa)
+다음 문서를 다운로드하여 FERPA 규정 준수 요구 사항을 충족할 수 있습니다.
+
+- [Azure용 FERPA 구현 가이드](https://azure.microsoft.com/resources/microsoft-azure-ferpa-implementation-guide/)
+- [Azure FERPA 준수 프레임워크 매핑](https://aka.ms/AzureFERPAMapping)
 
 ## <a name="office-365-and-ferpa"></a>Office 365 및 FERPA
 
@@ -84,10 +81,9 @@ FERPA는 감사 또는 인증을 요구하거나 인식하지 않습니다.
 
 이 미국 연방법은 학생 교육 기록의 개인 정보 보호를 규정합니다. 또한 학부모 및 적격 학생에게 해당 레코드에 대한 액세스 권한과 이를 수정할 수 있는 권한 및 제3자에 대한 레코드 릴리스와 관련된 특정 권한을 제공합니다.
 
-**FERPA에 대한 자세한 내용은 어디에서 찾을 수 있나요?**
+**COPPA 및 CIPA는 Azure에 어떤 규정 준수를 의미하나요?**
 
-- [연방 등록: FERPA 최종](https://aka.ms/ferpa-reg) 규칙(2011년 12월)
-- [부모를 위한 FERPA 일반 지침](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/parents.html)
+COPPA 및 CIPA는 어린이의 개인 정보를 보호하기 위한 추가 법률입니다. 그러나 Azure에 직접 적용할 수 없습니다. COPPA(아동 온라인 개인 정보 보호법)는 13세 미만 아동의 개인 정보를 보호하기 위해 제정된 미국 연방법입니다. FTC(연방 거래 위원회)에서 관리합니다. COPPA는 어린이를 위한 웹 사이트 및 온라인 서비스에 적용하며, 이러한 사이트 및 서비스는 어린이에 속한 개인 정보의 수집 및 사용에 대해 부모의 동의가 필요하게 하여 이를 준수해야 합니다. CIPA(아동 인터넷 보호법)는 인터넷을 통해 유해한 콘텐츠에 대한 어린이의 액세스에 대한 우려를 해결하기 위해 제정된 것입니다. FCC(연방 통신 위원회)는 CIPA를 구현하는 규칙과 CIPA가 적용된 학교 및 라이브러리에 대한 요구 사항을 정의했습니다. Azure 채택 컨텍스트에서 COPPA 및 CIPA에 대해 문의하는 고객은 고객이 Microsoft 온라인 서비스 사용에 대한 부모 동의를 얻어야 한다고 설명하는 온라인 서비스 약관 [DPA의](https://aka.ms/DPA) 교육 기관 섹션을 검토해야 합니다.
 
 ### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft 준수 관리자를 사용하여 위험 평가
 
@@ -95,8 +91,11 @@ FERPA는 감사 또는 인증을 요구하거나 인식하지 않습니다.
 
 ### <a name="resources"></a>리소스
 
+- [Azure 규정 준수 문서](/azure/compliance/)
+- [Azure는 규정 준수를 위한 세계를 가능하게 합니다.](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
 - [가족 교육권 및 개인 정보 보호법](https://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html)
 - [연방 규정 전자 규약: FERPA](https://aka.ms/FERPA-GPO)
-- [연방 등록: FERPA 최종 규칙](https://aka.ms/ferpa-reg)
-- [Microsoft 온라인 서비스 사용 약관](https://aka.ms/Online-Services-Terms)
-- [Microsoft 보안 센터에 대한 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- Microsoft Online Services 용어 [데이터 보호 부록](https://aka.ms/DPA)
+- [FERPA(가족 교육권 및 개인 정보 보호법)](https://www.ecfr.gov/cgi-bin/text-idx?tpl=/ecfrbrowse/Title34/34cfr99_main_02.tpl)
+- [연방 등록: FERPA 최종 규칙](https://www.govinfo.gov/content/pkg/FR-2011-12-02/pdf/2011-30683.pdf)
+- [미국 교육부 FERPA 방문 페이지](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html)

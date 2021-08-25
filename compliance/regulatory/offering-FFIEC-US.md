@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1c2d1167a68362be700a7cf39cf2cdd7bf61ca97
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 7cdc024d19ce0753d3d0c0e5cf45b6276939d6f2
+ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482693"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505901"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>FFIEC(연방 금융 기관 검사 위원회)
 
@@ -33,11 +33,16 @@ FFIEC(연방 금융 기관 검사 위원회)는 미국의 금융 기관에 대�
 
 ## <a name="microsoft-and-ffiec"></a>Microsoft 및 FFIEC
 
-Microsoft Azure Microsoft Power BI 및 Microsoft Office 365 금융 서비스 기관을 위한 클라우드 서비스 제공의 엄격한 요구 사항을 충족하기 위해 구축되었습니다. 지원의 일환으로, 당사는 정보 기술에 대한 FFIEC 감사 요구 사항 및 FFIEC 준수 의무를 준수할 때 Azure SOC 의증을 사용하는 기능을 준수하는 데 도움이 되는 지침을 제공합니다.
+Microsoft Azure Microsoft Power BI 및 Microsoft Office 365 금융 서비스 기관에 클라우드 서비스를 제공하는 엄격한 요구 사항을 충족하기 위해 구축되었습니다. Azure는 금융 기관에 SOC 1 유형 2, SOC 2 유형 2 및 고객이 자체 FFIEC 규정 준수 의무를 충족하는 데 도움을 줄 수 있도록 독립적인 감사 회사에서 생성한 SOC 3 확증 보고서를 제공합니다. 예를 들어 [SOC 1 유형 2는](./offering-soc-1.md) 다음에 따라 수행됩니다.
 
-금융 기관 클라이언트가 Azure를 통해 FFIEC 규정 준수 요구 사항을 충족하도록 지원하기 위해 Microsoft는 FFIEC 규제 서비스 워크로드에 대한 Azure 보안 및 규정 준수 청사진을 [개발했습니다.](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint) Azure 클라우드 서비스 사용에 대한 지침과 FFIEC 요구 사항 및 위험 평가 지침을 준수하는 고객 고려 사항을 제공합니다.
+- SSAE No. 18, 증명 표준: 명확화 및 재집성(AT-C 320조 포함), *재무 보고에 관한 사용자 업체의 내부 컨트롤과 관련된 서비스 조직의 컨트롤 조사에 관한 보고*(AICPA, 전문 표준)
+- 재무 보고에 관한 사용자 업체의 내부 컨트롤과 관련된 서비스 조직의 컨트롤 조사에 관한 SOC 1 보고(AICPA 가이드).
 
-FFIEC 요구 사항을 더 준수하는 데 도움이 될 수 있도록 Microsoft 클라우드 서비스는 독립적인 CPA 회사에서 생성한 [SOC](offering-SOC.md) 확증 보고서를 제공합니다. 예를 들어 SOC 1 유형 2는 SAS 70을 대체한 AICPA SSAE 18 표준(AT-C 섹션 105 참조)을 기반으로 하여 재무 보고를 위한 특정 컨트롤에 대한 보고에 적절합니다. SOC 보고서에는 지정된 모니터링 기간 동안 관련 제어 목표를 달성하는 데 대한 Microsoft 컨트롤의 효과에 대한 감사자 의견이 포함됩니다. 금융 기관은 Azure, Power BI 및 배포된 자산에 대한 FFIEC 관련 규정 준수 의무를 준수하는 경우 이 공식적인 감사를 Office 365.
+AICPA SSAE 18 표준은 SAS 70을 대체하며, 재무 보고에 대한 사용자 엔터티 내부 제어와 관련된 서비스 조직의 컨트롤에 대한 보고에 적절합니다. 이는 금융 기관이 Azure에 배포된 자산에 대한 자체 FFIEC 특정 규정 준수 의무를 추구할 때 기술 서비스 공급자의 타사 검토를 활용할 수 있는 공식 감사입니다. 여기에는 지정된 모니터링 기간 동안 관련 제어 목표를 달성하기 위한 제어 효율성에 대한 감사자 의견이 포함됩니다.
+
+또한 Azure는 금융 기관이 Azure 서비스를 기준으로 수행하려는 위험 평가를 Excel 위한 Excel 기반의 클라우드 보안 진단 도구를 개발했습니다. 이 도구는 FFIEC IT 검사 핸드북을 포함하여 관련 표준 및 금융 서비스 관련 규정에 설정된 요구 사항을 식별하는 19개의 개별 도메인이 있는 스프레드시트를 기반으로 합니다.  위험 평가 도구는 Azure가 클라우드 서비스 공급자에 적용되는 요구 사항을 준수하는 방법에 대한 설명으로 미리 채워지며, 고객이 자체 FFIEC 규정 준수 요구 사항을 충족하도록 지원할 수 있습니다.
+
+또한 고객이 Azure 서비스 사용에 대한 지침과 FFIEC 요구 사항을 준수하기 위한 고려 사항을 제공하는 Azure FFIEC 클라우드 보안 진단 통합 문서 도우미도 제공됩니다.
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
@@ -46,9 +51,12 @@ FFIEC 요구 사항을 더 준수하는 데 도움이 될 수 있도록 Microsof
 - Office 365 Office 365 미국 정부
 - Power BI 클라우드 서비스(독립 실행형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태)
 
-## <a name="azure-dynamics-365-and-ffiec"></a>Azure, Dynamics 365 및 FFIEC
+## <a name="azure-guidance-documents"></a>Azure 지침 문서
 
-Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자세한 내용은 [Azure FFIEC 서비스를 참조하세요.](/azure/compliance/offerings/offering-ffiec-us)
+클라우드 채택에 대한 FFIEC 감독을 준수하는 금융 기관을 지원하기 위해 Microsoft는 서비스 신뢰 포털 데이터 보호 리소스 [-](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3) 규정 준수 가이드 섹션에서 다운로드할 수 있는 다음 지침 문서를 게시했습니다.
+
+- Azure - 클라우드 보안 진단 도구
+- Azure - FFIEC 클라우드 보안 진단 통합 문서 도우미
 
 ## <a name="office-365-and-ffiec"></a>Office 365 및 FFIEC
 
@@ -79,17 +87,18 @@ SOC Office 365 보고서를 참조합니다.
 
 [Microsoft 준수 관리자](/microsoft-365/compliance/compliance-manager)는 조직의 준수 입장을 이해하고 위험을 줄이기 위한 조치를 취하도록 돕는 [Microsoft 365 규정 준수 센터](/microsoft-365/compliance/microsoft-365-compliance-center)의 기능입니다. 준수 관리자는 이 규제에 대한 평가를 빌드하기 위한 프리미엄 서식 파일을 제공합니다. 준수 관리자의 **평가 서식 파일** 페이지에서 서식 파일을 찾습니다. [준수 관리자의 평가 빌드](/microsoft-365/compliance/compliance-manager-assessments) 방법에 대해 알아봅니다.
 
-### <a name="resources"></a>리소스
+## <a name="resources"></a>리소스
 
 - [FFIEC(연방 금융 기관 검사 위원회)](https://www.ffiec.gov/)
 - [미국의 클라우드 컴퓨팅 및 규제 원칙의 규정 준수 맵](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 - [FFIEC 감사 IT 검사 핸드북](https://ithandbook.ffiec.gov/it-booklets/audit.aspx)
 - [FFIEC 아웃소싱 기술 서비스 IT 검사 핸드북](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx)
 
-### <a name="other-microsoft-resources-for-financial-services"></a>금융 서비스에 대한 기타 Microsoft 리소스
+## <a name="other-microsoft-resources-for-financial-services"></a>금융 서비스에 대한 기타 Microsoft 리소스
 
-- [Microsoft 금융 서비스 준수 프로그램](https://www.microsoft.com/download/details.aspx?id=55332)
-- [Azure에서의 금융 서비스 규정 준수](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Microsoft 비즈니스 클라우드 서비스 및 금융 서비스](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
-- [클라우드 컴퓨팅에 대한 공동 책임](https://aka.ms/sharedresponsibility)
-- [Microsoft 보안 센터에 대한 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Azure 규정 준수 문서](/azure/compliance/)
+- [Azure는 규정 준수를 위한 세계를 가능하게 합니다.](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [Microsoft 클라우드 금융 서비스 리소스](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
+- [Microsoft 클라우드 금융 서비스 준수 프로그램](https://aka.ms/FSCP-Print)
+- [Microsoft 클라우드의 금융 기관을 위한 위험 평가 및 규정 준수 가이드](https://azure.microsoft.com/resources/risk-assessment-and-compliance-guide-for-financial-institutions-in-the-microsoft-cloud-/)
+- [금융 서비스 산업 사용 사례](/azure/industry/financial/)

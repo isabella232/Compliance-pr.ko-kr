@@ -16,20 +16,20 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9b5b9b3a1e398c804aad7f7a42a0b2770de20525
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 375f7a58db675f3f14bd98ff580919ef40f603f1
+ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482853"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505891"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act of 2002(SOX)
 
 ## <a name="sox-overview"></a>SOX 개요
 
-200 Exchange 2년 Sarbanes-Oxley법은 SEC(증권거래위원회)에서 관리하는 미국 연방법입니다. SOX는 재무제표가 재무 결과를 정확하게 반영하는지 검사하기 위해 공개적으로 거래하는 기업에 적절한 내부 통제 구조를 요구합니다.
+[SOX(Sarbanes-Oxley Act of 2002)는](https://www.congress.gov/bill/107th-congress/house-bill/3763) SEC(Securities [and Exchange Commission)에서](https://www.sec.gov/) 관리하는 미국 연방법입니다. 무엇보다 SOX를 사용하려면 공개적으로 거래하는 기업이 재무제표에 재무 결과를 정확하게 반영하는지 확인할 수 있는 적절한 내부 통제 구조를 정비해야 합니다. SOX는 특히 재무 보고를 위한 제어와 함께 고객의 내부 프로세스에 의해 크게 영향을 미치게 됩니다. 예를 들어 SOX 요구 사항에는 재무 제표의 준비 및 검토를 위한 내부 고객 제어, 특히 재무 보고와 관련된 재료 변경의 정확성, 완전성, 효율성 및 공개에 영향을 주는 제어가 수반됩니다.
 
-SEC는 SOX 인증 프로세스를 정의하거나 부과하지 않습니다. 대신 SOX 보고 요구 사항을 준수하는 방법을 결정하기 위해 규제하는 회사에 대한 광범위한 지침을 제공합니다.
+SEC는 SOX 인증 프로세스를 정의하거나 부과하지 않습니다. 대신, SOX 보고 요구 사항을 준수하는 방법을 결정하기 위한 공개 상거래 회사에 대한 광범위한 지침을 제공합니다.
 
 ## <a name="microsoft-and-sox"></a>Microsoft 및 SOX
 
@@ -51,7 +51,16 @@ Microsoft는 고객과 규정 준수의 책임을 공유합니다. 인증된 제
 
 ## <a name="azure-dynamics-365-and-sox"></a>Azure, Dynamics 365 및 SOX
 
-Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자세한 내용은 Azure SOX 서비스를 [참조하세요.](/azure/compliance/offerings/offering-sox-us)
+클라우드 채택이 까다로움에 따라 더 많은 고객이 SOX 준수 의무가 적용된 응용 프로그램 및 작업을 클라우드로 마이그레이션하는 방법을 탐색하고 있습니다. 클라우드 서비스 공급자에 대한 SOX 인증 또는 유효성 검사가 없는 경우에도 Azure는 SOX 의무를 충족하는 데 도움을 줄 수 있습니다.
+
+SOX 준수 의무가 적용될 경우 다음에 따라 수행되는 Azure [SOC 1 유형 2 의](./offering-soc-1.md)를 검토해야 합니다.
+
+- SSAE No. 18, 증명 표준: 명확화 및 재집성(AT-C 320조 포함), *재무 보고에 관한 사용자 업체의 내부 컨트롤과 관련된 서비스 조직의 컨트롤 조사에 관한 보고*(AICPA, 전문 표준)
+- 재무 보고에 관한 사용자 업체의 내부 컨트롤과 관련된 서비스 조직의 컨트롤 조사에 관한 SOC 1 보고(AICPA 가이드).
+
+AICPA SSAE 18 표준은 SAS 70을 대체하며, 재무 보고에 대한 사용자 엔터티 내부 제어와 관련된 서비스 조직의 컨트롤에 대한 보고에 적절합니다. Azure에 배포된 자산에 대한 업계별 규정 준수 의무를 이행할 때 기술 서비스 공급자의 타사 검토를 위해 사용할 수 있는 공식 감사입니다. 여기에는 지정된 모니터링 기간 동안 관련 제어 목표를 달성하기 위한 제어 효율성에 대한 감사자 의견이 포함됩니다.
+
+또한 Azure는 [](https://azure.microsoft.com/resources/microsoft-azure-guidance-for-sarbanes-oxley-sox/) 자체 SOX 준수 의무를 해결할 때 Azure의 기존 규정 준수 보고서를 사용하는 데 도움이 되는 지침 설명서를 작성했습니다. SOX 관련 응용 프로그램을 Azure로 마이그레이션하는 내부 Microsoft 환경을 제공합니다. 또한 이 지침은 SOX 규정 준수의 의미, 공개적으로 사용 가능한 두 사례 연구에 대한 검토, Microsoft 내부 마이그레이션 프로젝트에서 얻은 교훈을 포함하여 마이그레이션 모범 사례를 제공합니다.
 
 ## <a name="office-365-and-sox"></a>Office 365 및 SOX
 
@@ -83,7 +92,14 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 
 ### <a name="resources"></a>리소스
 
-- [Microsoft 금융 서비스 준수 프로그램](https://www.microsoft.com/download/details.aspx?id=55332)
-- [Microsoft 비즈니스 클라우드 서비스 및 금융 서비스](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
-- [클라우드 컴퓨팅에 대한 공동 책임](https://aka.ms/sharedresponsibility)
+- [Azure 규정 준수 문서](/azure/compliance/)
+- [Azure는 규정 준수를 위한 세계를 가능하게 합니다.](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [Microsoft 365 규정 준수 제품](/compliance/regulatory/offering-home)
 - [Microsoft 보안 센터에 대한 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Sarbanes-Oxley Act of 2002(SOX)](https://www.congress.gov/bill/107th-congress/house-bill/3763)
+- [SEC(증권 Exchange 위원회)](https://www.sec.gov/)
+- [Microsoft 클라우드 금융 서비스 리소스](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
+- [Microsoft 클라우드 금융 서비스 준수 프로그램](https://aka.ms/FSCP-Print)
+- [클라우드 컴퓨팅 규정 원칙 및 Microsoft 온라인 서비스의 규정 준수 맵](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- [Microsoft 클라우드의 금융 기관을 위한 위험 평가 및 규정 준수 가이드](https://azure.microsoft.com/resources/risk-assessment-and-compliance-guide-for-financial-institutions-in-the-microsoft-cloud-/)
+- [금융 서비스 산업 사용 사례](/azure/industry/financial/)

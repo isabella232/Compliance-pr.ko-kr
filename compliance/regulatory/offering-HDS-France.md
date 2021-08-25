@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: aea00230d5f34c2e682aa278ab5dc6ca062fa803
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: f8c99a93cac767439d157a7d709c7ed1d706c113
+ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482481"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505941"
 ---
 # <a name="health-data-hosting-hds-france"></a>건강 데이터 호스팅 (HDS) 프랑스
 
@@ -48,7 +48,11 @@ Microsoft에서 개인 건강 데이터를 보호하고 기밀을 보호하기 �
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
-- [Azure](https://aka.ms/AzureCompliance). HDS 인증서는 Azure 규정 준수 제품의 ISO/IEC 27001 표준을 준수하는 것으로 나열된 Azure 서비스에 적용되며 프랑스 중부, 프랑스 남부, 유럽 서부 및 유럽 북부 Azure 지역에서 프로비저닝됩니다.
+- [Azure](https://aka.ms/AzureCompliance). HDS 인증서는 Azure 규정 준수 제품의 ISO/IEC 27001 표준을 준수하는 것으로 나열되고 다음 지역에 프로비전된 Azure 서비스에 적용됩니다.
+    - 프랑스 중부(파리)
+    - 프랑스 남부(핀란드)
+    - 북유럽(아일랜드)
+    - 서유럽(네덜란드)
 - Dynamics 365. HDS 인증서는 프랑스 및 유럽 연합 지역에서 프로비저닝된 Dynamics 365 [핵심 온라인 서비스](https://aka.ms/Online-Services-Terms)에 적용됩니다.
 - Intune
 - Microsoft 365. HDS 인증서는 프랑스 및 유럽 연합 지역에서 프로비저닝된 Office 365 [핵심 온라인 서비스](https://aka.ms/Online-Services-Terms)에 적용됩니다.
@@ -58,10 +62,7 @@ HDS 인증서는 미리보기 또는 시험판의 Microsoft 온라인 서비스�
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 
-HDS 인증은 3년간 유효합니다.
-
-- HDS: 2018: [ASIP SANTÉ](https://esante.gouv.fr/)
-- [BSI 그룹](https://www.bsigroup.com/fr-FR/Nos-services/Certification/Recherche-dans-le-repertoire-des-certificats-et-des-clients/Resultats-de-la-recherche-dans-le-repertoire-des-certificats-et-des-clients/?searchkey=licence%3dHDS%2b701569%26company%3dMicrosoft%2bCorp&licencenumber=HDS%20701569)
+[HDS 인증](https://esante.gouv.fr/labels-certifications/hebergement-des-donnees-de-sante)은 중요한 데이터의 기밀성과 무결성이 적절하게 보호되도록 호스팅 서비스 및 클라우드 공급자에 고급 보안 및 개인 정보 보호 요구 사항을 부과합니다. Microsoft 클라우드 서비스(Azure 포함)는 [HDS 인증 호스트의 ASIP Santé 목록](https://esante.gouv.fr/labels-certifications/hds/liste-des-herbergeurs-certifies)에 표시된 대로 HDS 인증을 받았습니다.
 
 ## <a name="how-to-implement"></a>구현 방법
 
@@ -70,6 +71,7 @@ HDS 인증은 3년간 유효합니다.
 
 ## <a name="resources"></a>리소스
 
+- [Azure 규정 준수 문서](/azure/compliance/)
 - [Microsoft 온라인 서비스 사용 약관](https://aka.ms/Online-Services-Terms)
 - [Microsoft HDS 인증 블로그](https://news.microsoft.com/2018/11/06/microsoft-1er-acteur-majeur-du-cloud-public-a-etre-certifie-hebergeur-de-donnees-de-sante-en-france/)
 - [Azure France](https://azure.microsoft.com/global-infrastructure/france/)
