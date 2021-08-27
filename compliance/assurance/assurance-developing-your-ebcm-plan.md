@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 71e84ad97c560cd90b8ba49a1c568dd70fd516f5
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 6a44866d5c82ffa93e6c3c0d9c0ece3946651bd2
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482071"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676787"
 ---
 # <a name="developing-your-business-continuity-plan"></a>비즈니스 연속성 계획 개발
 
@@ -83,7 +83,7 @@ ms.locfileid: "58482071"
 비즈니스 프로세스를 인벤토리에 포함하고 다른 프로세스 및 기술에 대한 관계를 매핑한 후 모든 프로세스에 대한 유효성 검사 시나리오를 작성해야 합니다. 기본적으로 비즈니스 프로세스 연속성 계획의 유효성을 검사하는 방법에 대해 알아보세요. 일부는 다른 것보다 더 중요하므로, 그에 대해 우선 순위를 지정하는 것이 좋습니다.
 계획이 수립되면 사고 대응 및 연속성 조치에 대한 직원 교육을 정기적으로 실시하는 것이 중요합니다. 사후 검토를 사용하여 각 유효성 검사 또는 테스트의 학습을 통합하여 복원력 전략을 강화해야 합니다.
 
-![기능 유효성 검사 visio](../media/capability-validation-visio.png)
+![capability validation visio.](../media/capability-validation-visio.png)
 
 ## <a name="incident-coordination-and-communication"></a>사고 조정 및 통신
 

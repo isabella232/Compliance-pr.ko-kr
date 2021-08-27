@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ae5177f524fd8f2025198aa5155821f4aa759050
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 8be83f6faa3d365e2cb91c996e2c87367797670f
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481770"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678597"
 ---
 # <a name="risk-management-overview"></a>리스크 관리 개요
 
@@ -35,7 +35,7 @@ ms.locfileid: "58481770"
 
 Microsoft의 위험 관리는 Enterprise ERM(위험 관리) 프레임워크에 부합합니다. ERM을 사용하면 전반적인 엔터프라이즈 위험 관리 프로세스가 가능하며 기업 전체의 관리와 협력하여 Microsoft의 가장 중요한 위험에 대한 책임을 식별하고 보장합니다.
 
-![위험 관리 구조](../media/assurance-risk-management-structure.png)
+![위험 관리 구조.](../media/assurance-risk-management-structure.png)
 
 Microsoft ERM은 기업 전체에서 일반적인 위험 관리 원칙을 가능하게 하여 사업부가 일관되고 비교적인 위험 평가를 독립적으로 지원할 수 있도록 합니다. 이러한 조정을 통해 Microsoft는 관리에 대한 통합된 방식으로 위험 정보를 집계하고 보고할 수 있습니다. ERM은 Microsoft의 사업부에 위험 관리 프로세스에 대한 일반적인 방법론, 도구 및 목표를 제공합니다. Microsoft 365 및 기타 엔지니어링 그룹 및 사업부는 이러한 도구를 사용하여 ERM의 지침에 따라 자체 위험 관리 프로그램의 일부로 개별 위험 평가를 실시합니다.
 

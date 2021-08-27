@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 940e5a4aa0a1327da6d964d9babf0ae3fb897598
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: ff5860197375d6504bc85f257a442915dfff50cc
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481860"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678617"
 ---
 # <a name="attack-simulation-in-microsoft-365"></a>Microsoft 365의 공격 시뮬레이션
 
@@ -64,7 +64,7 @@ Red Team은 Microsoft의 인프라, 플랫폼 및 Microsoft 자체 테넌트 및
 
 Red Team의 역할은 적과 동일한 단계를 사용하여 환경을 공격하고 침투하는 것입니다.
 
-![위반 단계](../media/office-365-isolation-breach-stages.png)
+![위반 단계.](../media/office-365-isolation-breach-stages.png)
 
 특히 적색 팀은 격리 디자인에서 버그나 차이를 찾기 위해 테넌트 격리 경계를 위반하려고 합니다.
 
@@ -86,6 +86,6 @@ Red Team과 같은 적대적이 환경을 위반한 경우 Blue 팀은 다음을
 
 이러한 단계는 아래와 같이 사부와 평행하게 실행되는 보안 인시던트 대응을 구성합니다.
 
-![위반 대응 단계](../media/office-365-isolation-breach-response-stages.png)
+![위반 대응 단계.](../media/office-365-isolation-breach-response-stages.png)
 
 Red Team 침해를 통해 파랑 팀이 실제 공격을 종단으로 감지하고 대응하는 능력을 능동할 수 있습니다. 가장 중요한 점은 실제로 위반하기 전에 보안 인시던트 대응을 강화할 수 있는 것입니다. 또한 Red Team 위반으로 인하여 Blue 팀은 상황 인식을 향상합니다. 이는 향후 위반을 다를 때(레드 팀 또는 다른 적을 상대로 하여금) 유용한 정보입니다. 감지 및 응답 프로세스 전체에서 Blue 팀은 실행 가능한 인텔리전스를 생성하고 방어하려는 환경의 실제 조건에 대한 가시성을 확보합니다. 이는 자주 데이터 분석 및 포렌식을 통해 수행되는데, 이는 레드팀 공격에 대응하고 위협 지표(예: 손상 표시기)를 설정하여 Blue 팀에서 수행됩니다. Red 팀이 보안 스토리에서 공백을 식별하는 방법과 마찬가지로, 파란색 팀은 감지하고 대응할 수 있는 능력의 차이를 식별합니다. 또한 빨간색 팀이 실제 공격을 모델링하기 때문에 파란색 팀은 결정되고 지속적인 공격자에 대한 처리 능력 또는 능력에 대한 정확한 평가를 할 수 있습니다. 마지막으로, Red Team 위반은 위반 대응의 준비와 영향을 모두 측정합니다.

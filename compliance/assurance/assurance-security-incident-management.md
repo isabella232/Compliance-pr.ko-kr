@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: a35e6757d64dd0c2bffc1b1cbc62e23f524b8ac9
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: cb9d27f02ec53c98e2f00d3106f8e4be8798d78f
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481740"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678587"
 ---
 # <a name="microsoft-security-incident-management"></a>Microsoft 보안 인시던트 관리
 
@@ -63,7 +63,7 @@ Microsoft 온라인 서비스 보안 팀과 서비스 팀은 함께 작업하고
 - **포함, 지우기,** 복구: 이전 단계에서 수행한 분석에 따라 보안 인시던트가 포함하기 위해 필요한 적절한 작업을 참조합니다. 이 단계에서 보안 인시던트로부터 완전히 복구하기 위해 추가 분석이 필요한 경우도 있습니다.
 - **사후 인시던트 활동:** 보안 인시던트를 복구한 후 수행된 모의 후 분석을 참조합니다. 프로세스 중에 수행되는 운영 작업을 검토하여 준비 또는 검색 및 분석 단계에서 변경해야 하는지 여부를 검토합니다.
 
-![보안 인시던트 관리 단계](../media/assurance-sim-phases.png)
+![보안 인시던트 관리 단계.](../media/assurance-sim-phases.png)
 
 ## <a name="federated-security-response-model"></a>페더전된 보안 응답 모델
 

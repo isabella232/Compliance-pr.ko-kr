@@ -20,18 +20,18 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 9b152aedd872c43d58b248f846d5550117566442
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 82378b72d8dc17441a1ab92fc7ac222d7b9d4036
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481930"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678627"
 ---
 # <a name="isolation-and-access-control-in-microsoft-365"></a>2016년 8월 1일부로 Microsoft 365
 
 Azure Active Directory(Azure AD) 및 Microsoft 365 서비스, 수백 개의 엔터티, 수천 개의 관계 및 수만 개의 특성을 포함하는 매우 복잡한 데이터 모델을 사용 합니다. 높은 수준에서 Azure AD 및 서비스 감독은 테넌트 및 받는 사람의 컨테이너가 상태 기반 복제 프로토콜을 사용하여 동기화된 상태로 유지됩니다. Azure AD 내에 있는 디렉터리 정보 외에도 각 서비스 워크로드에는 자체 디렉터리 서비스 인프라가 있습니다.
  
-![Microsoft 365 데이터 동기화](../media/office-365-isolation-tenant-data-sync.png)
+![Microsoft 365 데이터 동기화를 저장합니다.](../media/office-365-isolation-tenant-data-sync.png)
 
 이 모델에는 디렉터리 데이터의 원본이 하나도 없습니다. 특정 시스템은 개별 데이터를 소유하지만 단일 시스템에서는 모든 데이터를 보유하지 않습니다. Microsoft 365 서비스는 이 데이터 모델에서 Azure AD와 협력합니다. Azure AD는 공유 데이터에 대한 "참 시스템"으로, 일반적으로 모든 서비스에서 사용하는 작고 정적 데이터입니다. Azure AD와 Azure AD에서 사용되는 Microsoft 365 공유 보기를 제공합니다.
 
@@ -47,7 +47,7 @@ Exchange Online 사서함에 고객 데이터를 저장하는 데 사용할 수 
 - 일정 및 약속이 있는/약속이 있는 정보
 - 연락처
 - 작업
-- 참고
+- 메모
 - 그룹
 - 유추 데이터
 

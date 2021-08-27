@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ed400fabf50cfcd7f02d9246bb4d552f62f26eef
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 56d28813cd5cf0d1f0e54ebe2f4c64b23e98d169
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481780"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678607"
 ---
 # <a name="microsoft-365-risk-management-program"></a>Microsoft 365 위험 관리 프로그램
 
@@ -37,7 +37,7 @@ Microsoft 365 보안 팀은 Microsoft 365 위험 관리 프로그램을 관리�
 
 위험 관리 활동은 식별, 평가, 대응, 모니터링 및 보고의 네 단계로 나타 집니다.
 
-![위험 관리 프로세스 활동](../media/assurance-risk-management-review-process.png)
+![위험 관리 프로세스 활동.](../media/assurance-risk-management-review-process.png)
 
 ## <a name="identification"></a>Identification
 

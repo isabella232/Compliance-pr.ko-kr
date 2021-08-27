@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 51c917585c8138a476e9aacd349c6dd46c545d2c140696ebfc4d0aee6f0a67cc
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: e340c0c21579bbae4294379bf2a2b3adae222cd5
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288167"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676777"
 ---
 # <a name="overview"></a>개요
 
@@ -20,11 +20,11 @@ ms.locfileid: "54288167"
 2. 편집할 페이지로 docs.microsoft.com.
 3. 페이지 오른쪽에서 편집(연필  아이콘)을 클릭합니다.
 
-   ![편집 단추의 docs.microsoft.com](compliance/media/quick-update-edit.png)
+   ![편집 단추의 docs.microsoft.com.](compliance/media/quick-update-edit.png)
 
 4. 이 파일의 해당 항목 GitHub 열립니다. 여기서 이  파일 연필 편집 아이콘을 클릭해야 합니다.
 
-   ![편집 단추의 github.com](compliance/media/quick-update-github.png)
+   ![편집 단추의 github.com.](compliance/media/quick-update-github.png)
 
 5. 이 항목은 줄 번호가 매기기 편집 페이지에서 열리며 파일을 변경할 수 있습니다. 파일의 GitHub Markdown 언어를 사용하여 작성 및 편집합니다. Markdown 사용에 대한 도움말은 [Markdown 마스터링을 참조합니다.](https://guides.github.com/features/mastering-markdown/) 변경 내용 **미리 보기** 탭을 선택하여 변경 내용을 볼 수 있습니다.
 
@@ -39,11 +39,11 @@ ms.locfileid: "54288167"
 
 7. 나타나는 **변경 내용** 비교 페이지에서 녹색 끌어오기 요청 만들기 **단추를** 클릭합니다.
 
-   ![변경 내용 비교 페이지](compliance/media/comparing-changes-page.png)
+   ![변경 내용 비교 페이지.](compliance/media/comparing-changes-page.png)
 
 8. **끌어오기 요청** 열기 페이지가 나타나면 녹색 끌어오기 요청 만들기 **단추를** 클릭합니다.
 
-   ![끌어오기 요청 페이지 열기](compliance/media/open-a-pull-request-page.png)
+   ![끌어오기 요청 페이지를 니다.](compliance/media/open-a-pull-request-page.png)
 
 > [!NOTE]
 > 리포지타이트의 사용 권한에 따라 마지막 몇 단계에 있는 모든 권한이 결정됩니다. 특별한 권한이 없는 사용자는 설명된 파일 변경 제안 섹션 및 후속 확인 페이지를 볼 수 있습니다.  자신의 끌어오기 요청을 만들고 승인할 권한이 있는  사람은 새 분기를 만들고 확인 페이지 수를 줄이기 위한 추가 옵션이 있는 유사한 변경 내용 커밋 섹션을 볼 수 있습니다.<br/><br/>지점은 더 이상 없습니다. 표시될 녹색 단추를 클릭합니다.

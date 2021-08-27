@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 5da29f30c9f6886ce047f4e3fd51669a2f510ca8
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 02df77f949cf1633017dd25f4cff17175c536d53
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481720"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676824"
 ---
 # <a name="sharepoint-and-onedrive-data-resiliency-in-microsoft-365"></a>Microsoft 365의 SharePoint 및 OneDrive 데이터 복원력
 
@@ -43,7 +43,7 @@ SharePoint 데이터 저장을 위한 사용자 지정 솔루션이 Azure Storag
 
 SharePoint 저장소를 Append-Only 않습니다. 이 프로세스를 통해 초기 저장 후 파일을 변경하거나 손상할 수 있지만 제품 내 버전 관리 기능을 사용하여 이전 버전의 파일 콘텐츠를 검색할 수 있습니다.
 
-![Blob 저장소 탄력성](../media/assurance-blob-storage-resiliency-diagram.png)
+![Blob 저장소 탄력성.](../media/assurance-blob-storage-resiliency-diagram.png)
 
 SharePoint 데이터 센터의 환경은 두 Azure 지역의 저장소 컨테이너에 액세스할 수 있습니다. 성능상의 이유로 동일한 로컬 데이터 센터의 저장소 컨테이너가 항상 선호됩니다. 그러나 원하는 임계값 내에서 결과를 볼 수 없는 읽기 요청에는 데이터가 항상 사용 가능하도록 원격 데이터 센터에서 요청한 콘텐츠가 동일하게 설정됩니다.
 
@@ -53,7 +53,7 @@ SharePoint 메타데이터는 사용자 콘텐츠에 액세스하는 데도 중�
 
 SharePoint Azure SQL 제공하는 복제 모델을 사용하며 장애 조치가 필요한지 결정하고 필요한 경우 작업을 시작하는 독점 자동화 기술을 구축했습니다. 따라서 Azure 데이터베이스 관점에서 '수동 데이터베이스 장애 조치(failover)' 범주에 SQL 있습니다. Azure SQL 데이터베이스 복구 가능성에 대한 최신 메트릭은 에서 사용할 수 [있습니다.](/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview#recover-a-database-to-the-existing-server)
 
-![메타데이터 탄력성](../media/assurance-metadata-resiliency-diagram.png)
+![메타데이터 탄력성.](../media/assurance-metadata-resiliency-diagram.png)
 
 SharePoint Azure SQL 시스템을 사용하여 최대 14일 동안 PITR(Point in Time Restores)을 사용하도록 설정할 수 있습니다. PITR에 대한 자세한 내용은 이후 [섹션에서 설명합니다.](#deletion-backup-and-point-in-time-restore)
 
