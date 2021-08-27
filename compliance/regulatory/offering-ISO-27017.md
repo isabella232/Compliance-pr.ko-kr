@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: efd0e2c90018c8fb32e39f83bdafa7f02bf0f230
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: b17c7629918bdf4386ad24d28c6cb6687728603c
+ms.sourcegitcommit: deff41bc5085d0da42c33dd6d1672be0724a067c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482933"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "58561356"
 ---
 # <a name="isoiec-270172015-code-of-practice-for-information-security-controls"></a>ISO/IEC 27017:2015 정보 보안 통제를 위한 규약
 
@@ -58,6 +58,7 @@ ISO/IEC 27017은 클라우드 서비스 공급자 및 클라우드 서비스 고
 - 독립 실행형 서비스 혹은 Office 365 혹은 Dynamics 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 PowerApps 클라우드 서비스
 - 독립 실행형 서비스 혹은 Office 365에 브랜딩된 플랜 또는 제품군에 포함된 형태로서의 Power BI 클라우드 서비스
 - Power BI Embedded
+- Windows 365
 
 ## <a name="azure-dynamics-365-and-iso-270172015"></a>Azure, Dynamics 365, ISO 27017:2015
 

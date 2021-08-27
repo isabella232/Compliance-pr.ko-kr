@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: af81575c0f33e0266efee32792eed85fd9f39cd3
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 4398f120af9f051c0255b63e25c7534f15b03c0f
+ms.sourcegitcommit: deff41bc5085d0da42c33dd6d1672be0724a067c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58483003"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "58561366"
 ---
 # <a name="isoiec-27018-code-of-practice-for-protecting-personal-data-in-the-cloud"></a>클라우드 내 개인 데이터 보호를 위한 ISO/IEC 27018 규약
 
@@ -64,6 +64,7 @@ ISO/IEC 27001 표준과 ISO/IEC 27018에 포함된 규약을 준수하는(이 �
 - Power BI가 포함됨
 - 파워 가상 에이전트
 - 엔드포인트용 Microsoft Defender: 엔드포인트 감지 및 대응, 자동 조사 및 조치, 보안 점수
+- Windows 365
 
 ## <a name="azure-dynamics-365-and-iso-isoiec-27018"></a>Azure, Dynamics 365 및 ISO ISO/IEC 27018
 
