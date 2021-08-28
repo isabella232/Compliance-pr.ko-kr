@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: e7434613707cec900506e85c5e61b6cd45c98d3c
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 42320db7a7f792e12cb255900c172083794d8070
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482371"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678667"
 ---
 # <a name="fasttrack-migration-toolset-for-submitting-delete-request"></a>삭제 요청 제출용 FastTrack 마이그레이션 도구 집합
 
@@ -49,9 +49,9 @@ Microsoft는 Windows 플랫폼 및 PowerShell 콘솔에서 이 도구 집합의 
 
 이 도구 집합은 PowerShell 콘솔 응용 프로그램의 PowerShell 갤러리에서 사용할 수 있습니다. cmdlet 모듈의 위치를 찾고 로드하려면 먼저 PowerShell을 관리자 모드로 열어서 모듈을 설치할 수 있는 적절한 권한을 획득합니다. 이전에 PowerShell을 사용하지 않은 경우 Windows 작업 막대로 이동하여 검색 상자에 “PowerShell”을 입력합니다. 마우스 오른쪽 단추를 사용하여 콘솔 앱을 선택하고 **관리자 권한으로 실행** 을 선택한 다음 **예** 를 클릭하여 Windows PowerShell을 실행합니다.
 
-![PowerShell — 관리자 권한으로 실행](../media/fasttrack-powershell_image.png)
+![PowerShell — 관리자 권한으로 실행합니다.](../media/fasttrack-powershell_image.png)
 
-![PowerShell — 앱을 변경할 수 있도록 허용](../media/fasttrack-run-powershell_image.png)
+![PowerShell — 앱을 변경할 수 있도록 허용합니다.](../media/fasttrack-run-powershell_image.png)
 
 이제 콘솔이 열려 있으므로 스크립트를 실행하려면 권한을 설정해야 합니다. 다음 명령을 입력하여 스크립트 실행을 허용하세요.
 
@@ -63,7 +63,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 
 ***실행 정책 설정***
 
-![PowerShell에서 실행 정책 변경 설정](../media/powershell-set-execution-policy_image.png)
+![PowerShell에서 실행 정책 변경 설정.](../media/powershell-set-execution-policy_image.png)
 
 이제 콘솔이 스크립트를 허용하도록 설정되었으므로 다음 명령을 실행하여 모듈을 설치합니다.
 

@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 0d48c7bc2c4b3b2dbfa8e4c102e22853c3ba5cc242cfebdf31ee4c6149f95756
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: f5b0acae758e149f2bfde5683a0b9f2c45f0db29
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293584"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676837"
 ---
 # <a name="office-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Office 365 데이터 주체 요청
 
@@ -206,7 +206,7 @@ pilar@contoso.com AND filetype="xlxs"
 
 ***GUI***
 
-![키워드 대화 상자 예 1](../media/O365-DSR-Doc_image18.png)
+![키워드 대화 상자 예 1.](../media/O365-DSR-Doc_image18.png)
 
 ##### <a name="example-2&quot;></a>예 2
 
@@ -218,7 +218,7 @@ pilar@contoso.com AND filetype="xlxs"
 
 ***GUI***
 
-![키워드 대화 상자 예 2](../media/O365-DSR-Doc_image19.png)
+![키워드 대화 상자 예 2.](../media/O365-DSR-Doc_image19.png)
 
 ##### <a name="example-3"></a>예 3
 
@@ -230,7 +230,7 @@ pilar@contoso.com AND filetype="xlxs"
 
 ***GUI***
 
-![키워드 대화 상자 예 3](../media/O365-DSR-Doc_image20.png)
+![키워드 대화 상자 예 3.](../media/O365-DSR-Doc_image20.png)
 
 #### <a name="working-with-partially-indexed-items-in-content-search"></a>콘텐츠 검색에서 부분적으로 인덱싱된 항목 사용
 
@@ -1470,7 +1470,7 @@ Delve에서 조직에 대한 처리를 제한하기 위해 Office Graph를 해�
 
 사용자는 Delve에서 다음 정보를 삭제할 수 있습니다.
 
-- **프로필 정보:** 사용자는 **나** \> **프로필 업데이트** 를 선택하여 프로필 정보를 삭제하고 자유 형식 텍스트를 삭제할 수 있습니다. 전체 주소 목록에서 조직의 설정에 따라 사용자는 이름 또는 직함과 같은 일부 프로필 정보를 삭제하지 못할 수도 있습니다.
+- **프로필 정보:** 프로필 정보를 삭제하려면 사용자는 **나** \> **프로필 업데이트** 를 선택하고 자유 형식 텍스트를 삭제하면 됩니다. 전체 주소 목록에서 조직의 설정에 따라 사용자는 이름 또는 직함과 같은 일부 프로필 정보를 삭제하지 못할 수도 있습니다.
 - **문서 및 전자 메일 첨부 파일:** 문서 또는 첨부 파일을 삭제하려면 사용자는 해당 문서 또는 첨부 파일이 저장된 서비스(예: SharePoint Online, 비즈니스용 OneDrive 또는 Exchange Online)로 이동하여 문서를 삭제해야 합니다.
 
 ### <a name="myanalytics"></a>MyAnalytics

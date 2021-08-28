@@ -15,12 +15,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: 40792e2ccb9f1ad9e987da7c9860301100005cff
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: f27986532de16c4a674f69148a662df20f1ac77f
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482351"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678657"
 ---
 # <a name="gdpr-for-office-web-apps-server-and-office-online-server"></a>Office Web Apps Server 및 Office Online Server GDPR
 
@@ -28,7 +28,7 @@ Office Online Server 및 Office Web Apps Server 원격 분석 데이터는 ULS �
 
 모든 로그 줄에는 CorrelationID가 있습니다. 관련된 로그 줄은 동일한 CorrelationID를 공유합니다. 각 CorrelationID는 단일 SessionID에 연결되고, 한 개의 SessionID는 많은 CorrelationID에 관련되어 있을 수 있습니다. 각 SessionID는 단일 UserID에 연결되어 있을 수 있지만 일부 세션은 익명으로 만들어져 연결된 UserID가 없을 수 있습니다. 그러므로 특정 사용자와 연결된 데이터를 확인하려면 단일 UserID에서 해당 사용자와 연결된 SessionID로 매핑하고, 이러한 SessionID에서 연결된 CorrelationID로 매핑하고, 이러한 CorrelationID에서 이러한 상관 관계에 있는 모든 로그로 매핑할 수 있습니다. 여러 ID 간의 관계는 아래 다이어그램을 참조하세요.
 
-![SessionID와 CorrelationId 사이의 관계를 보여 주는 순서도](../media/gdpr-for-office-online-server-image1.jpg)
+![SessionID와 CorrelationId 사이의 관계를 보여 주는 순서도.](../media/gdpr-for-office-online-server-image1.jpg)
 
 ## <a name="gathering-logs"></a>로그 수집
 
