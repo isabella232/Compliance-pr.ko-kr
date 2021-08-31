@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e5c253fe5a2b4995dffc7059717d74fecdc73935
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: addcf3852fda46989e75b18bd323d86aa1981d4e
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58479770"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707147"
 ---
 # <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>미국 FINRA(금융산업규제당국) 규칙 4511(c) 미국
 
@@ -41,7 +41,7 @@ Microsoft Azure 보존 잠금을 Storage Blob을 Microsoft Office 365 Blob을 �
 
 ## <a name="microsoft-azure"></a>Microsoft Azure
 
-FINRA 규칙 4511(c)을 사용하여 Azure 규정 준수를 평가하기 위해 Microsoft는 레코드 관리 및 정보 거버넌스를 전문으로 하는 독립적인 평가 회사인 Cohasset Associates를 보유했습니다. 결과 보고서인 [SEC 17a-4(f) & CFTC 1.31(c-d)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)준수 평가: Microsoft Azure Storage 는 SEC 규칙 17a-4(f)의 형식 및 미디어 요구 사항에 지연되는 FINRA 규칙 4511(c)에 대한 Azure 규정 준수를 다룰 수 있습니다.
+FINRA 규칙 4511(c)을 사용하여 Azure 규정 준수를 평가하기 위해 Microsoft는 레코드 관리 및 정보 거버넌스를 전문으로 하는 독립적인 평가 회사인 Cohasset Associates를 보유했습니다. 결과 보고서인 [SEC 17a-4(f) & CFTC 1.31(c-d)](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)준수 평가: Microsoft Azure Storage 는 SEC 규칙 17a-4(f)의 형식 및 미디어 요구 사항에 지연되는 FINRA 규칙 4511(c)에 대한 Azure 규정 준수를 다룰 수 있습니다.
 
 Cohasset은 WORM(지우기 불가능 및 다시 쓰지 못함) 형식으로 시간 기반 Bl [Storage ob을](/azure/storage/blobs/storage-blob-immutable-storage) 보존하는 데 사용되는 경우 정책 잠금 옵션을 사용하여 Azure 변경 불가능 Blob이 관련 FINRA 저장소 요구 사항을 충족하는지 확인했습니다. 각 Blob(레코드)은 필요한 보존 기간이 만료되고 관련 법적 보존이 릴리스될 때까지 수정, 덮어 사용 또는 삭제되지 않습니다.
 

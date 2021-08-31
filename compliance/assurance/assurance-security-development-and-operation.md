@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: fc6113dbf5c095cc4b22eb8ed0a4527d84f7e143
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: b74c004e63838900f87c774a8acf84ab8aeb03d4
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481750"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707117"
 ---
 # <a name="security-development-and-operations-overview"></a>보안 개발 및 운영 개요
 
@@ -56,7 +56,7 @@ Microsoft는 다음을 위해 설계된 도구와 워크플로를 사용하는 �
 - 해당 구성 요소에 취약점이 있는지 확인합니다.
 - 해당 구성 요소에 영향을 주는 취약점이 발견되면 적절하게 대응합니다.
 
-Microsoft 엔지니어링 팀은 제품 또는 서비스에 포함된 모든 오픈 소스 소프트웨어의 보안에 대한 책임을 유지합니다. 이 보안을 대규모로 달성하기 위해 Microsoft는 오픈 소스 검색, 법적 요구 사항 워크플로 및 취약한 구성 요소에 대한 경고를 자동화하는 CG를 통해 엔지니어링 시스템에 필수적인 기능을 구축했습니다. 자동화된 CG 도구 검사는 오픈 소스 구성 요소 및 관련 보안 취약성 또는 법적 의무를 위해 Microsoft의 빌드를 검사합니다. 검색된 구성 요소는 등록되고 비즈니스 및 보안 검토를 위해 해당 팀에 제출됩니다. 이러한 검토는 오픈 소스 구성 요소와 관련된 법적 의무 또는 보안 취약성을 평가하고 구성 요소 배포를 승인하기 전에 해결하도록 설계되었습니다.
+Microsoft 엔지니어링 팀은 제품 또는 서비스에 포함된 모든 오픈 소스 소프트웨어의 보안에 대한 책임을 유지합니다. 이 보안을 대규모로 달성하기 위해 Microsoft는 오픈 소스 검색, 법적 요구 사항 워크플로 및 취약한 구성 요소에 대한 경고를 자동화하는 CG(구성 요소 거버넌스)를 통해 엔지니어링 시스템에 필수적인 기능을 구축했습니다. 자동화된 CG 도구 검사는 오픈 소스 구성 요소 및 관련 보안 취약성 또는 법적 의무를 위해 Microsoft의 빌드를 검사합니다. 검색된 구성 요소는 등록되고 비즈니스 및 보안 검토를 위해 해당 팀에 제출됩니다. 이러한 검토는 오픈 소스 구성 요소와 관련된 법적 의무 또는 보안 취약성을 평가하고 구성 요소 배포를 승인하기 전에 해결하도록 설계되었습니다.
 
 ## <a name="related-external-regulations--certifications"></a>인증을 위한 & 규정
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 86e3c24be220da0cf29f66fc87d4642fa5270303
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 8bb9f380d57e932576c969f10512f508de7c6ada
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482743"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707137"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>CFTC(상품선물거래위원회) 규칙 1.31(c-d) 미국
 
@@ -39,7 +39,7 @@ ms.locfileid: "58482743"
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
-CFTC 규칙 1.31(c-d)을 준수하는 Azure 규정 준수를 평가하기 위해 Microsoft는 레코드 관리 및 정보 거버넌스를 전문으로 하는 독립적인 평가 회사인 Cohasset Associates를 보유했습니다. 결과 보고서에서 [CFTC 1.31(c)-(d)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)준수 평가: Microsoft Azure Storage , Cohasset은 WORM(지우기 불가능 및 다시 쓰지 못함) 형식의 시간 기반 Bl [Storage ob을](/azure/storage/blobs/storage-blob-immutable-storage) 보존하는 데 사용되는 경우 정책 잠금 옵션을 사용하여 Azure 변경 불가능 Blob이 CFTC 규칙의 원칙 기반 요구 사항을 충족하는지 확인했습니다. 각 Blob(레코드)은 필요한 보존 기간이 만료되고 관련 법적 보존이 릴리스될 때까지 수정, 덮어 사용 또는 삭제되지 않습니다. 중요한 워크로드가 있는 소프트웨어 공급자 및 파트너는 이제 Azure 변경 불가능 Blob Storage 보존을 위한 원스톱 쇼핑 클라우드 솔루션으로 사용할 수 있습니다. 이제 금융 기관은 규정을 준수하면서 이러한 기능을 활용하는 자체 응용 프로그램을 구축할 수 있습니다.
+CFTC 규칙 1.31(c-d)을 준수하는 Azure 규정 준수를 평가하기 위해 Microsoft는 레코드 관리 및 정보 거버넌스를 전문으로 하는 독립적인 평가 회사인 Cohasset Associates를 보유했습니다. 결과 보고서에서 [CFTC 1.31(c) (d)](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)준수 평가: Microsoft Azure Storage , Cohasset은 WORM(지우기 불가능 및 다시 쓰지 못함) 형식으로 시간 기반 Bl [Storage ob을](/azure/storage/blobs/storage-blob-immutable-storage) 보존하는 데 사용되는 경우 정책 잠금 옵션을 사용하여 Azure 변경 불가능 Blob이 CFTC 규칙의 원칙 기반 요구 사항을 충족하는지 확인했습니다. 각 Blob(레코드)은 필요한 보존 기간이 만료되고 관련 법적 보존이 릴리스될 때까지 수정, 덮어 사용 또는 삭제되지 않습니다. 중요한 워크로드가 있는 소프트웨어 공급자 및 파트너는 이제 Azure 변경 불가능 Blob Storage 보존을 위한 원스톱 쇼핑 클라우드 솔루션으로 사용할 수 있습니다. 이제 금융 기관은 규정을 준수하면서 이러한 기능을 활용하는 자체 응용 프로그램을 구축할 수 있습니다.
 
 ### <a name="microsoft-365"></a>Microsoft 365
 

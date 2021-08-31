@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 57e5a9140c7a4aaff49bceb798bb6815e675f328
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.openlocfilehash: 50c44b6801e15af02bf4bfa4f4d46758b7a6c7a8
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505931"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707127"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>SEC(증권 Exchange 위원회) 규칙 17a-4(f) 미국
 
@@ -54,7 +54,7 @@ Azure 및 SEC Office 365 17a-4(f)를 준수하는지 평가하기 위해 Microso
 
 Microsoft는 SEC 규칙 17a-4(f) 요구 사항을 준수하는 Azure Blob Storage 규정 준수를 위해 변경 불가능한 저장소를 평가하기 위해 레코드 관리 및 정보 거버넌스를 전문으로 하는 독립적인 타사 평가 회사를 보유했습니다. 결과 보고서 *[Cohasset Assessment: Microsoft Azure WORM](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)* Storage 사용할 수 있습니다.
 
-Azure Blob 기능의 변경 불가능한 Azure Storage 및 잠긴 시간 기반 정책  옵션을 사용하여 시간 기반 Blob(레코드)을 지울 수 없는 및 다시 기록할 수 없는 형식으로 유지하는 것이 평가자 의견입니다. SEC 규칙 17a-4(f), [FINRA 규칙 4511(c)의](/azure/compliance/offering-finra-4511-us.md)관련 저장소 요구 사항 및 [CFTC 규칙 1.31(c)-(d)의](offering-cftc-1-31-us.md)원칙 기반 요구 사항을 충족합니다. 
+Azure Blob 기능의 변경 불가능한 Azure Storage 및 잠긴 시간 기반 정책  옵션을 사용하여 시간 기반 Blob(레코드)을 지울 수 없는 및 다시 기록할 수 없는 형식으로 유지하는 것이 평가자 의견입니다. SEC 규칙 17a-4(f), [FINRA 규칙 4511(c)의](offering-FINRA-4511.md)관련 저장소 요구 사항 및 [CFTC 규칙 1.31(c)-(d)의](offering-cftc-1-31-us.md)원칙 기반 요구 사항을 충족합니다. 
 
 요청이 있는 경우 Microsoft는 고객이 전자 저장소 미디어를 사용하기 최소 *90일* 전에 지정된 검사 기관에 알리기 위해 SEC 17a-4(f)(2) 요구 사항을 충족하는 데 필요한 90일 서신을 제공합니다. 규정에 설명된 "구성원, 브로커 또는 대리점은 자체 표현을 제공하거나 선택한 저장소 미디어가 이 단락(f)(2)에 규정된 조건을 충족하는 적절한 전문 지식을 가지고 있는 다른 제3자 또는 저장소 미디어 공급업체로부터 자체 표현을 제공해야 합니다." SEC 규칙 17a-4에 대한 Microsoft Storage Media Services 의 Microsoft 의증을 얻기 위해 [](https://azure.microsoft.com/support/create-ticket/) [Azure](https://azure.microsoft.com/support/plans/) 지원 계획이 있는 고객은 Azure Portal에서 지원 티켓을 만들고 SEC 규칙 17a-4에 대한 의문서를 요청할 수 있습니다.  이 문서에서 Microsoft는 SEC 17a-4(f)(2) 요구 사항과 관련된 보증을 제공합니다.
 
@@ -95,7 +95,7 @@ Microsoft 클라우드 서비스의 위험 평가 및 규제 기관 알림에 �
 ## <a name="resources"></a>리소스
 
 - [Azure 규정 준수 문서](/azure/compliance/)
-- [Azure는 규정 준수를 위한 세계를 가능하게 합니다.](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [Azure는 규정 준수의 세계를 구현합니다.](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
 - [SEC(증권 Exchange 위원회)](https://www.sec.gov/) [규칙 17a-4](https://www.sec.gov/rules/final/34-38245.txt)
 - [Microsoft 클라우드 금융 서비스 리소스](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [Microsoft 클라우드 금융 서비스 준수 프로그램](https://aka.ms/FSCP-Print)
