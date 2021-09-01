@@ -10,6 +10,8 @@
       href: assurance-microsoft-365-isolation-controls.md
     - name: Microsoft 365 인프라 보안
       href: assurance-securing-microsoft-365-infrastructure.md
+    - name: 공동 책임
+      href: /azure/security/fundamentals/shared-responsibility?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: 감사 로깅
   items:
     - name: 감사 로깅 개요

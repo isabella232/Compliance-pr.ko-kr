@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 3212ca2a42677dc27afda8a7598b39d7f24bf27c
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 11695a941e5d5e6740833ab19bf2d68ac487c1c5
+ms.sourcegitcommit: 5e6e25ed264b248522ad49ea25490962db08e471
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482191"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58832261"
 ---
 # <a name="audit-logging-overview"></a>감사 로깅 개요
 
@@ -53,6 +53,8 @@ Microsoft 서버에서 NRT(Near Real-Time) 분석 및 장기 저장소를 위한
 로그는 시스템 성능 지표 및 잠재적인 보안 이벤트를 감지하기 위해 규칙 기반, 통계 및 기계 학습 방법을 사용하여 NRT에서 처리됩니다. 기계 학습 모델은 수신 로그 데이터 및 Cosmos 기록 로그 데이터를 사용하여 검색 기능을 지속적으로 개선합니다. 보안 관련 검색은 경고를 생성하여 통화 엔지니어에게 잠재적인 인시던트에 대해 알리고 해당하는 경우 자동화된 수정 작업을 트리거합니다. 서비스 팀은 자동화된 보안 모니터링 외에도 데이터 상관 관계, 대화형 쿼리 및 데이터 분석을 위해 분석 도구 및 대시보드를 사용합니다. 이러한 보고서는 서비스의 전반적인 성능을 모니터링하고 개선하는 데 사용됩니다.
 
 보안 모니터링 및 경고에 대한 자세한 내용은 보안 모니터링 개요 [를 참조하세요.](assurance-security-monitoring.md)
+
+![데이터 흐름 감사.](../media/assurance-audit-data-flow.png)
 
 ## <a name="how-do-microsoft-online-services-protect-audit-logs"></a>Microsoft 온라인 서비스가 감사 로그를 보호하는 방법
 
