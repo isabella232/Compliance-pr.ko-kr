@@ -19,12 +19,12 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: f23dba6e215e9b4b8f890b05066bb693ed0e62e8
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: c851b235a70104720457d08c51529ee7b25c65e4
+ms.sourcegitcommit: 1fd50ef5f165228109a3f2f0aef4b0c2aa59b2ff
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482101"
+ms.lasthandoff: 09/02/2021
+ms.locfileid: "58862358"
 ---
 # <a name="data-retention-deletion-and-destruction-in-microsoft-365"></a>데이터 보존, 삭제 및 Microsoft 365
 
@@ -57,7 +57,7 @@ Microsoft는 고객 데이터가 Microsoft 365 보존되는 기간을 지정하�
 
 ## <a name="related-links"></a>관련 링크
 
-- [데이터 폐기](assurance-data-destruction.md)
+- [데이터와 연결되는 장치 폐기](assurance-data-bearing-device-destruction.md)
 - [Office 365의 불변성](assurance-data-immutability.md)
 - [Exchange Online 데이터 삭제](assurance-exchange-online-data-deletion.md)
 - [SharePoint Online 데이터 삭제](assurance-sharepoint-online-data-deletion.md)
