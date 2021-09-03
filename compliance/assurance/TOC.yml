@@ -30,6 +30,8 @@
       href: assurance-datacenter-security.md
     - name: 데이터 센터 TVRA
       href: assurance-threat-vulnerability-risk-assessment.md
+    - name: 데이터 포함 장치 폐기
+      href: assurance-data-bearing-device-destruction.md
     - name: 공급 체인 보안
       href: /azure/security/fundamentals/firmware?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: 암호화 및 키 관리
@@ -126,8 +128,6 @@
       href: assurance-exchange-online-data-deletion.md
     - name: SharePoint Online 데이터 삭제
       href: assurance-sharepoint-online-data-deletion.md
-    - name: Microsoft 365 데이터 폐기
-      href: assurance-data-destruction.md
     - name: Microsoft 365 데이터 불변성
       href: assurance-data-immutability.md
     - name: Microsoft 365 데이터 위치
