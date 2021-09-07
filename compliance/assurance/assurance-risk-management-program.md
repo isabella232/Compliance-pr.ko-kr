@@ -20,18 +20,18 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 56d28813cd5cf0d1f0e54ebe2f4c64b23e98d169
-ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
+ms.openlocfilehash: 8e895308358853f2c59009503d079361dca84c49
+ms.sourcegitcommit: 91038a980f08745a12ab6b223ed90a6cd561c5bf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58678607"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923118"
 ---
 # <a name="microsoft-365-risk-management-program"></a>Microsoft 365 위험 관리 프로그램
 
-위험 관리 Microsoft 365 프로그램의 목적은 위험 관리에 대한 위험을 식별, 평가 및 관리하는 Microsoft 365. Microsoft 365 우선 순위는 계약 의무 및 인증을 충족하고, 고객 신뢰를 높이고, 경쟁 우위를 유지하는 것입니다. Microsoft 365 관리 프로그램은 독립적으로 작동하지만 ERM(위험 관리) Enterprise 정책, 우선 순위 및 방법에 따라 조정됩니다. ERM 프로그램을 사용하여 여러 사업부와 엔지니어링 그룹을 일관되게 비교할 수 있으며, 기업 전체의 위험 관리에 보다 일관성 있는 접근법을 제공합니다.
+위험 관리 Microsoft 365 프로그램의 목적은 위험 관리에 대한 위험을 식별, 평가 및 관리하는 Microsoft 365. Microsoft의 최우선 과제는 고객, 데이터 및 신뢰뿐만 아니라 서비스 인프라에 영향을 줄 수 있는 위험을 사전 예방적으로 식별하고 해결하는 것입니다. 또한 계약상 의무를 충족하고 고객이 자체 규정 준수 요구 사항을 충족하는 데 필요한 공개 인증을 유지 관리하기 위해 강력한 위험 관리 프로그램이 필요합니다. Microsoft 365 관리 프로그램은 독립적으로 작동하지만 ERM(위험 관리) Enterprise 정책, 우선 순위 및 방법에 따라 조정됩니다. ERM 프로그램을 사용하여 여러 사업부와 엔지니어링 그룹을 일관되게 비교할 수 있으며, 기업 전체의 위험 관리에 보다 일관성 있는 접근법을 제공합니다.
 
-Microsoft 365 보안 팀은 Microsoft 365 위험 관리 프로그램을 관리하고 ERM 프로그램에서 구축한 활동을 담당합니다. 보안 팀은 위험 관리 프로그램을 더 효과적이고 효율적으로 만들기 위해 기존 Microsoft 365 엔지니어링, 서비스 운영 및 규정 준수 프로세스와 위험 관리 프레임워크를 통합하는 데 중점을 습니다.
+Microsoft 365 보안 팀은 Microsoft 365 관리 프로그램을 관리하고 ERM 프로그램에서 정의한 활동을 담당합니다. 보안 팀은 위험 관리 프로그램을 더 효과적이고 효율적으로 만들기 위해 기존 Microsoft 365 엔지니어링, 서비스 운영 및 규정 준수 프로세스와 위험 관리 프레임워크를 통합하는 데 중점을 습니다.
 
 또한 보안 팀은 규정 준수 Microsoft 365 적절히 구현할 때 엔지니어링 팀이 주요 규정 및 인증을 준수할 수 있도록 하는 합리화된 컨트롤 집합인 Microsoft 365 Controls Framework를 유지 관리합니다. 이 프레임워크는 위험 관리 프로세스의 일부로 피드백 및 결과를 기반으로 지속적으로 업데이트됩니다.
 
