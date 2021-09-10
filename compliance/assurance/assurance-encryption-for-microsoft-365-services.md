@@ -22,11 +22,11 @@ ms.collection:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 480e7e03564075707c90e25ad5777631c1e68ed8
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482030"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947296"
 ---
 # <a name="encryption-for-skype-for-business-onedrive-for-business-sharepoint-online-microsoft-teams-and-exchange-online"></a>비즈니스용 Skype, 비즈니스용 OneDrive, SharePoint Online, Microsoft Teams 및 Exchange Online
 
@@ -36,7 +36,7 @@ Microsoft 365 보안은 물리적 데이터 센터 보안, 네트워크 보안, 
 
 비즈니스용 Skype 고객 데이터는 모임 참가자가 업로드하는 파일 또는 프레젠테이션 형태로 저장될 수 있습니다. 웹 회의 서버는 256비트 키와 함께 AES를 사용하여 고객 데이터를 암호화합니다. 암호화된 고객 데이터는 파일 공유에 저장됩니다. 각 고객 데이터는 임의로 생성된 256비트 키를 사용하여 암호화됩니다. 회의에서 고객 데이터를 공유하는 경우 웹 회의 서버는 회의 클라이언트가 HTTPS를 통해 암호화된 고객 데이터를 다운로드할 수 있도록 지시합니다. 고객 데이터를 암호 해독할 수 있도록 클라이언트에 해당 키를 전송합니다. 또한 웹 회의 서버는 클라이언트가 회의 고객 데이터에 액세스할 수 있도록 허용하기 전에 회의 클라이언트를 인증합니다. 웹 회의에 참가할 때 각 회의 클라이언트는 먼저 TLS를 통해 프런트 엔드 서버 내에서 실행되는 회의 포커스 구성 요소와 SIP 대화 상자를 설정합니다. 회의 포커스가 웹 회의 서버에서 생성된 인증 쿠키를 회의 클라이언트로 전달합니다. 그러면 회의 클라이언트가 서버에서 인증할 인증 쿠키를 제시하는 웹 회의 서버에 연결합니다.
 
-## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint Online 및 비즈니스용 OneDrive
+## <a name="sharepoint-online-and-onedrive-for-business"></a>Microsoft Office SharePoint Online 및 비즈니스용 OneDrive
 
 SharePoint Online의 모든 고객 파일은 항상 단일 테넌트에서만 사용할 수 있는 고유한 파일당 키로 보호됩니다. 키는 SharePoint Online 서비스에서 생성 및 관리하거나 고객 키를 사용, 생성 및 관리할 때 만들어집니다. 파일이 업로드될 때 Azure 저장소로 전송되기 전에 SharePoint 요청 컨텍스트 내에서 SharePoint Online에서 암호화를 수행합니다. 파일이 다운로드되면 SharePoint Online은 고유한 문서 식별자를 기반으로 Azure Storage에서 암호화된 고객 데이터를 검색하고 사용자에게 보내기 전에 고객 데이터를 암호 해독합니다. Azure Storage에는 고객 데이터를 식별하거나 이해할 수 있는 능력이 없습니다. 모든 암호화 및 암호 해독은 온라인에서 지원되는 테넌트 Azure Active Directory SharePoint 시스템에서 실행됩니다.
 

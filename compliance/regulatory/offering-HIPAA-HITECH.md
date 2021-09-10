@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 31fcc11280e8026bc962136c271713cd5e26078b
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482471"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948345"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>HIPAA(Health Insurance Portability and Accountability Act) & Health Information Technology for Economic and Health Health (HITECH) Act
 
@@ -82,7 +82,7 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 | **상업용** | Access Online, Azure Active Directory, Azure Communications Service, 준수 관리자, Customer Lockbox, Delve, Exchange Online, Forms, Griffin, Identity Manager, Lockbox(Torus), microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Customer Portal, Office 365 Microservices(Kaizala, ObjectStore, Sway, Power Automate, PowerPoint Online Document Service, Query Annotation Service, 학교 데이터 동기화, Siphon, Speech, StaffHub, eXtensible Application Program), Office 365 Security & Compliance Center, Office Online, Office Pro Plus, Office Services Infrastructure, 비즈니스용 OneDrive, Planner, PowerApps, Power BI, Project Online, 고객 키를 사용하여 서비스 암호화, SharePoint Online, 비즈니스용 Skype, Stream |
 | **GCC** | Azure Active Directory, Azure Communications Service, 준수 관리자, Delve, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, Stream |
 
-### <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **조직에서 Microsoft와 함께 BAA를 입력할 수 있나요?**
 

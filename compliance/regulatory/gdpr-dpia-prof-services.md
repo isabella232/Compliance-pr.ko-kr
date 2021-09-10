@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: d30214f68911553b0e835e072e02233428bf296bc4927c7c0e49fb04718a9282
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 838f6bfbae65770071cfa1e07e668bb6641e89a8
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289886"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948465"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-professional-services"></a>데이터 보호 영향 평가: Microsoft 전문 서비스를 사용하는 데이터 컨트롤러의 참고 자료
 

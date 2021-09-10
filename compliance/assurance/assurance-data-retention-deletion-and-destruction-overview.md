@@ -20,11 +20,11 @@ f1.keywords:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: c851b235a70104720457d08c51529ee7b25c65e4
-ms.sourcegitcommit: 1fd50ef5f165228109a3f2f0aef4b0c2aa59b2ff
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "58862358"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947269"
 ---
 # <a name="data-retention-deletion-and-destruction-in-microsoft-365"></a>데이터 보존, 삭제 및 Microsoft 365
 
@@ -57,7 +57,7 @@ Microsoft는 고객 데이터가 Microsoft 365 보존되는 기간을 지정하�
 
 ## <a name="related-links"></a>관련 링크
 
-- [데이터와 연결되는 장치 폐기](assurance-data-bearing-device-destruction.md)
+- [데이터 포함 장치 폐기](assurance-data-bearing-device-destruction.md)
 - [Office 365의 불변성](assurance-data-immutability.md)
 - [Exchange Online 데이터 삭제](assurance-exchange-online-data-deletion.md)
 - [SharePoint Online 데이터 삭제](assurance-sharepoint-online-data-deletion.md)

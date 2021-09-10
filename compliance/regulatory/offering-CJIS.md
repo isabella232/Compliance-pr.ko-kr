@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 313905ec68c7d730cd2372ebd4679943ff124993
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482733"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948225"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>CJIS(범죄 행위 정보 서비스) 보안 정책
 
@@ -82,7 +82,7 @@ FBI는 CJIS 요구 사항을 준수하는 Microsoft 인증을 제공하지 않�
 
 적용 가능한 CJIS 규제 컨트롤을 충족하기 위한 Microsoft의 약속을 통해 범죄자 조직은 클라우드 기반 솔루션을 구현하고 CJIS 보안 정책 V5.9를 준수할 수 있습니다.
 
-### <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **규정 준수 정보는 어디에서 요청할 수 있나요?**
 

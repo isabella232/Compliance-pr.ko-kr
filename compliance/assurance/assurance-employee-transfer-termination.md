@@ -21,11 +21,11 @@ search.appverid:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 2450a075d1ae3922cf047e92109a399d10d269ac
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482040"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947293"
 ---
 # <a name="microsoft-employee-transfer-and-termination"></a>Microsoft 직원 전근 및 고용 종료
 

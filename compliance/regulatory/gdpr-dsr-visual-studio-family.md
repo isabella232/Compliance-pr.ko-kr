@@ -21,11 +21,11 @@ titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
 ms.openlocfilehash: 4a3119ad93c0de5de96e748f7692ba6ddef42c80
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482883"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948212"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Visual Studio 제품군 데이터 주체 요청
 

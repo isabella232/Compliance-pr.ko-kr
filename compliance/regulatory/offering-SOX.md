@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 375f7a58db675f3f14bd98ff580919ef40f603f1
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505891"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948434"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act of 2002(SOX)
 
@@ -84,7 +84,7 @@ AICPA SSAE 18 표준은 SAS 70을 대체하며, 재무 보고에 대한 사용�
 - Dynamics 365
 - Office 365
 
-### <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **Microsoft SOX 규정 준수를 사용하여 조직의 규정 준수 프로세스를 촉진하는 방법**
 
@@ -93,9 +93,9 @@ AICPA SSAE 18 표준은 SAS 70을 대체하며, 재무 보고에 대한 사용�
 ### <a name="resources"></a>리소스
 
 - [Azure 규정 준수 문서](/azure/compliance/)
-- [Azure는 규정 준수를 위한 세계를 가능하게 합니다.](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
-- [Microsoft 365 규정 준수 제품](/compliance/regulatory/offering-home)
-- [Microsoft 보안 센터에 대한 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Azure는 규정 준수의 세계를 구현합니다.](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [Microsoft 365, 규정 준수, 제품](/compliance/regulatory/offering-home)
+- [Microsoft 보안 센터의 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 - [Sarbanes-Oxley Act of 2002(SOX)](https://www.congress.gov/bill/107th-congress/house-bill/3763)
 - [SEC(증권 Exchange 위원회)](https://www.sec.gov/)
 - [Microsoft 클라우드 금융 서비스 리소스](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)

@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 7f597f5267482868c472ed04fada2a2f73490ab7
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482953"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948354"
 ---
 # <a name="ministry-of-electronics-and-information-technology-meity"></a>MeitY(Electronics and Information Technology)
 
@@ -53,7 +53,7 @@ Microsoft의 MeitY 인증은 MeghRaj 클라우드 이니셔티브의 작업을 �
 
 - 클라우드 서비스 공급자의 감사 [상태에 따라](https://meity.gov.in/content/gi-cloud-meghraj) Microsoft 클라우드 인증
 
-## <a name="frequently-asked-questions"></a>질문과 대답
+## <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **MeitY가 중요한 이유는 무엇입니까?**
 

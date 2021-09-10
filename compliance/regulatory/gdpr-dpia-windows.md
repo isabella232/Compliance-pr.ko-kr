@@ -19,11 +19,11 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 ms.openlocfilehash: 325dc91f1d3480414236abfde38eb48d372f3e69
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482431"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948474"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-controllers-using-windows-diagnostic-data-processor-configuration"></a>데이터 보호 영향 평가 - Windows 진단 데이터 프로세서 구성을 사용하는 컨트롤러에 대한 지침
 

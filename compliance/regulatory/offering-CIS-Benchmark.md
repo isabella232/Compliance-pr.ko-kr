@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 18da1f6b422327f42dc517fa0f9c8abe9c91e253
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505921"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948206"
 ---
 # <a name="center-for-internet-security-cis-benchmarks"></a>인터넷 보안 센터 (CIS) 벤치마크
 
@@ -59,7 +59,7 @@ Microsoft 제품 및 서비스에 대한 벤치마크 외에도 CIS는 CIS 벤�
 - [Azure 및 Azure Government](https://aka.ms/AzureCompliance)
 - [Office 및 Microsoft 365](https://aka.ms/o365-compliance-framework)
 - SQL Server
-- Windows 10
+- Windows 10
 - Windows Server 2016
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서

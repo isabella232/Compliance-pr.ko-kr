@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 97875374c58bf174090a9dd34f26d3e22b2b50b3
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482973"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948346"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>HITRUST(Health Information Trust Alliance) CSF(Common Security Framework)
 
@@ -72,7 +72,7 @@ HITRUST CSF Office 365 2년 동안 유효합니다.
 
 - [Office 365 HITRUST 인증 편지](https://aka.ms/O365HITRUSTcertification)
 
-### <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **일부 Office 365 서비스가 이 인증 범위에 없는 이유는 무엇입니까?**
 

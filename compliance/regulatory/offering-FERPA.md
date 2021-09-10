@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 0ec79c5be17018f8b01eb3d938b65392b021ce77
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505951"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948278"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>FERPA(가족 교육권 및 개인 정보 보호법)
 
@@ -75,7 +75,7 @@ Microsoft가 고객 데이터에서 '적법한 교육적 관심사'를 사용하
 
 FERPA는 감사 또는 인증을 요구하거나 인식하지 않습니다.
 
-### <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **FERPA가 중요한 이유는 무엇입니까?**
 
@@ -92,7 +92,7 @@ COPPA 및 CIPA는 어린이의 개인 정보를 보호하기 위한 추가 법�
 ### <a name="resources"></a>리소스
 
 - [Azure 규정 준수 문서](/azure/compliance/)
-- [Azure는 규정 준수를 위한 세계를 가능하게 합니다.](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [Azure는 규정 준수의 세계를 구현합니다.](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
 - [가족 교육권 및 개인 정보 보호법](https://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html)
 - [연방 규정 전자 규약: FERPA](https://aka.ms/FERPA-GPO)
 - Microsoft Online Services 용어 [데이터 보호 부록](https://aka.ms/DPA)

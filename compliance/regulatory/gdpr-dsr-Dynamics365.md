@@ -20,11 +20,11 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 ms.openlocfilehash: 7b6919cbdf2ece468eeec8931b652972a74b07dc
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482411"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948194"
 ---
 # <a name="dynamics-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Dynamics 365 데이터 주체 요청
 

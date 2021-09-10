@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 7cdc024d19ce0753d3d0c0e5cf45b6276939d6f2
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505901"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948285"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>FFIEC(연방 금융 기관 검사 위원회)
 
@@ -77,7 +77,7 @@ AICPA SSAE 18 표준은 SAS 70을 대체하며, 재무 보고에 대한 사용�
 
 SOC Office 365 보고서를 참조합니다.
 
-### <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **SoC 표준에 대한 Microsoft 규정 준수를 사용하여 기관에 대한 FFIEC 규정 준수 의무를 충족할 수 있나요?**
 
@@ -97,7 +97,7 @@ SOC Office 365 보고서를 참조합니다.
 ## <a name="other-microsoft-resources-for-financial-services"></a>금융 서비스에 대한 기타 Microsoft 리소스
 
 - [Azure 규정 준수 문서](/azure/compliance/)
-- [Azure는 규정 준수를 위한 세계를 가능하게 합니다.](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [Azure는 규정 준수의 세계를 구현합니다.](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
 - [Microsoft 클라우드 금융 서비스 리소스](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [Microsoft 클라우드 금융 서비스 준수 프로그램](https://aka.ms/FSCP-Print)
 - [Microsoft 클라우드의 금융 기관을 위한 위험 평가 및 규정 준수 가이드](https://azure.microsoft.com/resources/risk-assessment-and-compliance-guide-for-financial-institutions-in-the-microsoft-cloud-/)

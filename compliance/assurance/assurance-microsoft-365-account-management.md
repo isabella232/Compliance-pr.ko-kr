@@ -21,11 +21,11 @@ search.appverid:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: d525edfb9854df156f5b7b8571199b7a0102a0bf
-ms.sourcegitcommit: 61357661caf64eeb9143046b4dd66c83e1439ee3
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58473013"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947304"
 ---
 # <a name="account-management-in-microsoft-365"></a>Microsoft 365
 

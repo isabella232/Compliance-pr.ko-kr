@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3212e28e055629b3f2894e7887ffac03e94b9e3a
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 94e032efec2fd10f1d352f4f1b610916abe23cf7
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481040"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948314"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>미국 국세청 게시 1075
 
@@ -70,7 +70,6 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **상업용** | 작업 피드 서비스, Bing 서비스, Delve, Exchange Online Protection, Exchange Online, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office Online, Office 사용 현황 보고서, 비즈니스용 OneDrive, 피어 카드, 서비스 인프라, SharePoint Online, 비즈니스용 Skype, Windows Ink |
 | **GCC** | 작업 피드 서비스, Bing 서비스, Delve, Exchange Online Protection, Exchange Online, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office Online, Office 서비스 인프라, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, SharePoint Online, 비즈니스용 Skype, Windows Ink |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Office 365 감사, 보고서 및 인증서
@@ -79,7 +78,7 @@ IRS 1075의 실무 요구 사항을 준수하는 것은 매년 FedRAMP 감사에
 
 - [FedRAMP 권한 부여](https://marketplace.fedramp.gov/#/product/azure-government?sort=productName&productNameSearch=azure)
 
-### <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **Microsoft는 IRS 1075의 요구 사항을 어떻게 해결하나요?**
 

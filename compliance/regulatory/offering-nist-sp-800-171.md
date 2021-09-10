@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: bce6847fe4c0cd1541348b70aadacc9c13238c31
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481140"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948370"
 ---
 # <a name="nist-sp-800-171"></a>NIST SP 800-171
 
@@ -72,7 +72,7 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 SharePoint 온라인, 비즈니스용 Skype, Windows Ink |
 | **DoD** | 작업 피드 서비스, Bing 서비스, Exchange Online, 지능형 서비스, Office 365 고객 포털, Office Online, Office 서비스 인프라, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, Microsoft Teams, SharePoint Online, 비즈니스용 Skype, Windows Ink |
 
-### <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **조직에서 NIST SP 800-171과 함께 Microsoft 규정 준수를 사용할 수 있나요?**
 

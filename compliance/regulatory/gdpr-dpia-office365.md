@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: c2fa17a67d12c3286eabb5db03c31090cae018336d4c8184e07ad4a5deef98a8
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 9b7a88bd84ccd39d0d4cd9572a250ba4a8a0a773
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289906"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948450"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-office-365"></a>데이터 보호 영향 평가: Microsoft Office 365를 사용하는 데이터 컨트롤러의 참고 자료 
 

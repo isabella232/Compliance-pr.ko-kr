@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: b7b1e3ea3600023c2ec95d4db7f318d70183b197
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482683"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948298"
 ---
 # <a name="gramm-leach-bliley-act-glba"></a>GLBA(Gramm-Leach-Bliley Act)
 
@@ -67,7 +67,7 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 | **상업용** | Azure Active Directory, Azure Information Protection, Bookings, 준수 관리자, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Office 365용 Microsoft Defender, Microsoft Graph, Microsoft Teams, 웹용 Microsoft To-Do, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Cloud App Security, Office 365 그룹, Office 365 보안 및 준수 센터, Office 365 비디오, Office 온라인, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, StaffHub, Stream, Sway, Yammer Enterprise |
 | **GCC** | Azure Active Directory, 준수 관리자, Delve, Exchange Online, Forms, Microsoft Defender for Office 365 Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online,비즈니스용 Skype, Stream, Stream |
 
-### <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **금융 기관이 GLB 법을 준수해야 하는지 어떻게 알 수 있나요?**
 

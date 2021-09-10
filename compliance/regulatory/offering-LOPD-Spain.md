@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 3e3d8bdd755ae032b0f027150a2211a5fe14f7e5
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58479760"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948337"
 ---
 # <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-lopd"></a>스페인 칙령 1720/2007, 스페인 기본법 15/1999(LOPD)
 

@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: cd7ad9a68f69f134689262ad7e379eec89284035
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58483013"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948329"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>오스트레일리아 정부 정보 보안 등록 평가자 프로그램(IRAP)
 
@@ -83,7 +83,7 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 |:------------------|:----------------------|
 | **상업용** | Exchange Online, Exchange Online Protection, Forms, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, 비즈니스용 OneDrive, Planner, SharePoint Online, 비즈니스용 Skype, Whiteboard, Yammer |
 
-### <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **IRAP는 누구에게 적용하나요?**
 

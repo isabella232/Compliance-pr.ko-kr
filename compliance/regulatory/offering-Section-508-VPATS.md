@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 728050d20babd819c2153cd04b3eae849120eeee
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58480530"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948410"
 ---
 # <a name="us-section-508"></a>미국 섹션 508
 

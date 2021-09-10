@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 805820ac031cd1fc1e1216c5e000e4ee2ad10837
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481050"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948291"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>영국 Government-Cloud(G-클라우드)
 
@@ -96,7 +96,7 @@ Microsoft 클라우드 서비스가 G-클라우드 계약을 준수하는지 확
 
 [Azure UK G-Cloud Blueprint 사용 시작](https://aka.ms/ukofficialblueprint)
 
-## <a name="frequently-asked-questions"></a>질문과 대답
+## <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **Who 마켓플레이스를 사용할 자격이 있습니까?**
 

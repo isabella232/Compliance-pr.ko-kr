@@ -19,11 +19,11 @@ description: Microsoft 제품 및 서비스를 사용하여 유럽연합 일반 
 ms.custom: seo-marvel-mar2020
 hideEdit: true
 ms.openlocfilehash: b5ef9464a686a5f2c8823f196408fd71026fa52d
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58479840"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948177"
 ---
 # <a name="data-subject-requests-and-the-gdpr-and-ccpa"></a>데이터 주체 요청과 GDPR 및 CCPA
 

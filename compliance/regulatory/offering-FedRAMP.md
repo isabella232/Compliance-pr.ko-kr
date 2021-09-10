@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 3f178689655662272fc8149259cf769ce122a18a
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482943"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948219"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>FedRAMP(Federal Risk and Authorization Management Program)
 
@@ -85,7 +85,7 @@ Microsoft는 P-ATOs 및 ATOs를 유지하기 위해 매년 클라우드 서비�
 
 - [Microsoft FedRAMP 감사 보고서](https://aka.ms/MicrosoftFedRAMPAuditDocuments)  
 
-### <a name="frequently-asked-questions"></a>질문과 대답
+### <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **Microsoft 클라우드 서비스가 FISMA(Federal Information Security Management Act)를 준수하나요?**
 

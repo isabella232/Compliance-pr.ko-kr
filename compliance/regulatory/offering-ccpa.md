@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 61b15a095dec310aac74bac10b2d062eb1011750
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482663"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948189"
 ---
 # <a name="california-consumer-privacy-act-ccpa"></a>캘리포니아 소비자 개인 정보 보호법(CCPA)
 
@@ -60,7 +60,7 @@ CCPA를 준비하기 위해 취할 수 있는 몇 가지 단계는 다음과 같
 - Microsoft 정보 보호로 중요한 데이터를 검색하고, 분류하고, 레이블을 지정하고, 보호하기 위해 레이블과 정책을 설정합니다.
 - 전자 메일 암호화 기능을 사용하여 중요 한 정보를 더욱 강력하게 제어합니다.
 
-## <a name="frequently-asked-questions"></a>질문과 대답
+## <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **CCPA는 우리 회사에 어떤 영향을 주나요?**
 

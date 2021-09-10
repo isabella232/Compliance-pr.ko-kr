@@ -19,11 +19,11 @@ hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
 ms.openlocfilehash: a4b04fe9e72986b9fa706a81c61a781e46695599
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58479830"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948442"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-azure"></a>데이터 보호 영향 평가: Microsoft Azure를 사용하는 데이터 컨트롤러의 참고 자료
 
