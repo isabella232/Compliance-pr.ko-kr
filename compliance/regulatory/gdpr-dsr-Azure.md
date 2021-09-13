@@ -22,8 +22,8 @@ ms.openlocfilehash: 820197523e37958873853e00afdcff555408f423
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948195"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160661"
 ---
 # <a name="azure-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Azure 데이터 주체 요청
 

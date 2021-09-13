@@ -20,8 +20,8 @@ ms.openlocfilehash: f1eba3e819ae351f1bdff2f8fbdd47c7fca7a1a1
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948279"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160517"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>FISC(Center for Financial Industry Information Systems: 금융 산업 정보 시스템 센터)
 

@@ -20,8 +20,8 @@ ms.openlocfilehash: 200319178a714383feeca3d58cf608e9a3baa304
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948393"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161189"
 ---
 # <a name="reserve-bank-of-india-rbi-and-insurance-regulatory-and-development-authority-of-india-irdai"></a>RBI(Reserve Bank of India) 및 IRDAI(Insurance Regulatory and Development Authority of India)
 

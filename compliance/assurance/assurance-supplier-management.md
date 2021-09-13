@@ -24,8 +24,8 @@ ms.openlocfilehash: 3b0a4c7f12eba49c252f71e47eda1685fd4d41a4
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947441"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160718"
 ---
 # <a name="supplier-management-overview"></a>공급자 관리 개요
 

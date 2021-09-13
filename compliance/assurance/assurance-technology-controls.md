@@ -25,8 +25,8 @@ ms.openlocfilehash: 06d8f500a96c84bf961dc47f6b8d259e0fffe02d
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947434"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160717"
 ---
 # <a name="technology-controls-in-microsoft-365"></a>Microsoft 365 
 

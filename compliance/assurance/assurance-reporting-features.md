@@ -24,8 +24,8 @@ ms.openlocfilehash: be05c96c725f8d0e05bc27f410d7f19e4e5d9a23
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947221"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160453"
 ---
 # <a name="microsoft-365-reporting-features"></a>Microsoft 365 보고 기능
 

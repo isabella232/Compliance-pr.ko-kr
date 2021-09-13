@@ -20,8 +20,8 @@ ms.openlocfilehash: cd7ad9a68f69f134689262ad7e379eec89284035
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948329"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160485"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>오스트레일리아 정부 정보 보안 등록 평가자 프로그램(IRAP)
 

@@ -23,8 +23,8 @@ ms.openlocfilehash: 5f9dc6f94ee9299668adf1ac8814f59ae16adba1
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948153"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161110"
 ---
 # <a name="support-your-gdpr-program-with-accountability-readiness-checklists"></a>책임 준비 상태 검사 목록으로 GDPR 프로그램 지원
 

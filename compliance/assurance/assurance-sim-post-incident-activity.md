@@ -23,8 +23,8 @@ ms.openlocfilehash: 820c912dc55d5cc98cedc38676b5039591cf5baa
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947357"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160757"
 ---
 # <a name="microsoft-security-incident-management-post-incident-activity"></a>Microsoft 보안 인시던트 관리: 인시던트 사후 활동
 

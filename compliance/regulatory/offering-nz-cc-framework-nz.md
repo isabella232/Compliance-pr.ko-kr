@@ -20,8 +20,8 @@ ms.openlocfilehash: 6785c459f8350714b8e4636a0f1a5dc9f4ff667d
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948394"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160541"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>뉴질랜드 정부 정보 보안 및 개인 정보 보호 고려 사항(ISPC)
 

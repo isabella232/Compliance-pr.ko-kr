@@ -20,8 +20,8 @@ ms.openlocfilehash: 9802fd35cbb93386a42462c6ddd94ddce422ec7e
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948385"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160534"
 ---
 # <a name="argentina-personal-data-protection-act-pdpa"></a>아르헨티나 PDPA(개인 데이터 보호법)
 

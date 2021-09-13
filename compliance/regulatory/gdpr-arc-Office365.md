@@ -20,8 +20,8 @@ ms.openlocfilehash: 7bce2fc5aaac14442eb466921d3acc130389446c
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948146"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160206"
 ---
 # <a name="accountability-readiness-checklist-for-microsoft-365"></a>Microsoft 365에 대한 책임 준비 상태 검사 목록
 

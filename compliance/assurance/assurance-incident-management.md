@@ -24,8 +24,8 @@ ms.openlocfilehash: 203adce9b4c7167315abbbfbebce0efdd604fefe
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947336"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160029"
 ---
 # <a name="incident-management-overview"></a>인시던트 관리 개요
 

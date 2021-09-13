@@ -20,8 +20,8 @@ ms.openlocfilehash: 3972a5d470db8f0a75e7717e671be5a268308d5b
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948237"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160870"
 ---
 # <a name="cloud-security-mark-gold-cs-gold-mark"></a>클라우드 보안 마크 골드(CS 골드 마크)
 

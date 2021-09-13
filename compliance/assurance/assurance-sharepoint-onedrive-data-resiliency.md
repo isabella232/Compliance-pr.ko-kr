@@ -23,8 +23,8 @@ ms.openlocfilehash: 02df77f949cf1633017dd25f4cff17175c536d53
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947414"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160774"
 ---
 # <a name="sharepoint-and-onedrive-data-resiliency-in-microsoft-365"></a>Microsoft 365의 SharePoint 및 OneDrive 데이터 복원력
 

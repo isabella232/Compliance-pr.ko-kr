@@ -22,8 +22,8 @@ ms.openlocfilehash: 838f6bfbae65770071cfa1e07e668bb6641e89a8
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948465"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160205"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-professional-services"></a>데이터 보호 영향 평가: Microsoft 전문 서비스를 사용하는 데이터 컨트롤러의 참고 자료
 

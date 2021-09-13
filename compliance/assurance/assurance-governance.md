@@ -24,8 +24,8 @@ ms.openlocfilehash: 86885737bb3e6acd0a9503c240b09cb3349da7a8
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947312"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160036"
 ---
 # <a name="governance-overview"></a>거버넌스 개요
 

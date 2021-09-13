@@ -24,8 +24,8 @@ ms.openlocfilehash: 6a26334b805be069298302d3ad1e8e5b9e728150
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947200"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160357"
 ---
 # <a name="data-bearing-device-destruction"></a>데이터 포함 장치 폐기
 

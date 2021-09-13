@@ -23,8 +23,8 @@ ms.openlocfilehash: 0c99c28ee6a291acbcfe913a87aa107d3be5c75a
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947344"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160766"
 ---
 # <a name="microsoft-security-incident-management-containment-eradication-and-recovery"></a>Microsoft 보안 인시던트 관리: 포함, 삭제 및 복구
 

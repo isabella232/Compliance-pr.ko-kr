@@ -20,8 +20,8 @@ ms.openlocfilehash: 18da1f6b422327f42dc517fa0f9c8abe9c91e253
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948206"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161029"
 ---
 # <a name="center-for-internet-security-cis-benchmarks"></a>인터넷 보안 센터 (CIS) 벤치마크
 

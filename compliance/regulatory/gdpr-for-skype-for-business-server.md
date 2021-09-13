@@ -17,8 +17,8 @@ ms.openlocfilehash: e6c7eb83a8838e7942aa79c63482eaa30b095d00
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948498"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160158"
 ---
 # <a name="gdpr-for-skype-for-business-server-and-lync-server"></a>비즈니스용 Skype 서버 및 Lync Server GDPR
 

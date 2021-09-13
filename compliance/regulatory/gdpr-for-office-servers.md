@@ -18,8 +18,8 @@ ms.openlocfilehash: f514a966b576f15b2eeba1ae36c5cb88f3e91bd8
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948489"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160198"
 ---
 # <a name="gdpr-for-office-on-premises-servers"></a>Office 온-프레미스 Server GDPR
 

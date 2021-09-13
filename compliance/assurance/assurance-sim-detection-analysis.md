@@ -23,8 +23,8 @@ ms.openlocfilehash: b22c078715f2bbbf63ae5d6af8fb073aed1f1b48
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947368"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160765"
 ---
 # <a name="microsoft-security-incident-management-detection-and-analysis"></a>Microsoft 보안 인시던트 관리: 검색 및 분석
 

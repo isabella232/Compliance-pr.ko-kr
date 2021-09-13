@@ -21,8 +21,8 @@ ms.openlocfilehash: 48b438ba764c0210acf028dc3d7acc7c66c783f2
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947285"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160285"
 ---
 # <a name="train-for-business-continuity-in-your-organization"></a>조직의 비즈니스 연속성 교육
 

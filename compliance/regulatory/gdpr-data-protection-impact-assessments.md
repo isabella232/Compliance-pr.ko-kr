@@ -21,8 +21,8 @@ ms.openlocfilehash: c634e1c63a123232f600cbe085964cf9d2e366a9
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948457"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160957"
 ---
 # <a name="data-protection-impact-assessment-for-the-gdpr"></a>GDPR에 대한 데이터 보호 영향 평가
 

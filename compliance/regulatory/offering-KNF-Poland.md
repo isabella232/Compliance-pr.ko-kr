@@ -20,8 +20,8 @@ ms.openlocfilehash: b9152debd0b6fd01624aefc61c3492b4075bc6e1
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948321"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160613"
 ---
 # <a name="financial-supervision-authority-knf-poland"></a>KNF (금융 감독 기관) 폴란드
 
