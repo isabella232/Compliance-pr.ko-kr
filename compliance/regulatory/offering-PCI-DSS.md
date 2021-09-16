@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 09c18fce6544984a7e9d639e68d0f0201c584768
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 63303389fc8fae69b9a6803a513efeb1281f781e
+ms.sourcegitcommit: 4afc3ca7f8c18ae7136b4c82c572531947e82daa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161150"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59349962"
 ---
 # <a name="payment-card-industry-pci-data-security-standard-dss"></a>PCI(Payment Card Industry) DSS(Data Security Standard)
 
@@ -68,11 +68,11 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **상업용** | 비즈니스용 OneDrive(미국), SharePoint Online |
+| **상업용** | 비즈니스용 OneDrive(미국), SharePoint Online(미국) |
 
 ### <a name="office-365-audit-reports-and-certificates"></a>Office 365 감사, 보고서 및 인증
 
-- [비즈니스용 OneDrive 및 SharePoint Online PCI DSS 준수 증명(AoC)](https://aka.ms/spo-pci)
+- [비즈니스용 OneDrive 및 SharePoint Online PCI DSS 준수 증명(AoC)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=f1962237-32ea-4123-939e-1c8f04d13c16&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_PCI_DSS)
 
 ### <a name="frequently-asked-questions"></a>자주하는 질문
 
