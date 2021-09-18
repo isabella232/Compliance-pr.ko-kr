@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 81de800d437427d77c5004f20e0cdf672db3a533
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 67830f9abd3fb81048fdcb327dd99c208d9fc713
+ms.sourcegitcommit: 0ba64300a1e172c84af37978bbf04514636b3acd
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161006"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59438399"
 ---
 # <a name="multi-tier-cloud-security-mtcs-standard-for-singapore"></a>싱가포르 MTCS(다단계 클라우드 보안) 표준
 
@@ -47,7 +47,7 @@ Microsoft Azure 서비스 (IaaS 및 PaaS), Microsoft Dynamics 365 서비스 (Saa
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
 - Azure
-- [Dynamics 365](https://aka.ms/d365-compliance-list)
+- Dynamics 365 온라인 서비스(Business Central, 상거래, 고객 서비스, 현장 서비스, 금융, 사기 방지, 마케팅, 판매, 공급망 관리)
 - Genomics
 - Intune
 - Microsoft Cloud App Security
