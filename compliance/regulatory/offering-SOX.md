@@ -1,7 +1,7 @@
 ---
 title: Sarbanes-Oxley Act of 2002(SOX)
 description: 금융 서비스 회사는 Microsoft 규정 준수 보고서를 사용하여 규정 준수를 Sarbanes-Oxley 있습니다.
-keywords: Microsoft 365, 규정 준수, 제품
+keywords: Microsoft 365, 규정 준수, 제안
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 375f7a58db675f3f14bd98ff580919ef40f603f1
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: aa85357047d3f92b694023b102fa7141eb26344d
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161134"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486445"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act of 2002(SOX)
 
@@ -74,7 +74,7 @@ AICPA SSAE 18 표준은 SAS 70을 대체하며, 재무 보고에 대한 사용�
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **상업용** | Augmentation Loop, Auto Alt Text, Azure Information Protection, Binary Conversion Services, Bookings, Delve, Document Item, Editor, Exchange Online, Forms, Insert Online Media, Insights, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, 비즈니스용 OneDrive, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, 비즈니스용 Skype, StaffHub, Stream,Sway, To-Do, Web Rendering Service, Yammer Enterprise  |
+| **상업용** | Augmentation Loop, Auto Alt Text, Azure Information Protection, Binary Conversion Services, Bookings, Delve, Document Item, Editor, Exchange Online, Forms, Online Media, Insights, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, 비즈니스용 OneDrive, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, 비즈니스용 Skype, StaffHub, Stream,Sway, To-Do, Web Rendering Service, Yammer Enterprise  |
 
 ### <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 
@@ -84,7 +84,7 @@ AICPA SSAE 18 표준은 SAS 70을 대체하며, 재무 보고에 대한 사용�
 - Dynamics 365
 - Office 365
 
-### <a name="frequently-asked-questions"></a>자주 묻는 질문
+### <a name="frequently-asked-questions"></a>질문과 대답
 
 **Microsoft SOX 규정 준수를 사용하여 조직의 규정 준수 프로세스를 촉진하는 방법**
 

@@ -1,7 +1,7 @@
 ---
 title: FFIEC(연방 금융 기관 검사 위원회)
 description: Microsoft는 금융 서비스 클라이언트가 FFIEC(연방 금융 기관 검사 위원회)의 감사 요구 사항을 준수할 수 있습니다.
-keywords: Microsoft 365, 규정 준수, 제품
+keywords: Microsoft 365, 규정 준수, 제안
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7cdc024d19ce0753d3d0c0e5cf45b6276939d6f2
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 79d0f7bfff27f28b65d8f29c71f472024fbcd07e
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161246"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486355"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>FFIEC(연방 금융 기관 검사 위원회)
 
@@ -70,14 +70,14 @@ AICPA SSAE 18 표준은 SAS 70을 대체하며, 재무 보고에 대한 사용�
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **상업용** | Azure Active Directory, Azure Information Protection, Bookings, 준수 관리자, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Office 365용 Microsoft Defender, Microsoft Graph, Microsoft Teams, 웹용 Microsoft To-Do, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Cloud App Security, Office 365 그룹, Office 365 보안 및 준수 센터, Office 365 비디오, Office 온라인, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, StaffHub, Stream, Sway, Yammer Enterprise |
+| **상업용** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, microsoft Booking, Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do for Web, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Cloud App Security, Office 365 Groups, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, StaffHub, Stream, Sway, Yammer Enterprise |
 | **GCC** | Azure Active Directory, 준수 관리자, Delve, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, Stream |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Office 365 감사, 보고서 및 인증서
 
 SOC Office 365 보고서를 참조합니다.
 
-### <a name="frequently-asked-questions"></a>자주 묻는 질문
+### <a name="frequently-asked-questions"></a>질문과 대답
 
 **SoC 표준에 대한 Microsoft 규정 준수를 사용하여 기관에 대한 FFIEC 규정 준수 의무를 충족할 수 있나요?**
 

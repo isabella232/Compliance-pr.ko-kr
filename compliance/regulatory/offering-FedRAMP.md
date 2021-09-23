@@ -1,7 +1,7 @@
 ---
 title: FedRAMP(Federal Risk and Authorization Management Program)
 description: Microsoft는 미국 연방 위험 및 권한 부여 관리 프로그램 P-ATOS 및 ATOS를 부여했습니다.
-keywords: Microsoft 365, 규정 준수, 제품
+keywords: Microsoft 365, 규정 준수, 제안
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3f178689655662272fc8149259cf769ce122a18a
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 36e3ddb58a61bc3a0a14a300e15f22262027fc92
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161077"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486345"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>FedRAMP(Federal Risk and Authorization Management Program)
 
@@ -75,9 +75,9 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **GCC** | 작업 피드 서비스, Bing 서비스, Bing Delve, Exchange Online, Exchange Online Protection, 인프라, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office Online, Office 서비스, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, SharePoint Online, 비즈니스용 Skype, Windows Ink |
-| **GCC High** | 작업 피드 서비스, Bing 서비스, Exchange Online, Exchange Online Protection, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office Online, Office 서비스 인프라, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, SharePoint Online, 비즈니스용 Skype, Windows Ink |
-| **DoD** | 작업 피드 서비스, Bing 서비스, Exchange Online Protection, Exchange Online, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office Online, Office 서비스 인프라, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, SharePoint Online, 비즈니스용 Skype, Windows Ink |
+| **GCC** | 작업 피드 서비스, Bing 서비스, 예약, Delve, Exchange Online, Exchange Online Protection, 인프라, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office 온라인, Office 서비스, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, SharePoint Online, 비즈니스용 Skype, Windows Ink |
+| **GCC High** | 작업 피드 서비스, Bing 서비스, 예약, Exchange Online, Exchange Online Protection, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office Online, Office 서비스 인프라, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, SharePoint Online, 비즈니스용 Skype, Windows Ink |
+| **DoD** | 작업 피드 서비스, Bing 서비스, 예약, Exchange Online Protection, Exchange Online, 지능형 서비스, Microsoft Teams, Office 365 고객 포털, Office Online, Office 서비스 인프라, Office 사용 현황 보고서, 비즈니스용 OneDrive, 사용자 카드, SharePoint Online, 비즈니스용 Skype, Windows Ink |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Office 365 감사, 보고서 및 인증서
 
@@ -85,7 +85,7 @@ Microsoft는 P-ATOs 및 ATOs를 유지하기 위해 매년 클라우드 서비�
 
 - [Microsoft FedRAMP 감사 보고서](https://aka.ms/MicrosoftFedRAMPAuditDocuments)  
 
-### <a name="frequently-asked-questions"></a>자주 묻는 질문
+### <a name="frequently-asked-questions"></a>질문과 대답
 
 **Microsoft 클라우드 서비스가 FISMA(Federal Information Security Management Act)를 준수하나요?**
 

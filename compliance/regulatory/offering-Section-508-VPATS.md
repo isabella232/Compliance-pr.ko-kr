@@ -1,7 +1,7 @@
 ---
 title: 미국 섹션 508
 description: Microsoft는 해당 서비스의 접근성 기능을 설명하는 많은 클라우드 서비스에 대한 자세한 접근성 적합성 보고서를 제공합니다.
-keywords: Microsoft 365, 규정 준수, 제품
+keywords: Microsoft 365, 규정 준수, 제안
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 728050d20babd819c2153cd04b3eae849120eeee
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 08e57873bb1664ce7cafc9aa1c193f6976651faf
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161174"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486455"
 ---
 # <a name="us-section-508"></a>미국 섹션 508
 
@@ -56,10 +56,11 @@ Microsoft는 미국 연방 및 주 정부에 대한 주요 소프트웨어 및 �
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **상업용** | Access, Azure Active Directory, Bookings, Compliance Manager, Delve, Excel, Exchange Online, 양식, Kaizala, microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, android용 Office 365 관리 포털, iOS용 Office 365 관리 포털, Office 365 관리 포털, Office 365 Advanced Compliance 추가 기능, Office 365 및 Azure AD 로그인, Office 365 Business 센터, Office 365 보안 & 준수 센터, Office 365 비디오, Office 365 웹 제품군, Office 구성 도구, Office Lens, Office Online, Office Pro Plus, 비즈니스용 OneDrive, OneDrive, OneNote, Outlook Groups, Outlook, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, SharePoint, 비즈니스용 Skype, StaffHub, Stream, To-Do, Visio, Word, Yammer  |
-| **GCC** | Azure Active Directory, 준수 관리자, Delve, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, Stream |
-| **GCC High** | Azure Active Directory, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype |
-| **DoD** | Azure Active Directory, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, Power BI, SharePoint Online, 비즈니스용 Skype |
+| **클라이언트** | Android용 액세스, Excel, Office 365 관리 포털, iOS용 Office 365 관리 포털, Office Configuration Tool, Office Lens, OneNote, Outlook, PowerPoint, Project, SharePoint, To-Do, Visio, Word |
+| **상업용** | Azure Active Directory, Bookings, Compliance Manager, Delve, Exchange Online, Forms, Kaizala, Microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 and Azure AD sign-in, Office 365 Business Center, Office 365 Customer Portal, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, 비즈니스용 OneDrive, OneDrive, Outlook Groups, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, StaffHub, Stream, Yammer |
+| **GCC** | Azure Active Directory, 준수 관리자, Delve, Exchange Online, Forms, microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 고객 포털, Office 365 보안 & 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, 비즈니스용 Skype, Stream |
+| **GCC High** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 고객 포털 , Office 365 Security & Compliance Center, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, 비즈니스용 Skype |
+| **DoD** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender for Office 365, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 고객 포털 , Office 365 보안 & 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, Power BI, 비즈니스용 Skype |
 
 ### <a name="microsoft-accessibility-conformance-reports"></a>Microsft 접근성 적합성 보고서
 

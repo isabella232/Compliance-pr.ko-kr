@@ -1,7 +1,7 @@
 ---
 title: FERPA(가족 교육권 및 개인 정보 보호법)
 description: Microsoft는 미국 가족 교육권 및 개인 정보 보호법의 요구 사항을 준수합니다.
-keywords: Microsoft 365, 규정 준수, 제품
+keywords: Microsoft 365, 규정 준수, 제안
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0ec79c5be17018f8b01eb3d938b65392b021ce77
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: df079bc4622d633918c1a44da9cd55ae20ebc5ea
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161093"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486365"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>FERPA(가족 교육권 및 개인 정보 보호법)
 
@@ -66,8 +66,8 @@ Microsoft가 고객 데이터에서 '적법한 교육적 관심사'를 사용하
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **상업용** | Azure Active Directory, Azure Information Protection, Bookings, 준수 관리자, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Office 365용 Microsoft Defender, Microsoft Graph, Microsoft Teams, 웹용 Microsoft To-Do, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Cloud App Security, Office 365 그룹, Office 365 보안 및 준수 센터, Office 365 비디오, Office 온라인, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, StaffHub, Stream, Sway, Yammer Enterprise |
-| **GCC** | Azure Active Directory, 준수 관리자, Delve, Exchange Online, Forms, microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, harePoint Online, 비즈니스용 Skype, Stream |
+| **상업용** | Azure Active Directory, Azure Information Protection, Bookings, Compliance Manager, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, microsoft Booking, Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do for Web, MyAnalytics, Office 365 Advanced Compliance add-on, Office 365 Cloud App Security, Office 365 Groups, Office 365 Security & Compliance Center, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, StaffHub, Stream, Sway, Yammer Enterprise |
+| **GCC** | Azure Active Directory, 준수 관리자, Delve, Exchange Online, Forms, microsoft Defender for Office 365, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 보안 & 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, harePoint Online, 비즈니스용 Skype, Stream |
 | **GCC High** | Azure Active Directory, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype |
 | **DoD** | Azure Active Directory, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, Power BI, SharePoint Online, 비즈니스용 Skype |
 
@@ -75,7 +75,7 @@ Microsoft가 고객 데이터에서 '적법한 교육적 관심사'를 사용하
 
 FERPA는 감사 또는 인증을 요구하거나 인식하지 않습니다.
 
-### <a name="frequently-asked-questions"></a>자주 묻는 질문
+### <a name="frequently-asked-questions"></a>질문과 대답
 
 **FERPA가 중요한 이유는 무엇입니까?**
 
