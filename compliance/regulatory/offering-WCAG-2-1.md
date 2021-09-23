@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 79f4efec9c7e441405228de88e68916f8de3f754
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 3208fab9675c02ec1e7af0824a05f9a062b311b2
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161054"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486435"
 ---
 # <a name="web-content-accessibility-guidelines"></a>웹 콘텐츠 접근성 지침
 
@@ -62,10 +62,11 @@ Microsoft는 전체 제품 또는 서비스를 반영하는 WCAG 보고서를 �
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **상업용** | Excel, Exchange 관리 센터, Office 365 관리 센터(포털), Office 365 및 Azure AD 로그인 환경, Office 365 고객 포털, Office 365 보안 및 준수 센터 Office 365 Video, Office Lens, Office.com, OneDrive 관리 센터, 비즈니스용 OneDrive, OneDrive 동기화 클라이언트, OneNote, Orcas, Outlook Groups, Outlook, PowerPoint, Project, Word  |
-| **GCC** | Azure Active Directory, 준수 관리자, Delve, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, Stream |
-| **GCC High** | Azure Active Directory, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype |
-| **DoD** | Azure Active Directory, Exchange Online, Office 365용 Microsoft Defender, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, Forms, Power BI, SharePoint Online, 비즈니스용 Skype |
+| **클라이언트** | Access, Excel, Android용 Office 365 관리 포털, iOS용 Office 365 관리 포털, Office 구성 도구, Office Lens, OneNote, Outlook, PowerPoint, Project, SharePoint, To-Do, Visio, Word |
+| **상업용** | Exchange 관리 센터, Office 365 고객 포털, Office 365 보안 및 준수 센터, Office.com, OneDrive 관리 센터, 비즈니스용 OneDrive, OneDrive 동기화 클라이언트, Orcas, Outlook 그룹 |
+| **GCC** | Azure Active Directory, 준수 관리자, Delve, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 고객 포털, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, 비즈니스용 Skype, Stream |
+| **GCC High** | Azure Active Directory, Exchange Online, Forms, Office 365용 Microsoft Defender, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 보안 및 준수 센터, Office 365 고객 포털, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, 비즈니스용 Skype |
+| **DoD** | Azure Active Directory, Exchange Online, Office 365용 Microsoft Defender, Microsoft Teams, Office 365 Advanced Compliance 추가 기능, Office 365 고객 포털, Office 365 보안 및 준수 센터, Office Online, Office Pro Plus, 비즈니스용 OneDrive, Planner, Forms, Power BI, 비즈니스용 Skype |
 
 ## <a name="microsoft-accessibility-conformance-reports"></a>Microsft 접근성 적합성 보고서
 

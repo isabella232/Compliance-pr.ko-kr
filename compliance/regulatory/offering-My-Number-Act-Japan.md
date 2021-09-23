@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e38e5f2c370692a60d07ac25491ae457e0ed34c0
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: a770f37d778d56116050adefa03f2b27a1241792
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160421"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486275"
 ---
 # <a name="my-number-act-japan"></a>마이넘버 법 (일본)
 
@@ -39,13 +39,13 @@ ms.locfileid: "59160421"
 
 Microsoft 비즈니스 클라우드 서비스는 [Microsoft 온라인 서비스 약관](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31)의 해당 요구 사항을 해결하며, 마이넘버 데이터가 포함된 고객 데이터에 대한 소유권 및 책임은 Microsoft가 아닌 고객에게 있습니다. 따라서 고객은 고객 데이터에 포함된 마이넘버 데이터를 보호하기 위한 적절한 컨트롤 수단을 갖추어야 합니다.
 
-Microsoft는 클라우드 서비스에 저장된 마이넘버 데이터에 정식으로 액세스할 수 없으므로 마이넘버 데이터 처리를 위한 '아웃소싱' 계약이 필요하지 않습니다. 고객이 Microsoft가 마이넘버 데이터가 포함된 고객 데이터에 액세스하기를 원하는 경우 고객은 요청하기 전에 모든 경우에 대해 Microsoft와 추가 아웃소싱 계약을 작성해야합니다.
+Microsoft는 클라우드 서비스에 저장된 마이넘버 데이터에 정식으로 액세스할 수 없으므로 마이넘버 데이터 처리를 위한 '아웃소싱' 계약이 필요하지 않습니다. 고객이 Microsoft가 My Number 데이터가 포함된 고객 데이터에 액세스하기를 원하는 경우 고객은 요청하기 전에 모든 경우에 대해 Microsoft와 다른 아웃소싱 계약을 작성해야 합니다.
 
 또한 이 약관은 Microsoft가 광고 또는 유사한 상업적 목적이 아닌 고객에게 서비스를 제공하기 위해서만 고객 데이터를 사용하고 Microsoft는 강력한 액세스 제어 시스템을 갖추고 있음을 명시합니다.
 
 보안 문제와 관련하여 Microsoft 비즈니스 클라우드 서비스는 클라우드 서비스 제공 업체를 위한 최초의 일본 보안 인증인 [Cloud Security Mark (Gold)](offering-cs-mark-gold-japan.md) 표준을 충족합니다.
 
-따라서 Microsoft 비즈니스 클라우드 서비스는 마이넘버 법 요구 사항을 지원하며 개인 데이터의 개별 소유자로부터 동의한 경우와 같이 고객에 대한 법률에 따라 추가 의무를 생성하지 않습니다.
+따라서 Microsoft 비즈니스 클라우드 서비스는 My Number 법 요구 사항을 지원하며 개인 데이터의 개별 소유자로부터 동의한 경우와 같이 고객에 대한 법률에 따라 다른 의무를 생성하지 않습니다.
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft 범위 내 클라우드 플랫폼 및 서비스
 
@@ -66,7 +66,7 @@ Microsoft는 클라우드 서비스에 저장된 마이넘버 데이터에 정�
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **상업용** | Azure Active Directory, Azure Information Protection, Bookings, 준수 관리자, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Office 365용 Microsoft Defender, Microsoft Graph, Microsoft Teams, 웹용 Microsoft To-Do, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Cloud App Security, Office 365 그룹, Office 365 버안 및 준수 센터, Office 365 비디오, Office 온라인, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint 온라인, 비즈니스용 Skype, StaffHub, Stream, Sway, Yammer Enterprise |
+| **상업용** | Azure Active Directory, Azure Information Protection, Bookings, 준수 관리자, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Office 365용 Microsoft Defender, Microsoft Graph, Microsoft Teams, 웹용 Microsoft To-Do, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Cloud App Security, Office 365 그룹, Office 365 보안 및 준수 센터, Office 온라인, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint 온라인, 비즈니스용 Skype, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="how-to-implement"></a>구현 방법
 
