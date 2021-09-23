@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: e1613765d3ffb7b43b80d07823fe8aef45719b70
-ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
+ms.openlocfilehash: ba0d0bbea11000144d7091455c6ee204f2c17037
+ms.sourcegitcommit: 856111c112a30160950fdd0ce94369aff7e176dc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 09/23/2021
-ms.locfileid: "59486195"
+ms.locfileid: "59489375"
 ---
 # <a name="microsoft-denial-of-service-defense-strategy"></a>Microsoft 서비스 거부 방어 전략
 
@@ -49,7 +49,7 @@ Microsoft는 또한 DDoS 방어에 대한 공격적인 접근 방식을 입니�
 
 ## <a name="application-level-defenses"></a>응용 프로그램 수준 방어
 
-Microsoft 엔지니어링 팀은 Microsoft Operational Security [Assurance에서](https://www.microsoft.com/SDL/OperationalSecurityAssurance) 설정한 엄격한 표준을 준수하여 고객 데이터를 보호합니다. Microsoft의 클라우드 서비스는 응용 프로그램 수준 DDoS 공격으로부터 보호하는 데 도움이 되는 높은 부하를 지원하기 위해 의도적으로 구축됩니다. Microsoft의 확장된 아키텍처는 관련 워크로드에 대한 지역별 및 작업별 조정 기능을 사용하여 여러 전역 데이터 센터에 서비스를 배포합니다.
+Microsoft의 클라우드 서비스는 응용 프로그램 수준 DDoS 공격으로부터 보호하는 데 도움이 되는 높은 부하를 지원하기 위해 의도적으로 구축됩니다. Microsoft의 확장된 아키텍처는 관련 워크로드에 대한 지역별 및 작업별 조정 기능을 사용하여 여러 전역 데이터 센터에 서비스를 배포합니다.
 
 각 고객의 국가 또는 지역( 고객의 관리자가 서비스의 초기 구성 중에 식별)에 따라 해당 고객의 데이터에 대한 기본 저장소 위치가 결정됩니다. 고객 데이터는 기본/백업 전략에 따라 중복 데이터 센터 간에 복제됩니다. 기본 데이터 센터는 소프트웨어에서 실행되는 모든 기본 고객 데이터와 함께 응용 프로그램 소프트웨어를 호스트합니다. 백업 데이터 센터는 자동 장애 조치(failover)를 제공합니다. 어떤 이유로든 기본 데이터 센터가 작동하지 않을 경우 요청은 백업 데이터 센터의 소프트웨어 및 고객 데이터 복사본으로 리디렉션됩니다. 고객 데이터는 어떤 경우든 기본 데이터 센터 또는 백업 데이터 센터에서 처리될 수 있습니다. 여러 데이터 센터에 데이터를 분산하면 한 데이터 센터가 공격을 받는 경우 영향을 받는 표면 영역을 줄일 수 있습니다. 또한 영향을 받는 데이터 센터의 서비스는 빠르게 보조 데이터 센터로 리디렉션하여 공격 중에 가용성을 유지 관리하고 공격이 완화된 후 기본 데이터 센터로 다시 리디렉션될 수 있습니다.
 
