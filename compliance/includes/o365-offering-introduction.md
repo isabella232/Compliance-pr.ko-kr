@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b42797a1987251ab34dc8ee44e654667992f0ee3
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: dc958775342570cc15a2549bb83e22a2b53db8fe
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259742"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486218"
 ---
 <!-- This file is a part of all Office 365 compliance offering topics. Please coordinate with Robert Mazzoli (robmazz) for any changes.-->
 
@@ -12,6 +12,7 @@ Microsoft Office 365는 다중 테넌트 하이퍼스케일 클라우드 플랫�
 
 이 섹션에서는 다음 Office 365 클라우드 환경에 대해 설명합니다.
 
+- **클라이언트 소프트웨어(클라이언트)**: 고객 장치에서 실행되는 상용 클라이언트 소프트웨어입니다.
 - **Office 365(상용)**: 전 세계에서 사용할 수 있는 상업용 공용 Office 365 클라우드 서비스입니다.
 - **Office 365 GCC(정부 커뮤니티 클라우드)**: [Office 365 GCC 클라우드 서비스](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc)는 미국 정부를 대신하여 데이터를 저장하거나 처리하는 계약자뿐만 아니라 미국 연방, 주, 지방 및 자치 정부에서 사용할 수 있습니다.
 - **Office 365 GCC High(정부 커뮤니티 클라우드 - High)**: [Office 365 GCC High 클라우드 서비스](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod)는 DoD(미국방부) 보안 요구 사항 지침 수준 4 컨트롤에 따라 디자인되었으며 엄격하게 규제되는 연방 및 방어 정보를 지원합니다. 이 환경은 연방 기관, DIB(Defense Industrial Base) 및 정부 계약자가 사용합니다.
