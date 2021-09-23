@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d0f7bd0db5d71c91a163e05e582ad8c227a8aa22
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 766d018b6070ce4bda016b2711925533c210413e
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160901"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486405"
 ---
 # <a name="baseline-informatiebeveiliging-rijksdienst-standard-bir-2012"></a>Baseline Informatiebeveiliging Rijksdienst 표준(BIR 2012)
 
@@ -55,7 +55,7 @@ Microsoft는 BIR 2012 규정 준수의 적용 대상이 아니지만 클라우�
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **상업용** | Azure Information Protection, Bookings, Exchange Online Protection, Exchange Online, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, 웹용 Microsoft To-Do, MyAnalytics, Office 365 Cloud App Security, Office 365 그룹, Office 365 Video, Office Delve, 비즈니스용 OneDrive, Planner, Power Apps, Power Automate, Office 365용 Power BI, PowerApps, SharePoint Online, 비즈니스용 Skype, StaffHub, Stream, Sway, Yammer Enterprise |
+| **상업용** | Azure Information Protection, Bookings, Exchange Online Protection, Exchange Online, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, 웹용 Microsoft To-Do, MyAnalytics, Office 365 Cloud App Security, Office 365 그룹, Office Delve, 비즈니스용 OneDrive, Planner, Power Apps, Power Automate, Office 365용 Power BI, PowerApps, SharePoint Online, 비즈니스용 Skype, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>감사, 보고서 및 인증서
 

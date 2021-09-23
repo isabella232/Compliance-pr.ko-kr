@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 91735f08e93777a7ffa1a9c86d3a4776cc8cf1a0
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: af9568a2ecb3e2b2be1fe3086b48e82f95f0869d
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160094"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486224"
 ---
 # <a name="enisa-information-assurance-framework"></a>ENISA Information Assurance Framework
 
@@ -64,7 +64,7 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 
 | **적용 가능성** | **범위 내 서비스** |
 |:------------------|:----------------------|
-| **상업용** | Azure Active Directory, Azure Information Protection, Bookings, 준수 관리자, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Office 365용 Microsoft Defender, Microsoft Graph, Microsoft Teams, 웹용 Microsoft To-Do, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Cloud App Security, Office 365 그룹, Office 365 보안 및 준수 센터, Office 365 비디오, Office 온라인, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, 비즈니스용 Skype, StaffHub, Stream, Sway, Yammer Enterprise |
+| **상업용** | Azure Active Directory, Azure Information Protection, Bookings, 준수 관리자, Delve, Exchange Online, Exchange Online Protection, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Office 365용 Microsoft Defender, Microsoft Graph, Microsoft Teams, 웹용 Microsoft To-Do, MyAnalytics, Office 365 Advanced Compliance 추가 기능, Office 365 Cloud App Security, Office 365 그룹, Office 365 보안 및 준수 센터, Office 온라인, Office Pro Plus, 비즈니스용 OneDrive, Planner, PowerApps, Power Automate, Power BI, SharePoint 온라인, 비즈니스용 Skype, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ### <a name="resources"></a>리소스
 
