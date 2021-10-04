@@ -18,21 +18,22 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 hideEdit: true
-ms.openlocfilehash: 202b8aa75d3dd6fc94025a1a30f922563fc73e7b
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 52db464f30ac518cb60fcb62ad908e0fb3de31eb
+ms.sourcegitcommit: 0777355cfb73c07d2b7e11d95a5996be8913b2af
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59159976"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60050572"
 ---
 # <a name="windows-diagnostic-data-processor-configuration-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR 및 CCPA에 대한 Windows 진단 데이터 프로세서 구성 데이터 주체 요청
 
->[!NOTE]
->이 항목은 Windows 10 Enterprise, Pro 및 Education 버전, 버전 1809(2021년 7월 업데이트 및 최신 업데이트 포함)에 적용됩니다.
+**적용 대상:**
+-   Windows 10 Enterprise, Pro 및 Education 버전 1809(2021년 7월 업데이트 이상)
+-   Windows 11 Enterprise, Pro 및 Education 버전
 
 ## <a name="introduction-to-data-subject-requests-dsrs"></a>DSR(데이터 주체 요청) 소개
 
-EU GDPR(일반 데이터 보호 규정)은 사람들(규정에서 _데이터 주체_)에게 고용주 또는 다른 유형의 기관이나 조직(_데이터 컨트롤러_ 또는 간단하게 _컨트롤러_)에 의해 수집된 개인 데이터를 관리할 권한을 제공합니다. GDPR에서 개인 데이터는 식별되거나 식별 가능한 자연인에 관련된 모든 데이터로 광범위하게 정의됩니다. GDPR은 데이터 주체에게 개인 데이터에 대한 특정 권한을 제공합니다. 이러한 권한에는 개인 데이터의 복사본을 얻거나, 수정을 요청하거나, 처리를 제한하거나, 삭제하거나, 다른 관리자에게 전달할 수 있도록 전자 형식으로 개인 데이터를 수신할 권한이 포함됩니다. 데이터 주체가 개인 데이터에 대한 작업을 수행하도록 관리자에게 공식적으로 요청하는 것을 DSR(_Data Subject Request_)이라고 합니다.
+EU GDPR(일반 데이터 보호 규정)은 사용자(규정에 _데이터 주체_ 로 알려짐)에게 고용주 또는 다른 유형의 대리점 및 조직(_데이터 컨트롤러_ 또는 단순히 _컨트롤러_ 로 지칭)이 수집한 개인 데이터를 관리할 수 있는 권한을 부여합니다. 개인 데이터는 GDPR에서는 보다 광범위하게 식별되었거나 식별 가능한 자연인과 관련된 모든 데이터로 정의됩니다. GDPR은 데이터 주체에게 개인 데이터에 대한 특정 권한을 부여합니다. 이러한 권한에는 개인 데이터 복사본 획득, 수정 요청, 처리 제한, 삭제 또는 다른 컨트롤러에게 이동될 수 있도록 전자 형식으로 수신하는 권한이 포함됩니다. 데이터 주체가 컨트롤러에게 개인 데이터에 대해 조치를 취할 것을 요구하는 공식적인 요청을 _데이터 주체 요청_ 또는 DSR이라고 합니다.
 
 마찬가지로 CCPA(캘리포니아 소비자 개인 정보 보호법)은 캘리포니아 소비자에게 GDPR의 데이터 주체 권리와 유사한 권리를 포함하여, 소비자의 개인 정보 삭제, 액세스 및 수신(이식성)과 같은 개인 정보 보호 권리 및 의무를 제공합니다. 또한 CCPA는 특정 공개, 실행 권리 행사 시 차별 대우로부터 보호, “판매”로 분류되는 특정 데이터 전송에 대한 “옵트아웃(opt-out)/옵트인(opt-in)” 요구도 제공합니다. 판매는 가치 있는 대가관계를 위하여 데이터 공유를 포함하도록 광범위하게 정의됩니다. CCPA에 대한 자세한 내용은 [캘리포니아 소비자 개인 정보 보호법](/microsoft-365/compliance/offering-ccpa) 및 [캘리포니아 소비자 개인 정보 보호법 FAQ](/microsoft-365/compliance/ccpa-faq)를 참조하세요.
 
@@ -72,7 +73,7 @@ Microsoft는 사용자의 Windows 진단 데이터 프로세서 구성이 사용
 > 일부 Windows 진단 데이터는 디바이스 식별자와만 연결되며 특정 사용자와 연결되지 않습니다. 이러한 유형의 디바이스 수준 데이터는 내보내지지 않으며 30일 이내에 시스템에서 삭제됩니다.<br><br>
 > Windows 진단 데이터를 수정하는 기능은 지원되지 않습니다. Windows 진단 데이터는 Windows 내에서 수행되는 사실상의 작업으로, 이러한 데이터를 수정하면 작업 기록의 기록이 손상되어 보안 위험이 증가하고 신뢰성이 저하됩니다.
 
-다음 섹션에서는 AAD(Azure Active Directory) 사용자 ID와 연결된 Windows 진단 데이터에 대한 데이터 주체 요청을 실행하는 방법에 대한 단계를 제공합니다. 자세한 내용은 [Windows 10 및 개인 정보 준수: IT 및 규정 준수 전문가용 가이드](/windows/privacy/windows-10-and-privacy-compliance)를 참조하세요.
+다음 섹션에서는 AAD(Azure Active Directory) 사용자 ID와 연결된 Windows 진단 데이터에 대한 데이터 주체 요청을 실행하는 방법에 대한 단계를 제공합니다. 자세한 내용은 [Windows 10 및 Windows 11 개인 정보 준수: IT 및 규정 준수 전문가를 위한 가이드](/windows/privacy/windows-10-and-privacy-compliance)를 참조하세요.
 
 ## <a name="executing-dsrs-against-windows-diagnostic-data"></a>Windows 진단 데이터에 대한 DSR 실행
 
