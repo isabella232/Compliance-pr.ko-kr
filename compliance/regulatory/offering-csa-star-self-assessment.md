@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6ff20d9ac81562353a5971386d0d498b44edfd3b
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 632c8c40348e155d4acefb0c2ed66f1e1a2500b1
+ms.sourcegitcommit: 963eeffcf34f2696a1530ef95154adc2fa3a1941
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160597"
+ms.lasthandoff: 10/11/2021
+ms.locfileid: "60266708"
 ---
 # <a name="cloud-security-alliance-csa-star-self-assessment"></a>CSA (Cloud Security Alliance) STAR 자체 평가
 
@@ -80,11 +80,11 @@ CCM는 ISO 27001, PCI DSS, HIPAA, AICPA SOC 2, CIP, FedRAMP, NIST 등과 같은 
 
 **Office 365는 어떤 CSA STAR 보증 수준을 획득했나요?**
 
-- **수준 1**: **CSA STAR 자체 평가**: 클라우드 서비스 공급자가 고객이 서비스 보안을 평가하는 것을 돕기 위해 보안 컨트롤을 문서화하는 무료 서비스입니다.
+- **수준 1**: **CSA STAR 자체 평가**: 클라우드 서비스 공급자가 고객이 서비스 보안을 평가하는 것을 돕기 위해 보안 컨트롤을 문서화하는 [무료 서비스](https://cloudsecurityalliance.org/star/registry/services/microsoft-office-365)입니다.
 
 ### <a name="office-365-resources"></a>Office 365 리소스
 
-- [Cloud Security Alliance](https://cloudsecurityalliance.org/)
+- [Cloud Security Alliance - Microsoft 365](https://cloudsecurityalliance.org/star/registry/services/microsoft-office-365)
 - [Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/group/cloud-controls-matrix/)
 - [Consensus Assessments Initiative Questionnaire (CAIQ)](https://cloudsecurityalliance.org/group/consensus-assessments/)
 - [CSA STAR(Security, Trust & Assurance Registry: 보안, 트러스트 및 보증 등록)](https://cloudsecurityalliance.org/star/)

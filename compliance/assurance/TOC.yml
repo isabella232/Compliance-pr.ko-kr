@@ -28,10 +28,18 @@
   items:
     - name: 데이터 센터 보안 개요
       href: assurance-datacenter-security.md
-    - name: 데이터 센터 TVRA
+    - name: 데이터 센터 아키텍처 및 인프라
+      href: assurance-datacenter-architecture-infrastructure.md
+    - name: 데이터 센터 위험 관리
       href: assurance-threat-vulnerability-risk-assessment.md
+    - name: 환경 보호
+      href: assurance-datacenter-environmental-safeguards.md
+    - name: 물리적 액세스 보안
+      href: assurance-datacenter-physical-access-security.md
     - name: 데이터 포함 장치 폐기
       href: assurance-data-bearing-device-destruction.md
+    - name: 비즈니스 연속성 및 재해 복구
+      href: assurance-datacenter-business-continuity-disaster-recovery.md
     - name: 공급 체인 보안
       href: /azure/security/fundamentals/firmware?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: 암호화 및 키 관리
