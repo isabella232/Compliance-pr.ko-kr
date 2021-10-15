@@ -36,6 +36,8 @@
       href: assurance-datacenter-environmental-safeguards.md
     - name: 물리적 액세스 보안
       href: assurance-datacenter-physical-access-security.md
+    - name: 자산 관리
+      href: assurance-datacenter-asset-management.md
     - name: 데이터 포함 장치 폐기
       href: assurance-data-bearing-device-destruction.md
     - name: 비즈니스 연속성 및 재해 복구

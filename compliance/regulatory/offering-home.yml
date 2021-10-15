@@ -292,11 +292,11 @@ conceptualContent:
         - url: gdpr.md
           itemType: reference
           text: GDPR (유럽 연합)
-    - title: 지역별
-      links:
         - url: offering-g-cloud-uk.md
           itemType: reference
           text: G-Cloud (영국)
+    - title: 국가별
+      links:
         - url: 'https://www.idw.de/the-idw/about-the-idw'
           itemType: reference
           text: IDW PS 951(독일)
@@ -318,11 +318,11 @@ conceptualContent:
         - url: offering-mtcs-singapore.md
           itemType: reference
           text: MTCS (싱가포르)
-    - title: 지역별
-      links:
         - url: offering-my-number-act-japan.md
           itemType: reference
           text: My Number (일본)
+    - title: 지역별
+      links:
         - url: offering-nz-cc-framework-nz.md
           itemType: reference
           text: NZ CC 프레임 워크 (뉴질랜드)
@@ -338,3 +338,6 @@ conceptualContent:
         - url: 'https://aka.ms/TRUCS-Compliance'
           itemType: reference
           text: TRUCS (중국)
+        - url: vcdpa-faq.yml
+          itemType: reference
+          text: VCDPA(US-버지니아)
