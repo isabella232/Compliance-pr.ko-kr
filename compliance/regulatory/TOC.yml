@@ -328,3 +328,7 @@
   items:
     - name: CCPA - 자주 묻는 질문
       href: ccpa-faq.yml
+- name: 버지니아 소비자 데이터 보호법(VCDPA)
+  items:
+    - name: VCDPA - 자주 묻는 질문
+      href: vcdpa-faq.yml
