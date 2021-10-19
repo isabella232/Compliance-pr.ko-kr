@@ -19,12 +19,12 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 44876abef95f269d454139fd721194ef3d48dcd4
-ms.sourcegitcommit: cf424cb1e7c12048120977f294f780b776119a96
+ms.openlocfilehash: 6d9304cd0099ba95da8c58432802a3b1c836b1d4
+ms.sourcegitcommit: 02b7aa81f950037d3c959a522336a7d7af579e86
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/11/2021
-ms.locfileid: "60265116"
+ms.lasthandoff: 10/19/2021
+ms.locfileid: "60477953"
 ---
 # <a name="datacenter-architecture-and-infrastructure"></a>데이터 센터 아키텍처 및 인프라
 
@@ -35,6 +35,10 @@ Microsoft는 전 세계에 분산된 데이터 센터 인프라를 만들어 수
 지역은 대규모의 탄력적인 네트워크를 통해 상호 연결되는 데이터 센터 집합입니다. 지역은 지역으로 구성되어 고객에게 특정 데이터 및 규정 준수를 부여하기 위해 데이터 및 응용 프로그램을 닫을 수 있는 권한이 필요합니다. 기본 제공 내결결성은 지역이 전용 대용량 네트워킹 인프라에 대한 연결을 통해 전체 지역 장애를 견디는 데 사용할 수 있도록 합니다.
 
 지역 내의 물리적으로 분리된 위치를 가용성 영역이라고 합니다. 각 위치는 독립적인 전원, 냉각 및 네트워킹이 탑재된 하나 이상의 데이터 센터로 구성됩니다. 가용성 영역은 중요 중요 응용 프로그램을 고가용성 및 짧은 대기 시간 복제로 실행할 수 있도록 합니다.
+
+다음 그림에서는 전역 인프라가 고가용성, 재해 복구 및 백업을 위해 동일한 데이터 유지 경계 내의 지역 및 가용성 지역을 쌍으로 지정하는 방법을 보여줍니다.
+
+![데이터 레지전스 경계.](../media/assurance-data-residency-boundary.png)
 
 Microsoft는 지리적으로 분산된 데이터 센터를 통해 서비스를 고객에게 더 가까이 제공하고, 네트워크 대기 시간을 줄이고, 지리적 중복 백업 및 장애 조치(failover)를 허용할 수 있습니다.
 
