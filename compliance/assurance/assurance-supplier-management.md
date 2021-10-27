@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 3b0a4c7f12eba49c252f71e47eda1685fd4d41a4
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 8367f147e9d0e02ad76d97c665ad66559a743d06
+ms.sourcegitcommit: 1f30616328d7deb04e41dcbd44a330ea937fe94f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160718"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "60582511"
 ---
 # <a name="supplier-management-overview"></a>공급자 관리 개요
 
@@ -58,7 +58,7 @@ Microsoft의 DPR(데이터 보호 요구 사항)을 준수하여 액세스 제�
 
 ## <a name="how-does-microsoft-notify-customers-of-changes-to-suppliers-who-process-their-data"></a>Microsoft는 데이터를 처리한 공급업체에 대한 변경 내용을 고객에게 어떻게 알릴 수 있나요?
 
-Microsoft Online DPA(서비스 데이터 보호 부록)에 따라 Microsoft는 모든 하위 처리기 추가에 대한 알림 기간과 관련하여 추가 약정을 합니다. 알림 기간은 하위 프로세스가 Microsoft를 대신하여 처리하게 될 데이터의 형식에 따라 다릅니다. DPA에 앞서 Microsoft는 고객 데이터를 처리하게 될 새 하위 처리기에서 최소 6개월 전에 고객에게 통지를 제공하기로 합니다. 기타 모든 개인 데이터의 경우 Microsoft는 최소 30일간의 통지를 제공합니다. 알림은 하위 Microsoft Online Services 업데이트하여 [제공됩니다.](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=926b2cf5-6b6e-43ca-9bc3-f73e961aad5f&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Subprocessor_List)
+Microsoft Online DPA(서비스 데이터 보호 부록)에 따라 Microsoft는 모든 하위 처리기 추가에 대한 알림 기간과 관련하여 추가 약정을 합니다. 알림 기간은 하위 프로세스가 Microsoft를 대신하여 처리하게 될 데이터의 형식에 따라 다릅니다. DPA에 앞서 Microsoft는 고객 데이터를 처리하게 될 새 하위 처리기에서 최소 6개월 전에 고객에게 통지를 제공하기로 합니다. 기타 모든 개인 데이터의 경우 Microsoft는 최소 30일간의 통지를 제공합니다. 알림은 하위 Microsoft Online Services 업데이트하여 [제공됩니다.](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=ede6342e-d641-4a9b-9162-7d66025003b0&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Subprocessor_List)
 
 ## <a name="related-external-regulations--certifications"></a>인증을 위한 & 규정
 
@@ -78,8 +78,8 @@ Microsoft의 온라인 서비스는 외부 규정 및 인증을 준수하도록 
 | **외부 감사** | **섹션** | **최신 보고서 날짜** |
 |:--------------------|:------------|:-----------------------|  
 | [FedRAMP](https://compliance.microsoft.com/compliancemanager) | CA-3: 시스템 상호 연결 <br> IA-4: 식별자 관리 <br> PS-6: 액세스 계약 <br> PS-7: 타사 직원 보안 <br> SA-4: 인수 프로세스 <br> SA-9: 외부 정보 시스템 서비스 <br> SA-12: 공급망 보호 | 2020년 9월 24일 |
-| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용성 설명](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.15.1: 공급자 관계의 정보 보안 | 2021년 4월 20일 |
-| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용성 설명](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) |  A.8.1: 하도급업체 PII 처리 공개 | 2020년 12월 24일 |
+| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용성 설명](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [인증](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.15.1: 공급자 관계의 정보 보안 | 2021년 4월 20일 |
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용성 설명](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [인증](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.8.1: 하도급업체 PII 처리 공개 | 2020년 12월 24일 |
 | [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-53: 타사 모니터링 | 2020년 12월 24일 |
 
 ## <a name="resources"></a>리소스

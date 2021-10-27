@@ -20,9 +20,9 @@ highlightedContent:
     - title: Microsoft가 고객 데이터를 보호하는 방법 알아보기
       itemType: learn
       url: /learn/paths/audit-safeguard-customer-data/
-    - title: 클라우드의 공유 책임에 대해 자세히 알아보기
+    - title: Microsoft 클라우드에 대한 위험 평가 가이드
       itemType: overview
-      url: /azure/security/fundamentals/shared-responsibility?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+      url: /compliance/assurance/assurance-risk-assessment-guide
     - title: Microsoft 준수 관리자에 대해 자세히 알아보시고
       itemType: learn
       url: /learn/paths/compmgmt/
