@@ -1,3 +1,5 @@
+- name: Microsoft Cloud에 대한 위험 평가 가이드
+  href: assurance-risk-assessment-guide.md
 - name: 아키텍처
   items:
     - name: 아키텍처 개요
@@ -10,8 +12,6 @@
       href: assurance-microsoft-365-isolation-controls.md
     - name: Microsoft 365 인프라 보안
       href: assurance-securing-microsoft-365-infrastructure.md
-    - name: 공동 책임
-      href: /azure/security/fundamentals/shared-responsibility?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: 감사 로깅
   items:
     - name: 감사 로깅 개요
@@ -192,6 +192,8 @@
   items:
     - name: 보안 개발 및 작업 개요
       href: assurance-security-development-and-operation.md
+    - name: Microsoft 365 규정 준수 프로그램
+      href: assurance-microsoft-365-compliance-program.md
     - name: Azure 코드 무결성
       href: /azure/security/fundamentals/code-integrity?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: 보안 모니터링
