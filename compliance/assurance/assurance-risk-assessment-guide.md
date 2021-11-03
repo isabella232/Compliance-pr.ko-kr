@@ -1,5 +1,5 @@
 ---
-title: Microsoft 클라우드에 대한 위험 평가 가이드
+title: Microsoft Cloud에 대한 위험 평가 가이드
 description: Microsoft 클라우드의 위험 평가 가이드에 대해 자세히 알아보세요.
 ms.author: robmazz
 author: robmazz
@@ -20,18 +20,18 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: a7b6e345afa49d82f96d9eb9e5c804fc7cbf5ffe
-ms.sourcegitcommit: 1f30616328d7deb04e41dcbd44a330ea937fe94f
+ms.openlocfilehash: df4b98f90c70bab3bd7f09e6312833d8a7ea768b
+ms.sourcegitcommit: 85b36ce8c79fb111980cc6462f2addb44a924065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60584872"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60678435"
 ---
-# <a name="risk-assessment-guide-for-microsoft-cloud"></a>Microsoft 클라우드에 대한 위험 평가 가이드
+# <a name="risk-assessment-guide-for-microsoft-cloud"></a>Microsoft Cloud에 대한 위험 평가 가이드
 
 클라우드 위험 평가의 목표는 클라우드로의 마이그레이션을 고려한 시스템 및 데이터가 조직에 새로운 위험 또는 확인되지 않은 위험을 도입하지 않도록 하는 것입니다. 초점은 정보 처리의 기밀성, 무결성, 가용성 및 개인 정보 보호를 보장하고 식별된 위험을 허용된 내부 위험 임계값 미만으로 유지하는 것입니다.
 
-공유 책임 모델에서 클라우드 서비스 공급자(CSP)는 클라우드의  보안 및 규정 준수를 공급자로 관리합니다. 고객은 요구 및 위험 허용 오차에 따라 클라우드에서 보안 및 규정 준수를 관리하고 구성할 책임이 있습니다.
+공유 책임 모델에서 클라우드 서비스 공급자(CSP)는 클라우드의  보안 및 규정 준수를 공급자로 관리합니다. 고객은 요구 및 위험 허용 오차에  따라 클라우드에서 보안 및 규정 준수를 관리하고 구성할 책임이 있습니다.
 
 ![공유 책임 모델.](../media/assurance-shared-responsibility-model.png)
 
@@ -41,7 +41,7 @@ ms.locfileid: "60584872"
 
 클라우드 배포는 IaaS(Infrastructure as a Service), PaaS(Platform as a Service) 또는 SaaS(Software as a Service)로 분류될 수 있습니다. 해당 클라우드 서비스 모델에 따라 솔루션의 보안 제어에 대한 책임 수준이 CSP와 고객 간에 전환됩니다. 기존 온-프레미스 모델에서 고객은 전체 스택을 담당합니다. 클라우드로 전환할 때 모든 물리적 보안 책임은 CSP로 전송됩니다. 조직의 클라우드 서비스 모델에 따라 추가 책임이 CSP로 전환됩니다. 그러나 대부분의 서비스 모델에서 조직은 클라우드, 네트워크 연결, 계정 및 ID 및 데이터에 액세스하는 데 사용되는 장치를 계속 관리합니다. Microsoft는 고객이 전체 수명 주기 동안 데이터를 제어할 수 있도록 하는 서비스를 만드는 데 많은 투자를 합니다.
 
-Microsoft 클라우드는 개발자SecOps와 자동화의 조합을 통해 운영 모델을 표준화하는 하이퍼스케일에서 운영됩니다. Microsoft 운영 모델에서는 기존 사내 운영 모델에 비해 위험에 접근하는 방식이 변경되어 위험 관리에 익숙하지 않은 컨트롤을 구현할 수 있습니다. 클라우드 위험 평가를 진행할 때 Microsoft의 목표는 모든 위험을 해결할 수 있도록 하는 것이지만 조직에서 수행한 동일한 제어를 구현할 필요는 없습니다. Microsoft는 다른 컨트롤 집합으로 동일한 위험을 해결할 수 있으며 클라우드 위험 평가에 반영해야 합니다. 강력한 예방 컨트롤을 디자인하고 구현하면 감지 및 수정 컨트롤에 필요한 작업의 많은 것을 줄일 수 있습니다.
+Microsoft 클라우드는 개발자SecOps와 자동화의 조합을 통해 운영 모델을 표준화하는 하이퍼스케일에서 운영됩니다. Microsoft 운영 모델에서는 기존 사내 운영 모델에 비해 위험에 접근하는 방식이 변경되어 위험 관리에 익숙하지 않은 컨트롤을 구현할 수 있습니다. 클라우드 위험 평가를 진행할 때 Microsoft의 목표는 모든 위험을 해결할 수 있도록 하는 것이지만 조직에서 수행한 동일한 제어를 구현할 필요는 없습니다. Microsoft는 다른 컨트롤 집합으로 동일한 위험을 해결할 수 있으며 클라우드 위험 평가에 반영해야 합니다. 강력한 예방 컨트롤을 디자인하고 구현하면 감지 및 수정 컨트롤에 필요한 작업의 많은 것을 줄일 수 있습니다. 예를 들어 Microsoft의 [ZSA(Zero Standing Access) 구현이 있습니다.](assurance-microsoft-365-service-engineer-access-control.md)
 
 ## <a name="adopt-a-framework"></a>프레임워크 채택
 

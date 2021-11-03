@@ -1,7 +1,7 @@
 ---
 title: CJIS(범죄 행위 정보 서비스) 보안 정책
 description: Microsoft 정부 클라우드 서비스는 미국 범죄 정의 정보 서비스 보안 정책을 준수합니다.
-keywords: Microsoft 365, 규정 준수, 제품
+keywords: Microsoft 365, 규정 준수, 제안
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 313905ec68c7d730cd2372ebd4679943ff124993
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 4b255918c3bb46757d5bd12ae33d907200dd37b0
+ms.sourcegitcommit: 85b36ce8c79fb111980cc6462f2addb44a924065
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161022"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60678455"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>CJIS(범죄 행위 정보 서비스) 보안 정책
 
@@ -76,13 +76,13 @@ FBI는 CJIS 요구 사항을 준수하는 Microsoft 인증을 제공하지 않�
 
 ### <a name="cjis-status-in-the-united-states-current-as-of-1152020"></a>미국의 CJIS 상태(2020년 11월 5일 현재)
 
-녹색 지도에 강조 표시된 관리 계약이 있는 45개 주 및 콜롬비아 교육구에는 다음이 포함됩니다.
+녹색 지도에서 강조 표시된 관리 계약이 있는 44개 주 및 콜롬비아 교육구에는 다음이 포함됩니다.
 
 앨라배마, 알라스카, 애리조나, 아칸소, 캘리포니아, 콜로라도, Connecticut, 플로리다, 조지아, 하와이,Idaho, 일리노이, 인디애나, 아이오와, 칸사스, 킷킷, 메인, 매사추세츠, 미시간, 미네소타, 미시시피, 미주리 몬타나, 네브라스카, 네바다, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, Tennessee, 텍사스, Utah, Vermont, 버지니아, 워싱턴, 서부 버지니아, 위스콘신 및 콜롬비아 교육구
 
 적용 가능한 CJIS 규제 컨트롤을 충족하기 위한 Microsoft의 약속을 통해 범죄자 조직은 클라우드 기반 솔루션을 구현하고 CJIS 보안 정책 V5.9를 준수할 수 있습니다.
 
-### <a name="frequently-asked-questions"></a>자주 묻는 질문
+### <a name="frequently-asked-questions"></a>질문과 대답
 
 **규정 준수 정보는 어디에서 요청할 수 있나요?**
 
