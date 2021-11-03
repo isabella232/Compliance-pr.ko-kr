@@ -96,12 +96,10 @@
       href: /azure/security/fundamentals/customer-lockbox-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Microsoft 365 계정 관리
       href: assurance-microsoft-365-account-management.md
-    - name: Microsoft 365 기술 제어
-      href: assurance-technology-controls.md
+    - name: Microsoft 365 서비스 엔지니어 액세스 제어
+      href: assurance-microsoft-365-service-engineer-access-control.md
     - name: Office 365 고객 Lockbox
       href: /microsoft-365/compliance/customer-lockbox-requests?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Yammer Enterprise 액세스 컨트롤
-      href: assurance-yammer-enterprise-access-controls.md
 - name: 인시던트 관리
   items:
     - name: 인시던트 관리 개요

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 92fb47f98e60eb655ee68b38cb747a7d2eb9d2ff
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 99144f348b74ffa15752dbd9ec80ff8fbf17e538
+ms.sourcegitcommit: 85b36ce8c79fb111980cc6462f2addb44a924065
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161245"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60678445"
 ---
 # <a name="system-and-organization-controls-soc-2-type-2"></a>SOC(시스템 및 조직 컨트롤) 2 Type 2
 
@@ -44,7 +44,7 @@ Office 365 SOC 2 증명은 공신력 있는 CPA 회사에서 수행한 엄격하
 범위 내 Microsoft 온라인 서비스는 Azure SOC 2 Type 2 증명 보고서에 표시됩니다.
 
 - Azure(자세한 정보는 [Microsoft Azure 규정 준수 제품](https://azure.microsoft.com/resources/microsoft-azure-compliance-offerings/) 또는 Azure SOC 2 Type 2 증명 보고서 참조)
-- Azure DevOps(별도 Azure DevOps SOC 2 Type 2 증명 보고서 참조)
+- Azure DevOps(별도 [Azure DevOps SOC 2 Type 2 증명 보고서](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3) 참조)
 - Dynamics 365(자세한 정보는 Azure SOC 2 Type 2 증명 보고서 참조)
 - Microsoft 365 Defender
 - Microsoft Cloud App Security(MCAS)
@@ -87,9 +87,9 @@ Azure, Dynamics 365 및 기타 온라인 서비스 규정 준수에 대한 자�
 
 ### <a name="office-365-audit-reports"></a>Office 365 감사 보고서
 
-- [Office 365 Core - SSAE 18 SOC 2 보고서](https://aka.ms/o365SOC-2)
-- [Office 365 마이크로 서비스 T1-SSAE 18 SOC2 Type I 보고서](https://aka.ms/o365-MS-SOC-2-type1)
-- [브리지 레터 및 추가 감사 보고서 참조](https://aka.ms/auditreports)
+- [Office 365 Core - SSAE 18 SOC 2 보고서](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports)
+- [Office 365 마이크로 서비스 T1-SSAE 18 SOC2 Type I 보고서](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e2dd6942-e70d-4222-8013-960514742f19&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports)
+- [브리지 레터 및 추가 감사 보고서 참조](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports)
 
 필요한 경우 SOC 1 및 SOC 2 증명 보고서 및 브리지 레터를 다운로드하려면 Office 365 또는 [Office](https://azure.microsoft.com/global-infrastructure/government/request/) 365 U.S. Government의 기존 구독 또는 평가판 계정이 있어야 합니다.
 
