@@ -1,7 +1,7 @@
 ---
 title: HITRUST(Health Information Trust Alliance) CSF(Common Security Framework)
 description: Azure 및 Office 365 HITRUST(Health Information Trust Alliance) CSF(Common Security Framework)에 인증되었습니다.
-keywords: Microsoft 365, 규정 준수, 제품
+keywords: Microsoft 365, 규정 준수, 제안
 ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 97875374c58bf174090a9dd34f26d3e22b2b50b3
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: e95b5c2b73f6b48cbab40bbc5d8d3aff6375cc48
+ms.sourcegitcommit: 9843c6a0318dfea189b07f9cd80e33c3e8f6d676
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160501"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60725663"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>HITRUST(Health Information Trust Alliance) CSF(Common Security Framework)
 
@@ -93,7 +93,7 @@ Microsoft는 다른 클라우드 서비스 공급자에 비해 가장 포괄적�
 ### <a name="resources"></a>리소스
 
 - [HITRUST Alliance](https://hitrustalliance.net/)
-- [HITRUST CSF 9.3](https://hitrustalliance.net/csf-license-agreement/)
+- [HITRUST CSF 9.5](https://hitrustalliance.net/csf-license-agreement/)
 - [CSF 이해 및 활용](https://hitrustalliance.net/understanding-leveraging-csf/)
 - [HITRUST 공유 책임 프로그램에 대한 자세한 내용은](https://go.microsoft.com/fwlink/p/?linkid=2100268)
 - [Microsoft 보안 센터에 대한 규정 준수](https://www.microsoft.com/trust-center/compliance/compliance-overview)
