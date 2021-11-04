@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 933db3783c6672fa952f70f18c4815955bcedb21
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: d5983ce587aa515be68c462c49eee87d7709bb23
+ms.sourcegitcommit: 444a58b28f8611323e16d28b4c63a0f68eaaafa6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160030"
+ms.lasthandoff: 11/04/2021
+ms.locfileid: "60780034"
 ---
 # <a name="identity-and-access-management-overview"></a>ID 및 액세스 관리 개요
 
@@ -71,7 +71,7 @@ Microsoft의 온라인 서비스는 외부 규정 및 인증을 준수하도록 
 | **외부 감사** | **섹션** | **최신 보고서 날짜** |
 |:--------------------|:------------|:-----------------------|
 | [FedRAMP](https://compliance.microsoft.com/compliancemanager) | AC-2: 계정 관리 <br> AC-3: 액세스 적용 <br> AC-5: 업무 분리 <br> AC-6: 최소 권한 <br> AC-17: 원격 액세스 | 2020년 9월 24일 |
-| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용성 설명](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.9.1: 액세스 제어의 비즈니스 요구 사항 <br> A.9.2: 사용자 액세스 관리 <br> A.9.3: 사용자 책임 <br> A.9.4: 시스템 및 응용 프로그램 액세스 제어 <br> A.15.1: 공급자 관계의 정보 보안 | 2021년 4월 20일 |
+| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=08ce227f-d1d9-4c4c-b255-4f2e4ec8f941&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [적용성 설명](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.9.1: 액세스 제어의 비즈니스 요구 사항 <br> A.9.2: 사용자 액세스 관리 <br> A.9.3: 사용자 책임 <br> A.9.4: 시스템 및 응용 프로그램 액세스 제어 <br> A.15.1: 공급자 관계의 정보 보안 | 2021년 4월 20일 |
 | [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-33: 계정 수정 <br> CA-34: 사용자 인증 <br> CA-35: 권한 있는 액세스 <br> CA-36: 원격 액세스 <br> CA-57: 고객 Lockbox Microsoft 관리 승인 <br> CA-58: 고객 Lockbox 서비스 요청 <br> CA-59: 고객 Lockbox 알림 <br> CA-61: JIT 검토 및 승인 | 2020년 12월 24일 |
 | [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-32: 공유 계정 정책 <br> CA-33: 계정 수정 <br> CA-34: 사용자 인증 <br> CA-35: 권한 있는 액세스 <br> CA-36: 원격 액세스 <br> CA-53: 타사 모니터링 <br> CA-56: 고객 Lockbox 고객 승인 <br> CA-57: 고객 Lockbox Microsoft 관리 승인 <br> CA-58: 고객 Lockbox 서비스 요청 <br> CA-59: 고객 Lockbox 알림 <br> CA-61: JIT 검토 및 승인 | 2020년 12월 24일 |
 | [SOC 3](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=274054e5-4968-48d2-bf94-9a8eda5d7a93&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CUEC-15: 고객 Lockbox 요청 | 2020년 12월 24일 |
